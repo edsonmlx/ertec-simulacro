@@ -1,0 +1,1832 @@
+{
+  "bibliografia": {
+    "id": "tp04_marco_gestion_liderazgo_educativo_local",
+    "nombre": "Marco para la Gestión y el Liderazgo Educativo Local: promoviendo prácticas de liderazgo intermedio para la mejora integral de la educación pública en los territorios",
+    "detalle": "Uribe, Aziz dos Santos, Berkowitz, Galdames, Torche y Zoro (2025)",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Regular",
+      "Subdirector Alt. y Especial",
+      "Subdirector Educ. Superior",
+      "Director Distrital",
+      "Director de U.E.",
+      "Director de CEA",
+      "Director de CEE"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿En qué año se promulgó la Ley N° 21.040 que crea el Sistema de Educación Pública y cuántos Servicios Locales de Educación Pública (SLEP) se estructuran a nivel nacional?",
+      "options": [
+        "Promulgada en noviembre de 2017; proyecta la creación de 70 SLEP para sustituir a las 345 autoridades educativas municipales",
+        "Promulgada en enero de 2015; proyecta la creación de 50 SLEP para sustituir a 200 corporaciones municipales",
+        "Promulgada en diciembre de 2019; proyecta la creación de 100 SLEP para sustituir a 345 departamentos de educación",
+        "Promulgada en marzo de 2016; proyecta la creación de 35 SLEP para sustituir a las 16 regiones del país"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1 y 2, Págs. 8 y 11",
+      "explicacion": "La Ley N° 21.040 fue promulgada en noviembre de 2017 y crea un total de 70 SLEP que sustituyen gradualmente a las 345 autoridades municipales."
+    },
+    {
+      "question": "Respecto a la Estrategia Nacional de Educación Pública (ENEP), ¿cuál es su vigencia formal, quién la dicta y cuál es el órgano rector responsable de su propuesta?",
+      "options": [
+        "Vigencia de 8 años (ej. 2020-2028); dictada por el Ministerio de Educación a propuesta de la Dirección de Educación Pública (DEP), previa aprobación del CNE",
+        "Vigencia de 6 años; dictada por la DEP a propuesta del Consejo Local de Educación sin requerir aprobación del CNE",
+        "Vigencia de 10 años; dictada por la Agencia de Calidad de la Educación a propuesta de la Superintendencia",
+        "Vigencia de 4 años coincidentes con el periodo presidencial; dictada directamente por el Ministro de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15",
+      "explicacion": "Conforme al artículo 6 de la Ley 21.040, la ENEP tiene una vigencia de 8 años, es dictada por el MINEDUC a propuesta de la DEP y debe ser aprobada por el CNE."
+    },
+    {
+      "question": "¿Cuál es la vigencia formal del Plan Estratégico Local (PEL) de un Servicio Local de Educación Pública y qué órgano colegiado tiene la atribución legal de aprobarlo?",
+      "options": [
+        "Vigencia de 6 años; elaborado por el Director Ejecutivo y aprobado por el Comité Directivo Local",
+        "Vigencia de 8 años; elaborado por el Consejo Local y aprobado por la Dirección de Educación Pública",
+        "Vigencia de 4 años; elaborado por la Subdirección Técnico-Pedagógica y aprobado por los Alcaldes del territorio",
+        "Vigencia de 5 años; elaborado por los Directores de Escuela y aprobado por el Gobernador Regional"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15",
+      "explicacion": "El PEL tiene una vigencia de 6 años, es elaborado por el Director Ejecutivo y debe ser aprobado por el Comité Directivo Local (Art. 45 Ley 21.040)."
+    },
+    {
+      "question": "¿Cómo se constituye formalmente el Comité Directivo Local en el marco de la institucionalidad de los SLEP y cuál es su orientación principal?",
+      "options": [
+        "Constituido por 2 representantes de centros de padres, 2 de los municipios y 2 del gobierno regional; orientado a velar por el desarrollo estratégico y la rendición de cuentas",
+        "Constituido exclusivamente por docentes de aula y directores de escuela electos democráticamente; orientado a la fiscalización financiera",
+        "Constituido por el Gobernador Regional, los Alcaldes y el SEREMI de Educación; orientado a la asignación presupuestaria municipal",
+        "Constituido por 5 representantes de los estudiantes y 5 de los asistentes de la educación; orientado al control disciplinario"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Págs. 13-14",
+      "explicacion": "El Comité Directivo Local está compuesto por 2 representantes de centros de padres/apoderados, 2 de los municipios y 2 del gobierno regional, orientándose al desarrollo estratégico."
+    },
+    {
+      "question": "¿Cuál es la naturaleza y composición del Consejo Local de Educación en la estructura del SLEP?",
+      "options": [
+        "Es un órgano participativo y consultivo que colabora con el Director Ejecutivo, integrado por representantes de profesores, estudiantes, asistentes, padres, universidades y CFT locales",
+        "Es un órgano ejecutivo con poder de veto sobre el presupuesto del SLEP, compuesto únicamente por empresarios y alcaldes",
+        "Es una comisión de arbitraje laboral compuesta por sindicatos docentes y la Superintendencia de Educación",
+        "Es un equipo técnico asesor interno integrado por los Subdirectores del SLEP y fiscalizadores del Servicio Civil"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 13",
+      "explicacion": "El Consejo Local es de carácter participativo y representativo de la comunidad educativa (docentes, estudiantes, asistentes, apoderados, universidades/CFT) para colaborar con la dirección."
+    },
+    {
+      "question": "Según Rincón-Gallardo (2018), el liderazgo de nivel intermedio ejerce una influencia deliberada en tres direcciones. ¿A qué se refiere la dimensión 'lateral'?",
+      "options": [
+        "A conectar desde el medio, colaborando entre pares y entre redes de establecimientos educativos",
+        "A apoyar e influir directamente en el núcleo pedagógico de la sala de clases hacia abajo",
+        "A negociar presupuestos con el Ministerio de Hacienda e influir en la legislación hacia arriba",
+        "A supervisar administrativamente a los funcionarios de mantenimiento e infraestructura"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 22",
+      "explicacion": "La dirección 'lateral' implica conectar desde el medio mediante la colaboración y aprendizaje compartido entre pares y redes de escuelas."
+    },
+    {
+      "question": "De acuerdo con Uribe et al. (2019), ¿cuáles son los cuatro desafíos estratégicos interrelacionados que enfrentan los nuevos liderazgos intermedios?",
+      "options": [
+        "Gobernanza, Territorialidad, Vinculación y Participación",
+        "Fiscalización, Sanción, Centralización y Estandarización",
+        "Competencia, Selección, Financiamiento privado y Acreditación",
+        "Subsidiaridad, Burocracia, Jerarquización y Autonomía individual"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 13 y Sección 3, Pág. 14",
+      "explicacion": "Los cuatro desafíos estratégicos definidos por Uribe et al. (2019) son Gobernanza, Territorialidad, Vinculación y Participación."
+    },
+    {
+      "question": "¿Cómo conceptualiza el Marco 2025 al 'nivel educativo intermedio' en el contexto de la gestión pública?",
+      "options": [
+        "Como agencias públicas del Estado ubicadas entre el nivel micro (establecimientos) y el nivel central, que integran procesos político-educativos, pedagógicos y administrativos sobre una red territorial",
+        "Como una mera oficina administrativa de enlace o 'bisagra' encargada de transmitir órdenes mecánicas del Ministerio hacia las escuelas",
+        "Como una unidad de supervisión punitiva encargada exclusivamente de fiscalizar la asistencia y aplicar sanciones salariales",
+        "Como un consejo voluntario de ONGs y fundaciones privadas sin responsabilidad legal sobre las escuelas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Págs. 22-23",
+      "explicacion": "El nivel intermedio se define como agencias públicas descentralizadas con responsabilidades estratégicas, pedagógicas, políticas y administrativas sobre redes territoriales."
+    },
+    {
+      "question": "En la temporalidad del desarrollo de un SLEP, ¿qué comprende operativamente el 'periodo de instalación' según el Marco 2025?",
+      "options": [
+        "Aproximadamente los primeros tres años efectivos de funcionamiento, más el año de anticipación para el traspaso desde la administración municipal",
+        "Únicamente los primeros 6 meses previos a la toma de posesión del Director Ejecutivo",
+        "Un periodo rígido de 8 años coincidente con la vigencia de la Estrategia Nacional de Educación Pública",
+        "El lapso de 10 años durante el cual las escuelas mantienen doble dependencia municipal y estatal"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 53",
+      "explicacion": "El Marco define el periodo de instalación como el año de anticipación (traspaso) más aproximadamente los primeros 3 años efectivos, pasando luego a la etapa de consolidación."
+    },
+    {
+      "question": "¿Cuáles son los dos ámbitos principales que estructuran el Marco para la Gestión y el Liderazgo Educativo Local 2025?",
+      "options": [
+        "Dimensiones de Prácticas (6 dimensiones) y Recursos Personales (Principios, Habilidades y Conocimientos)",
+        "Estándares de Logro (4 niveles) y Rúbricas de Calificación de Desempeño Docente",
+        "Procedimientos Sancionatorios Administrativos y Manuales de Compras Públicas",
+        "Lineamiento de Infraestructura Escolar y Tablas Salariales de Alta Dirección Pública"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 50-51",
+      "explicacion": "El Marco se compone de dos grandes ámbitos: Dimensiones de prácticas (6) y Recursos personales (principios, habilidades y conocimientos)."
+    },
+    {
+      "question": "¿Cuál es la naturaleza orientadora del Marco para la Gestión y el Liderazgo Educativo Local?",
+      "options": [
+        "Es una guía de orientación estratégica, no prescriptiva y flexible, que describe ámbitos críticos pero debe ser ajustada a cada contexto territorial",
+        "Es un reglamento sancionatorio e inflexible de cumplimiento obligatorio bajo pena de destitución inmediata",
+        "Es una pauta estandarizada de rúbricas rígidas para la calificación anual de docentes de aula",
+        "Es un contrato de licitación pública exclusivo para universidades que prestan servicios de asesoría"
+      ],
+      "answer": 0,
+      "fuente": "Presentación y Sección 4, Págs. 8, 47, 48",
+      "explicacion": "El Marco es un referente de orientación estratégica y no prescriptivo, diseñado para ser contextualizado según las particularidades de cada territorio."
+    },
+    {
+      "question": "¿Mediante qué sistema se seleccionan los cargos del primer y segundo nivel jerárquico de los SLEP y cuántos años dura el convenio de gestión educacional del Director Ejecutivo?",
+      "options": [
+        "Se seleccionan por el Sistema de Alta Dirección Pública (ADP); el convenio dura 6 años y es renovable por una sola vez según su desempeño",
+        "Se seleccionan por designación directa del Alcalde de la comuna cabecera; el convenio dura 4 años sin opción a renovación",
+        "Se seleccionan por concurso interno de oposición entre docentes del territorio; el cargo es vitalicio hasta los 65 años",
+        "Se seleccionan por sorteo público entre la nómina de directores de colegio; el convenio se renueva anualmente de forma automática"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 12",
+      "explicacion": "Los cargos directivos del SLEP se seleccionan por ADP. El Director Ejecutivo ejerce por 6 años, renovable una vez previo convenio de gestión con la DEP."
+    },
+    {
+      "question": "Citando la célebre frase 'la cultura se come a la estrategia en el desayuno' (Drucker), ¿qué aspecto advierte el Marco respecto al fracaso de las reformas educativas?",
+      "options": [
+        "Que intentar cambiar prácticas o implementar estrategias sin transformar las creencias y la cultura organizacional subyacente genera el rechazo de las reformas",
+        "Que la inversión en alimentos e infraestructura escolar debe anteponerse a cualquier capacitación docente",
+        "Que los reglamentos y leyes escritas modifican automáticamente la conducta de los actores sin necesidad de liderazgo",
+        "Que las estrategias pedagógicas son irrelevantes frente a la administración de presupuestos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 24",
+      "explicacion": "El Marco enfatiza que no considerar la cultura organizacional explica el límite o fracaso de las reformas, pues ninguna cultura cambia por mero mandato legal."
+    },
+    {
+      "question": "¿En qué consiste la Visita Integral de Evaluación y Orientación a los SLEP realizada por la Agencia de Calidad de la Educación y cuándo se efectúa?",
+      "options": [
+        "Se focaliza en los procesos del SLEP para alcanzar los objetivos del PEL y la pertinencia territorial; se realiza no antes de 3 años tras su traspaso",
+        "Se realiza de forma sorpresiva cada 6 meses e implica la clausura inmediata del servicio si no alcanza un 90% en SIMCE",
+        "Es una auditoría financiera de la DIPRES que se realiza durante el primer mes de instalación del SLEP",
+        "Es una evaluación de desempeño individual a cada docente de aula realizada al finalizar el primer año lectivo"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 19",
+      "explicacion": "La Agencia de Calidad realiza la Visita Integral de Evaluación y Orientación a los SLEP focalizada en sus procesos e instrumentos (PEL), no antes de 3 años de su traspaso."
+    },
+    {
+      "question": "¿Cuál es el enunciado del DESAFÍO correspondiente a la Dimensión 1 de Prácticas ('Construyendo una visión compartida...')?",
+      "options": [
+        "Construir participativamente una visión estratégica del nivel educativo intermedio para promover y asegurar un servicio de calidad integral, generando identidad, sello territorial y orgullo por la educación pública",
+        "Aumentar en un 20% la matrícula escolar mediante campañas publicitarias pagadas en medios masivos",
+        "Sancionar administrativamente a los directores de unidad educativa que no cumplan el 100% de la planificación anual",
+        "Reducir el gasto operacional del SLEP mediante la fusión inmediata de escuelas rurales de menos de 50 alumnos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 54",
+      "explicacion": "El desafío de la Dimensión 1 busca construir participativamente una visión estratégica que genere sello territorial, identidad y orgullo por la educación pública."
+    },
+    {
+      "question": "En la Dimensión 1 (Evidencia de Práctica 6), ¿cómo se garantiza la coherencia entre los diferentes instrumentos de gestión territorial?",
+      "options": [
+        "Asegurando la alineación entre la ENEP, el PEL, el PAL, los PEI y los PME, concordando con las comunidades objetivos, metas claras y procedimientos de monitoreo",
+        "Imponiendo un modelo único de PME prediseñado por el nivel central que prohíbe cualquier adaptación local",
+        "Eliminando los PEI de las escuelas para que solo exista el Plan Estratégico Local como documento único",
+        "Delegando la elaboración del PEL a una consultora privada sin participación de las unidades educativas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 55",
+      "explicacion": "La práctica 6 de la Dimensión 1 busca la coherencia sistémica concordando objetivos, metas y monitoreo entre los planes nacionales (ENEP), territoriales (PEL, PAL) e institucionales (PEI, PME)."
+    },
+    {
+      "question": "¿A qué ámbito se orienta principalmente el desafío de la Dimensión 2 de Prácticas ('Desarrollando una cultura de participación, trabajo colaborativo...')?",
+      "options": [
+        "A desarrollar una cultura de colaboración y confianza en el territorio mediante estrategias de participación con la comunidad educativa y articulación en red con actores locales",
+        "A sustituir a las organizaciones gremiales por comisiones nombradas directamente por la subdirección administrativa",
+        "A fiscalizar el cumplimiento de las jornadas laborales mediante marcas de reloj biométrico en todos los colegios",
+        "A centralizar la toma de decisiones pedagógicas exclusivamente en el gabinete del Director Ejecutivo"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 56",
+      "explicacion": "El desafío de la Dimensión 2 se centra en promover la colaboración, la confianza, la participación comunitaria y el trabajo en redes con actores sociales del entorno."
+    },
+    {
+      "question": "Según la Evidencia de Práctica 4 de la Dimensión 2, ¿qué acción deben desarrollar los equipos del nivel intermedio respecto a los centros de estudiantes y apoderados?",
+      "options": [
+        "Apoyar el trabajo, desarrollo democrático y autonomía de los centros de estudiantes y centros de padres, madres y apoderados en los establecimientos de su dependencia",
+        "Designar directamente a los directivos de los centros de padres para evitar conflictos políticos",
+        "Prohibir las asambleas estudiantiles dentro de las unidades educativas durante el horario escolar",
+        "Cobrar una cuota obligatoria de incorporación a las familias para financiar las reuniones del Consejo Local"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 57",
+      "explicacion": "La práctica 4 de la Dimensión 2 mandata apoyar el desarrollo democrático y la autonomía de los centros de estudiantes y apoderados para lograr su participación efectiva."
+    },
+    {
+      "question": "En la Dimensión 3 ('Promoviendo y apoyando el liderazgo pedagógico...'), ¿cómo se concibe el apoyo técnico-pedagógico del SLEP hacia las escuelas?",
+      "options": [
+        "Como un proceso de acompañamiento contextualizado, integrado y sistemático para desarrollar capacidades comunitarias, y no como la mera asesoría o inspección de un experto externo",
+        "Como una supervisión punitiva semanal orientada a calificar con nota el desempeño de cada profesor en aula",
+        "Como la entrega de un paquete cerrado de guías impresas estandarizadas elaboradas en la capital",
+        "Como la delegación de las tareas pedagógicas en empresas de asistencia técnica educativa (ATE) privadas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 42 y Sección 4, Págs. 58-59",
+      "explicacion": "El apoyo técnico-pedagógico se concibe como acompañamiento para el desarrollo de capacidades colectivas e individuales, respetando las necesidades del PME y PEI."
+    },
+    {
+      "question": "De acuerdo con la Evidencia de Práctica 10 de la Dimensión 3, ¿qué estrategia específica deben diseñar los equipos intermedios para los liceos técnicos profesionales (TP)?",
+      "options": [
+        "Estrategias para fortalecer la calidad de la modalidad TP, resguardando la vinculación con sectores productivos y la formación en alternancia con educación superior",
+        "El cierre progresivo de las especialidades industriales para transformarlos a todos en liceos científico-humanistas",
+        "La venta de las maquinarias de los talleres escolares a empresas privadas del territorio",
+        "La eliminación de las prácticas profesionales para acortar la duración de la enseñanza media a 2 años"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 59",
+      "explicacion": "La práctica 10 de la Dimensión 3 manda fortalecer la formación TP mediante articulación con sectores productivos, formación en alternancia y práctica profesional."
+    },
+    {
+      "question": "¿Cuál es el foco central del DESAFÍO de la Dimensión 4 de Prácticas ('Promoviendo el desarrollo y distribución de capacidades...')?",
+      "options": [
+        "Liderar y promover continuamente el desarrollo de capacidades de equipos directivos, docentes, educadoras y asistentes, entendiendo que el fin último es mejorar las condiciones de enseñanza y aprendizaje",
+        "Reemplazar anualmente al 50% de la plantilla docente mediante despidos masivos para renovar la dotación",
+        "Centralizar los cursos de capacitación en la capital regional excluyendo a los profesionales rurales",
+        "Eximir a los directivos noveles de la evaluación de desempeño durante sus primeros 5 años de servicio"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 60",
+      "explicacion": "El desafío de la Dimensión 4 busca desarrollar y distribuir capacidades en todo el personal para impactar directamente en el aprendizaje de los estudiantes."
+    },
+    {
+      "question": "Según la Evidencia de Práctica 4 de la Dimensión 4, ¿qué acción corresponde implementar respecto a los directivos noveles del territorio?",
+      "options": [
+        "Desarrollar procesos de inducción, acompañamiento y modelamiento en terreno para fortalecer su liderazgo en la comunidad educativa",
+        "Asignarles los colegios con mayores problemas de infraestructura sin brindarles apoyo durante el primer año",
+        "Obligarles a cursar magísteres autofinanciados antes de asumir formalmente la firma de decretos",
+        "Transferirlos a otras comunas cada 6 meses para evaluar su capacidad de resistencia al estrés"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 61",
+      "explicacion": "La práctica 4 contempla procesos de inducción, acompañamiento y modelamiento en terreno a directivos noveles y en servicio conforme a orientaciones de la DEP."
+    },
+    {
+      "question": "¿Qué busca lograr la Dimensión 5 de Prácticas en el territorio educativo?",
+      "options": [
+        "Desarrollar una cultura de bienestar integral, inclusión, respeto a la diversidad con enfoque de derechos y formación de una ciudadanía democrática local y global",
+        "Establecer la segregación de estudiantes por nivel socioeconómico para facilitar la enseñanza homogénea",
+        "Eliminar los programas de convivencia escolar para reasignar esos fondos a compras de papelería",
+        "Prohibir la matrícula de estudiantes inmigrantes hasta que revaliden sus certificados ante el Consulado"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Págs. 62-63",
+      "explicacion": "La Dimensión 5 promueve relaciones de buen trato, bienestar, inclusión, diversidad intercultural, perspectiva de género y formación ciudadana."
+    },
+    {
+      "question": "De acuerdo con la Evidencia de Práctica 8 de la Dimensión 5, ¿cómo deben actuar los equipos intermedios frente a las desigualdades de género en las escuelas?",
+      "options": [
+        "Apoyar a las unidades educativas para visibilizar y desnaturalizar sesgos de género, promoviendo el pensamiento crítico sobre sexismo y estereotipos",
+        "Fomentar talleres separados por sexo donde las niñas aprendan labores de hogar y los niños carpintería",
+        "Ignorar las denuncias de acoso escolar para no alterar la imagen pública del establecimiento",
+        "Sancionar a los docentes que discutan la equidad de género en las horas de orientación"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 63",
+      "explicacion": "La práctica 8 exige desnaturalizar los sesgos de género en las prácticas pedagógicas y promover la equidad y el pensamiento crítico frente al sexismo."
+    },
+    {
+      "question": "¿Cuál es el propósito fundamental de la gestión de recursos institucionales en la Dimensión 6?",
+      "options": [
+        "Administrar eficaz, ordenada y transparentemente los recursos presupuestarios, humanos e infraestructura para ponerlos al servicio de lo pedagógico y los objetivos del PEL y PEI",
+        "Acumular excedentes financieros sin ejecutar el presupuesto anual para recibir premios de eficiencia fiscal",
+        "Privatizar la mantención de colegios mediante el cobro de matrículas a las familias vulnerables",
+        "Priorizar los gastos de viáticos y representación del equipo central por sobre la reparación de techos escolares"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 44 y Sección 4, Págs. 64-65",
+      "explicacion": "La Dimensión 6 busca asegurar condiciones organizacionales, financieras y de infraestructura eficientes y transparentes alineadas con las metas pedagógicas."
+    },
+    {
+      "question": "Según la Evidencia de Práctica 1 de la Dimensión 1, ¿cómo deben encarar los equipos del SLEP la instalación del servicio en relación con la historia municipal y otros SLEP?",
+      "options": [
+        "Asegurar la instalación del SLEP en coordinación con municipios y organizaciones locales, considerando los aprendizajes y experiencias previas de otros SLEP en la transición",
+        "Ignorar los antecedentes municipales e iniciar la gestión desde cero borrando todo archivo histórico",
+        "Imponer un modelo idéntico al de la capital sin consultar las particularidades territoriales",
+        "Suspender el servicio educativo durante seis meses para reestructurar las contrataciones"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 1, Pág. 55",
+      "explicacion": "La Práctica 1 contempla coordinar la instalación valorando aprendizajes previos de otros SLEP y coordinándose con actores municipales y territoriales."
+    },
+    {
+      "question": "Conforme a la Evidencia de Práctica 3 de la Dimensión 1, ¿qué relación debe existir entre el Plan Estratégico Local (PEL) y la tradición histórica del territorio?",
+      "options": [
+        "El PEL debe elaborarse participativamente, estando vinculado y respetando la tradición histórica del territorio y los PEI de los centros educativos con altas expectativas",
+        "El PEL debe prohibir las tradiciones locales para imponer una cultura corporativa estandarizada",
+        "El PEL es elaborado unilateralmente por el Ministerio de Educación sin consulta a los centros educativos",
+        "El PEL reemplaza automáticamente y deja sin efecto a los PEI de las escuelas"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 1, Pág. 55",
+      "explicacion": "La Práctica 3 explicita que el PEL se elabora participativamente vinculándolo a la tradición histórica del territorio y respetando los PEI."
+    },
+    {
+      "question": "De acuerdo con la Evidencia de Práctica 7 de la Dimensión 1, ¿cómo se define la oferta educativa, especialidades TP y modalidades en el SLEP?",
+      "options": [
+        "Acorde a la visión estratégica compartida por la comunidad, asegurando pertinencia al territorio y a las necesidades del estudiantado",
+        "En función del costo financiero exclusivo, cerrando las especialidades que requieran insumos técnicos",
+        "Según el criterio unipersonal del SEREMI de Educación sin consideración de los estudiantes",
+        "Copiando exactamente la oferta educativa de las comunas con mayores ingresos de la capital"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 1, Pág. 55",
+      "explicacion": "La Práctica 7 señala que la oferta y especialidades TP se definen según la visión estratégica compartida y la pertinencia territorial."
+    },
+    {
+      "question": "Según la Evidencia de Práctica 9 de la Dimensión 1, ¿cómo deben actuar las y los líderes intermedios en momentos de emergencia, catástrofes u otros incidentes extraordinarios?",
+      "options": [
+        "Asegurando la gobernabilidad y reduciendo la incertidumbre, comunicando oportunamente cambios y gestionando crisis mediante estrategias para abordar imprevistos",
+        "Cerrando indefinidamente los canales de comunicación para evitar el pánico social",
+        "Delegando la responsabilidad completa de la crisis en los directores de unidad educativa de forma aislada",
+        "Esperando la intervención de organismos internacionales antes de tomar cualquier decisión de resguardo"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 1, Pág. 55",
+      "explicacion": "La Práctica 9 exige manejo oportuno de crisis, comunicación transparente y estrategias de contención para reducir la incertidumbre en catástrofes o emergencias."
+    },
+    {
+      "question": "En la Evidencia de Práctica 1 de la Dimensión 2, ¿qué acción se espera del equipo del SLEP respecto a las instituciones y programas comunitarios locales?",
+      "options": [
+        "Participar de redes y mesas territoriales, coordinándose con instituciones locales y formalizando convenios de colaboración según el PEL y necesidades escolares",
+        "Prohibir el ingreso de programas sociales comunitarios a los recintos escolares",
+        "Competir comercialmente con los centros de salud locales por la atención de los estudiantes",
+        "Centralizar todos los convenios comunitarios en el Ministerio de Desarrollo Social eliminando el rol del SLEP"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 2, Pág. 57",
+      "explicacion": "La Práctica 1 demanda coordinarse activamente con redes y mesas territoriales formalizando alianzas que enriquezcan la gestión educativa local."
+    },
+    {
+      "question": "De acuerdo con la Evidencia de Práctica 5 de la Dimensión 2, ¿cuál es el rol del representante del SLEP en los consejos escolares y de educación parvularia?",
+      "options": [
+        "Participar de manera activa para apoyar y generar condiciones que permitan cumplir los objetivos de sus planes de trabajo",
+        "Presidir con derecho a veto absoluto todas las decisiones pedagógicas de los docentes",
+        "Cobrar estipendios de asistencia a los miembros de la comunidad educativa",
+        "Reemplazar al director del colegio en la firma de las libretas de calificaciones"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 2, Pág. 57",
+      "explicacion": "La Práctica 5 indica que el representante del SLEP participa activamente en los consejos escolares de sus escuelas para apoyar y generar condiciones a sus planes."
+    },
+    {
+      "question": "Conforme a la Evidencia de Práctica 8 de la Dimensión 2, ¿cómo se promueve la consolidación de una cultura de trabajo que responda a objetivos compartidos?",
+      "options": [
+        "Fomentando un sentido de equipo y promoviendo la articulación, colaboración y corresponsabilidad entre escuelas y el SLEP, clarificando roles y operación institucional",
+        "Imponiendo sanciones disciplinarias diarias a los equipos que expresen discrepancias técnicas",
+        "Fomentando la competencia desleal por recursos entre los establecimientos del mismo territorio",
+        "Centralizando la elaboración de todas las pruebas semanales en la oficina del Director Ejecutivo"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 2, Pág. 57",
+      "explicacion": "La Práctica 8 mandata desarrollar sentido de equipo, corresponsabilidad y colaboración mutua clarificando roles institucionales."
+    },
+    {
+      "question": "Según la Evidencia de Práctica 9 de la Dimensión 2, ¿qué beneficio genera articular espacios de reflexión e intercambio de experiencias entre directivos de distintas escuelas?",
+      "options": [
+        "Facilitar las trayectorias escolares del estudiantado del territorio a partir de criterios compartidos de trabajo colaborativo y apoyo mutuo",
+        "Reducir las horas de clases presenciales de los alumnos para enviar a los docentes a su casa",
+        "Estandarizar las notas mínimas de reprobación en un 50% de la matrícula de cada establecimiento",
+        "Evitar que las familias cambien a sus hijos de colegio dentro de la misma comuna"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 2, Pág. 57",
+      "explicacion": "La Práctica 9 señala que el intercambio de experiencias y reflexión entre directivos facilita las trayectorias escolares de los estudiantes del territorio."
+    },
+    {
+      "question": "En la Dimensión 3 (Evidencia de Práctica 1), ¿cómo asumen las y los líderes del nivel intermedio la responsabilidad por la calidad en los diversos contextos del territorio?",
+      "options": [
+        "Definiendo en conjunto con los equipos directivos estrategias idóneas diferenciadas según las modalidades, cultura y capacidades de cada unidad educativa",
+        "Aplicando exactamente el mismo plan de intervención en un liceo urbano de 2.000 alumnos que en una escuela rural multigrado de 10 alumnos",
+        "Eximiéndose de responsabilidad y trasladando toda la culpa de los malos resultados al Ministerio de Educación",
+        "Focalizando el 100% de los recursos únicamente en las escuelas con mejores puntajes SIMCE"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "La Práctica 1 exige responsabilizarse por la calidad diferenciando estrategias según la cultura, modalidad y capacidad propia de cada escuela."
+    },
+    {
+      "question": "Según la Evidencia de Práctica 3 de la Dimensión 3, ¿qué característica debe tener el diseño del modelo de apoyo técnico-pedagógico del SLEP?",
+      "options": [
+        "Basarse en ciclos iterativos de mejoramiento, contextualizando los marcos nacionales y enfocándose en el desarrollo de capacidades colectivas e individuales",
+        "Ser un catálogo rígido de fiscalizaciones sorpresivas sin retroalimentación pedagógica",
+        "Consistir en una charla magistral única de 2 horas impartida una vez al año por videoconferencia",
+        "Delegar la evaluación de los docentes en empresas auditoras internacionales"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "La Práctica 3 establece un modelo de apoyo técnico-pedagógico con ciclos iterativos de mejoramiento y foco en capacidades colectivas."
+    },
+    {
+      "question": "De acuerdo con la Evidencia de Práctica 8 de la Dimensión 3, ¿cómo colabora el SLEP con los colegios respecto al tiempo docente?",
+      "options": [
+        "Colaborando en organizar las horas no lectivas y espacios de reflexión pedagógica con foco en el enriquecimiento curricular y planificación de la enseñanza",
+        "Asignando el 100% de las horas docentes a clases lectivas presenciales sin dejar tiempo para planificación",
+        "Obligando a los profesores a realizar el trabajo administrativo durante sus fines de semana",
+        "Reduciendo las horas de contrato docente para contratar personal administrativo de oficina"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "La Práctica 8 apoya organizar las horas no lectivas y espacios de reflexión pedagógica enfocados en el currículum y planificación."
+    },
+    {
+      "question": "Conforme a la Evidencia de Práctica 12 de la Dimensión 3, ¿qué acciones se exigen al SLEP para resguardar las trayectorias escolares positivas?",
+      "options": [
+        "Apoyar a las escuelas en la aplicación de estrategias de detección temprana de deserción, identificación de riesgos de exclusión y nivelación de rezagos",
+        "Aprobar automáticamente a todos los estudiantes sin importar su asistencia o rendimiento",
+        "Expulsar de inmediato a los alumnos con problemas de aprendizaje para no bajar las promedios",
+        "Publicar una lista de alumnos rezagados en el periódico local como medida de presión"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "La Práctica 12 exige la detección temprana de deserción, prevención de exclusión educativa y nivelación de rezagos para asegurar la trayectoria escolar."
+    },
+    {
+      "question": "Según la Evidencia de Práctica 14 de la Dimensión 3, ¿cómo debe ser el sistema integrado de información y evaluación gestionado por el SLEP?",
+      "options": [
+        "Debe incorporar datos propios y del SAC sobre eficiencia, trabajo pedagógico, aprendizajes y desarrollo personal, usando métodos rigurosos para la toma de decisiones",
+        "Debe limitarse a registrar la asistencia diaria sin analizar factores pedagógicos ni de desarrollo socioemocional",
+        "Debe ser un archivo confidencial exclusivo al que no tienen acceso ni los directores ni los profesores de aula",
+        "Debe contratarse con redes sociales privadas para publicar las notas de los alumnos en internet"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "La Práctica 14 mandata gestionar un sistema integrado de información (SAC y propia) sobre desarrollo integral, aprendizaje y eficiencia para decisiones basadas en evidencia."
+    },
+    {
+      "question": "De acuerdo con la Evidencia de Práctica 1 de la Dimensión 4, ¿qué resguardo debe tener la conformación de los equipos directivos y docentes?",
+      "options": [
+        "Asegurar la conformación de equipos adecuados a las realidades territoriales, promoviendo perfiles pertinentes, procesos de selección idóneos y desarrollo continuo",
+        "Contratar únicamente a profesionales nacidos en la misma comuna prohibiendo la postulación de profesionales de otras regiones",
+        "Designar de forma discrecional a parientes de los funcionarios del SLEP sin concurso público",
+        "Sustituir a los profesores titulados por estudiantes universitarios no graduados para ahorrar en planillas"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "La Práctica 1 exige conformar equipos adecuados al territorio mediante perfiles claros, procesos de selección idóneos y formación continua."
+    },
+    {
+      "question": "Conforme a la Evidencia de Práctica 3 de la Dimensión 4, ¿cómo debe gestionarse la distribución de capacidades profesionales en el territorio?",
+      "options": [
+        "Orientar estratégicamente la distribución equitativa de capacidades de liderazgo directivo, docentes y asistentes, de acuerdo con las necesidades y contexto de cada escuela",
+        "Concentrar a los mejores profesores y directores en los colegios centrales con mejores edificios, abandonando las escuelas periféricas",
+        "Rotar obligatoriamente a todo el personal de colegio cada 3 meses provocando inestabilidad en los proyectos educativos",
+        "Asignar la mayor dotación de personal a los colegios con menos alumnos y recortar en los colegios sobrepoblados"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "La Práctica 3 indica distribuir equitativamente las capacidades profesionales según las necesidades del contexto de cada unidad educativa."
+    },
+    {
+      "question": "Según la Evidencia de Práctica 5 de la Dimensión 4, ¿cómo se promueve la distribución del liderazgo pedagógico en los centros educativos?",
+      "options": [
+        "Generando condiciones, desarrollando capacidades y promoviendo instancias para la colaboración entre pares al interior de los centros y entre ellos",
+        "Concentrando todo el poder de decisión en la figura del Director del colegio proscribiendo los equipos de ciclo",
+        "Obligando a los profesores a evaluarse entre sí con sanciones salariales directas",
+        "Creando cargos jerárquicos paralelos sin financiamiento ni atribuciones claras"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "La Práctica 5 exige fomentar la distribución del liderazgo pedagógico, favoreciendo el trabajo colaborativo entre pares dentro y entre escuelas."
+    },
+    {
+      "question": "En la Evidencia de Práctica 8 de la Dimensión 4, ¿qué características debe tener el Plan de Desarrollo Profesional y Formación Local?",
+      "options": [
+        "Basarse en los estándares de la profesión docente, estar contextualizado a la realidad escolar y propiciar el logro de aprendizajes profundos",
+        "Consistir en cursos teóricos dictados en el extranjero sin aplicabilidad en las aulas del territorio",
+        "Ser un catálogo de charlas obligatorias sobre legislación laboral sin contenidos pedagógicos",
+        "Ser elaborado por los propios docentes de forma aislada sin vinculación con el PME del colegio"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "La Práctica 8 respalda planes de formación local contextualizados a las necesidades del territorio, basados en estándares profesionales para aprendizajes profundos."
+    },
+    {
+      "question": "De acuerdo con la Evidencia de Práctica 11 de la Dimensión 4, ¿qué acción le corresponde al SLEP respecto a los convenios de desempeño de los directores de colegio?",
+      "options": [
+        "Acompañar, monitorear y retroalimentar el cumplimiento de las metas de los convenios de desempeño para lograr sus objetivos",
+        "Ignorar los convenios de desempeño hasta el último día de su vigencia para aplicar despidos automáticos",
+        "Modificar unilateralmente las metas de los convenios cada mes sin informar a los directores",
+        "Delegar la evaluación de los convenios de desempeño en los centros de alumnos de cada colegio"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "La Práctica 11 ordena acompañar, monitorear y retroalimentar sistemáticamente el cumplimiento de los convenios de desempeño de los directores de escuela."
+    },
+    {
+      "question": "Según la Evidencia de Práctica 1 de la Dimensión 5, ¿cuál es la base para lograr ambientes adecuados de aprendizaje?",
+      "options": [
+        "Promover una cultura de buen trato, respeto y colaboración al interior del servicio y distintos estamentos, asegurando el autocuidado y el bienestar integral",
+        "Instalar cámaras de vigilancia con micrófonos en todas las salas de clases para sancionar conductas indisciplinadas",
+        "Aplicar el reglamento de disciplina con penas de suspensión a los estudiantes que expresen desacuerdos",
+        "Contratar guardias de seguridad armados para la entrada de los jardines infantiles"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "La Práctica 1 vincula el logro de ambientes de aprendizaje con la promoción del buen trato, colaboración, autocuidado y bienestar integral de los equipos."
+    },
+    {
+      "question": "Conforme a la Evidencia de Práctica 6 de la Dimensión 5, ¿qué acciones deben impulsarse respecto a los pueblos originarios?",
+      "options": [
+        "Promover la conciencia, reconocimiento y respeto a la identidad cultural de los pueblos originarios mediante el diálogo y la educación intercultural",
+        "Prohibir el uso de lenguas indígenas dentro de las salas de clases para unificar el idioma castellano",
+        "Considerar la cultura originaria como un tema folclórico exclusivo del mes de septiembre",
+        "Eximir a los estudiantes indígenas de cursar las asignaturas de ciencias y matemáticas"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "La Práctica 6 mandata promover el reconocimiento, respeto e identidad de los pueblos originarios y el desarrollo de una educación intercultural."
+    },
+    {
+      "question": "De acuerdo con la Evidencia de Práctica 7 de la Dimensión 5, ¿cómo se aborda la inclusión de estudiantes inmigrantes en el territorio?",
+      "options": [
+        "Constituyendo redes de mejoramiento e innovación para la recepción e inducción de estudiantes inmigrantes y sus familias, promoviendo la multiculturalidad",
+        "Exigiendo un examen de admisión especial y cobro de arancel a las familias extranjeras",
+        "Agrupando a los estudiantes inmigrantes en salas separadas del resto de los alumnos",
+        "Derivando a los estudiantes extranjeros a colegios nocturnos para adultos sin importar su edad"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "La Práctica 7 promueve la acogida, inducción y acompañamiento de estudiantes inmigrantes en redes de multiculturalidad e inclusión."
+    },
+    {
+      "question": "Según la Evidencia de Práctica 10 de la Dimensión 5, ¿cómo debe ser el proceso de definición de objetivos de formación ciudadana en las escuelas?",
+      "options": [
+        "Asesorar a las unidades educativas mediante un proceso participativo que considere las particularidades territoriales y las orientaciones nacionales",
+        "Imponer un catecismo de doctrina política oficial redactado por el Director Ejecutivo del SLEP",
+        "Eliminar la formación ciudadana de la malla curricular para aumentar las horas de preparación de pruebas estandarizadas",
+        "Delegar la enseñanza de la ciudadanía en campañas publicitarias de la televisión abierta"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "La Práctica 10 exige asesorar la formación ciudadana mediante procesos participativos contextualizados a la realidad territorial."
+    },
+    {
+      "question": "Conforme a la Evidencia de Práctica 12 de la Dimensión 5, ¿qué procedimiento debe activarse ante situaciones de vulneración de derechos de estudiantes?",
+      "options": [
+        "Apoyar a las escuelas en definir criterios, procedimientos y seguimiento sistemático de estudiantes en riesgo educativo/social para diseñar apoyos tempranos",
+        "Ocultar los casos de vulneración para evitar inspecciones de la Defensoría de la Niñez",
+        "Sancionar a los docentes que reporten casos de maltrato intrafamiliar",
+        "Expulsar de inmediato al estudiante afectado para trasladar la responsabilidad al municipio"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "La Práctica 12 establece mecanismos de seguimiento y apoyo temprano ante riesgos sociales, educativos o vulneración de derechos."
+    },
+    {
+      "question": "En la Evidencia de Práctica 1 de la Dimensión 6, ¿qué cuidado especial debe observarse durante la conformación e instalación inicial del SLEP?",
+      "options": [
+        "Asegurar la constitución de procesos organizacionales básicos (RRHH, finanzas, logística) cuidando mantener la continuidad y normalidad del servicio educativo",
+        "Suspender las clases durante todo el primer semestre para remodelar las oficinas centrales del servicio",
+        "Despedir a todo el personal administrativo traspasado para contratar nuevas empresas externas",
+        "Interrumpir el pago de sueldos docentes hasta que la contraloría apruebe el nuevo organigrama"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "La Práctica 1 exige que la instalación de procesos administrativos resguarde en todo momento la continuidad y normalidad del servicio educativo."
+    },
+    {
+      "question": "De acuerdo con la Evidencia de Práctica 6 de la Dimensión 6, ¿cómo debe encararse la captación y selección de profesionales en el SLEP?",
+      "options": [
+        "Atraer y retener profesionales idóneos para liderar aprendizajes profundos, aprovechando redes e instancias de concursos transparentes de selección",
+        "Contratar de forma directa y secreta sin publicar los avisos de convocatoria en ningún portal",
+        "Exigir pagos de incorporación a los postulantes a cargos docentes",
+        "Priorizar la contratación de personas sin título profesional para reducir los costos de la planilla salarial"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "La Práctica 6 respalda captar y retener personal con capacidades profesionales idóneas mediante procesos concursables e intachables en transparencia."
+    },
+    {
+      "question": "Conforme a la Evidencia de Práctica 7 de la Dimensión 6, ¿qué elementos contempla la política de gestión de personas del SLEP?",
+      "options": [
+        "Definir políticas de retención, reemplazo, desvinculación y planes de sucesión conforme a la ley, para resguardar la continuidad de los procesos de mejora",
+        "Prohibir las licencias médicas y eliminar los reemplazos de profesores ausentes",
+        "Aplicar desahucios masivos al finalizar cada año escolar sin justificación técnica",
+        "Permitir que los cargos de directores de escuela sean heredados por sus familiares directos"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "La Práctica 7 ordena contar con políticas de gestión de personas, sucesión y reemplazos transparentes conforme a la ley para mantener los proyectos educativos."
+    },
+    {
+      "question": "Según la Evidencia de Práctica 10 de la Dimensión 6, ¿cómo se planifican los proyectos de infraestructura, mobiliario y equipamiento escolar?",
+      "options": [
+        "Gestionar en conjunto con las escuelas proyectos de infraestructura, adquisición y mantención de mobiliario y equipamiento con foco en la labor pedagógica",
+        "Comprar mobiliario de lujo exclusivo para las oficinas de los subdirectores del SLEP omitiendo las aulas escolares",
+        "Esperar a que los colegios se derrumben antes de solicitar fondos de emergencia al Mineduc",
+        "Exigir a los centros de padres que construyan las salas de clases con sus propios recursos fincieros"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "La Práctica 10 mandata planificar la infraestructura, mobiliario y equipamiento colaborativamente con foco directo en respaldar el trabajo pedagógico."
+    },
+    {
+      "question": "En la Evidencia de Práctica 14 de la Dimensión 6, ¿qué valor estratégico tiene disponer de información transparente y rendición de cuentas pública?",
+      "options": [
+        "Generar una cultura de transparencia y probidad, informando oportunamente para fortalecer la confianza comunitaria en la Nueva Educación Pública",
+        "Cumplir un trámite burocrático secundario que se puede realizar a puertas cerradas sin acceso al público",
+        "Aumentar el valor de las acciones comerciales del SLEP en la bolsa de valores",
+        "Evitar que las familias participen en las decisiones de inversión del territorio"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "La Práctica 14 promueve la probidad, transparencia pública y rendición de cuentas para construir la legitimidad y confianza de la comunidad en el SLEP."
+    },
+    {
+      "question": "¿Cómo describe el Marco el principio de 'Vocación de Servicio Público' en los profesionales del level intermedio?",
+      "options": [
+        "Como la motivación por estar al servicio de los demás, reconociendo la responsabilidad social del Estado y garantizando el interés público y los derechos ciudadanos",
+        "Como la búsqueda de prestigio personal y lucro económico privado en el ejercicio del cargo",
+        "Como la obediencia ciega a órdenes ilegales emitidas por autoridades de turno",
+        "Como el trabajo exclusivo por el cumplimiento de metas individuales de bono de desempeño"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Principios, Pág. 69",
+      "explicacion": "La vocación de servicio público es el compromiso de servir a la comunidad y garantizar el rol social del Estado en la educación pública."
+    },
+    {
+      "question": "En las habilidades del líder intermedio, ¿cómo se define la 'Escucha Activa' y cuál es su impacto en la gestión?",
+      "options": [
+        "Capacidad de comprender el punto de vista del otro, dejando de lado sesgos propios y creando bases sólidas para mantener relaciones colaborativas entre niveles",
+        "Oír sonidos ambientales mientras se ejecutan tareas de computación en la oficina",
+        "Aceptar sin cuestionamiento todas las exigencias presupuestarias de proveedores privados",
+        "Interrumpir constantemente al interlocutor para imponer la postura del SLEP"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Habilidades, Pág. 71",
+      "explicacion": "La escucha activa requiere empatía, postergación de prejuicios propios y comprensión profunda de los actores para lograr colaboración legítima."
+    },
+    {
+      "question": "¿En qué consiste la habilidad de 'Comunicación Efectiva' expresada en los Recursos Personales del Marco 2025?",
+      "options": [
+        "Habilidad para transmitir mensajes oportunos, claros y adaptados a diversas audiencias (virtuales o presenciales), asegurando su cabal comprensión y apropiación",
+        "Enviar correos masivos con lenguaje técnico incomprensible para los apoderados",
+        "Publicar decretos oficiales exclusivamente en el diario de circulación nacional",
+        "Prohibir las reuniones presenciales utilizando únicamente notas de memorándum escrito"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Habilidades, Pág. 71",
+      "explicacion": "Comunicación efectiva implica transmitir con claridad, adaptar el mensaje a la audiencia y confirmar que el mensaje ha sido apropiado por la comunidad."
+    },
+    {
+      "question": "¿Cómo se define la habilidad de 'Mediación y Resolución de Conflictos' en el nivel intermedio?",
+      "options": [
+        "Capacidad para facilitar consensos entre partes en pugna, moderando tensiones de manera oportuna, flexible y justa mediante acuerdos en beneficio de la educación",
+        "Tomar partido de inmediato por una de las partes sancionando a la otra sin investigación previa",
+        "Ignorar los conflictos comunitarios esperando que se resuelvan por desgaste natural",
+        "Derivar todos los problemas disciplinarios a la justicia penal ordinaria"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Habilidades, Pág. 72",
+      "explicacion": "Mediación y resolución de conflictos requiere capacidad de moderar tensiones, buscar soluciones dialogadas y construir acuerdos entre las partes."
+    },
+    {
+      "question": "¿Qué caracteriza a la habilidad de 'Manejo de Crisis y Contingencia' en los equipos del SLEP?",
+      "options": [
+        "Identificar y administrar situaciones emergentes de presión, reconfigurando recursos para responder a dilemas operativos y mantener los procesos educativos",
+        "Paralizar todas las actividades escolares hasta que el nivel central envíe instrucciones por escrito",
+        "Negar la existencia de la crisis ante los medios de comunicación e inspecciones",
+        "Renunciar masivamente al cargo para no asumir la responsabilidad de la contingencia"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Habilidades, Pág. 72",
+      "explicacion": "Manejo de crisis es la capacidad de reaccionar con agilidad y método ante imprevistos, reconfigurando recursos para sostener el servicio educativo."
+    },
+    {
+      "question": "¿Cómo se describe la habilidad de 'Articulación y Alianzas' en la gestión local?",
+      "options": [
+        "Capacidad de identificar actores clave del territorio (stakeholders) y generar alianzas estratégicas que agreguen valor público a la educación",
+        "Crear monopolios comerciales cerrados con proveedores de servicios de transporte",
+        "Firmar convenios de publicidad con partidos políticos en época de campaña electoral",
+        "Subordinar las decisiones del colegio a los intereses de empresas privadas locales"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Habilidades, Pág. 72",
+      "explicacion": "Articulación y alianzas es la habilidad de convocar a actores clave públicos y privados para potenciar el proyecto educativo territorial."
+    },
+    {
+      "question": "Dentro del área de 'Política Educativa', ¿qué abarca el conocimiento sobre 'Tendencias en Educación'?",
+      "options": [
+        "Conceptos y metodologías actuales: enfoque de derechos, inclusión, bienestar socioemocional, 6 C's, ciudadanía mundial, aprendizaje en red y transformación digital",
+        "Técnicas de construcción de infraestructura edilicia en hormigón armado",
+        "Sistemas de contabilidad mercantil aplicables a bancos comerciales",
+        "Reglamentos de instrucción militar y desfiles patrióticos"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 73",
+      "explicacion": "Tendencias en educación requiere dominar las corrientes contemporáneas de innovación, bienestar, equidad, inclusión y aprendizaje profundo."
+    },
+    {
+      "question": "¿En qué consiste el conocimiento sobre 'Gestión del Currículo' para los profesionales del SLEP?",
+      "options": [
+        "Dominar la arquitectura del currículum nacional (OA, OAT, habilidades, actitudes), apoyando la apropiación, planificación didáctica y pertinencia territorial en las escuelas",
+        "Diseñar un currículum paralelo sustitutivo que elimine la enseñanza de la historia de Chile",
+        "Memorizar las páginas de los textos escolares aprobados para tomar lección a los profesores",
+        "Prohibir la priorización curricular durante situaciones de emergencia sanitaria"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 74",
+      "explicacion": "Gestión del currículo implica conocer las bases curriculares nacionales y acompañar su apropiación y contextualización pedagógica en las aulas."
+    },
+    {
+      "question": "En los conocimientos sobre 'Evaluación de Aprendizajes', ¿qué distinción pedagógica fundamental debe dominar el equipo del SLEP?",
+      "options": [
+        "Diferenciar los usos de la evaluación: evaluación PARA el aprendizaje (formativa), DEL aprendizaje (sumativa) y COMO aprendizaje (metacognitiva)",
+        "Diferenciar entre notas con lápiz azul y notas con lápiz rojo en el libro de clases",
+        "Distinguir únicamente entre exámenes orales y exámenes escritos eliminando las pautas de cotejo",
+        "Clasificar a los alumnos entre aprobados definitivos e irrecuperables"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 74",
+      "explicacion": "El equipo intermedio debe dominar la evaluación formativa, sumativa y metacognitiva, así como el análisis de pruebas estandarizadas nacionales/internacionales."
+    },
+    {
+      "question": "¿Qué comprende el conocimiento profesional sobre 'Teoría del Cambio o de Acción'?",
+      "options": [
+        "Reconocer las condiciones organizacionales que inician y sostienen la mejora, vinculando la estrategia con planes de acción y monitoreo para evaluar resultados esperados",
+        "Teorías filosóficas del siglo XIX sobre el origen de la materia",
+        "Modelos matemáticos de predicción bursátil aplicados a la bolsa de comercio",
+        "Estrategias de propaganda política para cambiar la directiva del sindicato docente"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 75",
+      "explicacion": "Teoría del cambio es el diseño explícito de la hipótesis de mejora que conecta las acciones de liderazgo con las transformaciones en las prácticas y aprendizajes."
+    },
+    {
+      "question": "¿Qué abarca el conocimiento sobre 'Funcionamiento y Lógica del Servicio Público Chileno' en el contexto de los SLEP?",
+      "options": [
+        "Manejo de la Ley de Presupuesto, contabilidad gubernamental, estatuto administrativo y Ley de Compras Públicas para una gestión rápida y proba en el sector público",
+        "Reglamento de funcionamiento de las empresas privadas de responsabilidad limitada",
+        "Leyes impositivas sobre ganancias de capital e IVA para empresas comerciales",
+        "Manual de procedimientos de la administración municipal de los años ochenta"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 76",
+      "explicacion": "Al pasar de la administración municipal a un servicio público estatal, el equipo debe dominar las normas de contabilidad fiscal, compras públicas y derecho administrativo."
+    },
+    {
+      "question": "En los conocimientos sobre 'Información, Análisis de Datos y Decisiones Basadas en Evidencia', ¿cuál es el uso prioritario de la información?",
+      "options": [
+        "Recopilar y analizar datos académicos, pedagógicos y administrativos confiables para monitorear metas, asignar recursos y reorientar programas hacia el aprendizaje",
+        "Crear un ranking público sancionatorio de profesores con peores promedios para difundirlo en prensa",
+        "Justificar el cierre presupuestario de las escuelas que no alcancen los promedios esperados",
+        "Almacenar informes en bodegas sin procesar sus indicadores estadísticos"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 76",
+      "explicacion": "Uso intensivo de evidencia implica tomar decisiones informadas sobre acompañamiento, asignación de fondos y mejora de prácticas sustentadas en datos válidos."
+    },
+    {
+      "question": "¿Qué abarca el conocimiento profesional sobre 'Gestión y Vinculación Territorial'?",
+      "options": [
+        "Diseñar e implementar estrategias de articulación con la comunidad y actores locales públicos/privados para apoyar la sostenibilidad de los PEI, PME y el PEL",
+        "Organizar deslindes de terrenos mediante mensuras topográficas en litigios de propiedad",
+        "Construir mapas turísticos de la comuna para promocionar restaurantes locales",
+        "Subordinar las escuelas públicas a las órdenes de los clubes deportivos comunales"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 76",
+      "explicacion": "Vinculación territorial implica articular al SLEP con el ecosistema local para dotar de sentido, pertinenecia y apoyo a las escuelas del territorio."
+    },
+    {
+      "question": "¿Cuál es la función del Centro de Desarrollo Docente e Innovación Pedagógica (CPEIP) en relación con el desarrollo profesional docente?",
+      "options": [
+        "Formular estándares profesionales, acreditar carreras y orientar los planes de formación local en sintonía con la Ley 20.903",
+        "Administrar los edificios de los colegios privados de la capital",
+        "Fijar el precio de las matrículas en las universidades privadas",
+        "Pagar directamente los sueldos a los asistentes de la educación"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 10",
+      "explicacion": "El CPEIP define estándares y orienta el desarrollo profesional docente a nivel nacional."
+    },
+    {
+      "question": "Según la ENEP, ¿cuántos años de vigencia tienen las líneas estratégicas nacionales para la educación pública?",
+      "options": [
+        "8 años",
+        "4 años",
+        "10 años",
+        "5 años"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15",
+      "explicacion": "La Estrategia Nacional de Educación Pública (ENEP) se fija para un periodo de 8 años."
+    },
+    {
+      "question": "¿Qué es la 'Gobernanza' en el contexto del nivel intermedio?",
+      "options": [
+        "La forma en que se distribuyen las decisiones, responsabilidades y participación entre los distintos niveles del sistema educativo",
+        "El dominio exclusivo del Alcalde sobre la asignación de sueldos",
+        "El control militar de los establecimientos escolares en dictadura",
+        "La privatización del sistema de inspección de aulas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 34",
+      "explicacion": "Gobernanza alude a la articulación, comunicación y distribución de atribuciones y responsabilidades."
+    },
+    {
+      "question": "En el modelo de apoyos del SLEP, ¿qué significa 'liderar desde el medio' (Hargreaves & Ainscow)?",
+      "options": [
+        "Convertir a los líderes intermedios en catalizadores colectivos que conectan a las escuelas con el nivel central y entre sí",
+        "Ubicarse físicamente en el centro geográfico de la plaza de armas de la comuna",
+        "Mantener una postura neutral sin tomar decisiones pedagógicas",
+        "Delegar todas las responsabilidades en los directores noveles sin acompañamiento"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1 y 3, Págs. 8, 22",
+      "explicacion": "Liderar desde el medio transforma al nivel intermedio en un motor colectivo de cambio sistémico."
+    },
+    {
+      "question": "¿Qué propone el 'Proyecto de Ley de Fortalecimiento de la NEP' (MINEDUC, 2024) respecto a la transferencia de servicios?",
+      "options": [
+        "Priorizar un traspaso adecuado del servicio educativo corrigiendo desafíos administrativos para que no afecten la gestión escolar",
+        "Acelerar el traspaso sin importar las deudas previsionales de las municipalidades",
+        "Devolver las escuelas a los municipios que lo soliciten por plebiscito",
+        "Privatizar la gestión de las escuelas con problemas financieros"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 17",
+      "explicacion": "El proyecto de ley 2024 busca perfeccionar la instalación de los SLEP y asegurar un traspaso ordenado."
+    },
+    {
+      "question": "¿Qué función cumple la Subdirección de Apoyo Técnico Pedagógico en la estructura interna del SLEP?",
+      "options": [
+        "Diseñar e implementar el acompañamiento pedagógico, desarrollo de capacidades y coordinación de redes en el territorio",
+        "Administrar el pago de facturas de luz y agua de las escuelas",
+        "Tramitar las licitaciones públicas de construcción de gimnasios",
+        "Presidir el tribunal sancionatorio disciplinario de los funcionarios administrativos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 47",
+      "explicacion": "La Subdirección ATP lidera el acompañamiento pedagógico y el desarrollo de capacidades en las escuelas."
+    },
+    {
+      "question": "¿Qué responsabilidad tiene la Subdirección de Administración y Finanzas del SLEP?",
+      "options": [
+        "Garantizar la gestión presupuestaria, financiera, de adquisiciones y mantenimiento al servicio de las necesidades pedagógicas",
+        "Evaluar las planificaciones de aula de los profesores de lenguaje",
+        "Aprobar los textos escolares del currículum nacional",
+        "Dictar las charlas de formación ciudadana a los centros de alumnos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 47",
+      "explicacion": "Administración y Finanzas asegura el soporte financiero y logístico para el funcionamiento del servicio."
+    },
+    {
+      "question": "¿Cuál es la función de la Subdirección de Planificación y Control de Gestión en el SLEP?",
+      "options": [
+        "Coordinar la elaboración e implementación del PEL, el PAL y el seguimiento de indicadores institucionales y de convenio",
+        "Reemplazar al Director Ejecutivo en sus viajes al extranjero",
+        "Administrar la bodega central de herramientas de mantenimiento",
+        "Organizar las competencias deportivas interescolares"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 47",
+      "explicacion": "Planificación y Control de Gestión lidera el monitoreo de metas, PEL, PAL e instrumentos de gestión."
+    },
+    {
+      "question": "¿Cómo se conceptualiza la 'Inclusión' en la educación pública según la Declaración de Incheon y el Marco 2025?",
+      "options": [
+        "Como la eliminación de todas las barreras de acceso, participación y aprendizaje para acoger la diversidad sin discriminación",
+        "Como la creación de escuelas especiales segregadas para cada tipo de necesidad",
+        "Como la obligación de obtener nota 7,0 en todas las asignaturas para mantener la matrícula",
+        "Como un programa opcional reservado para colegios privados subvencionados"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 28",
+      "explicacion": "La inclusión es la piedra angular para eliminar barreras y asegurar el derecho a educación de calidad para todos."
+    },
+    {
+      "question": "En la Dimensión 1, Evidencia 2, ¿a quiénes se debe incorporar durante la etapa de instalación del SLEP?",
+      "options": [
+        "En forma progresiva y participativa a directivos, educadoras, docentes, asistentes, familias/tutores y estudiantes",
+        "Exclusivamente a los alcaldes y concejales de las comunas involucradas",
+        "Únicamente a los auditores externos de la Contraloría General de la República",
+        "A los representantes de las empresas proveedoras de alimentos escolares"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 1, Pág. 55",
+      "explicacion": "La práctica 2 exige incluir participativamente a todos los estamentos de la comunidad escolar."
+    },
+    {
+      "question": "En la Dimensión 1, Evidencia 5, ¿qué característica debe tener la estructura organizacional del SLEP?",
+      "options": [
+        "Permitir cumplir los objetivos del PEL y PEI, siendo difundida y conocida por todas las comunidades educativas del territorio",
+        "Ser secreta y modificada mensualmente por decisión unilateral de la DEP",
+        "Estar compuesta únicamente por asesores externos contratados por honorarios",
+        "Ser idéntica a la estructura de un ministerio del área de obras públicas"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 1, Pág. 55",
+      "explicacion": "La estructura organizacional debe ser funcional al PEL/PEI y transparente para la comunidad."
+    },
+    {
+      "question": "En la Dimensión 1, Evidencia 8, ¿qué se exige respecto a la entrega de prestaciones de otras instituciones públicas en las escuelas?",
+      "options": [
+        "Entregar orientaciones y coordinar la ejecución contextualizada de políticas nacionales y prestaciones de otras instituciones públicas/privadas",
+        "Prohibir que el Ministerio de Salud ingrese a vacunar a los estudiantes en la escuela",
+        "Exigir a las familias que paguen por los programas de JUNAEB y JUNJI",
+        "Delegar el control de las escuelas en las Fuerzas de Orden y Seguridad"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 1, Pág. 55",
+      "explicacion": "El SLEP articula la oferta pública (salud, desarrollo social, JUNAEB) garantizando servicios oportunos a las escuelas."
+    },
+    {
+      "question": "En la Dimensión 2, Evidencia 3, ¿qué rol se asigna a las visiones de la comunidad educativa en la planificación?",
+      "options": [
+        "Recoger visiones, ideas y prácticas para retroalimentar y ajustar de modo constante la planificación y el trabajo territorial",
+        "Archivar las sugerencias de los apoderados sin darles respuesta",
+        "Sancionar a los docentes que realicen críticas a la gestión del servicio",
+        "Reemplazar el PME por las encuestas de opinión de redes sociales"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 2, Pág. 57",
+      "explicacion": "La práctica 3 manda escuchar y recoger activamente las propuestas de la comunidad para ajustar la planificación."
+    },
+    {
+      "question": "En la Dimensión 2, Evidencia 7, ¿por qué es crítico contar con un plan de comunicaciones internas y externas en el SLEP?",
+      "options": [
+        "Para asegurar el derecho a la información, la expresión de opiniones, la transparencia y canales de atención eficientes",
+        "Para hacer propaganda política al Director Ejecutivo en medios locales",
+        "Para ocultar las fallas de infraestructura escolar ante la prensa",
+        "Para cobrar inscripciones a los seminarios pedagógicos"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 2, Pág. 57",
+      "explicacion": "Canales de comunicación eficientes garantizan la transparencia, el diálogo y el derecho a la información de la comunidad."
+    },
+    {
+      "question": "En la Dimensión 3, Evidencia 2, ¿qué actitud se requiere del equipo del SLEP frente a problemáticas complejas del territorio?",
+      "options": [
+        "Establecer una relación profesional horizontal y participar en instancias de reflexión para generar diagnósticos compartidos",
+        "Imponer diagnósticos prefabricados sin escuchar a los profesores",
+        "Culpabilizar a las familias por los bajos resultados en las pruebas estandarizadas",
+        "Derivar todos los problemas sociales a los tribunales de familia"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "La práctica 2 exige horizontalidad profesional y diagnóstico participativo de dilemas complejos."
+    },
+    {
+      "question": "En la Dimensión 3, Evidencia 4, ¿por qué se requiere el trabajo interno colaborativo entre la UTP del SLEP y otras unidades?",
+      "options": [
+        "Para lograr los apoyos integrales (administrativos, financieros, psicosociales) que orienten la mejora de la gestión pedagógica",
+        "Para duplicar la papelería y las fiscalizaciones a los profesores de aula",
+        "Para competir entre subdirecciones por la asignación de bonos individuales",
+        "Para traspasar la responsabilidad de la deserción a la unidad de informática"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "La UTP del SLEP debe articularse con finanzas, planificación y gestión de personas para que todo el servicio apoye lo pedagógico."
+    },
+    {
+      "question": "En la Dimensión 3, Evidencia 9, ¿qué aspecto se busca fortalecer mediante la mejora de las interacciones pedagógicas?",
+      "options": [
+        "Fortalecer la calidad de los procesos de enseñanza y aprendizaje en el aula a partir de las necesidades de cada nivel y modalidad",
+        "Obligar a los alumnos a estar en silencio absoluto durante las 8 horas de jornada escolar",
+        "Estandarizar las palabras exactas que debe pronunciar el profesor durante la clase",
+        "Eliminar el trabajo en grupo en las aulas de educación parvularia"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "Calidad de interacciones pedagógicas (docente-estudiante y entre pares) es el motor del aprendizaje profundo."
+    },
+    {
+      "question": "En la Dimensión 3, Evidencia 11, ¿cómo deben ser concebidos los métodos de enseñanza y evaluación en ambientes presenciales o virtuales?",
+      "options": [
+        "Con sentido formativo, auténtico e innovador, que aporte a la reflexión pedagógica y cuide el bienestar socioemocional",
+        "Como pruebas sorpresa exclusivamente sumativas orientadas al castigo salarial",
+        "Como copias mecánicas de textos universitarios sin adaptación didáctica",
+        "Como trivias de memorización rápida sin aplicación de pensamiento crítico"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "Evaluación auténtica y formativa orientada a la innovación pedagógica y al desarrollo integral."
+    },
+    {
+      "question": "En la Dimensión 4, Evidencia 2, ¿qué deben evidenciar las nuevas prácticas profesionales del equipo del SLEP en la etapa de instalación?",
+      "options": [
+        "No sólo un cambio de administración, sino conocimiento y comprensión de los desafíos organizacionales y pedagógicos para el sello de la NEP",
+        "La mantención exacta de las mismas rutinas burocráticas del antiguo municipio",
+        "El despido de todos los asistentes de la educación traspasados",
+        "La desatención de las escuelas rurales para priorizar la sede central"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "El equipo del SLEP debe encarnar un cambio cultural enfocado en apoyar las necesidades pedagógicas de las escuelas."
+    },
+    {
+      "question": "En la Dimensión 4, Evidencia 7, ¿qué papel juegan las redes de escuelas en el desarrollo de capacidades?",
+      "options": [
+        "Acompañar y apoyar redes para el intercambio de experiencias y colaboración, proveyendo recursos para desarrollar capacidades colectivas",
+        "Organizar torneos deportivos comerciales entre colegios para vender entradas",
+        "Obligar a las escuelas a competir por fondos recortando el presupuesto a las perdedoras",
+        "Sustituir la formación del CPEIP por charlas comerciales de editoriales privadas"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "Las redes entre escuelas son un vehículo clave de aprendizaje entre pares y fortalecimiento de capacidades colectivas."
+    },
+    {
+      "question": "En la Dimensión 4, Evidencia 9, ¿qué herramienta orienta el acompañamiento y evaluación de educadores y asistentes?",
+      "options": [
+        "El uso de marcos de actuación (de la institucionalidad o propios) que orientan las prácticas y desempeños esperados",
+        "La inspección de asistencia por cámaras de seguridad en los pasillos",
+        "Las denuncias anónimas publicadas en redes sociales",
+        "Las opiniones personales sin respaldo técnico de los apoderados"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "El uso de marcos de desempeño profesional (MBD, MBEP) da objetividad, sustento técnico y sentido de desarrollo al acompañamiento."
+    },
+    {
+      "question": "En la Dimensión 4, Evidencia 10, ¿para qué se establecen alianzas con organismos ministeriales y universidades?",
+      "options": [
+        "Para apoyar los planes locales de formación de acuerdo con las necesidades detectadas en los proyectos educativos",
+        "Para transferir la propiedad de los colegios públicos a las universidades privadas",
+        "Para que los estudiantes universitarios reemplacen permanentemente a los profesores contratados",
+        "Para vender bases de datos de los alumnos a empresas de publicidad"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "Las alianzas estratégicas potencian el desarrollo profesional local ajustado a los PEI y diagnósticos del territorio."
+    },
+    {
+      "question": "En la Dimensión 5, Evidencia 3, ¿cómo se definen los focos prioritarios en iniciativas de inclusión y formación ciudadana?",
+      "options": [
+        "Implementando actividades participativas y de reflexión crítica con las comunidades a través de canales institucionales",
+        "Por sorteo aleatorio realizado en la oficina del Director Ejecutivo",
+        "Imponiendo la pauta de una consultora privada contratada por licitación",
+        "Copiando las actividades del año anterior sin realizar diagnósticos"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "Los focos prioritarios de bienestar e inclusión se definen en procesos participativos con la comunidad escolar."
+    },
+    {
+      "question": "En la Dimensión 5, Evidencia 4, ¿qué resguardo debe existir entre los instrumentos de gestión (PEL, PEI, PME) y las normas de convivencia e inclusión?",
+      "options": [
+        "Velar que estén alineados y sean coherentes con las normativas nacionales (ENEP, Ley de Inclusión) y protocolos de convivencia/ciudadanía",
+        "Permitir que los reglamentos internos de las escuelas contradigan la Ley de Inclusión",
+        "Eliminar los protocolos de convivencia para dar libertad absoluta a las sanciones de los directores",
+        "Sustituir los PME por las normas internas del servicio militar"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "Todos los instrumentos locales (PEI, PME, PAL) deben guardar plena coherencia con la ENEP y las leyes de inclusión y derechos."
+    },
+    {
+      "question": "En la Dimensión 5, Evidencia 9, ¿cómo se atiende la diversidad al interior del aula para asegurar trayectorias positivas?",
+      "options": [
+        "Articulando redes de apoyo locales e intersectoriales y desarrollando estrategias integrales para atender las necesidades de cada estudiante",
+        "Segregando a los alumnos con dificultades en salas de aislamiento sin profesor",
+        "Recomendando el retiro voluntario a los alumnos que no alcancen los promedios esperados",
+        "Eximiendo de todas las evaluaciones a los alumnos con necesidades especiales"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "Atender la diversidad requiere apoyos integrales intersectoriales en aula para resguardar la trayectoria escolar de todos."
+    },
+    {
+      "question": "En la Dimensión 5, Evidencia 11, ¿qué condiciones deben entregarse a las escuelas para vivenciar la cultura democrática?",
+      "options": [
+        "Formación, tiempos, recursos y acompañamiento para que párvulos y estudiantes sean los protagonistas de iniciativas democráticas",
+        "Exámenes teóricos sobre la constitución nacional sin actividades prácticas",
+        "Prohibición de elecciones estudiantiles para evitar desórdenes dentro del colegio",
+        "Designación del presidente del centro de alumnos por el director del establecimiento"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "Vivenciar la democracia requiere dar protagonismo real a los estudiantes brindando tiempos, espacios y recursos."
+    },
+    {
+      "question": "En la Dimensión 6, Evidencia 3, ¿por qué es importante distinguir responsabilidades entre el SLEP y las escuelas en lo administrativo/financiero?",
+      "options": [
+        "Para generar condiciones operativas ordenadas que permitan el funcionamiento normal de las escuelas y redes de mejoramiento",
+        "Para evadir la fiscalización de la Contraloría General de la República",
+        "Para responsabilizar al director del colegio por la falta de pago de los servicios de luz comunales",
+        "Para evitar que los profesores conozcan la liquidación de sus sueldos"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "Clarificar roles y responsabilidades entre el SLEP (sostenedor) y los colegios da fluidez y orden a la gestión."
+    },
+    {
+      "question": "En la Dimensión 6, Evidencia 4, ¿cómo debe ser el uso de los recursos en las unidades educativas?",
+      "options": [
+        "Coherente y alineado con los objetivos de la planificación estratégica (PEL), anual (PAL) y de mejoramiento educativo (PME)",
+        "Discrecional a criterio exclusivo del director del colegio sin rendir cuentas",
+        "Destinado a financiar viajes de recreación de los funcionarios del servicio",
+        "Invertido en fondos de riesgo en la bolsa de comercio"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "Los recursos financieros y materiales deben responder a la planificación pedagógica y a las metas de mejoramiento."
+    },
+    {
+      "question": "En la Dimensión 6, Evidencia 8, ¿qué impacto busca la promoción del bienestar laboral en los funcionarios del servicio y las escuelas?",
+      "options": [
+        "Favorecer el trabajo colaborativo, un clima organizacional positivo y condiciones adecuadas para la mejora continua",
+        "Aumentar el número de licencias médicas rechazadas por el compin",
+        "Eliminar los permisos administrativos garantizados en la ley",
+        "Fomentar la competencia desleal entre los trabajadores del mismo servicio"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "El bienestar laboral y el clima organizacional positivo potencian la retención de talento y la mejora educativa."
+    },
+    {
+      "question": "En la Dimensión 6, Evidencia 12, ¿para qué se analizan indicadores de matrícula y asistencia en el SLEP?",
+      "options": [
+        "Para diseñar estrategias de comunicación y fidelización que generen confianza comunitaria, mejoren la asistencia y consoliden trayectorias",
+        "Para sancionar monetariamente a las familias cuyos hijos falten a clases",
+        "Para cerrar automáticamente los cursos con menos de 30 alumnos",
+        "Para vender espacios publicitarios en las libretas escolares"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "Analizar asistencia y matrícula orienta campañas de vinculación y confianza para resguardar el derecho a la educación."
+    },
+    {
+      "question": "¿Qué es el 'Apalancamiento Digital' en el marco del diseño del aprendizaje profundo?",
+      "options": [
+        "El uso intencionado de la tecnología como amplificador del aprendizaje profundo y la colaboración sin fronteras",
+        "La compra obligatoria de tablets de alta gama a proveedores exclusivos",
+        "La sustitución de la biblioteca escolar por salas de videojuegos",
+        "La prohibición de teléfonos inteligentes en los edificios administrativos del SLEP"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Págs. 30-31",
+      "explicacion": "Apalancamiento digital implica usar la tecnología con propósito pedagógico para amplificar el aprendizaje."
+    },
+    {
+      "question": "¿Cuál es la vigencia de la Primera Estrategia Nacional de Educación Pública (ENEP)?",
+      "options": [
+        "Periodo 2020 a 2028",
+        "Periodo 2015 a 2020",
+        "Periodo 2022 a 2032",
+        "Periodo 2018 a 2024"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15",
+      "explicacion": "La primera ENEP fue establecida para el periodo 2020-2028 dictada por el Mineduc."
+    },
+    {
+      "question": "En la Dimensión 1, Evidencia 4, ¿qué instrumento operacionaliza en el corto plazo la visión estratégica del PEL?",
+      "options": [
+        "El Plan Anual Local (PAL)",
+        "El Reglamento Interno de Orden y Seguridad",
+        "El Estatuto Docente",
+        "El Convenio de Transición Municipal"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2 y 4, Págs. 15, 55",
+      "explicacion": "El PAL es el instrumento que operacionaliza año a año los objetivos del PEL y del servicio."
+    },
+    {
+      "question": "En la Dimensión 2, Evidencia 2, ¿qué órganos colegiados deben ser convocados y apoyados de forma prioritaria por el SLEP?",
+      "options": [
+        "El Comité Directivo Local y el Consejo Local de Educación",
+        "El Sindicato de Comercio y la Cámara de Comercio Local",
+        "El Tribunal Contencioso Administrativo y la Gobernación",
+        "La Comisión de Hacienda del Senado y el Banco Central"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 2, Pág. 57",
+      "explicacion": "Comité Directivo Local y Consejo Local son los órganos colegiados del SLEP para la gobernanza y participación."
+    },
+    {
+      "question": "En la Dimensión 3, Evidencia 5, ¿sobre qué base se definen los programas de apoyo pedagógico?",
+      "options": [
+        "Sobre la base de evidencia empírica obtenida a partir de diagnósticos de las áreas críticas de cada comunidad",
+        "Sobre la base del catálogo comercial de las editoriales privadas",
+        "Sobre la base de decisiones arbitrarias del jefe de finanzas del servicio",
+        "Sobre la base del ranking SIMCE del año anterior únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "Los apoyos pedagógicos deben sustentarse en diagnósticos rigurosos y evidencia empírica de las áreas críticas."
+    },
+    {
+      "question": "En la Dimensión 4, Evidencia 6, ¿cómo se articula el desarrollo profesional docente entre el SLEP y las escuelas?",
+      "options": [
+        "Poniendo en acción un plan conjunto distinguiendo apoyos según nivel/modalidad acorde a las orientaciones de la DEP",
+        "Exigiendo que cada profesor contrate cursos privados por su cuenta",
+        "Centralizando todas las capacitaciones en materias administrativas",
+        "Cancelando los talleres de reflexión pedagógica de los colegios"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "Plan de formación local coordinado entre SLEP y escuelas, diferenciado por modalidad y respaldado por la DEP."
+    },
+    {
+      "question": "En la Dimensión 5, Evidencia 2, ¿cómo se concibe la diversidad en la educación con enfoque de derechos?",
+      "options": [
+        "Como un valor que guía la educación y aúna criterios para impulsar la convivencia e inclusión del estudiantado y sus familias",
+        "Como un problema administrativo que debe corregirse uniformando a los estudiantes",
+        "Como una causal de exención de cobros de matrículas",
+        "Como una justificación para reducir las exigencias académicas"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "La diversidad es valorada como piedra angular de la justicia socioeducativa y la inclusión en el territorio."
+    },
+    {
+      "question": "En la Dimensión 6, Evidencia 11, ¿qué objetivo tienen los procedimientos de monitoreo administrativo y financiero?",
+      "options": [
+        "Monitorear y apoyar a los colegios en la gestión de recursos y rendición de cuentas en los tiempos e instancias correspondientes",
+        "Multar monetariamente a los directores que no entreguen las planillas a tiempo",
+        "Demorar el traspaso de fondos para generar intereses bancarios a favor del servicio",
+        "Ocultar las facturas de compras a las fiscalizaciones del Ministerio de Hacienda"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "Apoyar la gestión financiera y rendición oportuna para asegurar el uso eficiente de los recursos públicos."
+    },
+    {
+      "question": "En el ámbito de Recursos Personales, ¿qué distingue al 'Liderazgo Educativo' de la mera 'Administración' (Schein / Elmore)?",
+      "options": [
+        "El administrador trabaja dentro de la cultura existente; el líder crea culturas, modela el aprendizaje e inspira la mejora",
+        "El administrador tiene título universitario y el líder no",
+        "El líder solo firma cheques y el administrador hace clases",
+        "No existe diferencia; ambos términos designan la misma función registral"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 24",
+      "explicacion": "Elmore y Schein destacan que liderar implica transformar la cultura y modelar el aprendizaje continuo."
+    },
+    {
+      "question": "En las Habilidades, ¿cómo se define el 'Liderazgo Educativo' orientado al aprendizaje?",
+      "options": [
+        "Capacidad de movilizar a directivos y comunidades para metas comunes, desarrollando una cultura centrada en los estudiantes y el acompañamiento pedagógico",
+        "Mando jerárquico autoritario basado en decretos y sanciones salariales",
+        "Delegación total de funciones sin fiscalización ni metas de desempeño",
+        "Gestión exclusiva de la imagen pública del servicio en medios masivos"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Habilidades, Pág. 71",
+      "explicacion": "Liderazgo educativo para el aprendizaje moviliza a la comunidad con metas claras, monitoreo y retroalimentación."
+    },
+    {
+      "question": "¿Qué es el 'Efecto Ubicación' (Location Effect) en el sistema escolar municipalizado tradicional analizado por Aziz (2015)?",
+      "options": [
+        "La gran variabilidad de calidad e inequidad derivada de la dependencia de los recursos y capacidades heterogéneas de cada municipio",
+        "La distancia física medida en kilómetros entre la escuela y la capital regional",
+        "El costo del pasaje de autobús urbano cobrado a los estudiantes de secundaria",
+        "La altitud sobre el nivel del mar donde se construyeron los edificios escolares"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2 y Referencias, Págs. 10, 82",
+      "explicacion": "El efecto ubicación reflejaba las profundas inequidades entre comunas ricas y pobres bajo el sistema municipal."
+    },
+    {
+      "question": "En los Conocimientos Profesionales, ¿qué abarca el saber sobre 'Gobernanza Educativa y Coherencia Sistémica'?",
+      "options": [
+        "Relacionar e integrar decisiones entre niveles (macro, meso, micro) para garantizar una planificación y enseñanza efectiva en todo el territorio",
+        "Conocer la lista de alcaldes electos en todas las regiones del país",
+        "Saber el procedimiento de licitación de terrenos agrícolas comunitarios",
+        "Memorizar las marcas de computadores comprados por el Ministerio"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 74",
+      "explicacion": "Gobernanza y coherencia sistémica unifica las acciones de todos los niveles del sistema hacia el núcleo pedagógico."
+    },
+    {
+      "question": "En los Conocimientos sobre 'Procesos de Aprendizaje', ¿qué dimensión se exige comprender a los líderes del SLEP?",
+      "options": [
+        "Comprender los procesos cognitivos y metacognitivos en diversos niveles (parvularia, básica, media, TP, adultos) y modalidades",
+        "Comprender únicamente la memorización de fechas históricas nacionales",
+        "Dominar las pautas de crianza familiar en el hogar sin vinculación escolar",
+        "Conocer la fisiología muscular del deporte de alto rendimiento"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 74",
+      "explicacion": "Dominio de teorías y prácticas de enseñanza-aprendizaje cognitivo y metacognitivo en todas las etapas y modalidades."
+    },
+    {
+      "question": "En los Conocimientos sobre 'Administración de Recursos Humanos y Gestión de Talento', ¿cuál es el principio ético rector?",
+      "options": [
+        "Satisfacer las necesidades de la organización resguardando el desarrollo futuro y bienestar de las personas con transparencia en selecciones (ADP)",
+        "Reducir las remuneraciones salariales al mínimo legal permitido",
+        "Contratar exclusivamente personal temporal sin estabilidad laboral ni previsión",
+        "Favorecer las contrataciones de familiares de la jefatura directiva"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 76",
+      "explicacion": "Gestión de personas basada en normas de carrera docente, ADP, desarrollo profesional y valoración del talento humano."
+    },
+    {
+      "question": "En los Conocimientos sobre 'Administración de Recursos Financieros y Rendición de Cuentas', ¿qué dinamismo fortalece un liderazgo efectivo?",
+      "options": [
+        "Una rendición de cuentas interna que refuerza la autonomía, iniciativa, adaptabilidad y responsabilidad de las escuelas",
+        "El control burocrático asfixiante que impide cualquier gasto menor en útiles escolares",
+        "La desvención de fondos públicos para fines comerciales ajenos a la educación",
+        "El rechazo de las auditorías de la Contraloría General de la República"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 76",
+      "explicacion": "La rendición de cuentas debe nutrir la autonomía y responsabilidad reflexiva de los establecimientos escolares."
+    },
+    {
+      "question": "En los Conocimientos sobre 'Efectividad de las Unidades Educativas y del Nivel Intermedio', ¿qué indagación permanente se requiere?",
+      "options": [
+        "Indagar sobre los elementos que sustentan u obstaculizan el mejoramiento educativo para perfeccionar las prácticas en todo el territorio",
+        "Indagar sobre la vida privada de los profesores durante los fines de semana",
+        "Investigar las deudas comerciales de los centros de padres y apoderados",
+        "Clasificar a los colegios por su rendimiento en deportes escolares"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 76",
+      "explicacion": "Investigación y conocimiento sobre los factores de eficacia escolar e intermedia para desencadenar trayectorias de mejora."
+    },
+    {
+      "question": "¿Qué es la 'Educación para la Ciudadanía Mundial' (UNESCO / Marco 2025)?",
+      "options": [
+        "Un área estratégica para inculcar valores de paz, Derechos Humanos, sostenibilidad, tolerancia e innovación en sociedades globales",
+        "Un programa de intercambio comercial obligatorio para estudiantes de secundaria",
+        "La preparación para exámenes de inmigración en países extranjeros",
+        "La enseñanza exclusiva de la geografía física de los continentes"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 29",
+      "explicacion": "Inculcar competencias, valores y actitudes para ejercer una ciudadanía responsable, justa y pacífica local y globalmente."
+    },
+    {
+      "question": "En la Dimensión 1, Evidencia 8, ¿cómo se coordina la entrega de orientaciones para políticas nacionales?",
+      "options": [
+        "Apoyando la ejecución de políticas nacionales de acuerdo al contexto, concordando procedimientos con el SLEP e instituciones del territorio",
+        "Imponiendo sanciones monetarias a las escuelas que adapten las guías nacionales",
+        "Reemplazando las leyes nacionales por decretos comunales locales",
+        "Prohibiendo la participación de instituciones privadas de salud en los colegios"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 1, Pág. 55",
+      "explicacion": "Coordinación y adaptación contextualizada de políticas nacionales respetando las realidades de cada escuela."
+    },
+    {
+      "question": "En la Dimensión 2, Evidencia 6, ¿qué objetivo tienen las acciones de encuentro con órganos de representación de familias?",
+      "options": [
+        "Compartir y reflexionar sobre lo realizado en las escuelas para que comprendan el rol y las acciones del nivel intermedio",
+        "Solicitar donaciones monetarias obligatorias a las familias para pagar los sueldos del SLEP",
+        "Sancionar a los apoderados que no asistan a las faenas de limpieza de la comuna",
+        "Elegir al candidato a alcalde apoyado por el servicio de educación"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 2, Pág. 57",
+      "explicacion": "Construir legitimidad y comprensión sobre la gestión pública mediante el diálogo abierto con los apoderados."
+    },
+    {
+      "question": "En la Dimensión 3, Evidencia 6, ¿en qué procesos se acompaña a los equipos escolares?",
+      "options": [
+        "Acompañar en autoevaluación institucional, monitoreo, seguimiento y evaluación de estrategias de mejora con foco en aprendizaje profundo",
+        "Acompañar en la toma de inventario físico de las sillas y mesas de la cocina",
+        "Supervisar el cobro de cuotas de matrícula en la entrada del colegio",
+        "Fiscalizar la asistencia de los apoderados a las reuniones mensuales"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "Acompañamiento técnico en la autoevaluación y PME para asegurar la sostenibilidad de la mejora pedagógica."
+    },
+    {
+      "question": "En la Dimensión 3, Evidencia 7, ¿quiénes lideran el trabajo en red entre establecimientos?",
+      "options": [
+        "Los equipos del SLEP en conjunto con directivos de las escuelas o líderes sistémicos, con metas e innovación consensuada",
+        "Asesores internacionales contratados por licitación privada sin presencia local",
+        "Los inspectores generales de disciplina de los colegios secundarios",
+        "Los representantes de los bancos comerciales auspiciadores"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "Trabajo en red liderado participativamente por el SLEP y líderes escolares para el mejoramiento continuo."
+    },
+    {
+      "question": "En la Dimensión 4, Evidencia 4, ¿en qué consiste la inducción de directivos noveles según las pautas DEP?",
+      "options": [
+        "Acompañar y modelar en terreno a los directivos que asumen por primera vez para fortalecer su liderazgo en la comunidad",
+        "Exigirles la entrega del PEL en sus primeros 5 días de contratación sin asesoría",
+        "Asignarles auditorías financieras sorpresivas durante su primer mes de trabajo",
+        "Enviarles a cursos teóricos de 1 año sin ingresar a los establecimientos educacionales"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "Acompañamiento y modelamiento en terreno para que los nuevos directores consoliden su liderazgo con éxito."
+    },
+    {
+      "question": "En la Dimensión 4, Evidencia 12, ¿qué debe implementar el servicio respecto a sus propios funcionarios?",
+      "options": [
+        "Una política de evaluación y retroalimentación formal del desempeño laboral para los funcionarios del SLEP conforme a la ley",
+        "Sanciones de despido sin derecho a réplica por errores menores en informes",
+        "Aumentos salariales automáticos por antigüedad sin evaluar la calidad del trabajo",
+        "Un sistema de calificaciones confidencial no comunicado a los trabajadores"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "Evaluación y retroalimentación formal del desempeño de los profesionales del SLEP para su propio desarrollo."
+    },
+    {
+      "question": "En la Dimensión 5, Evidencia 5, ¿cómo se diseñan las estrategias para un ambiente bien tratante en los colegios?",
+      "options": [
+        "Asesorar y trabajar en conjunto con las unidades educativas en estrategias que atiendan al bienestar integral y sana convivencia",
+        "Imponiendo un manual de castigos físicos elaborado por la administración central",
+        "Contratando a psicólogos externos sin vinculación con el equipo de convivencia del colegio",
+        "Suspendiendo de clases a todos los alumnos que presenten anotaciones de mérito deficientes"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "Asesoría participativa para promover el bienestar socioemocional y la convivencia democrática escolar."
+    },
+    {
+      "question": "En la Dimensión 5, Evidencia 8, ¿cuál es el beneficio de desnaturalizar los sesgos de género en las escuelas?",
+      "options": [
+        "Incorporar la perspectiva de género para erradicar estereotipos, sexismo y barreras en las trayectorias de estudiantes",
+        "Obligar a todos los estudiantes a vestirse de la misma manera sin distinción",
+        "Prohibir el ingreso de alumnas mujeres a las especialidades industriales de liceos TP",
+        "Eliminar la asignatura de biología del plan de estudios de enseñanza media"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "Desnaturalizar sesgos de género elimina barreras en las expectativas vocacionales y de aprendizaje de niños y niñas."
+    },
+    {
+      "question": "En la Dimensión 6, Evidencia 2, ¿qué comprensión común se debe lograr respecto a la Nueva Educación Pública?",
+      "options": [
+        "Vincular los objetivos comunes a la operación de un servicio público, su estructura de costos y conservación de escuelas",
+        "Entender la educación como un negocio comercial orientado a generar utilidades financieras",
+        "Considerar la escuela pública como un departamento menor dependiente del municipio",
+        "Tratar a los profesores como empleados contratados a honorarios por día trabajado"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "Comprender la NEP como servicio público estatal profesionalizado al servicio de la calidad de la educación."
+    },
+    {
+      "question": "En la Dimensión 6, Evidencia 9, ¿cómo apoya el SLEP la obtención de recursos complementarios para los colegios?",
+      "options": [
+        "Coordinar y apoyar la generación de proyectos, postulación a fondos de inversión y convenios para cumplir el PEI",
+        "Exigir rifas obligatorias a los apoderados para pagar la luz del servicio central",
+        "Prohibir la postulación de las escuelas a fondos concursables públicos",
+        "Sancionar a los directores que firmen convenios de colaboración con universidades"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "Asesorar e impulsar la captación de fondos adicionales (FNDR, fondos ministeriales, alianzas) para enriquecer el PEI."
+    },
+    {
+      "question": "En la Dimensión 6, Evidencia 13, ¿qué valor tiene incorporar recursos digitales e innovación tecnológica?",
+      "options": [
+        "Optimizar la gestión pedagógica y administrativa en todos los niveles institucionales del territorio",
+        "Reemplazar las salas de clases presenciales por clases en video pregrabadas",
+        "Aumentar el cobro de matrículas escolares por uso de licencias informáticas",
+        "Eliminar las bibliotecas de libros impresos de todas las escuelas rurales"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "Tecnología e innovación digital integradas para potenciar la gestión de aprendizajes y simplificar la administración."
+    },
+    {
+      "question": "¿Cuál es la diferencia entre los Estándares Indicativos de Desempeño (EID) y el Marco para la Gestión Local 2025?",
+      "options": [
+        "Los EID son normas generales y evaluativas con rúbricas de logro; el Marco 2025 es una guía de liderazgo específica, flexible y no prescriptiva para el nivel intermedio",
+        "Los EID aplican solo a colegios privados y el Marco a universidades estatales",
+        "No existe diferencia; son dos nombres del mismo reglamento de contraloría",
+        "Los EID son dictados por la UNESCO y el Marco por el Congreso Nacional de Chile"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 48",
+      "explicacion": "Los EID establecen rúbricas de evaluación del SAC; el Marco 2025 orienta el desarrollo de prácticas de liderazgo en el SLEP."
+    },
+    {
+      "question": "En la estructura de los Recursos Personales, ¿qué son los 'Principios'?",
+      "options": [
+        "Creencias y marcos valoricos universales que guían la conducta y aseguran coherencia ética en las decisiones",
+        "Procedimientos técnicos para elaborar gráficos en hojas de cálculo informáticas",
+        "Reglamentos de compras y licitaciones dictados por la Dirección de Presupuestos",
+        "Sanciones salariales aplicables a los funcionarios en caso de impuntualidad"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales, Pág. 66",
+      "explicacion": "Los principios son los valores éticos que fundamentan y dirigen todas las acciones de los líderes."
+    },
+    {
+      "question": "En los Recursos Personales, ¿qué son las 'Habilidades'?",
+      "options": [
+        "Capacidades conductuales y técnicas para implementar acciones y lograr objetivos declarados sin vulnerar principios",
+        "Leyes aprobadas por la Cámara de Diputados para el sector educativo",
+        "Títulos universitarios de posgrado acreditados ante el Ministerio de Educación",
+        "Formatos en papel para la recepción de licencias médicas de los profesores"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales, Pág. 66",
+      "explicacion": "Las habilidades son las destrezas conductuales que movilizan las prácticas de liderazgo en terreno."
+    },
+    {
+      "question": "En los Recursos Personales, ¿qué son los 'Conocimientos Profesionales'?",
+      "options": [
+        "Conjunto de saberes teóricos y prácticos adquiridos en la educación formal y la experiencia, conectados con las prácticas de gestión",
+        "Supuestos infundados sobre la conducta de los estudiantes",
+        "Anécdotas personales compartidas en reuniones informales",
+        "Memorándums administrativos internos de la antigua administración municipal"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales, Pág. 66",
+      "explicacion": "Conocimientos profesionales son la base conceptual y técnica que justifica e informa el actuar directivo."
+    },
+    {
+      "question": "En los Recursos Personales, ¿qué exige la habilidad de 'Reflexión Crítica' (Schön / Marco 2025)?",
+      "options": [
+        "Problematizar la realidad, analizar situaciones de la práctica para reestructurar la experiencia y generar nuevo aprendizaje profesional",
+        "Aceptar sin análisis todas las órdenes emanadas de las jefaturas centrales",
+        "Culpabilizar a los alumnos por la falta de recursos de la infraestructura escolar",
+        "Repetir mecánicamente las mismas decisiones administrativas durante toda la carrera"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Habilidades, Pág. 70",
+      "explicacion": "Reflexión crítica implica analizar la práctica sobre la acción para transformar la experiencia en saberes de mejoramiento."
+    },
+    {
+      "question": "En los Conocimientos sobre 'Trayectoria Educativa', ¿qué deber le corresponde al liderazgo del SLEP?",
+      "options": [
+        "Potenciar trayectorias escolares positivas desde la educación inicial hasta la educación superior e integrar a los excluidos",
+        "Expulsar a los alumnos reprobados para mantener los indicadores de excelencia",
+        "Limitar la educación obligatoria al nivel de enseñanza primaria",
+        "Derivar a los alumnos con rezago a colegios privados de pago"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 75",
+      "explicacion": "Potenciar las trayectorias positivas y reincorporar a quienes han quedado fuera del sistema escolar."
+    },
+    {
+      "question": "En los Conocimientos sobre 'Desarrollo Profesional', ¿dónde debe desarrollarse prioritariamente la formación según la evidencia?",
+      "options": [
+        "Al interior de los propios centros educativos y mediante redes de aprendizaje profesional, no solo mediante cursos externos aislados",
+        "Exclusivamente en seminarios de fin de semana dictados en hoteles de lujo",
+        "En pasantías en el extranjero reservadas para las jefaturas del servicio",
+        "Mediante lecturas individuales obligatorias realizadas fuera de la jornada de trabajo"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 44 y Sección 4, Pág. 75",
+      "explicacion": "La profesionalización efectiva ocurre en la práctica diaria en las escuelas y comunidades de aprendizaje en red."
+    },
+    {
+      "question": "En los Conocimientos sobre 'Gestión de Recursos Financieros', ¿qué exigencia ética rige el gasto público del SLEP?",
+      "options": [
+        "Administrar los recursos con absoluta transparencia, probidad y eficiencia orientados rigurosamente a las metas pedagógicas de los PEI",
+        "Gastar los presupuestos en publicidad institucional sin rendir facturas al Estado",
+        "Utilizar los fondos de la Subvención Preferencial para el pago de indemnizaciones municipales antiguas",
+        "Mantener depósitos secretos en cuentas bancarias comerciales"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 76",
+      "explicacion": "Probidad, transparencia y alineamiento del gasto público con las prioridades de aprendizaje del territorio."
+    },
+    {
+      "question": "En los Conocimientos sobre 'Planificación Estratégica y Gestión de Proyectos', ¿qué distinción técnica se debe dominar?",
+      "options": [
+        "Diferenciar entre visión, misión, objetivos estratégicos, metas, indicadores, hitos y seguimiento financiero de programas",
+        "Diferenciar únicamente entre ingresos y egresos de caja de efectivo",
+        "Distinguir entre cartas certificadas y correos electrónicos ordinarios",
+        "Memorizar los nombres de los proyectos aprobados en la década de 1990"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 76",
+      "explicacion": "Dominio de metodologías de planificación estratégica pública para vincular visión con resultados medibles."
+    },
+    {
+      "question": "En los Conocimientos sobre 'Liderazgo y Cultura Organizacional', ¿qué capacidad le permite al líder intermedio motivar al equipo?",
+      "options": [
+        "Reconocer y desarrollar el talento, generar compromiso con la visión compartida y respetar la diversidad cultural de los territorios",
+        "Aplicar sanciones disciplinarias diarias a los funcionarios con atrasos",
+        "Promover la desconfianza mutua entre las subdirecciones del servicio",
+        "Sustituir la cultura escolar por pautas de trabajo de fábricas industriales"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Conocimientos, Pág. 75",
+      "explicacion": "Comprensión de la cultura organizacional para motivar, movilizar talento y alinear esfuerzos hacia la visión común."
+    },
+    {
+      "question": "¿Qué papel juegan los Centros de Formación Técnica (CFT) y Universidades en los Consejos Locales de Educación?",
+      "options": [
+        "Aportar la visión de la formación superior y técnica territorial para articular las trayectorias de los egresados de enseñanza media",
+        "Auditar las cuentas bancarias de los centros de padres de los colegios",
+        "Dictar clases sustitutivas en las escuelas primarias cuando falten profesores",
+        "Cobrar derechos de membresía a los colegios por integrar el consejo"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 13",
+      "explicacion": "Las instituciones de educación superior del territorio articulan la transición y continuidad de estudios de los alumnos del SLEP."
+    },
+    {
+      "question": "En el marco de la Gestión de Recursos (Dimensión 6, Práctica 11), ¿qué obligación de rendición de cuentas tiene el SLEP?",
+      "options": [
+        "Monitorear y apoyar los procesos de gestión financiera de los colegios para que rindan cuentas en los tiempos legales fijados por la Superintendencia",
+        "Prohibir que los directores de colegio conozcan los montos de la subvención escolar recibida",
+        "Traspasar las multas financieras del servicio a los salarios de los docentes",
+        "Rendir cuentas únicamente al finalizar el periodo de 6 años del Director Ejecutivo"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "Garantizar procedimientos rigurosos de rendición de cuentas para proteger los fondos públicos educativos."
+    },
+    {
+      "question": "¿Qué importancia atribuye el Marco 2025 al 'Punto de Partida' en la evaluación del mejoramiento escolar?",
+      "options": [
+        "Considerar el contexto y el punto de partida inicial de cada escuela para medir avances auténticos y no comparar escuelas desiguales de forma injusta",
+        "Exigir que todas las escuelas obtengan el mismo puntaje SIMCE desde el primer mes de traspaso",
+        "Sancionar a los colegios rurales que inicien el año con rezagos pedagógicos en sus alumnos",
+        "Puntuar únicamente el promedio final sin importar las condiciones de vulnerabilidad del estudiantado"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Págs. 39-40",
+      "explicacion": "Evaluar el mejoramiento considerando el contexto y punto de partida para reconocer el avance sostenible y equitativo."
+    },
+    {
+      "question": "En la Dimensión 1, Práctica 4, ¿qué debe reflejar el Plan Anual Local (PAL)?",
+      "options": [
+        "Operacionalizar la visión del PEL articulando la estrategia nacional con las necesidades inmediatas de las escuelas del territorio",
+        "Una lista de compras de útiles de oficina sin vinculación pedagógica",
+        "El calendario de vacaciones exclusivas del equipo de jefaturas del servicio",
+        "La nómina de profesores que serán trasladados a otras comunas"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 1, Pág. 55",
+      "explicacion": "El PAL es el instrumento operativo anual que concreta el PEL respondiendo a las necesidades de las escuelas."
+    },
+    {
+      "question": "En la Dimensión 2, Práctica 2, ¿qué frecuencia de trabajo se recomienda con el Comité Directivo Local?",
+      "options": [
+        "Establecer modalidades efectivas de colaboración y coordinación para una gestión articulada en función de los objetivos del PEL",
+        "Reunirse una sola vez cada 6 años al momento de la firma del PEL",
+        "Reunirse semanalmente para aprobar cada compra de tizas del servicio",
+        "Suspender las sesiones en caso de críticas a la gestión del servicio"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 2, Pág. 57",
+      "explicacion": "Coordinación y trabajo articulado constante con el Comité Directivo Local para dar viabilidad estratégica al PEL."
+    },
+    {
+      "question": "En la Dimensión 3, Práctica 13, ¿qué fuentes de datos cualitativos se recogen para evaluar prácticas pedagógicas?",
+      "options": [
+        "Sistematización de observaciones de aula, evidencias de trabajos de estudiantes y reportes de trabajo colaborativo docente",
+        "Registros de marcas de tarjeta de entrada y salida del personal",
+        "Comentarios anónimos en redes sociales sobre los profesores",
+        "Fotografías de las fachadas de los edificios escolares"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 3, Pág. 59",
+      "explicacion": "Uso de evidencias auténticas de aula (observaciones, tareas de alumnos, reflexión de docentes) para orientar el apoyo."
+    },
+    {
+      "question": "En la Dimensión 4, Práctica 12, ¿qué principios deben regir la evaluación del personal del propio SLEP?",
+      "options": [
+        "Una política formal de evaluación y retroalimentación laboral transparente, justa y orientada al desarrollo profesional",
+        "Evaluaciones secretas basadas en simpatías personales de la jefatura",
+        "Calificaciones anuales automáticas sin entrevista de retroalimentación",
+        "Despidos sumarios sin derecho a revisar el informe de desempeño"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 4, Pág. 61",
+      "explicacion": "Evaluación laboral transparente del equipo del SLEP con foco en retroalimentación formativa y desarrollo."
+    },
+    {
+      "question": "En la Dimensión 5, Práctica 6, ¿cómo se promueve la educación intercultural en territorios con presencia de pueblos originarios?",
+      "options": [
+        "Mediante la participación y diálogo crítico sobre la identidad cultural y la importancia de la educación intercultural en todas las escuelas",
+        "Traduciendo los libros al castellano para eliminar las palabras originarias",
+        "Celebrando una sola feria anual sin incluir la temática en las clases diarias",
+        "Excluyendo a los estudiantes no indígenas de las actividades culturales"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 5, Pág. 63",
+      "explicacion": "Diálogo crítico, reconocimiento de la identidad cultural y transversalización de la interculturalidad en el currículum."
+    },
+    {
+      "question": "En la Dimensión 6, Práctica 12, ¿qué estrategias se utilizan para contrarrestar la fuga de matrícula hacia el sector privado?",
+      "options": [
+        "Analizar datos de matrícula y asistencia para desplegar planes de comunicación que generen confianza comunitaria en la educación pública",
+        "Prohibir que las familias matriculen a sus hijos en colegios particulares subvencionados",
+        "Cobrar multas a los padres que retiren a sus hijos del colegio público",
+        "Publicar anuncios descalificando a las escuelas privadas del territorio"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 6, Pág. 65",
+      "explicacion": "Fortalecer la calidad del servicio público y comunicar los proyectos educativos para recuperar la confianza y matrícula."
+    },
+    {
+      "question": "¿Qué responsabilidad asigna la Ley 21.040 al Director Ejecutivo en caso de incumplimiento grave de su Convenio de Gestión?",
+      "options": [
+        "Puede ser removido de su cargo por el Ministro de Educación a propuesta del Director de Educación Pública antes del término de su periodo",
+        "Conserva el cargo de forma vitalicia sin posibilidad de remoción legal",
+        "Debe pagar el déficit del servicio con su patrimonio personal",
+        "Es degradado a profesor de aula en una escuela rural sin concurso"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 12",
+      "explicacion": "El Director Ejecutivo puede ser removido si no cumple las metas sustantivas acordadas en su convenio de gestión."
+    },
+    {
+      "question": "En los Recursos Personales, ¿qué es la 'Vocación de Servicio Público' en el contexto de la reforma escolar?",
+      "options": [
+        "El orgullo y compromiso ético de garantizar que la educación pública sea un derecho efectivo de calidad para todos los niños de Chile",
+        "Aceptar sueldos simbólicos sin exigencias de contratación formal",
+        "Trabajar en la administración pública mientras se busca un empleo privado mejor pagado",
+        "Priorizar la atención de los apoderados con mayor influencia política en la comuna"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Principios, Pág. 69",
+      "explicacion": "La vocación pública es la convicción de que la educación estatal es la herramienta suprema de justicia y cohesión social."
+    },
+    {
+      "question": "En las Habilidades, ¿cómo influye la 'Escucha Activa' en la construcción de confianza con los profesores?",
+      "options": [
+        "Permite comprender los dolores y desafíos del aula real sin prejuzgar, construyendo acuerdos basados en el respeto mutuo",
+        "Permite memorizar los nombres de todos los docentes para saludarlos en los pasillos",
+        "Garantiza que los profesores acepten todas las cargas administrativas sin protestar",
+        "Evita que el SLEP tenga que responder las solicitudes escritas de las escuelas"
+      ],
+      "answer": 0,
+      "fuente": "Recursos Personales - Habilidades, Pág. 71",
+      "explicacion": "La escucha activa es la llave de la confianza relacional entre el sostenedor y las comunidades escolares."
+    },
+    {
+      "question": "En los Conocimientos sobre 'Gobernanza Local y Autonomía', ¿cuál es la tensión permanente que debe equilibrar el SLEP?",
+      "options": [
+        "Equilibrar el acompañamiento y estándares nacionales con el respeto a la autonomía pedagógica de los equipos directivos de las escuelas",
+        "Equilibrar el presupuesto de papelería con el presupuesto de locomoción de las jefaturas",
+        "Equilibrar las horas de descanso del personal con las horas de atención al público",
+        "Equilibrar el número de matriculados hombres con el número de matriculadas mujeres"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Págs. 34-36",
+      "explicacion": "Equilibrio sutil entre el monitoreo de estándares nacionales y el resguardo de la autonomía de los proyectos educativos."
+    },
+    {
+      "question": "¿Qué es la 'Resiliencia u Homogeneidad Organizacional' en momentos de cambios estructurales como la de-municipalización?",
+      "options": [
+        "La capacidad del equipo intermedio para mantener la continuidad del servicio educativo conteniendo emocional y operativamente a las comunidades",
+        "La congelación de todos los trámites administrativos hasta que termine la reforma",
+        "La renuncia a aplicar innovaciones pedagógicas para no estresar al personal",
+        "El traslado masivo de estudiantes a colegios de otras regiones"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 24 y Sección 4, Pág. 72",
+      "explicacion": "Capacidad de gestionar la incertidumbre y dar estabilidad y contención a las escuelas durante la transición."
+    },
+    {
+      "question": "En la Dimensión 1, Práctica 1, ¿por qué es valioso coordinarse con los municipios durante la etapa de traspaso?",
+      "options": [
+        "Para asegurar la continuidad de los servicios, recuperar antecedentes clave de las escuelas y evitar vacíos en la atención de los alumnos",
+        "Para exigir que el municipio siga pagando las facturas de agua del SLEP indefinidamente",
+        "Para traspasar a los funcionarios municipales sancionados a las escuelas públicas",
+        "Para vender los inmuebles escolares antiguos y repartir las ganancias"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 1, Pág. 55",
+      "explicacion": "La transición ordenada requiere colaboración con la administración saliente para no perjudicar el servicio educativo."
+    },
+    {
+      "question": "En la Dimensión 2, Práctica 4, ¿cómo se fortalece el desarrollo democrático en los liceos?",
+      "options": [
+        "Brindando autonomía y facilidades para la constitución y funcionamiento libre de los centros de estudiantes y centros de apoderados",
+        "Imponiendo reglamentos que prohíban las reuniones estudiantiles sin presencia del director",
+        "Naciendo listas únicas oficiales diseñadas por el equipo docente",
+        "Sancionando a los dirigentes estudiantiles que soliciten mejoras de infraestructura"
+      ],
+      "answer": 0,
+      "fuente": "Dimensión 2, Pág. 57",
+      "explicacion": "Fomentar la participación democrática autónoma de estudiantes y familias como escuela de ciudadanía."
+    }
+  ]
+}

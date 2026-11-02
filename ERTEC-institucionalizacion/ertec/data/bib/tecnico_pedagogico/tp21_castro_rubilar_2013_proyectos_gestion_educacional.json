@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp21_castro_rubilar_2013_proyectos_gestion_educacional",
+    "nombre": "Manual para el diseño de proyectos de gestión educacional: Proyecto de intervención curricular y/o pedagógica, proyecto de mejoramiento para la gestión educativa, proyecto educativo institucional",
+    "detalle": "Castro Rubilar, F. y Castro Rubilar, J. (2013). Universidad del Bío-Bío",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director General ESFM"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

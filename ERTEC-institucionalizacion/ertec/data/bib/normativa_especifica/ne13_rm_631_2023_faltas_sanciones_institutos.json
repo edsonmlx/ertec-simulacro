@@ -1,0 +1,31 @@
+{
+  "bibliografia": {
+    "id": "ne13_rm_631_2023_faltas_sanciones_institutos",
+    "nombre": "R.M. N° 631/2023 Reglamento de Faltas y Sanciones de Directivos, Docentes y Administrativos de Institutos Técnicos, Tecnológicos e Institutos de Formación Artística (DGESTTLA)",
+    "detalle": "2 de agosto de 2023",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Educ. Superior",
+      "Rector ITT",
+      "Director Académico ITT",
+      "Director Administrativo ITT",
+      "Rector Formación Artística",
+      "Director Académico Artístico",
+      "Director Administrativo Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

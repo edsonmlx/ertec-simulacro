@@ -1,0 +1,1832 @@
+{
+  "bibliografia": {
+    "id": "tp05_erce_2019_estudio_regional_comparativo",
+    "nombre": "Estudio Regional Comparativo y Explicativo (ERCE 2019)",
+    "detalle": "ERCE 2019",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Regular",
+      "Subdirector Alt. y Especial",
+      "Subdirector Educ. Superior",
+      "Director Distrital",
+      "Director de U.E.",
+      "Director de CEA",
+      "Director de CEE"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Qué organismo internacional coordina y ejecuta el Estudio Regional Comparativo y Explicativo (ERCE 2019)?",
+      "options": [
+        "El Laboratorio Latinoamericano de Evaluación de la Calidad de la Educación (LLECE), dependiente de la OREALC/UNESCO Santiago",
+        "El Banco Interamericano de Desarrollo (BID) en conjunto con la Organización de Estados Iberoamericanos (OEI)",
+        "La División de Educación de UNICEF Nueva York y la Comisión Económica para América Latina (CEPAL)",
+        "El Consejo Iberoamericano de Evaluación de la Calidad Educativa de la OEA"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Antecedentes, Págs. 3 y 8",
+      "explicacion": "El ERCE 2019 es coordinado por el LLECE, de la Oficina Regional de Educación para América Latina y el Caribe (OREALC/UNESCO Santiago)."
+    },
+    {
+      "question": "¿Cuántos países de América Latina y el Caribe participaron en la aplicación definitiva del ERCE 2019 y qué países miembros no pudieron realizarla por su contexto político-socioeconómico?",
+      "options": [
+        "Participaron 16 países; Bolivia y Chile no participaron debido a situaciones de su contexto político y socioeconómico en 2019",
+        "Participaron 18 países sin que ningún país miembro quedara al margen de la prueba",
+        "Participaron 14 países; Venezuela, Haití, Cuba y Nicaragua no aplicaron la prueba por problemas de infraestructura",
+        "Participaron 12 países; Colombia, Ecuador y Perú fueron excluidos por no completar la fase piloto de 2018"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 8",
+      "explicacion": "Participaron 16 países. Bolivia y Chile no aplicaron el estudio en 2019 por factores de su contexto político y socioeconómico."
+    },
+    {
+      "question": "¿Cuál fue el tamaño aproximado de la muestra de estudiantes y escuelas evaluadas en el ERCE 2019?",
+      "options": [
+        "Aproximadamente 160.000 estudiantes de 3° y 6° grado pertenecientes a una muestra representativa de unas 4.000 escuelas",
+        "Aproximadamente 500.000 estudiantes de 4° y 8° grado en 10.000 centros educativos urbanos",
+        "Aproximadamente 50.000 estudiantes de educación inicial y primaria en 1.500 unidades educativas",
+        "Aproximadamente 1.000.000 de alumnos universitarios y de secundaria básica en 20.000 colegios"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 9",
+      "explicacion": "El ERCE 2019 evaluó a cerca de 160.000 estudiantes de 3° y 6° de primaria en unas 4.000 escuelas representativas."
+    },
+    {
+      "question": "En el marco de la Agenda 2030 (ODS 4, indicador 4.1.1), ¿cuáles son los Niveles Mínimos de Competencia (MPL) en la escala de desempeño del ERCE 2019 para 3° y 6° grado?",
+      "options": [
+        "El Nivel II en Lectura y Matemática para 3° grado (indicador 4.1.1a) y el Nivel III para 6° grado (indicador 4.1.1b)",
+        "El Nivel I en todas las asignaturas para 3° grado y el Nivel II exclusivamente para 6° grado",
+        "El Nivel III para 3° grado y el Nivel IV obligatorio para 6° grado en Ciencias y Matemática",
+        "El Nivel IV máximo para ambos grados como requisito de homologación internacional PISA"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 10 y Sección 3, Pág. 23",
+      "explicacion": "El Nivel Mínimo de Competencia (MPL) de la UNESCO corresponde al Nivel II en 3° grado y al Nivel III en 6° grado."
+    },
+    {
+      "question": "¿Cómo está fijada la escala estandarizada de puntajes del ERCE 2019 y desde qué estudio anterior se mantiene la comparación histórica?",
+      "options": [
+        "Se fijó en el TERCE 2013 con un promedio regional de 700 puntos y una desviación estándar de 100 puntos",
+        "Se fijó en el PERCE 1997 con una media de 500 puntos y desviación de 50 puntos",
+        "Se fijó en el SERCE 2006 con una media de 1.000 puntos y desviación de 200 puntos",
+        "Se fijó en el ERCE 2019 como línea base totalmente nueva sin comparación con evaluaciones previas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 9",
+      "explicacion": "Los puntajes se expresan en la escala establecida en TERCE 2013, donde la media regional es 700 y la desviación estándar es 100."
+    },
+    {
+      "question": "¿Qué innovación temática incorporó por primera vez el ERCE 2019 en la historia del LLECE desde su fundación en 1994?",
+      "options": [
+        "La medición de habilidades socioemocionales (empatía, autorregulación escolar y apertura a la diversidad) en estudiantes de 6° grado",
+        "La aplicación informatizada en línea en tiempo real a través de tablets para estudiantes de 1° de primaria",
+        "La evaluación del desempeño práctico de laboratorio en la asignatura de Física y Química para docentes",
+        "La medición del nivel de inglés como segunda lengua en estudiantes de educación inicial"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 8",
+      "explicacion": "Por primera vez desde 1994, el ERCE 2019 incluyó un módulo de habilidades socioemocionales para estudiantes de 6° grado."
+    },
+    {
+      "question": "¿Qué institución académica realizó el procesamiento de datos psicométricos y analíticos del ERCE 2019?",
+      "options": [
+        "El Centro de Medición MIDE UC de la Pontificia Universidad Católica de Chile",
+        "El Instituto Colombiano para la Evaluación de la Educación (ICFES)",
+        "El Instituto Nacional para la Evaluación de la Educación (INEE) de México",
+        "La Facultad de Educación de la Universidad de Buenos Aires (UBA)"
+      ],
+      "answer": 0,
+      "fuente": "Prólogo y Agradecimientos, Pág. 3 y 5",
+      "explicacion": "El procesamiento de datos psicométricos del ERCE 2019 fue ejecutado por MIDE UC de la Pontificia Universidad Católica de Chile."
+    },
+    {
+      "question": "¿Cuántos cuestionarios de contexto se aplicaron en el ERCE 2019 para el estudio de factores asociados al logro educativo?",
+      "options": [
+        "Cinco cuestionarios: para estudiantes de 3°, estudiantes de 6°, familias, docentes y directores de escuela",
+        "Tres cuestionarios: únicamente para alumnos, profesores y ministerios de educación",
+        "Dos cuestionarios: solo para directores y supervisores distritales",
+        "Siete cuestionarios: incluyendo alcaldes, gobernadores y empresas privadas auspiciadoras"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 10 y Sección 4, Pág. 26",
+      "explicacion": "Se aplicaron 5 cuestionarios de contexto: estudiantes de 3°, estudiantes de 6°, familias, docentes y directores."
+    },
+    {
+      "question": "¿En qué cronograma de años se ejecutaron las etapas del ERCE 2019 (Análisis Curricular, Piloto, Aplicación Definitiva, Procesamiento y Reporte)?",
+      "options": [
+        "Análisis Curricular (2017), Piloto (2018), Aplicación Definitiva (2019), Procesamiento (2020) y Análisis/Reporte (2021)",
+        "Análisis Curricular (2015), Piloto (2016), Aplicación (2017), Procesamiento (2018) y Reporte (2019)",
+        "Análisis Curricular (2019), Piloto (2020), Aplicación (2021), Procesamiento (2022) y Reporte (2023)",
+        "Todas las etapas se ejecutaron íntegramente durante el segundo semestre del año 2019"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 9 y 11",
+      "explicacion": "El flujo temporal fue: 2017 (análisis curricular), 2018 (piloto), 2019 (aplicación definitiva), 2020 (procesamiento) y 2021 (reporte)."
+    },
+    {
+      "question": "¿Qué áreas curriculares y en qué grados de educación primaria fueron evaluadas mediante las pruebas del ERCE 2019?",
+      "options": [
+        "Lectura, Escritura y Matemática en 3° y 6° grado, y Ciencias evaluada exclusivamente en 6° grado",
+        "Lectura y Matemática en 1° a 6° grado, y Ciencias de la Naturaleza desde 3° de primaria",
+        "Lenguaje e Historia en 3° de primaria, y Álgebra, Física y Biología en 6° de primaria",
+        "Competencias Digitales y Ciencias Sociales en todos los grados de primaria y secundaria"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 8",
+      "explicacion": "Se evaluaron Lectura, Escritura y Matemática en 3° y 6° grado, mientras que Ciencias se evaluó únicamente en 6° grado."
+    },
+    {
+      "question": "¿Por qué razón los informes de Escritura del ERCE 2019 no se incluyeron en el Reporte Ejecutivo principal publicado en 2021?",
+      "options": [
+        "Porque la prueba de Escritura se analiza mediante rúbricas cualitativas específicas y se reporta en un informe individualizado por país durante 2022",
+        "Porque la prueba de Escritura fue anulada debido a problemas de inconsistencia ortográfica regional",
+        "Porque los estudiantes de 3° y 6° grado no rindieron pruebas escritas por falta de tiempo en la sesión",
+        "Porque la UNESCO eliminó el área de Escritura del marco curricular de la Agenda 2030"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 8 (Nota al pie 1)",
+      "explicacion": "La prueba de Escritura se analiza con rúbricas detalladas y se reporta en informes individuales por país lanzados en 2022."
+    },
+    {
+      "question": "¿Cómo se estructuraron las pruebas de Lectura en 3° y 6° grado respecto a la cantidad de preguntas y tipo de ítems?",
+      "options": [
+        "Basadas en distintos textos, con 24 preguntas de selección múltiple exclusivamente para 3° grado y 32 para 6° grado",
+        "Basadas en dictados de palabras, con 10 preguntas abiertas de desarrollo para ambos grados",
+        "Basadas en lecturas orales en voz alta evaluadas individualmente con 50 preguntas",
+        "Basadas en ensayos filosóficos de 500 palabras con preguntas de respuesta corta en 3° y 6°"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 9",
+      "explicacion": "En Lectura, los estudiantes leyeron diversos textos respondiendo preguntas de selección múltiple: 24 en 3° grado y 32 en 6° grado."
+    },
+    {
+      "question": "¿Qué número de ítems totales se aplicaron distribuidos en distintos cuadernillos para evaluar las áreas sin sobrecargar a los estudiantes?",
+      "options": [
+        "Entre 69 y 84 ítems en 3° grado y entre 84 y 112 ítems en 6° grado",
+        "Entre 20 y 30 ítems en 3° grado y entre 30 y 40 ítems en 6° grado",
+        "Exactamente 200 ítems en cada cuadernillo individual para ambos grados",
+        "Un ítem único de desarrollo extenso por cada área de conocimiento"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 9 y 10",
+      "explicacion": "Se administraron entre 69 y 84 ítems en 3° grado y entre 84 y 112 en 6° grado repartidos en cuadernillos."
+    },
+    {
+      "question": "En cuanto al calendario escolar de aplicación del ERCE 2019, ¿cómo se dividieron los países participantes?",
+      "options": [
+        "Países con calendario norte (Cuba, Rep. Dominicana, México, parte de Ecuador y Colombia) aplicaron en el primer semestre; el resto en el segundo semestre de 2019",
+        "Todos los países aplicaron simultáneamente en la misma semana del mes de octubre de 2019",
+        "Los países del hemisferio sur aplicaron en enero de 2019 y los del norte en diciembre de 2019",
+        "La aplicación se extendió de manera continua a lo largo de tres años escolares (2018 a 2020)"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 9",
+      "explicacion": "Los países de calendario norte aplicaron en el primer semestre de 2019; los de calendario sur aplicaron en el segundo semestre."
+    },
+    {
+      "question": "¿Qué países quedaron excluidos de las comparaciones históricas con el TERCE 2013 en los análisis del informe ERCE 2019 y por qué?",
+      "options": [
+        "Cuba y El Salvador, puesto que no participaron en el ciclo del TERCE 2013",
+        "Bolivia y Chile, porque no entregaron sus cuestionarios de contexto",
+        "Argentina y Brasil, porque cambiaron sus marcos curriculares nacionales en 2015",
+        "México y Perú, porque aplicaron la prueba en formato digital en 2013"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 13 (Nota al pie 11)",
+      "explicacion": "Cuba y El Salvador no participaron en el TERCE 2013, por lo que se excluyen de los análisis comparativos entre 2013 y 2019."
+    },
+    {
+      "question": "¿Qué diferencia existe en la medición de significancia estadística versus diferencia 'sustantiva' en el reporte del ERCE 2019?",
+      "options": [
+        "Diferencia significativa refiere a rigor estadístico (p < 0.05) aun con magnitud pequeña; sustantiva refiere a una distancia relevante de impacto pedagógico en el logro",
+        "Significativa se aplica a escuelas privadas y sustantiva a escuelas rurales únicamente",
+        "Sustantiva es una estimación sin pruebas matemáticas y significativa es una opinión cualitativa",
+        "Ambas expresiones son sinónimos idénticos sin ninguna diferencia analítica en el reporte"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 12 (Nota al pie 8)",
+      "explicacion": "El informe aclara que 'significativa' es el criterio estadístico (5%), mientras 'sustantiva' o 'marcada' denota una magnitud relevante de cambio educativo."
+    },
+    {
+      "question": "¿Cuál es la función del Consejo Técnico de Alto Nivel (CTAN) en la estructura de gobernanza del ERCE 2019?",
+      "options": [
+        "Brindar asesoría experta internacional en psicometría y diseño muestral (con expertos de IEA, ETS, ALEPH y ACER)",
+        "Aprobar el presupuesto económico anual asignado por el Banco Mundial a cada país",
+        "Sancionar a los colegios que registren más del 20% de inasistencia durante las pruebas",
+        "Supervisar la contratación de los profesores aplicadores de aula en cada distrito"
+      ],
+      "answer": 0,
+      "fuente": "Agradecimientos, Pág. 5",
+      "explicacion": "El CTAN está compuesto por expertos internacionales de IEA, ETS, ALEPH y ACER que garantizan la calidad metodológica del estudio."
+    },
+    {
+      "question": "¿Qué representa el indicador ODS 4.1.1a frente al indicador 4.1.1b en el monitoreo de la Agenda 2030?",
+      "options": [
+        "El 4.1.1a monitorea competencias mínimas en 2° o 3° grado; el 4.1.1b monitorea competencias al final de la educación primaria (6° grado)",
+        "El 4.1.1a evalúa educación secundaria alta; el 4.1.1b evalúa educación preescolar no escolarizada",
+        "El 4.1.1a mide el gasto público en educación; el 4.1.1b mide el porcentaje de infraestructura escolar adaptada",
+        "El 4.1.1a se refiere a la formación docente; el 4.1.1b a las becas universitarias internacionales"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 10 y Sección 3, Pág. 23",
+      "explicacion": "El indicador 4.1.1a mide logros en 2°/3° grado (3° en ERCE) y el 4.1.1b al final de la primaria (6° en ERCE)."
+    },
+    {
+      "question": "¿Qué organismo de las Naciones Unidas brindó apoyo estratégico y financiero para la publicación del estudio ERCE 2019?",
+      "options": [
+        "La Oficina Regional de UNICEF para América Latina y el Caribe (UNICEF LACRO)",
+        "El Fondo Poblacional de las Naciones Unidas (UNFPA)",
+        "El Programa de las Naciones Unidas para el Desarrollo (PNUD)",
+        "La Organización Panamericana de la Salud (OPS)"
+      ],
+      "answer": 0,
+      "fuente": "Prólogo y Agradecimientos, Págs. 3 y 5",
+      "explicacion": "UNICEF LACRO brindó un apoyo estratégico fundamental en la realización del ERCE 2019."
+    },
+    {
+      "question": "En el marco curricular del ERCE 2019, ¿cómo se definieron las especificaciones de las pruebas para responder a los sistemas educativos de la región?",
+      "options": [
+        "A partir de un análisis curricular panregional realizado en 2017 que identificó enfoques, ejes temáticos y procesos cognitivos comunes",
+        "Copiando de manera textual los ítems de las pruebas PISA de la OCDE desarrolladas para países europeos",
+        "Utilizando los exámenes de admisión universitaria de las capitales latinoamericanas",
+        "Imponiendo un currículo único obligatorio redactado por consultores externos privados"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 8 y 9",
+      "explicacion": "El ERCE se basa en un riguroso análisis de los currículos vigentes de los 16 países participantes acordado en 2017."
+    },
+    {
+      "question": "¿Qué resultado general se obtuvo al comparar el rendimiento regional del ERCE 2019 con respecto al TERCE 2013?",
+      "options": [
+        "La región en su conjunto se mantuvo estancada sin avances significativos en la mayoría de los países y áreas evaluadas",
+        "La región mostró un crecimiento masivo e histórico de más de 50 puntos promedio en todas las áreas",
+        "Todos los países sufrieron un retroceso catastrófico de más de 100 puntos en 3° y 6° grado",
+        "La región alcanzó el 100% de cumplimiento de los objetivos de la Agenda 2030"
+      ],
+      "answer": 0,
+      "fuente": "Sección 5, Conclusiones, Pág. 38 y 39",
+      "explicacion": "El informe concluye que, para el conjunto de la región, no se evidenciaron avances significativos respecto de 2013, mostrando estancamiento."
+    },
+    {
+      "question": "¿Cuál es la principal característica del modelo de Niveles de Desempeño (I al IV) en las pruebas del ERCE 2019?",
+      "options": [
+        "Es un modelo inclusivo y acumulativo de creciente complejidad, donde los logros de los niveles inferiores son la base de los niveles superiores",
+        "Es un sistema de calificación sobre 10 puntos donde solo el Nivel IV aprueba la asignatura",
+        "Es un ordenamiento alfabético aleatorio donde el Nivel I representa la excelencia y el IV el fracaso",
+        "Es un rango de edad cronológica donde el Nivel I corresponde a niños de 6 años y el Nivel IV a jóvenes de 18 años"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 8",
+      "explicacion": "Los niveles de desempeño (I al IV) ordenan los conocimientos en un continuo de creciente complejidad acumulativa."
+    },
+    {
+      "question": "¿Qué porcentaje de estudiantes de 3° grado en la región se ubica en el Nivel I de desempeño en Lectura y Matemática?",
+      "options": [
+        "Más del 40% de los estudiantes se concentra en el Nivel I (más rezagado) en ambas asignaturas",
+        "Menos del 5% de los estudiantes se ubica en el Nivel I en la región",
+        "Exactamente el 90% de los alumnos se encuentra en el Nivel IV sobresaliente",
+        "Un 0% de los estudiantes en 3° grado gracias a los programas de educación preescolar"
+      ],
+      "answer": 0,
+      "fuente": "Sección 5, Pág. 38",
+      "explicacion": "Más del 40% de los estudiantes de 3° grado están estancados en el Nivel I en Lectura y Matemática."
+    },
+    {
+      "question": "¿Qué fenómeno se observa respecto a los estudiantes que no alcanzan el nivel mínimo de competencias (Nivel III) en Lectura de 6° grado?",
+      "options": [
+        "La mayoría se ubica en el Nivel II (inmediatamente anterior al esperado) y no en el Nivel I más rezagado",
+        "Todos los estudiantes reprobados están en el Nivel I sin saber leer letras individuales",
+        "El 100% de los estudiantes se encuentra en el Nivel IV pero sin título formal",
+        "Los estudiantes reprobados corresponden exclusivamente a escuelas privadas urbanas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 13",
+      "explicacion": "En 6° grado Lectura, la mayor parte de los que no llegan a Nivel III están en Nivel II, relativamente cerca de alcanzar el mínimo."
+    },
+    {
+      "question": "¿Qué relación existe entre los resultados de los países en 3° grado y sus resultados en 6° grado en la prueba de Lectura?",
+      "options": [
+        "Existe una consistencia directa: los países que superan la media regional en 3° grado también la superan en 6° grado",
+        "Existe una relación invertida: los países con mejor desempeño en 3° sufren un colapso total en 6° grado",
+        "No existe ninguna relación estadística entre el rendimiento de 3° y 6° grado en ningún país",
+        "Los países con menor puntaje en 3° logran los puntajes más altos del mundo en 6° grado"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 13",
+      "explicacion": "El rendimiento es altamente consistente entre grados: quienes están sobre el promedio regional en 3° también lo están en 6°."
+    },
+    {
+      "question": "¿Cuál es el puntaje promedio regional alcanzado en la prueba de Lectura de 3° grado en el ERCE 2019?",
+      "options": [
+        "697 puntos",
+        "750 puntos",
+        "600 puntos",
+        "810 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 12",
+      "explicacion": "El puntaje promedio de la región en Lectura 3° grado fue de 697 puntos."
+    },
+    {
+      "question": "¿Qué porcentaje de estudiantes a nivel regional supera el Nivel I de desempeño en Lectura de 3° grado?",
+      "options": [
+        "El 55,7% de los estudiantes logra superar el Nivel I de desempeño",
+        "El 95% de los estudiantes de la región alcanza el Nivel IV",
+        "Apenas el 12% de los alumnos logra leer palabras sencillas",
+        "El 100% de los alumnos supera el nivel mínimo de la Agenda 2030"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 12",
+      "explicacion": "A nivel regional, el 55,7% de los estudiantes de 3° grado supera el Nivel I de logro en Lectura."
+    },
+    {
+      "question": "¿Cuáles son los tres países que presentan el mayor porcentaje de estudiantes por sobre el Nivel I en Lectura de 3° grado?",
+      "options": [
+        "Perú (75,6%), Costa Rica (74,7%) y Brasil (72,4%)",
+        "República Dominicana (27,1%), Nicaragua (36,1%) y Guatemala (39,3%)",
+        "Argentina (54,4%), Colombia (64,1%) y Ecuador (58,1%)",
+        "Panamá (41,1%), Paraguay (48,6%) y Honduras (47,2%)"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 12 y 13",
+      "explicacion": "Perú (75,6%), Costa Rica (74,7%) y Brasil (72,4%) lideran la proporción de estudiantes sobre Nivel I en 3° Lectura."
+    },
+    {
+      "question": "¿Cuál es el puntaje promedio regional alcanzado en la prueba de Lectura de 6° grado en el ERCE 2019?",
+      "options": [
+        "696 puntos",
+        "740 puntos",
+        "620 puntos",
+        "800 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 12",
+      "explicacion": "El promedio regional en Lectura 6° grado fue de 696 puntos."
+    },
+    {
+      "question": "¿Qué porcentaje de estudiantes en la región alcanza el Nivel III o superior (Nivel Mínimo de Competencia) en Lectura de 6° grado?",
+      "options": [
+        "El 31,2% de los estudiantes a nivel regional",
+        "El 75% de los estudiantes evaluados",
+        "El 8,5% de la población escolar",
+        "El 50% exacto en todos los países"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 13",
+      "explicacion": "A nivel regional, solo un 31,2% de los estudiantes alcanza el Nivel III (MPL) en Lectura de 6° grado."
+    },
+    {
+      "question": "¿Qué países destacan en Lectura de 6° grado con el mayor porcentaje de estudiantes en los niveles más altos (Nivel III y IV)?",
+      "options": [
+        "Costa Rica (54,4%) y Perú (49,0%)",
+        "República Dominicana (16,4%) y Nicaragua (13,0%)",
+        "Guatemala (15,9%) y Honduras (16,2%)",
+        "Panamá (17,5%) y Paraguay (18,8%)"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 13 y Anexo 1",
+      "explicacion": "Costa Rica (54,4%) y Perú (49,0%) presentan las mayores proporciones de estudiantes en los niveles altos en 6° Lectura."
+    },
+    {
+      "question": "¿Qué países registraron los avances más acentuados y estadísticamente significativos en Lectura en AMBOS GRADOS (3° y 6°) respecto a TERCE 2013?",
+      "options": [
+        "Perú, Brasil y República Dominicana",
+        "Argentina, Colombia y México",
+        "Costa Rica, Ecuador y Uruguay",
+        "Guatemala, Honduras y Panamá"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 13 y 14",
+      "explicacion": "Perú, Brasil y República Dominicana mostraron avances significativos en Lectura en ambos grados comparados con 2013."
+    },
+    {
+      "question": "¿Cómo se comporta la variabilidad de puntajes en Lectura al comparar las brechas DENTRO de los países frente a las brechas ENTRE países?",
+      "options": [
+        "Es mayor la brecha de rendimiento al interior de los países (221 a 302 puntos) que entre los promedios de los países (113 a 129 puntos)",
+        "Las diferencias entre países son diez veces mayores que las diferencias entre estudiantes de la misma escuela",
+        "Todos los estudiantes dentro de un mismo país obtienen exactamente el mismo puntaje",
+        "La variabilidad entre países es de 500 puntos y la interna es de solo 10 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 14",
+      "explicacion": "La dispersión interna (hasta 302 pts entre p10 y p90 en Perú) supera ampliamente la distancia entre promedios de países (129 pts)."
+    },
+    {
+      "question": "¿Qué característica distingue el desempeño de Costa Rica en la prueba de Lectura en ambos grados respecto a su dispersión interna?",
+      "options": [
+        "Logra puntajes promedio muy elevados con una dispersión interna inferior a la media regional (resultados homogéneamente altos)",
+        "Presenta el puntaje más bajo de América Latina pero con total equidad social",
+        "Tiene la mayor brecha de desigualdad interna del mundo con 400 puntos de distancia",
+        "Es el único país donde el 100% de las escuelas son privadas internacionales"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 14 (Nota al pie 15)",
+      "explicacion": "Costa Rica destaca por combinar altos puntajes con menor dispersión interna (desviación estándar inferior al promedio regional)."
+    },
+    {
+      "question": "¿Qué patrón general de diferencias por sexo se observó en la prueba de Lectura en el ERCE 2019?",
+      "options": [
+        "Brechas favorables a las niñas en la mayoría de los países (13 países en 3° grado y 15 países en 6° grado)",
+        "Brechas masivas y sistemáticas a favor de los niños en todos los 16 países participantes",
+        "Ausencia total de diferencias significativas por sexo en el 100% de los casos evaluados",
+        "Ventaja de los niños en 6° grado y ventaja de las niñas en educación superior únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 18",
+      "explicacion": "En Lectura, las niñas superan significativamente a los niños en 13 países en 3° y en 15 países en 6° grado."
+    },
+    {
+      "question": "¿En qué países se registraron las mayores brechas de rendimiento en Lectura a favor de las niñas en 3° y 6° grado?",
+      "options": [
+        "República Dominicana en ambos grados, y Cuba en 6° grado (32 puntos de ventaja)",
+        "Perú y Guatemala en 3° grado con 50 puntos a favor de los niños",
+        "Brasil y Argentina en 6° grado sin diferencias según sexo",
+        "Costa Rica y Colombia con ventaja exclusiva para niños"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 18 y Gráficos 16-17",
+      "explicacion": "República Dominicana (29 pts en 3° y 36 en 6°) y Cuba (32 pts en 6°) presentan las mayores brechas a favor de las niñas en Lectura."
+    },
+    {
+      "question": "¿Qué tres países constituyeron la excepción en 3° grado al no presentar diferencias de rendimiento según sexo en Lectura?",
+      "options": [
+        "Honduras, Perú y Nicaragua",
+        "Argentina, Brasil y Uruguay",
+        "Cuba, Costa Rica y México",
+        "Ecuador, El Salvador y Panamá"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 18",
+      "explicacion": "En 3° grado Lectura, Honduras, Perú y Nicaragua no mostraron diferencias estadísticamente significativas por sexo."
+    },
+    {
+      "question": "¿Qué habilidad lectora de Nivel I son capaces de realizar los estudiantes de 3° grado según la descripción de los niveles de desempeño?",
+      "options": [
+        "Localizar información explícita literal ubicada al inicio o en lugares destacados del texto (títulos o palabras resaltadas)",
+        "Sintetizar la postura crítica del autor comparando tres ensayos contrapuestos",
+        "Interpretar metáforas complejas en poesía barroca del siglo XVII",
+        "Evaluar la validez científica de las fuentes bibliográficas de un artículo"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 2, Pág. 44",
+      "explicacion": "En Nivel I (3° Lectura), los alumnos localizan información literal destacada o al inicio del texto."
+    },
+    {
+      "question": "¿Qué capacidades caracterizan a un estudiante de 3° grado que alcanza el Nivel II (Nivel Mínimo de Competencia) en Lectura?",
+      "options": [
+        "Localizar información explícita o parafraseada en distintas partes del texto y realizar inferencias a partir de información cercana o claramente sugerida",
+        "Redactar un ensayo argumentativo sin errores gramaticales",
+        "Traducir un texto narrativo a dos idiomas originarios de la región",
+        "Reconocer únicamente la primera letra del título de un cuento"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 12 y Anexo 2, Pág. 44",
+      "explicacion": "En Nivel II (3° Lectura), el alumno ubica datos explícitos/parafraseados en distintas partes e infiere a partir de información sugerida."
+    },
+    {
+      "question": "¿Qué desempeño distingue a los estudiantes de 3° grado que logran el Nivel IV (más alto) en Lectura?",
+      "options": [
+        "Realizar inferencias globales integrando información implícita, reconocer estructuras no prototípicas y diferenciar el propósito central de propósitos secundarios",
+        "Leer 300 palabras por minuto sin comprender el significado del texto",
+        "Memorizar el texto completo y repetirlo en voz alta en un examen oral",
+        "Identificar únicamente si el texto contiene dibujos o imágenes en color"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 2, Pág. 43",
+      "explicacion": "En Nivel IV (3° Lectura), concluyen a partir de pistas, integran información implícita y distinguen propósitos secundarios."
+    },
+    {
+      "question": "¿Qué tipos de textos debieron leer los estudiantes de 6° grado en la prueba de Lectura del ERCE 2019?",
+      "options": [
+        "Narraciones literarias, poemas, cartas, notas, artículos informativos, noticias, relatos, afiches y textos dobles comparativos",
+        "Manuales técnicos de ingeniería mecánica y reglamentos jurídicos comerciales",
+        "Artículos académicos universitarios en idioma inglés y portugués exclusivamente",
+        "Textos publicitarios breves de menos de 10 palabras sin oraciones completas"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 2, Pág. 45",
+      "explicacion": "En 6° grado, leyeron narraciones, poemas, cartas, noticias, afiches, artículos y textos dobles para comparar."
+    },
+    {
+      "question": "¿Qué habilidad caracteriza al Nivel III (MPL) en Lectura de 6° grado?",
+      "options": [
+        "Realizar inferencias a partir de conexiones entre ideas secundarias en diferentes partes de uno o más textos, e interpretar lenguaje figurado con claves implícitas",
+        "Identificar el título del libro impreso en la portada exterior",
+        "Escribir una novela de ficción científica con estructura dramática",
+        "Localizar únicamente palabras que estén escritas en letra mayúscula sostenida"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 13 y Anexo 2, Pág. 46",
+      "explicacion": "En Nivel III (6° Lectura), conectan ideas secundarias entre textos e interpretan lenguaje figurado implícito."
+    },
+    {
+      "question": "En el indicador ODS 4.1.1a de Lectura (3° grado), ¿qué porcentajes regionales de cumplimiento se registraron para niñas y niños?",
+      "options": [
+        "El 59% de las niñas y el 53% de los niños alcanzaron al menos el nivel mínimo de competencias",
+        "El 10% de las niñas y el 90% de los niños cumplieron la meta global",
+        "El 100% de las niñas y el 100% de los niños en todos los países de la región",
+        "El 25% de las niñas y el 25% de los niños sin diferencias de género"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 23 y Gráfico 21",
+      "explicacion": "En 3° Lectura, alcanza el MPL el 59% de las niñas y el 53% de los niños a nivel regional."
+    },
+    {
+      "question": "En el indicador ODS 4.1.1b de Lectura (6° grado), ¿cuál es la preocupante situación regional para niñas y niños?",
+      "options": [
+        "Apenas el 34% de las niñas y el 28% de los niños logran las competencias mínimas en la región",
+        "El 85% de las niñas y el 80% de los niños alcanzan la meta de la Agenda 2030",
+        "El 0% de los niños logra comprender un texto básico en 6° de primaria",
+        "El 60% de los alumnos de la región se ubica en el Nivel IV de excelencia"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 23",
+      "explicacion": "En 6° Lectura, solo el 34% de las niñas y el 28% de los niños alcanzan el Nivel III (MPL) esperado."
+    },
+    {
+      "question": "En República Dominicana, ¿qué porcentaje de estudiantes alcanza el Nivel Mínimo de Competencia (MPL) en Lectura en 3° y 6° grado?",
+      "options": [
+        "Un 27,1% en 3° grado (Nivel II) y un 16,4% en 6° grado (Nivel III)",
+        "Un 80% en 3° grado y un 75% en 6° grado",
+        "Un 50% en 3° grado y un 50% en 6° grado",
+        "Un 5% en 3° grado y un 0% en 6° grado"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 1, Págs. 41 y 42",
+      "explicacion": "En República Dominicana, logra el MPL el 27,1% en 3° Lectura y el 16,4% en 6° Lectura."
+    },
+    {
+      "question": "¿Qué ocurre con el rendimiento en Lectura de Guatemala en 6° grado en términos de diferencias por sexo?",
+      "options": [
+        "Es el único país en 6° grado donde no se observaron diferencias estadísticamente significativas entre niñas y niños (-1 pt)",
+        "Presenta una brecha gigantesca de 100 puntos a favor de los niños",
+        "Las niñas superan a los niños por más de 50 puntos de diferencia",
+        "Los niños obtienen el primer lugar de América Latina y las niñas el último"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 18 y Gráfico 17",
+      "explicacion": "En 6° Lectura, Guatemala no mostró diferencia significativa por sexo (-1 no significativo)."
+    },
+    {
+      "question": "¿Qué diferencia de puntaje separa al país de más alto rendimiento promedio del de más bajo rendimiento promedio en Lectura de 3° y 6° grado?",
+      "options": [
+        "Aproximadamente 129 puntos en 3° grado (Costa Rica/Brasil 748 vs Rep. Dominicana 624) y 113 puntos en 6° grado (Costa Rica 757 vs Rep. Dominicana 644)",
+        "Exactamente 500 puntos en ambos grados escolares",
+        "Aproximadamente 20 puntos entre todos los países evaluados",
+        "1.000 puntos de distancia equivalente a diez desviaciones estándar"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 14 (Nota al pie 14)",
+      "explicacion": "La distancia entre promedios de países es de unos 129 pts en 3° y 113 pts en 6° de Lectura."
+    },
+    {
+      "question": "¿Qué resultado obtuvo Brasil en la prueba de Lectura de 3° y 6° grado en el ERCE 2019?",
+      "options": [
+        "748 puntos en 3° grado (superando la media regional por 51 pts) y 734 puntos en 6° grado (superando la media por 38 pts)",
+        "600 puntos en 3° grado y 550 en 6° grado ubicándose en el último lugar",
+        "697 puntos en 3° grado y 696 en 6° grado igualando de forma exacta la media regional",
+        "850 puntos en ambos grados alcanzando el nivel máximo teórico"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 1, Págs. 41 y 42",
+      "explicacion": "Brasil logró 748 pts en 3° Lectura (+36 respecto a TERCE) y 734 pts en 6° Lectura."
+    },
+    {
+      "question": "¿Qué desempeño mostró Uruguay en Lectura en el ERCE 2019?",
+      "options": [
+        "723 puntos en 3° grado y 734 puntos en 6° grado, ubicándose significativamente sobre el promedio regional en ambos grados",
+        "620 puntos en 3° grado y 610 en 6° grado ubicándose bajo la media regional",
+        "697 puntos exactos en ambos grados con 0% de dispersión",
+        "No aplicó la prueba de Lectura por centrarse únicamente en Ciencias"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 1, Págs. 41 y 42",
+      "explicacion": "Uruguay obtuvo 723 pts en 3° Lectura y 734 pts en 6° Lectura, ambos por encima del promedio regional."
+    },
+    {
+      "question": "¿Cuál es la interpretación de que un estudiante alcance el Nivel II en Lectura de 3° grado respecto de la comprensión global?",
+      "options": [
+        "Infiere el tema central, características de personajes y conflicto a partir de información explícita destacada o reiterada",
+        "Infiere la filosofía del autor evaluando el contexto histórico del siglo XIX",
+        "Comprende únicamente palabras aisladas sin poder unir dos oraciones",
+        "Lee textos científicos complejos de física cuántica"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 2, Pág. 44",
+      "explicacion": "En Nivel II (3° Lectura), comprende globalmente infiriendo tema, personajes y conflicto con claves explícitas destacadas."
+    },
+    {
+      "question": "¿Cuál es el puntaje promedio regional alcanzado en la prueba de Matemática de 3° grado en el ERCE 2019?",
+      "options": [
+        "698 puntos",
+        "750 puntos",
+        "620 puntos",
+        "800 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15",
+      "explicacion": "El promedio regional en Matemática de 3° grado fue de 698 puntos."
+    },
+    {
+      "question": "¿Qué porcentaje de estudiantes de 3° grado en la región logra alcanzar al menos el Nivel II (Nivel Mínimo de Competencia) en Matemática?",
+      "options": [
+        "El 52,3% de los estudiantes",
+        "El 90% de los estudiantes",
+        "El 15% de los estudiantes",
+        "El 100% de los estudiantes"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15",
+      "explicacion": "A nivel regional, un 52,3% de los alumnos de 3° grado alcanza al menos el Nivel II en Matemática."
+    },
+    {
+      "question": "¿Qué país obtuvo el puntaje promedio más alto de América Latina en Matemática de 3° grado?",
+      "options": [
+        "Cuba con 751 puntos",
+        "Brasil con 744 puntos",
+        "Perú con 740 puntos",
+        "Costa Rica con 725 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15 y Anexo 1",
+      "explicacion": "Cuba obtuvo el puntaje más elevado de la región en 3° Matemática con 751 puntos."
+    },
+    {
+      "question": "¿Cuáles son los tres países con mayor porcentaje de estudiantes por sobre el Nivel I en Matemática de 3° grado?",
+      "options": [
+        "Cuba (75,0%), Perú (70,7%) y Brasil (69,0%)",
+        "República Dominicana (19,8%), Panamá (31,7%) y Nicaragua (34,6%)",
+        "Guatemala (35,1%), Paraguay (38,2%) y El Salvador (50,1%)",
+        "Argentina (51,1%), Colombia (56,4%) y Ecuador (57,0%)"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15",
+      "explicacion": "Cuba (75%), Perú (70,7%) y Brasil (69%) lideran la proporción de estudiantes sobre Nivel I en 3° Matemática."
+    },
+    {
+      "question": "¿Cuál es el puntaje promedio regional alcanzado en la prueba de Matemática de 6° grado en el ERCE 2019?",
+      "options": [
+        "697 puntos",
+        "740 puntos",
+        "630 puntos",
+        "780 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 16",
+      "explicacion": "El promedio de la región en Matemática de 6° grado fue de 697 puntos."
+    },
+    {
+      "question": "¿Qué porcentaje promedio de estudiantes en la región logra alcanzar el Nivel III o superior (Nivel Mínimo de Competencia) en Matemática de 6° grado?",
+      "options": [
+        "Apenas el 17,4% de los estudiantes de la región",
+        "El 65% de los estudiantes de la región",
+        "El 45% de los estudiantes de la región",
+        "El 80% de los estudiantes de la región"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15",
+      "explicacion": "En 6° Matemática, la cifra regional es sumamente crítica: solo el 17,4% alcanza el Nivel III (MPL)."
+    },
+    {
+      "question": "¿Qué hallazgo crítico revela el informe sobre el Nivel IV de desempeño en Matemática de 6° grado en la región?",
+      "options": [
+        "En ocho países prácticamente no se observan rendimientos de Nivel IV (cercano al 0%)",
+        "El 50% de los alumnos de todos los países se ubica en el Nivel IV",
+        "Todos los países lograron más del 30% de sus alumnos en el Nivel IV",
+        "El Nivel IV fue eliminado por ser considerado demasiado fácil"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15",
+      "explicacion": "En 8 países de los 16 evaluados, el porcentaje de estudiantes en Nivel IV es prácticamente inexistente (0,1% a 2%)."
+    },
+    {
+      "question": "¿Qué tres países lideran el desempeño en Matemática de 6° grado con los porcentajes más altos de estudiantes sobre el Nivel III?",
+      "options": [
+        "Perú (38,9%), México (38,0%) y Uruguay (38,0%)",
+        "República Dominicana (2,1%), Panamá (3,3%) y Nicaragua (3,1%)",
+        "Guatemala (6,7%), El Salvador (7,6%) y Paraguay (5,6%)",
+        "Honduras (11,2%), Argentina (13,1%) y Colombia (16,6%)"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15 y Anexo 1",
+      "explicacion": "Perú (38,9%), México (38%) y Uruguay (38%) encabezan la proporción de estudiantes que logran el MPL en 6° Matemática."
+    },
+    {
+      "question": "¿Qué país presentó el avance más marcado y estadísticamente significativo en Matemática de 6° grado con respecto al TERCE 2013?",
+      "options": [
+        "Perú (+38 puntos de incremento)",
+        "Argentina (-32 puntos de retroceso)",
+        "México (-10 puntos de caída)",
+        "Guatemala (-15 puntos de caída)"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 16 y Anexo 1",
+      "explicacion": "Perú tuvo un progreso sobresaliente de +38 puntos en Matemática 6° grado respecto a 2013."
+    },
+    {
+      "question": "¿Qué país presentó la mayor dispersión de puntajes internos en la prueba de Matemática de 6° grado?",
+      "options": [
+        "Cuba, con una distancia de 297 puntos entre el percentil 10 y el percentil 90",
+        "Costa Rica, con solo 10 puntos de diferencia interna",
+        "República Dominicana, con 500 puntos de distancia",
+        "Paraguay, con dispersión cero entre sus escuelas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 16",
+      "explicacion": "Cuba fue el país con mayor heterogeneidad interna en 6° Matemática (297 pts entre p10 y p90)."
+    },
+    {
+      "question": "¿Qué patrón general de diferencias por sexo predomina en la prueba de Matemática en la región?",
+      "options": [
+        "La mayor parte de los países no presenta diferencias por sexo; cuando existen, favorecen a los niños, con una excepción notable",
+        "Las niñas superan a los niños por más de 50 puntos en los 16 países participantes",
+        "Los niños superan a las niñas en el 100% de los países con brechas superiores a 100 puntos",
+        "Existe una paridad matemática perfecta e idéntica en todas las escuelas rurales y urbanas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 18",
+      "explicacion": "En Matemática, la mayoría de países no muestra brecha; donde existe, favorece a niños, excepto en Rep. Dominicana."
+    },
+    {
+      "question": "¿Cuál es la única excepción nacional en América Latina donde las NIÑAS aventajan significativamente a los niños en Matemática en 3° y 6° grado?",
+      "options": [
+        "República Dominicana (19 puntos a favor de las niñas en 3° y 22 puntos en 6°)",
+        "Perú (17 puntos a favor de los niños)",
+        "Brasil (12 puntos a favor de los niños)",
+        "Costa Rica (4 puntos a favor de los niños)"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 18 y Gráficos 18-19",
+      "explicacion": "República Dominicana es el único país donde las niñas superan a los niños en Matemática en ambos grados."
+    },
+    {
+      "question": "¿Qué dominios de conocimiento evalúa la prueba de Matemática del ERCE 2019?",
+      "options": [
+        "Números y operaciones, Geometría, Magnitudes y medición, Estadística, Patrones y álgebra",
+        "Cálculo diferencial, Trigonometría plana, Geometría analítica y Física matemática",
+        "Aritmética básica exclusivamente sin incluir geometría ni medición",
+        "Lógica simbólica, Teoría de conjuntos pura y Contabilidad bancaria"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15",
+      "explicacion": "Evalúa 5 dominios: Números y operaciones, Geometría, Magnitudes/medición, Estadística, y Patrones/álgebra."
+    },
+    {
+      "question": "¿Qué procesos cognitivos o grupos de habilidades se evalúan en la prueba de Matemática del ERCE 2019?",
+      "options": [
+        "Reconocimiento de objetos y situaciones, Resolución de problemas simples, y Resolución de problemas complejos y modelamiento",
+        "Memorización de fórmulas, Repetición de tablas de multiplicar y Copia de ejercicios del pizarrón",
+        "Demostración de teoremas axiomáticos universitarios y Programación de software",
+        "Cálculo mental de velocidad sin papel ni lápiz"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15",
+      "explicacion": "Evalúa 3 grupos de habilidades cognitivas: Reconocimiento, Resolución de problemas simples, y Problemas complejos/modelamiento."
+    },
+    {
+      "question": "¿Qué aprendizajes caracterizan a un estudiante de 3° grado que se ubica en el Nivel I en Matemática?",
+      "options": [
+        "Leer números naturales hasta 9.999, identificar figuras geométricas básicas y estimar longitudes con unidades no convencionales",
+        "Calcular integrales definidas y derivadas parciales",
+        "Resolver ecuaciones cuadráticas con dos incógnitas",
+        "No reconoce números mayores al número 10"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 2, Pág. 47",
+      "explicacion": "En Nivel I (3° Matemática), leen números hasta 9.999, reconocen figuras básicas y estiman con unidades no convencionales."
+    },
+    {
+      "question": "¿Qué capacidades demuestra un estudiante de 3° grado en el Nivel II (Nivel Mínimo de Competencia) de Matemática?",
+      "options": [
+        "Escribir y componer aditivamente hasta 9.999, identificar elementos geométricos (vértices, lados), leer tablas/gráficos de barras e identificar unidades de medida adecuadas",
+        "Demostrar el teorema de Pitágoras con geometría euclidiana",
+        "Calcular operaciones con números complejos e imaginarios",
+        "Sumar únicamente números de un solo dígito sin reserva"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15 y Anexo 2, Pág. 48",
+      "explicacion": "En Nivel II (3° Matemática), compone números hasta 9.999, reconoce vértices/l lados, lee gráficos simples e identifica unidades de medida."
+    },
+    {
+      "question": "¿Qué tareas es capaz de realizar un estudiante de 6° grado que alcanza el Nivel III (MPL) en Matemática?",
+      "options": [
+        "Resolver problemas con dos o más operaciones aritméticas, interpretar gráficos/tablas, calcular áreas y perímetros, sumar/restar fracciones de igual denominador e identificar paralelismo/perpendicularidad",
+        "Calcular la matriz inversa de orden 4x4",
+        "Resolver problemas de física cuántica relativista",
+        "Realizar únicamente sumas de números enteros de dos dígitos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 15 y Anexo 2, Pág. 50",
+      "explicacion": "En Nivel III (6° Matemática), resuelve problemas de varias operaciones, áreas/perímetros, fracciones homogéneas y paralelismo."
+    },
+    {
+      "question": "En el indicador ODS 4.1.1a de Matemática (3° grado), ¿qué porcentaje de niños y niñas alcanza el nivel mínimo de competencias a nivel regional?",
+      "options": [
+        "El 53% de los niños y el 52% de las niñas",
+        "El 95% de los niños y el 95% de las niñas",
+        "El 20% de los niños y el 10% de las niñas",
+        "El 100% de la población estudiantil evaluada"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 23",
+      "explicacion": "A nivel regional, el 53% de los niños y el 52% de las niñas alcanzan el MPL en 3° Matemática."
+    },
+    {
+      "question": "En el indicador ODS 4.1.1b de Matemática (6° grado), ¿cuál es el porcentaje regional de niños y niñas que logra el nivel mínimo de competencias?",
+      "options": [
+        "Apenas el 18% de los niños y el 17% de las niñas",
+        "El 70% de los niños y el 65% de las niñas",
+        "El 50% exacto para ambos sexos",
+        "Menos del 1% en todos los países de la región"
+      ],
+      "answer": 0,
+      "fuente": "Sección 3, Pág. 23",
+      "explicacion": "En 6° Matemática, la tasa de logro de la meta 4.1 es crítica: solo 18% de niños y 17% de niñas alcanzan el MPL."
+    },
+    {
+      "question": "¿En qué países el porcentaje de estudiantes que alcanza el Nivel III en Matemática de 6° grado es MENOR al 5%?",
+      "options": [
+        "República Dominicana (2,1%), Nicaragua (3,1%), Panamá (3,3%) y Guatemala (6,7%)",
+        "México (38%), Perú (38,9%) y Uruguay (38%)",
+        "Costa Rica (20,9%), Cuba (20,7%) y Ecuador (22,9%)",
+        "Brasil (28,8%), Colombia (16,6%) y Argentina (13,1%)"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 1, Pág. 42",
+      "explicacion": "En Rep. Dominicana (2,1%), Nicaragua (3,1%) y Panamá (3,3%), menos de 5 de cada 100 alumnos alcanzan el MPL."
+    },
+    {
+      "question": "¿Qué resultado obtuvo México en la prueba de Matemática de 3° y 6° grado?",
+      "options": [
+        "722 puntos en 3° grado y 758 puntos en 6° grado (segundo promedio más alto de la región en 6°)",
+        "600 puntos en 3° grado y 580 puntos en 6° grado",
+        "698 puntos en 3° grado y 697 en 6° grado igualando exactamente la media regional",
+        "800 puntos en ambos grados escolares"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 1, Págs. 41 y 42",
+      "explicacion": "México logró 722 pts en 3° Matemática y 758 pts en 6° Matemática (destacando con 38% en Nivel III y IV)."
+    },
+    {
+      "question": "¿Qué ocurrió con el rendimiento de Argentina en Matemática de 6° grado al comparar ERCE 2019 con TERCE 2013?",
+      "options": [
+        "Sufrió una disminución estadísticamente significativa de 32 puntos (pasando de 722 a 690 puntos)",
+        "Aumentó 50 puntos ubicándose en el primer lugar de América Latina",
+        "Se mantuvo exactamente idéntico sin un solo punto de variación",
+        "No fue evaluada en el TERCE 2013 por lo que no existe comparación"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 1, Pág. 42 y Gráfico 10",
+      "explicacion": "Argentina registró una caída de -32 puntos en 6° Matemática respecto a 2013."
+    },
+    {
+      "question": "¿Qué desempeño tuvo Brasil en Matemática de 3° y 6° grado en el ERCE 2019?",
+      "options": [
+        "744 puntos en 3° grado (+17 sobre TERCE) y 733 puntos en 6° grado (+24 sobre TERCE), mostrando avances significativos en ambos grados",
+        "620 puntos en 3° grado y 610 puntos en 6° grado",
+        "698 puntos en 3° grado y 697 en 6° grado",
+        "No participó en las pruebas de Matemática por enfocarse solo en Lectura"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 1, Págs. 41 y 42",
+      "explicacion": "Brasil avanzó significativamente en ambos grados en Matemática (744 en 3° y 733 en 6°)."
+    },
+    {
+      "question": "¿Qué distancia separa los puntajes promedio entre el país de más alto rendimiento y el de más bajo rendimiento en Matemática de 3° y 6° grado?",
+      "options": [
+        "Aproximadamente 127 puntos en 3° grado (Cuba 751 vs Rep. Dominicana 624) y 123 puntos en 6° grado (Perú/Uruguay 759 vs Rep. Dominicana 636)",
+        "Exactamente 400 puntos en ambos grados",
+        "Solo 15 puntos de distancia entre todos los países",
+        "800 puntos de brecha entre promedios nacionales"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 16",
+      "explicacion": "La diferencia entre el país con mayor y menor promedio es de 127 pts en 3° y 123 pts en 6° de Matemática."
+    },
+    {
+      "question": "¿Qué caracteriza el rendimiento de un estudiante que alcanza el Nivel IV (más alto) en Matemática de 6° grado?",
+      "options": [
+        "Resolver problemas complejos de proporcionalidad, porcentajes, ecuaciones sencillas, conversión de unidades y deducción de propiedades geométricas",
+        "Realizar cálculo de ecuaciones diferenciales de segundo orden",
+        "Memorizar de memoria la tabla del 12 sin comprender su aplicación",
+        "Contar objetos físicos usando los dedos de la mano"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 2, Pág. 51",
+      "explicacion": "En Nivel IV (6° Matemática), resuelven problemas complejos con porcentajes, proporcionalidad y propiedades geométricas."
+    },
+    {
+      "question": "¿En qué grado de educación primaria evalúa el ERCE 2019 el área de Ciencias?",
+      "options": [
+        "Exclusivamente en 6° grado de primaria",
+        "Exclusivamente en 3° grado de primaria",
+        "En 3° y 6° grado de primaria de forma idéntica",
+        "Desde el nivel inicial escolarizado hasta 6° de primaria"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 8 y Sección 2, Pág. 17",
+      "explicacion": "La prueba de Ciencias se administra únicamente a los estudiantes de 6° grado de primaria."
+    },
+    {
+      "question": "¿Cuál es el puntaje promedio regional alcanzado en la prueba de Ciencias de 6° grado en el ERCE 2019?",
+      "options": [
+        "702 puntos",
+        "750 puntos",
+        "650 puntos",
+        "800 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 17",
+      "explicacion": "El promedio de la región en la prueba de Ciencias de 6° grado fue de 702 puntos."
+    },
+    {
+      "question": "¿Qué porcentaje promedio de estudiantes en la región alcanza el Nivel III o superior en la prueba de Ciencias de 6° grado?",
+      "options": [
+        "Solo un quinto de los estudiantes (20,7%)",
+        "El 70% de los estudiantes",
+        "El 50% de los estudiantes",
+        "El 95% de los estudiantes"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 17",
+      "explicacion": "En Ciencias 6° grado, solo un 20,7% de los alumnos alcanza el Nivel III (MPL) de competencias."
+    },
+    {
+      "question": "¿Qué país presentó el desempeño más destacado de América Latina en la prueba de Ciencias de 6° grado?",
+      "options": [
+        "Cuba, con 779 puntos (superando por 77 puntos al promedio regional y con 48,6% en Niveles III y IV)",
+        "Costa Rica, con 758 puntos",
+        "Uruguay, con 731 puntos",
+        "México, con 726 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 17",
+      "explicacion": "Cuba lideró ampliamente en Ciencias con 779 puntos (+77 sobre el promedio regional)."
+    },
+    {
+      "question": "¿Qué dominios de conocimiento evalúa la prueba de Ciencias del ERCE 2019?",
+      "options": [
+        "Cuerpo humano y Salud, Ciencia, Tecnología y Sociedad, La Tierra y el Sistema Solar, Energía y Materia, y Seres vivos, Ecología y Medio Ambiente",
+        "Anatomía patológica, Genética molecular y Astronomía avanzada",
+        "Física cuántica, Química orgánica sintética y Geología de yacimientos",
+        "Botánica sistemática exclusivamente sin abarcar el cuerpo humano"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 17",
+      "explicacion": "Evalúa 5 dominios: Cuerpo humano/Salud, CTS, Tierra/Sistema Solar, Energía/Materia, y Seres vivos/Ecología/Medio Ambiente."
+    },
+    {
+      "question": "¿Qué tres grupos de procesos cognitivos o habilidades evalúa la prueba de Ciencias?",
+      "options": [
+        "Reconocimiento de información científica, Análisis y aplicación del conocimiento científico, y Producción, transferencia y evaluación del conocimiento científico",
+        "Memorización de nombres latinos de especies, Copia de diagramas y Dibujo a mano alzada",
+        "Lectura en voz alta de enciclopedias y Repetición de experimentos de memoria",
+        "Invención de teorías sin evidencia empírica"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 17",
+      "explicacion": "Evalúa 3 niveles cognitivos: Reconocimiento, Análisis/Aplicación, y Producción/Transferencia/Evaluación científica."
+    },
+    {
+      "question": "¿Qué patrón de brechas por sexo se observó en la prueba de Ciencias de 6° grado?",
+      "options": [
+        "En 9 de 16 países no hubo diferencia; en los 7 países restantes existieron diferencias favorables a las niñas, generalmente de baja magnitud",
+        "Los niños superaron a las niñas por más de 80 puntos en los 16 países",
+        "Las niñas superaron a los niños por más de 100 puntos en todos los colegios privados",
+        "No se pudo calcular la brecha por sexo por falta de datos en los cuestionarios"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 18",
+      "explicacion": "En Ciencias, 9 países no registraron brecha; en 7 países las niñas aventajaron levemente a los niños."
+    },
+    {
+      "question": "¿Qué países mostraron los avances más significativos en Ciencias de 6° grado con respecto al TERCE 2013?",
+      "options": [
+        "Brasil (+18 pts), Perú (+22 pts) y República Dominicana (+17 pts)",
+        "Argentina (-18 pts) y Colombia (-22 pts)",
+        "Guatemala (-23 pts) y México (-6 pts)",
+        "Costa Rica (+2 pts) y Uruguay (+6 pts) sin cambios significativos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 17 y Anexo 1",
+      "explicacion": "Brasil, Perú y República Dominicana fueron los países con progresos significativos en Ciencias frente a 2013."
+    },
+    {
+      "question": "¿Qué capacidades caracterizan a un estudiante de 6° grado que alcanza el Nivel III (MPL) en Ciencias?",
+      "options": [
+        "Explicar fenómenos cotidianos aplicando conocimiento científico, discriminar preguntas e hipótesis investigables, evaluar diseños experimentales y sacar conclusiones de gráficos",
+        "Identificar únicamente el nombre de la Tierra como planeta del Sistema Solar",
+        "Publicar artículos en revistas científicas arbitradas internacionalmente",
+        "Reconocer solo acciones elementales de higiene diaria"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 17 y Anexo 2, Pág. 52",
+      "explicacion": "En Nivel III (6° Ciencias), explican fenómenos cotidianos, discriminan hipótesis, evalúan experimentos y leen gráficos."
+    },
+    {
+      "question": "En el estudio de factores asociados, ¿qué impacto positivo genera la asistencia a la educación preescolar en los aprendizajes de los estudiantes?",
+      "options": [
+        "Los estudiantes que asistieron a preescolar obtienen en promedio 28 puntos más en las pruebas del ERCE 2019 en comparación con quienes no lo hicieron",
+        "La asistencia a preescolar no genera ningún impacto positivo en la educación primaria",
+        "Produce un efecto negativo de -50 puntos por causar cansancio infantil prematuro",
+        "Genera una ventaja de 200 puntos pero solo en escuelas privadas bilingües"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Factores Asociados, Pág. 26",
+      "explicacion": "Asistir a educación preescolar se asocia con un logro de +28 puntos promedio en la región."
+    },
+    {
+      "question": "¿Qué ocurre con la ventaja de la educación preescolar en países como Colombia, Ecuador, Nicaragua y República Dominicana al controlar por el nivel socioeconómico (NSE)?",
+      "options": [
+        "La ventaja desaparece al considerar las diferencias socioeconómicas de las familias",
+        "La ventaja se triplica alcanzando más de 100 puntos de diferencia",
+        "La ventaja se convierte en una sanción económica para las familias",
+        "No se puede medir por falta de datos en los cuestionarios de preescolar"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 27",
+      "explicacion": "En esos 4 países, la ventaja inicial del preescolar se atenúa o desaparece tras controlar por el NSE familiar."
+    },
+    {
+      "question": "¿Cuál es el efecto de la repetición de grado sobre los logros de aprendizaje de los estudiantes en la región?",
+      "options": [
+        "La repetición se asocia sistemáticamente con menores logros; los repitientes obtienen en promedio 65 puntos menos que quienes no han repetido",
+        "La repetición mejora el rendimiento en +80 puntos al permitir repasar las materias no aprendidas",
+        "La repetición no produce ningún impacto medible en las pruebas del ERCE",
+        "La repetición garantiza la graduación universitaria automática con honores"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 27",
+      "explicacion": "La repetición tiene una relación fuertemente negativa: los estudiantes que repitieron obtienen en promedio 65 puntos menos."
+    },
+    {
+      "question": "¿Qué porcentaje de estudiantes declara haber repetido al menos un grado en la región y cuál es el rango de variación entre países?",
+      "options": [
+        "En promedio el 18% declara haber repetido; variando desde un 2%-5% en Cuba hasta un 34% en Nicaragua y 37% en Colombia",
+        "En promedio el 80% ha repetido algún grado en la región",
+        "Un 0% en todos los países debido a leyes de promoción automática universal",
+        "Un 50% exacto en todos los colegios urbanos y rurales"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 27 y 28",
+      "explicacion": "Un 18% promedio de estudiantes en la región ha repetido; el rango va de 2%-5% en Cuba hasta 37% en Colombia (en 6°)."
+    },
+    {
+      "question": "¿Cómo afecta la inasistencia o ausentismo escolar frecuente a los resultados de aprendizaje?",
+      "options": [
+        "Los estudiantes que se ausentan 2 o más veces al mes obtienen rendimientos significativamente menores (-15 a -35 puntos)",
+        "Faltar a clases mejora el rendimiento porque los alumnos estudian mejor solos en su casa",
+        "El ausentismo no tiene ninguna relación con el logro en ninguna asignatura",
+        "Faltar a clases suma +50 puntos en la prueba de Ciencias"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 28 y Gráfico 27",
+      "explicacion": "Ausentarse 2 o más veces al mes se asocia a pérdidas de entre 15 y 35 puntos promedio según la asignatura."
+    },
+    {
+      "question": "¿Qué beneficio aporta la dedicación de tiempo al estudio en el hogar fuera de la jornada escolar?",
+      "options": [
+        "Los estudiantes que dedican al menos un día a la semana al estudio fuera de la escuela obtienen en promedio 39 puntos más",
+        "Dedicar tiempo a estudiar en casa reduce los aprendizajes en -20 puntos por sobrecarga cognitiva",
+        "Estudiar en casa solo sirve si el estudiante contrata un profesor particular privado",
+        "Aporta un incremento de 200 puntos en Educación Física únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 28",
+      "explicacion": "Dedicar al menos un día adicional a estudiar en el hogar se asocia a +39 puntos promedio de logro."
+    },
+    {
+      "question": "¿Qué desventaja sistemática de aprendizaje registran los estudiantes pertenecientes a pueblos originarios (indígenas) en 6° grado?",
+      "options": [
+        "Obtienen en promedio 22 puntos menos que sus pares no indígenas, persistiendo la brecha aun al controlar por nivel socioeconómico",
+        "Obtienen 100 puntos más que los estudiantes no indígenas en todas las materias",
+        "No presentan ninguna brecha de aprendizaje en ningún país de la región",
+        "Solo presentan diferencias en la materia de Educación Musical"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 28 y 29",
+      "explicacion": "Los estudiantes de pueblos originarios sufren una brecha de -22 puntos promedio, independiente del NSE."
+    },
+    {
+      "question": "¿En qué país la brecha de rendimiento entre estudiantes indígenas y no indígenas en 6° grado alcanzó su punto más crítico (-117 puntos)?",
+      "options": [
+        "Costa Rica (-117 puntos de diferencia en Lectura)",
+        "Guatemala (donde el 68% es indígena y no hay brecha)",
+        "Honduras (donde la diferencia no fue significativa en Matemática)",
+        "Cuba (país que no registra población indígena en su muestra)"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 29 y Gráfico 29",
+      "explicacion": "En Costa Rica, la brecha de los estudiantes indígenas alcanza -117 puntos en Lectura de 6° grado."
+    },
+    {
+      "question": "¿Cuáles son los tres países participantes que no registran población de estudiantes pertenecientes a pueblos originarios en la muestra del ERCE 2019?",
+      "options": [
+        "Cuba, República Dominicana y Uruguay",
+        "Argentina, Brasil y Chile",
+        "Colombia, Ecuador y Perú",
+        "Guatemala, Honduras y México"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 28",
+      "explicacion": "Cuba, República Dominicana y Uruguay no presentaron población de pueblos originarios en sus cuestionarios."
+    },
+    {
+      "question": "¿Qué país presenta la mayor proporción de estudiantes pertenecientes a pueblos originarios en la muestra del ERCE 2019?",
+      "options": [
+        "Guatemala, con un 68% de estudiantes indígenas",
+        "México, con un 5% de estudiantes indígenas",
+        "Perú, con un 10% de estudiantes indígenas",
+        "Costa Rica, con un 4% de estudiantes indígenas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 28",
+      "explicacion": "Guatemala es la excepción regional con un 68% de estudiantes pertenecientes a etnias o pueblos originarios."
+    },
+    {
+      "question": "¿Qué efecto tienen las ALTAS EXPECTATIVAS EDUCATIVAS de las familias sobre los logros de sus hijos?",
+      "options": [
+        "Cuando la familia espera que el estudiante complete al menos la educación superior, los estudiantes obtienen entre 40 y 80 puntos más de logro",
+        "Las expectativas familiares no tienen ningún impacto en el rendimiento escolar de los niños",
+        "Generan ansiedad infantil que reduce el puntaje en -50 puntos",
+        "Solo benefician a estudiantes de escuelas urbanas privadas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 29 y Gráfico 30",
+      "explicacion": "Altas expectativas familiares (completar la universidad) se asocian a incrementos de +40 a +80 puntos en el logro."
+    },
+    {
+      "question": "¿Cómo influye el INVOLUCRAMIENTO PARENTAL en las actividades de aprendizaje en el hogar?",
+      "options": [
+        "Se asocia positivamente con mayores aprendizajes, siendo esta relación especialmente significativa en 3° grado",
+        "Produce un efecto negativo si los padres ayudan a hacer la tarea escolar",
+        "Solo es relevante cuando los padres tienen títulos de doctorado",
+        "Reemplaza totalmente la función pedagógica del docente de aula"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 29 y Gráfico 31",
+      "explicacion": "El involucramiento parental positivo favorece el aprendizaje, sobre todo en 3° grado debido a la menor autonomía inicial."
+    },
+    {
+      "question": "¿Qué relación existe entre el INTERÉS DE LOS DOCENTES por el bienestar de sus estudiantes y el logro escolar?",
+      "options": [
+        "Se relaciona positivamente con el logro, especialmente en 3° grado (animar en clases, acoger emociones y manejar el error de forma constructiva)",
+        "No tiene ningún efecto sobre el aprendizaje de las matemáticas",
+        "Reduce el rigor académico disminuyendo el puntaje promedio de la clase",
+        "Solo beneficia a estudiantes varones en escuelas secundarias"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 30 y Gráfico 33",
+      "explicacion": "El interés de los profesores por el bienestar afectivo de los alumnos se asocia con mejores logros, sobre todo en 3° de primaria."
+    },
+    {
+      "question": "¿Qué se entiende por 'APOYO AL APRENDIZAJE' por parte del docente en el marco del ERCE 2019?",
+      "options": [
+        "Mapear conocimientos previos, motivar a participar, dar andamiaje, plantear tareas desafiantes y corregir adecuadamente los errores",
+        "Entregar las respuestas del examen minutos antes de la prueba",
+        "Dictar resúmenes largos del libro de texto durante dos horas seguidas",
+        "Eliminar todas las evaluaciones sumativas del calendario escolar"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 31",
+      "explicacion": "El apoyo al aprendizaje involucra andamiaje, motivación, conexión de conocimientos previos y retroalimentación del error."
+    },
+    {
+      "question": "¿Qué prácticas comprende el índice de 'ORGANIZACIÓN DE LA ENSEÑANZA' por parte del docente y cuál es su impacto?",
+      "options": [
+        "Tener listos los materiales, exponer los objetivos al inicio y hacer un resumen al terminar la clase (+34 a +70 puntos de logro)",
+        "Llegar tarde al aula y pedir a los alumnos que lean en silencio",
+        "Dejar que cada estudiante elija libremente si quiere o no estudiar en la clase",
+        "Escribir todo el contenido en la pizarra sin explicar oralmente nada"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 32 y Anexo 4, Pág. 55",
+      "explicacion": "Tener materiales listos, declarar objetivos y resumir al final impacta entre +34 y +70 puntos en el rendimiento."
+    },
+    {
+      "question": "¿Qué impacto tiene la DISRUPCIÓN EN EL AULA (desorden, interrupciones, demora en lograr el silencio) sobre el aprendizaje?",
+      "options": [
+        "Se asocia sistemáticamente a un menor logro de aprendizaje en todas las asignaturas (-20 a -40 puntos)",
+        "Aumenta la creatividad de los estudiantes mejorando los puntajes en +30 puntos",
+        "No afecta el rendimiento en Matemática ni en Ciencias",
+        "Mejora el clima escolar y la felicidad de los niños"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 32 y Gráfico 36",
+      "explicacion": "El clima disruptivo en el aula tiene un impacto claramente negativo sobre los aprendizajes en toda la región."
+    },
+    {
+      "question": "¿Qué porcentaje de las diferencias de aprendizaje entre los estudiantes de América Latina y el Caribe depende del ESTABLECIMIENTO EDUCACIONAL al que asisten?",
+      "options": [
+        "Entre un 40% y un 50% de la variación de aprendizajes depende de la escuela a la que asisten",
+        "Menos del 1% de las diferencias depende de la escuela",
+        "El 100% absoluto sin que la familia tenga ningún peso",
+        "Un 10% únicamente en zonas urbanas privadas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 33",
+      "explicacion": "En la región, entre el 40% y el 50% de la varianza en aprendizajes se explica por la escuela a la que se asiste."
+    },
+    {
+      "question": "¿Cuál es el factor de mayor peso y magnitud para explicar las diferencias de aprendizaje entre escuelas en la región?",
+      "options": [
+        "El nivel socioeconómico (NSE) promedio de la escuela (con magnitudes de entre 20 y 90 puntos)",
+        "El color de la pintura de las paredes exteriores del colegio",
+        "La marca de las computadoras compradas por la dirección",
+        "La distancia exacta en metros al centro de la ciudad"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 34",
+      "explicacion": "El NSE promedio de la escuela es el factor con mayor peso explicativo del logro académico (hasta 90 pts)."
+    },
+    {
+      "question": "¿Qué ocurre con la ventaja de rendimiento de las ESCUELAS PRIVADAS sobre las públicas en la mayoría de los países tras controlar por el Nivel Socioeconómico (NSE)?",
+      "options": [
+        "La ventaja se reduce drásticamente o desaparece en la mayoría de los países (siendo significativa en 6 o menos países)",
+        "La ventaja privada se duplica alcanzando 200 puntos de distancia",
+        "Las escuelas públicas superan a las privadas por 300 puntos en todos los países",
+        "No se puede calcular por falta de muestra en escuelas privadas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 34",
+      "explicacion": "La aparente ventaja privada se explica principalmente por el perfil socioeconómico más favorecido de sus familias."
+    },
+    {
+      "question": "¿Qué sucede con el rendimiento de las ESCUELAS URBANAS (10 mil o más habitantes) frente a las rurales tras controlar por el NSE de estudiantes y escuelas?",
+      "options": [
+        "Las escuelas urbanas NO presentan una ventaja sistemática; de hecho, en Argentina rinden por debajo de lo esperado tras el control por NSE",
+        "Las escuelas urbanas superan a las rurales por 150 puntos en todas las pruebas",
+        "Las escuelas rurales desaparecen del análisis por tener 0% de alumnos",
+        "Las escuelas urbanas garantizan el Nivel IV en todos sus alumnos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 35",
+      "explicacion": "Al controlar por NSE, las ventajas urbanas desaparecen, demostrando que las diferencias se deben al perfil socioeconómico."
+    },
+    {
+      "question": "Según las conclusiones del informe ERCE 2019, ¿cuál es la llamada de atención urgente frente al estancamiento de los aprendizajes?",
+      "options": [
+        "Reforzar con urgencia las políticas educativas en los aprendizajes fundamentales de primaria (lectura y matemática), pues son el cimiento de todo aprendizaje posterior",
+        "Cerrar la educación primaria y enfocar todos los recursos en posgrados universitarios",
+        "Eliminar los libros impresos y reemplazarlos por videojuegos recreativos",
+        "Esperar al año 2030 sin hacer reformas pedagógicas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 5, Conclusiones, Pág. 38 y 39",
+      "explicacion": "UNESCO advierte la urgencia de fortalecer los aprendizajes fundacionales de la primaria (competencias lectoras y numéricas)."
+    },
+    {
+      "question": "¿Qué alerta adicional plantea el reporte ERCE 2019 publicado en 2021 respecto al impacto de la pandemia de COVID-19 sobre los resultados?",
+      "options": [
+        "Advertir que los aprendizajes, que ya eran bajos y estancados en 2019, sufrirán un grave retroceso agravando la crisis educativa regional",
+        "Celebrar que la pandemia mejoró los aprendizajes en un 50% gracias a las clases virtuales",
+        "Asegurar que la pandemia no tuvo ningún efecto en los niños de educación primaria",
+        "Sugerir la cancelación permanente de todas las evaluaciones estandarizadas en el mundo"
+      ],
+      "answer": 0,
+      "fuente": "Sección 5, Pág. 38 y 39",
+      "explicacion": "El informe enfatiza que los bajos resultados de 2019 empeorarán marcadamente tras los cierres escolares por la pandemia."
+    },
+    {
+      "question": "¿Qué porcentaje de alumnos en 6° grado NO alcanza el Nivel Mínimo de Competencia (Nivel III) en Lenguaje, Matemática y Ciencias a nivel regional?",
+      "options": [
+        "Más del 60% de los estudiantes no alcanza el nivel mínimo de competencias en las tres asignaturas en 6° grado",
+        "Menos del 5% de los alumnos no alcanza la meta",
+        "Exactamente el 10% en Lenguaje y el 0% en Ciencias",
+        "El 100% de los estudiantes alcanza el nivel IV de excelencia"
+      ],
+      "answer": 0,
+      "fuente": "Sección 5, Pág. 39",
+      "explicacion": "En 6° grado, más del 60% de los alumnos de la región queda excluido del Nivel Mínimo de Competencia (MPL) ODS 4."
+    },
+    {
+      "question": "¿Qué rango de puntaje corresponde al Nivel I en la prueba de Lectura de 3° grado?",
+      "options": [
+        "Hasta 675 puntos",
+        "De 676 a 728 puntos",
+        "De 729 a 812 puntos",
+        "Desde 813 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 2, Pág. 44",
+      "explicacion": "El Nivel I en Lectura 3° grado abarca hasta los 675 puntos."
+    },
+    {
+      "question": "¿Qué rango de puntaje define al Nivel II (MPL) en Lectura de 3° grado?",
+      "options": [
+        "Entre 676 y 728 puntos",
+        "Hasta 675 puntos",
+        "Entre 729 y 812 puntos",
+        "Desde 813 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 2, Pág. 44",
+      "explicacion": "El Nivel II (MPL) en Lectura 3° grado se ubica entre 676 y 728 puntos."
+    },
+    {
+      "question": "¿Qué rango de puntaje corresponde al Nivel III en Lectura de 6° grado?",
+      "options": [
+        "Entre 697 y 770 puntos",
+        "Hasta 615 puntos",
+        "Entre 616 y 696 puntos",
+        "Desde 771 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 2, Pág. 46",
+      "explicacion": "El Nivel III (MPL) en Lectura 6° grado se ubica entre 697 y 770 puntos."
+    },
+    {
+      "question": "¿Qué rango de puntaje define al Nivel I en la prueba de Matemática de 3° grado?",
+      "options": [
+        "Hasta 687 puntos",
+        "Entre 688 y 749 puntos",
+        "Entre 750 y 825 puntos",
+        "Desde 826 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 2, Pág. 47",
+      "explicacion": "El Nivel I en Matemática 3° grado abarca hasta los 687 puntos."
+    },
+    {
+      "question": "¿Qué rango de puntaje corresponde al Nivel III (MPL) en la prueba de Matemática de 6° grado?",
+      "options": [
+        "Entre 738 y 820 puntos",
+        "Hasta 640 puntos",
+        "Entre 641 y 737 puntos",
+        "Desde 821 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 2, Pág. 50",
+      "explicacion": "El Nivel III (MPL) en Matemática 6° grado se encuentra entre 738 y 820 puntos."
+    },
+    {
+      "question": "¿Qué rango de puntaje define al Nivel III (MPL) en la prueba de Ciencias de 6° grado?",
+      "options": [
+        "Entre 782 y 861 puntos",
+        "Hasta 666 puntos",
+        "Entre 667 y 781 puntos",
+        "Desde 862 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 2, Pág. 52",
+      "explicacion": "El Nivel III (MPL) en Ciencias 6° grado se ubica entre 782 y 861 puntos."
+    },
+    {
+      "question": "¿Qué papel juega el 'ANDAMIAJE' dentro del apoyo docente al aprendizaje según la investigación citada por el ERCE 2019?",
+      "options": [
+        "Guía de manera gradual el proceso de pensamiento del estudiante hasta alcanzar la autonomía y comprensión profunda de conceptos",
+        "Construye edificios escolares de varios pisos para albergar más aulas",
+        "Obliga a los estudiantes a memorizar párrafos de libros en silencio",
+        "Sustituye la evaluación por notas asignadas al azar"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 31",
+      "explicacion": "El andamiaje pedagógico apoya gradualmente el desarrollo de habilidades superiores y metacognición en los estudiantes."
+    },
+    {
+      "question": "¿Qué consecuencia tiene la falta de expectativas positivas por parte de los docentes respecto del rendimiento escolar?",
+      "options": [
+        "Suele provocar el 'Efecto Pygmalión negativo' disminuyendo la motivación y el logro del estudiante",
+        "Garantiza que todos los estudiantes obtengan el Nivel IV",
+        "Mejora la disciplina al volver a los alumnos más sumisos",
+        "No produce ningún impacto medible en ningún país"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 30",
+      "explicacion": "Las bajas expectativas docentes actúan negativamente reduciendo el estímulo y desempeño de los estudiantes."
+    },
+    {
+      "question": "¿Qué sugerencia de política pública hace el ERCE 2019 frente a la segregación escolar socioeconómica en la región?",
+      "options": [
+        "Diseñar políticas de financiamiento y apoyo pedagógico focalizadas que provean mayores recursos a las escuelas con mayor concentración de estudiantes vulnerables",
+        "Privatizar la totalidad de los colegios públicos para que cobren matrículas elevadas",
+        "Eliminar los cuestionarios de contexto para ocultar las brechas de desigualdad",
+        "Cerrar las escuelas rurales con menos de 100 alumnos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 33 y Sección 5, Pág. 39",
+      "explicacion": "La UNESCO urge focalizar recursos y políticas afirmativas en las escuelas vulnerables para reducir la segregación."
+    },
+    {
+      "question": "¿Qué papel atribuye el ERCE 2019 a la evaluación estandarizada de aprendizajes?",
+      "options": [
+        "Servir como una herramienta de diagnóstico, monitoreo y generación de evidencia para orientar decisiones de política pública y mejora escolar",
+        "Servir como un instrumento para sancionar y cerrar colegios de bajo puntaje",
+        "Servir como una prueba de selección para expulsar a los alumnos con bajas notas",
+        "Servir para clasificar a los docentes en un ranking público de castigos salariales"
+      ],
+      "answer": 0,
+      "fuente": "Prólogo, Pág. 3 y Sección 1, Pág. 8",
+      "explicacion": "El propósito del LLECE y del ERCE 2019 es generar evidencia confiable al servicio de la mejora y la equidad educativa."
+    },
+    {
+      "question": "¿Qué diferencia existe entre el promedio regional de Lectura de 3° grado (697 pts) y el de 6° grado (696 pts)?",
+      "options": [
+        "Prácticamente nula (1 punto de diferencia), mostrando una escala estandarizada centrada en el valor histórico de 700 puntos",
+        "100 puntos de distancia",
+        "500 puntos de diferencia",
+        "No se pueden comparar por ser asignaturas distintas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Págs. 12 y 13",
+      "explicacion": "Ambas medias están centradas en torno a los 700 puntos definidos en la escala TERCE 2013."
+    },
+    {
+      "question": "¿Qué país de Centroamérica obtuvo puntajes destacados por sobre la media regional en todas las áreas evaluadas de 3° y 6° grado?",
+      "options": [
+        "Costa Rica (748 en 3° Lectura, 757 en 6° Lectura, 725 en 3° Mate, 726 en 6° Mate y 758 en 6° Ciencias)",
+        "Guatemala",
+        "Nicaragua",
+        "Honduras"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 1, Págs. 41 y 42",
+      "explicacion": "Costa Rica se situó de manera consistente sobre la media regional en todas las pruebas y grados."
+    },
+    {
+      "question": "¿Qué síntesis se puede extraer respecto a las metas ODS 4.1 de la Agenda 2030 al analizar los datos del ERCE 2019?",
+      "options": [
+        "América Latina y el Caribe está muy lejos de alcanzar las metas del ODS 4.1 para 2030, requiriéndose transformaciones profundas sin dejar a nadie atrás",
+        "La región ya cumplió con el 100% de las metas en 2019",
+        "El ODS 4.1 debe ser abandonado por ser imposible de medir",
+        "Solo las escuelas urbanas privadas alcanzaron la meta ODS 4.1"
+      ],
+      "answer": 0,
+      "fuente": "Sección 5, Pág. 39",
+      "explicacion": "Los datos evidencian que la región se halla muy distante de los compromisos 2030, exigiendo acciones urgentes."
+    },
+    {
+      "question": "En la prueba de Ciencias de 6° grado, ¿qué porcentaje de estudiantes se ubica en el Nivel I (más rezagado) a nivel regional?",
+      "options": [
+        "Un 41,6% de los estudiantes se ubica en el Nivel I a nivel regional",
+        "Solo un 1% de los estudiantes",
+        "El 90% de los estudiantes",
+        "Un 0% exacto"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Pág. 17 y Gráfico 13",
+      "explicacion": "En 6° Ciencias, un 41,6% de los alumnos de la región no supera el Nivel I de desempeño."
+    },
+    {
+      "question": "¿Qué hábito de estudio autónomo promovido por las familias beneficia directamente los logros académicos según el reporte del ERCE 2019?",
+      "options": [
+        "Organizar horarios regulares en el hogar para repasar y estudiar fuera de la jornada escolar",
+        "Ver televisión durante 8 horas diarias antes de dormir",
+        "Contratar a otros compañeros para que hagan las tareas escolares",
+        "Evitar abrir los libros de texto durante los fines de semana"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 28",
+      "explicacion": "Generar hábitos de estudio organizados en el hogar fortalece el aprendizaje autónomo y el rendimiento."
+    },
+    {
+      "question": "En conclusión, el Estudio Regional Comparativo y Explicativo (ERCE 2019) demuestra que el derecho a una educación de calidad en América Latina y el Caribe requiere:",
+      "options": [
+        "Garantizar aprendizajes fundamentales con equidad de género, inclusión de pueblos originarios y apoyo integral a las escuelas más vulnerables",
+        "Eliminar la educación pública y reemplazarla por becas privadas",
+        "Reducir los salarios de los profesores de zonas rurales",
+        "Promover únicamente a los estudiantes pertenecientes a familias de altos ingresos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 5, Págs. 38 y 39",
+      "explicacion": "El ERCE concluye postulando la urgencia de fortalecer los aprendizajes básicos con equidad, inclusión y justicia social."
+    },
+    {
+      "question": "Según el resumen de factores asociados de Argentina en el Anexo 6 del ERCE 2019, ¿qué impacto tiene la repetición de grado sobre el rendimiento en Lectura de 3° grado?",
+      "options": [
+        "Produce un efecto fuertemente negativo de -93,07 puntos de diferencia",
+        "Produce un incremento positivo de +20 puntos de diferencia",
+        "No produce ningún efecto estadísticamente significativo",
+        "Aumenta el rendimiento en Matemática en +50 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 58 (Tabla Argentina)",
+      "explicacion": "En Argentina, la repetición de grado en 3° Lectura se asocia con una severa pérdida de -93,07 puntos."
+    },
+    {
+      "question": "En el análisis de factores asociados en Brasil (Anexo 6), ¿cuál es el impacto de las expectativas educativas de los padres en Lectura y Matemática de 6° grado?",
+      "options": [
+        "Un impacto fuertemente positivo superior a +82 puntos en ambas asignaturas",
+        "Un impacto negativo de -30 puntos en ambas asignaturas",
+        "Cero impacto estadísticamente significativo",
+        "Un impacto positivo solo en escuelas rurales comunitarias"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 59 (Tabla Brasil)",
+      "explicacion": "En Brasil, las altas expectativas parentales se asocian con +82,23 pts en Lectura y +82,21 pts en Matemática de 6°."
+    },
+    {
+      "question": "En Colombia (Anexo 6), ¿qué relación se observa entre la asistencia a la educación preescolar y el rendimiento en Lectura de 6° grado?",
+      "options": [
+        "Una asociación positiva muy significativa de +56,80 puntos de logro",
+        "Una pérdida de -45 puntos de logro",
+        "Cero relación estadística significativa",
+        "Una ventaja únicamente en la asignatura de Ciencias"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 60 (Tabla Colombia)",
+      "explicacion": "En Colombia, asistir a preescolar representa +56,80 puntos adicionales en Lectura de 6° grado."
+    },
+    {
+      "question": "En Costa Rica (Anexo 6), ¿qué desventaja de rendimiento registran los estudiantes de 6° grado pertenecientes a pueblos originarios en la prueba de Lectura?",
+      "options": [
+        "Una brecha de -117,33 puntos de diferencia en comparación con estudiantes no indígenas",
+        "Una ventaja de +50 puntos sobre sus pares",
+        "Una diferencia nula de 0 puntos",
+        "Una brecha de solo -2 puntos sin significancia"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 61 (Tabla Costa Rica)",
+      "explicacion": "Costa Rica presenta la brecha étnica más pronunciada en 6° Lectura con -117,33 puntos."
+    },
+    {
+      "question": "En Cuba (Anexo 6), ¿qué efecto tiene la 'organización de la enseñanza por parte del docente' en Matemática de 3° grado?",
+      "options": [
+        "Se asocia con un incremento altamente significativo de +53,60 puntos de logro",
+        "Reduce el rendimiento en -40 puntos",
+        "No influye en el rendimiento de los estudiantes",
+        "Solo beneficia al 1% de los estudiantes de escuelas privadas"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 62 (Tabla Cuba)",
+      "explicacion": "En Cuba, la adecuada organización de la enseñanza por el profesor suma +53,60 puntos en 3° Matemática."
+    },
+    {
+      "question": "En Ecuador (Anexo 6), ¿cómo se relaciona el interés de los docentes por el bienestar de los estudiantes en Matemática de 3° grado?",
+      "options": [
+        "Se asocia positivamente con un incremento de +86,21 puntos de logro",
+        "Se asocia con un retroceso de -50 puntos de logro",
+        "No muestra significancia estadística alguna",
+        "Afecta únicamente la conducta sin influir en el rendimiento"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 63 (Tabla Ecuador)",
+      "explicacion": "En Ecuador, el interés docente por el bienestar estudiantil muestra una potente asociación de +86,21 pts en 3° Matemática."
+    },
+    {
+      "question": "En El Salvador (Anexo 6), ¿qué beneficio genera la dedicación de días de estudio a la semana fuera de la escuela en Lectura de 3° grado?",
+      "options": [
+        "Un incremento significativo de +66,63 puntos de logro",
+        "Un beneficio de solo +2 puntos",
+        "Un impacto negativo de -20 puntos",
+        "Cero beneficio en el rendimiento escolar"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 64 (Tabla El Salvador)",
+      "explicacion": "En El Salvador, dedicar días de estudio en el hogar suma +66,63 puntos en Lectura de 3°."
+    },
+    {
+      "question": "En Guatemala (Anexo 6), ¿cuál es el nivel socioeconómico de la escuela como predictor del logro en Lectura de 6° grado?",
+      "options": [
+        "Un predictor positivo de gran magnitud con +75,62 puntos de logro",
+        "Un predictor negativo de -30 puntos",
+        "Un factor irrelevante sin significancia estadística",
+        "Un factor que solo aplica en la asignatura de Educación Física"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 65 (Tabla Guatemala)",
+      "explicacion": "En Guatemala, el NSE promedio de la escuela predice +75,62 puntos en 6° Lectura."
+    },
+    {
+      "question": "En Honduras (Anexo 6), ¿qué asociación se observa entre el apoyo al aprendizaje por parte del docente y el logro en Ciencias de 6° grado?",
+      "options": [
+        "Una asociación positiva significativa de +50,84 puntos de logro",
+        "Una asociación negativa de -10 puntos",
+        "Cero asociación estadística",
+        "Una relación que perjudica a los estudiantes de áreas rurales"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 66 (Tabla Honduras)",
+      "explicacion": "En Honduras, el apoyo pedagógico del profesor se vincula a +50,84 puntos en Ciencias de 6°."
+    },
+    {
+      "question": "En México (Anexo 6), ¿qué impacto tiene la repetición de grado en la prueba de Lectura de 3° grado?",
+      "options": [
+        "Se asocia con una pérdida drástica de -90,12 puntos de logro",
+        "Mejora los aprendizajes en +30 puntos",
+        "No produce ningún efecto negativo",
+        "Genera una ventaja exclusiva para estudiantes indígenas"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 67 (Tabla México)",
+      "explicacion": "En México, la repetición de grado en 3° Lectura se asocia a un fuerte impacto negativo de -90,12 puntos."
+    },
+    {
+      "question": "En Nicaragua (Anexo 6), ¿cuál es el efecto de las expectativas educativas de los padres en la prueba de Ciencias de 6° grado?",
+      "options": [
+        "Una asociación positiva significativa de +41,58 puntos de logro",
+        "Una asociación negativa de -15 puntos",
+        "Cero significancia estadística",
+        "Una relación exclusiva de las escuelas privadas urbanas"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 68 (Tabla Nicaragua)",
+      "explicacion": "En Nicaragua, las altas expectativas parentales se vinculan a +41,58 puntos en 6° Ciencias."
+    },
+    {
+      "question": "En Panamá (Anexo 6), ¿qué impacto se registra con el nivel socioeconómico de la familia en Lectura de 3° grado?",
+      "options": [
+        "Un impacto positivo significativo de +42,09 puntos de logro",
+        "Un impacto nulo de 0 puntos",
+        "Un impacto negativo de -50 puntos",
+        "Un impacto que solo afecta a los varones"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 69 (Tabla Panamá)",
+      "explicacion": "En Panamá, el NSE familiar se asocia con +42,09 puntos en 3° Lectura."
+    },
+    {
+      "question": "En Paraguay (Anexo 6), ¿cómo influyen las expectativas de los padres en el rendimiento de Lectura de 6° grado?",
+      "options": [
+        "Se asocian con un incremento positivo de +84,30 puntos de logro",
+        "Se asocian con un retroceso de -20 puntos",
+        "No muestran ninguna significancia estadística",
+        "Reducen el tiempo de estudio en el hogar"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 70 (Tabla Paraguay)",
+      "explicacion": "En Paraguay, las expectativas parentales elevadas se asocian a +84,30 puntos en 6° Lectura."
+    },
+    {
+      "question": "En Perú (Anexo 6), ¿cuál es la asociación del nivel socioeconómico de la escuela en la prueba de Lectura de 6° grado?",
+      "options": [
+        "Una potente asociación de +56,19 puntos de logro",
+        "Una asociación nula de 0 puntos",
+        "Una asociación negativa de -40 puntos",
+        "Una asociación que beneficia únicamente a escuelas privadas"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 71 (Tabla Perú)",
+      "explicacion": "En Perú, el NSE promedio de la escuela predice +56,19 puntos en 6° Lectura."
+    },
+    {
+      "question": "En República Dominicana (Anexo 6), ¿qué efecto se observa con el nivel socioeconómico de la escuela en Lectura de 3° grado?",
+      "options": [
+        "Una asociación positiva significativa de +60,90 puntos de logro",
+        "Una asociación de -10 puntos",
+        "Cero significancia estadística",
+        "Una ventaja únicamente en la prueba de Ciencias"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 72 (Tabla Rep. Dominicana)",
+      "explicacion": "En República Dominicana, el NSE promedio de la escuela aporta +60,90 puntos en 3° Lectura."
+    },
+    {
+      "question": "En Uruguay (Anexo 6), ¿qué impacto genera la repetición de grado sobre el rendimiento en Lectura de 6° grado?",
+      "options": [
+        "Un impacto severamente negativo de -91,70 puntos de logro",
+        "Un beneficio de +40 puntos por madurez escolar",
+        "Cero impacto estadísticamente significativo",
+        "Un efecto que desaparece en las escuelas públicas"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 6, Pág. 73 (Tabla Uruguay)",
+      "explicacion": "En Uruguay, haber repetido en 6° Lectura se asocia a un fuerte impacto de -91,70 puntos."
+    },
+    {
+      "question": "¿Qué metodología de elaboración de ítems garantizó la validez cultural y regional de las pruebas del ERCE 2019?",
+      "options": [
+        "Talleres colaborativos de construcción de ítems con delegaciones de técnicos de los propios 16 países participantes en 2017",
+        "Importación directa de exámenes estandarizados de Estados Unidos traducidos al español",
+        "Redacción exclusiva por un equipo de dos consultores en París",
+        "Generación automatizada de preguntas mediante inteligencia artificial"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 9",
+      "explicacion": "Los ítems del ERCE 2019 se construyeron en talleres regionales de capacitación con los propios equipos técnicos nacionales."
+    },
+    {
+      "question": "¿Qué tipo de ítems se incluyeron en las pruebas de Matemática y Ciencias a diferencia de la prueba de Lectura?",
+      "options": [
+        "Se incluyeron preguntas de respuesta construida (abierta) además de preguntas de selección múltiple",
+        "Se incluyeron únicamente preguntas de opción múltiple verdadero/falso",
+        "Se incluyeron pruebas orales individuales grabadas en audio",
+        "Se incluyeron proyectos de investigación de campo de tres meses de duración"
+      ],
+      "answer": 0,
+      "fuente": "Sección 1, Pág. 9",
+      "explicacion": "Matemática y Ciencias contaron con preguntas de selección múltiple y de respuesta construida (abiertas)."
+    },
+    {
+      "question": "¿Por qué el nivel socioeconómico individual del estudiante explica menos varianza que el nivel socioeconómico promedio de la escuela?",
+      "options": [
+        "Debido a la alta segregación socioeconómica y residencial de la región, que agrupa a estudiantes homogéneos en la misma escuela",
+        "Porque los cuestionarios de las familias contenían datos falsos sobre ingresos",
+        "Porque las escuelas públicas cobran matrículas diferenciadas según el sueldo del padre",
+        "Porque la UNESCO eliminó la variable socioeconómica individual de sus modelos"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 34",
+      "explicacion": "La segregación residencial concentra a alumnos socioeconómicamente similares en las mismas escuelas, amplificando el efecto escuela."
+    },
+    {
+      "question": "¿Qué demostró el ERCE 2019 sobre el mito de que las escuelas urbanas son superiores por naturaleza pedagógica?",
+      "options": [
+        "Demostró que al controlar por el nivel socioeconómico, la ventaja urbana desaparece o se vuelve no significativa",
+        "Demostró que las escuelas urbanas son 10 veces mejores sin importar el dinero de las familias",
+        "Demostró que las escuelas rurales deben ser clausuradas por falta de profesores",
+        "Demostró que los estudiantes rurales obtienen 300 puntos más en todas las materias"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 35",
+      "explicacion": "El control por NSE evidencia que la supuesta ventaja urbana responde a factores socioeconómicos y no a la ubicación geográfica en sí."
+    },
+    {
+      "question": "¿Qué ocurre con el 'Efecto Escuela' cuando los sistemas educativos aplican políticas de equidad y financiamiento compensatorio?",
+      "options": [
+        "Se reduce la brecha entre escuelas vulnerables y favorecidas, garantizando que toda escuela asegure aprendizajes de calidad",
+        "Aumenta la desigualdad segregando a los alumnos por su origen étnico",
+        "Desaparecen los docentes de aula siendo reemplazados por inspectores",
+        "Se reduce el gasto social del Estado en un 90%"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 33 y Sección 5, Pág. 39",
+      "explicacion": "Las políticas afirmativas equitativas fortalecen las escuelas vulnerables reduciendo las brechas del efecto escuela."
+    },
+    {
+      "question": "¿Qué relación existe entre la 'disrupción en el aula' y la 'organización de la enseñanza' según la literatura citada por el ERCE 2019?",
+      "options": [
+        "Una mejor organización de la clase por el docente (materiales listos, objetivos claros) se vincula con menores problemas disciplinares",
+        "Una mayor organización genera más caos e interrupciones en la sala de clases",
+        "La disrupción en el aula depende exclusivamente del clima meteorológico exterior",
+        "No existe ninguna relación entre la gestión docente del aula y la disciplina escolar"
+      ],
+      "answer": 0,
+      "fuente": "Sección 4, Pág. 32",
+      "explicacion": "Una sólida estructuración pedagógica reduce la disrupción y las conductas que interrumpen la enseñanza."
+    },
+    {
+      "question": "¿Qué porcentaje de alumnos de la región logra alcanzar el Nivel IV (sobresaliente) en la prueba de Ciencias de 6° grado?",
+      "options": [
+        "Apenas un 5,2% de los estudiantes de la región",
+        "El 45% de los estudiantes de la región",
+        "El 80% de los estudiantes de la región",
+        "Un 0% absoluto en todos los países participantes"
+      ],
+      "answer": 0,
+      "fuente": "Anexo 1, Pág. 42",
+      "explicacion": "En Ciencias 6° grado, el Nivel IV alcanza solo un 5,2% promedio en América Latina y el Caribe."
+    },
+    {
+      "question": "¿Qué logro histórico alcanzó Perú en el ERCE 2019 respecto de su progreso respecto a TERCE 2013?",
+      "options": [
+        "Obtuvo avances significativos en las tres asignaturas y en ambos grados, destacando con +38 puntos en 6° Matemática y 6° Lectura",
+        "Sufrió una caída de -50 puntos en todas las materias",
+        "Se mantuvo estancado sin un solo punto de variación",
+        "Fue descalificado del estudio por no presentar muestras representativas"
+      ],
+      "answer": 0,
+      "fuente": "Sección 2, Págs. 13-17 y Anexo 1",
+      "explicacion": "Perú fue el país con el progreso más sobresaliente de la región en el ERCE 2019 en todas las áreas evaluadas."
+    },
+    {
+      "question": "¿Qué síntesis se realiza sobre el estado de la educación primaria en América Latina y el Caribe en el informe ERCE 2019?",
+      "options": [
+        "La región enfrenta una profunda crisis de aprendizajes donde la mayoría no adquiere los cimientos básicos en lectura y matemática",
+        "La región es líder mundial de excelencia educativa superando a Asia y Europa",
+        "La región resolvió todas sus desigualdades de género e indígenas en el aula",
+        "La educación primaria ha sido superada y debe ser eliminada del sistema"
+      ],
+      "answer": 0,
+      "fuente": "Sección 5, Conclusiones, Págs. 38 y 39",
+      "explicacion": "El ERCE 2019 evidencia una crisis de aprendizajes fundacionales estancados que amenaza el desarrollo futuro de la región."
+    },
+    {
+      "question": "¿Qué orientación ética da la OREALC/UNESCO Santiago al publicar el ERCE 2019?",
+      "options": [
+        "Poner la evidencia técnica al servicio de la acción política urgente para resguardar el derecho a una educación de calidad sin dejar a nadie atrás",
+        "Vender las bases de datos a empresas multinacionales de software educativo",
+        "Promover la competencia destructiva entre países de América Latina",
+        "Justificar la reducción de presupuestos estatales en educación básica"
+      ],
+      "answer": 0,
+      "fuente": "Prólogo, Pág. 3 y Sección 5, Pág. 39",
+      "explicacion": "El fin supremo del LLECE/UNESCO es garantizar el derecho humano a la educación de calidad para cada estudiante sin exclusión."
+    },
+    {
+      "question": "En conclusión, el Estudio Regional Comparativo y Explicativo (ERCE 2019) constituye para los directivos y autoridades de educación un instrumento fundamental para:",
+      "options": [
+        "Fundamentar decisiones basadas en evidencia, combatir las brechas de inequidad y priorizar el fortalecimiento del aula y de los docentes",
+        "Evaluar el comportamiento privado de los padres de familia fuera del colegio",
+        "Justificar la rotación anual de directores por criterios políticos partidarios",
+        "Sustituir las leyes de educación nacionales por reglamentos bancarios internacionales"
+      ],
+      "answer": 0,
+      "fuente": "Prólogo y Sección 5, Págs. 3 y 39",
+      "explicacion": "El ERCE aporta evidencia empírica rigurosa para informar políticas públicas orientadas a la equidad, calidad y mejora escolar."
+    }
+  ]
+}

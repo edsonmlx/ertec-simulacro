@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "tp19_soria_leon_2025_gestion_educativa_educacion_superior",
+    "nombre": "Gestión educativa en la educación superior",
+    "detalle": "Soria León, N. G. (2025). Sophia Editions",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director General ESFM",
+      "Coordinador de UA"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

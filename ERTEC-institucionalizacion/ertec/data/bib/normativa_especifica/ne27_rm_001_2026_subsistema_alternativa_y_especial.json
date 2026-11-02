@@ -1,0 +1,1828 @@
+{
+  "bibliografia": {
+    "id": "ne27_rm_001_2026_subsistema_alternativa_y_especial",
+    "nombre": "R.M. N° 001/2026 del Subsistema de Educación Alternativa y Especial",
+    "detalle": "5 de enero de 2026",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Alt. y Especial",
+      "Director Distrital",
+      "Director de CEA",
+      "Director de CEE"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "[1] ¿Cuál es el objeto regulatorio de las Normas Generales para la Gestión Educativa 2026 del Subsistema de Educación Alternativa y Especial aprobadas por R.M. N° 0001/2026?",
+      "options": [
+        "Establecer los procedimientos de planificación, organización, ejecución, seguimiento y evaluación de la Gestión Educativa 2026 en Educación Alternativa y Especial",
+        "Regular el cobro de pensiones en universidades públicas autónomas",
+        "Crear el nuevo estatuto orgánico de las escuelas superiores de formación de maestros",
+        "Sustituir el reglamento de faltas y sanciones del servicio de salud pública"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1 - Objeto",
+      "explicacion": "El Artículo 1 establece que la norma regula los procedimientos de planificación, organización, ejecución, seguimiento y evaluación de la Gestión Educativa 2026 en el Subsistema."
+    },
+    {
+      "question": "[2] Conforme al Artículo 2.I de la R.M. N° 0001/2026, la presente disposición es de aplicación obligatoria en:",
+      "options": [
+        "Toda la estructura administrativa y de gestión del Subsistema de Educación Alternativa y Especial en los niveles nacional, departamental y distrital",
+        "Únicamente en los centros educativos privados de las capitales de departamento",
+        "Exclusivamente en las comunidades indígenas originarias campesinas con autonomía chiquitana",
+        "Solamente en las unidades de Educación Regular nocturna"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2 - Ámbito de Aplicación",
+      "explicacion": "El Artículo 2.I determina la obligatoriedad en toda la estructura de gestión del Subsistema a nivel nacional, departamental y distrital."
+    },
+    {
+      "question": "[3] De acuerdo con el Artículo 2.II, ¿cuáles de las siguientes instituciones y procesos quedan comprendidos bajo la R.M. N° 0001/2026?",
+      "options": [
+        "CEAs, Centros No Escolarizados, CEEs, Alfabetización/Post-alfabetización, CEPEAD, CCTP y SPCC",
+        "Únicamente los colegios privados de Educación Secundaria Regular",
+        "Exclusivamente las escuelas normales de formación docente",
+        "Solamente los centros infantiles de la primera infancia dependientes del Ministerio de Salud"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.II - Cobertura de Instituciones",
+      "explicacion": "El Artículo 2.II enumera los CEAs, CEEs, centros de educación permanente, CEPEAD, CCTP y procesos del SPCC."
+    },
+    {
+      "question": "[4] Según el Artículo 3.I, ¿a cuántos días hábiles de trabajo educativo equivale la gestión en CEAs de jóvenes y adultos y CEEs?",
+      "options": [
+        "Un total equivalente a doscientos (200) días hábiles de trabajo educativo",
+        "Ciento sesenta (160) días hábiles divididos en dos semestres",
+        "Ciento ochenta (180) días calendario lectivos",
+        "Doscientos cincuenta (250) días continuos incluyendo feriados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.I - Días Hábiles de Trabajo",
+      "explicacion": "El Artículo 3.I fija un total equivalente a 200 días hábiles de trabajo educativo."
+    },
+    {
+      "question": "[5] Conforme al Artículo 3.III, los centros de educación permanente, por su carácter no escolarizado, deben desarrollar procesos equivalentes a:",
+      "options": [
+        "Un total equivalente a doscientos (200) días hábiles de trabajo educativo organizados en jornadas",
+        "Cincuenta (50) días hábiles de asistencia presencial continua",
+        "Un módulo de 100 horas pedagógicas únicas",
+        "Actividades sabatinas obligatorias sin registro de asistencia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.III - Educación Permanente",
+      "explicacion": "El Artículo 3.III dispone que los centros permanentes deben cumplir el equivalente a 200 días hábiles organizados en jornadas."
+    },
+    {
+      "question": "[6] De acuerdo con el Artículo 4, ¿quiénes tienen la responsabilidad de promover procesos de formación continua para maestros en su contexto?",
+      "options": [
+        "Los directores departamentales y distritales de cada departamento",
+        "Las juntas escolares de padres de familia del área urbana",
+        "Las empresas privadas proveedoras de insumos informáticos",
+        "Los sindicatos de transporte público del municipio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4 - Jornadas de Actualización Continua",
+      "explicacion": "El Artículo 4 asigna a los directores departamentales y distritales la responsabilidad de promover formación continua."
+    },
+    {
+      "question": "[7] Según el Artículo 5, ante riesgos medioambientales o sanitarios, las autoridades educativas deben optar por:",
+      "options": [
+        "Modalidades educativas (presencial, semipresencial o a distancia) según el nivel de riesgo reportado por autoridades competentes",
+        "La clausura inmediata del centro educativo sin alternativas pedagógicas",
+        "La reprobación automática del semestre para todos los inscritos",
+        "El cobro de una tasa de desinfección a los estudiantes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5 - Contingencias Imprevistas",
+      "explicacion": "El Artículo 5 norma la adopción de modalidades según el nivel de riesgo en coordinación con las autoridades."
+    },
+    {
+      "question": "[8] Conforme al Artículo 6, los maestros deben socializar los 'Perfiles de Salida' al inicio de gestión con el propósito de:",
+      "options": [
+        "Orientar, verificar y evaluar el logro de los aprendizajes alcanzados durante el semestre y la gestión",
+        "Aumentar el costo de la matrícula de inscripción en CEAs privados",
+        "Justificar el descuento salarial por días no trabajados",
+        "Sustituir la evaluación final por una encuesta de opinión pública"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6 - Perfiles de Salida",
+      "explicacion": "El Artículo 6 indica que la socialización orienta, verifica y evalúa el logro de aprendizajes del semestre/gestión."
+    },
+    {
+      "question": "[9] De acuerdo con el Artículo 7.I, la gestión de recursos ante el GAM por Directores Distritales, CEAs y CEEs debe asegurar recursos para:",
+      "options": [
+        "Equipamiento, infraestructura, ambientes, laboratorios, talleres, servicios básicos, alimentación escolar y otros requerimientos",
+        "El pago exclusivo de viajes de vacaciones del personal docente",
+        "La compra de vehículos de lujo para la dirección distrital",
+        "La propaganda política en medios televisivos locales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.I - Responsabilidad ante el GAM",
+      "explicacion": "El Artículo 7.I enumera la asignación obligatoria en el POA municipal para equipamiento, talleres, infraestructura y alimentación."
+    },
+    {
+      "question": "[10] Según el Artículo 7.II, ¿ante qué instancia se debe gestionar el servicio de transporte escolar cuando existan necesidades en CEAs o CEEs?",
+      "options": [
+        "Ante los Gobiernos Autónomos Municipales (GAM)",
+        "Ante el Ministerio de Obras Públicas directamente",
+        "Ante la Policía Boliviana - Dirección Nacional de Tránsito",
+        "Ante los sindicatos privados de choferes interprovinciales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II - Transporte Escolar",
+      "explicacion": "El Artículo 7.II establece que la gestión del transporte escolar se realiza ante los Gobiernos Autónomos Municipales."
+    },
+    {
+      "question": "[11] Conforme al Artículo 8, las instituciones educativas del SEP deben dar continuidad a estudiantes de Educación Especial previa presentación de:",
+      "options": [
+        "El informe de evaluación de diagnóstico o de transitabilidad, según corresponda, con certificación y libretas",
+        "Una fianza económica notariada de respaldo",
+        "Una autorización expresa emitida por la Fiscalía General del Estado",
+        "Un examen de grado presencial de tres días de duración"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8 - Transitabilidad Inclusiva",
+      "explicacion": "El Artículo 8 exige el informe de diagnóstico/transitabilidad con certificación y libretas para garantizar la continuidad."
+    },
+    {
+      "question": "[12] De acuerdo con el Artículo 9, los centros de educación alternativa y especial coordinarán la implementación de la PEC con:",
+      "options": [
+        "Las Escuelas Superiores de Formación de Maestros (ESFM) y Unidades Académicas (UA)",
+        "Las universidades privadas no acreditadas",
+        "Los institutos militares de suboficiales",
+        "Las academias de policía cantonal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9 - Práctica Educativa Comunitaria",
+      "explicacion": "El Artículo 9 regula la coordinación de la Práctica Educativa Comunitaria (PEC) con las ESFM y UA."
+    },
+    {
+      "question": "[13] Según el Artículo 10, los bienes, mobiliario y equipamiento entregados por el Ministerio o GAMs deben ser registrados obligatoriamente en:",
+      "options": [
+        "Los sistemas oficiales de inventarios y activos fijos resguardando el patrimonio institucional",
+        "Las cuentas bancarias personales del director del centro",
+        "Un cuaderno borrador sin firma de responsabilidad",
+        "La notaría de fe pública de la junta vecinal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10 - Registro de Bienes",
+      "explicacion": "El Artículo 10 exige el registro obligatorio de los activos fijos e inventarios patrimoniales."
+    },
+    {
+      "question": "[14] Conforme al Artículo 11, la infraestructura y equipamiento de CEAs y CEEs no podrán ser utilizados para:",
+      "options": [
+        "Actividades ajenas a los procesos educativos o fines políticos/comerciales privados",
+        "Actividades de formación y capacitación técnica autorizadas",
+        "Talleres pedagógicos con padres y tutores comunitarios",
+        "Reuniones de planificación educativa del consejo de maestros"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11 - Uso de Infraestructura",
+      "explicacion": "El Artículo 11 prohíbe destinar la infraestructura educativa a fines políticos, comerciales o ajenos a la educación."
+    },
+    {
+      "question": "[15] De acuerdo con el Calendario Educativo del Ámbito de Educación Alternativa (Art. 12), las inscripciones del Primer Semestre de EPJA para nuevos participantes inician el:",
+      "options": [
+        "19 de enero de 2026",
+        "2 de febrero de 2026",
+        "13 de julio de 2026",
+        "1 de diciembre de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Calendario Educación Alternativa",
+      "explicacion": "El Calendario de Educación Alternativa (Art. 12) fija las inscripciones de nuevos para el 1er Semestre a partir del 19 de enero de 2026."
+    },
+    {
+      "question": "[16] Según el Calendario del Art. 12, las inscripciones de nuevos participantes del Primer Semestre de EPJA cierran el:",
+      "options": [
+        "20 de febrero de 2026",
+        "30 de enero de 2026",
+        "15 de marzo de 2026",
+        "30 de junio de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Cierre de Inscripciones I Semestre",
+      "explicacion": "El Calendario del Art. 12 establece el cierre de inscripciones de nuevos del 1er Semestre el 20 de febrero de 2026."
+    },
+    {
+      "question": "[17] Conforme al Calendario del Art. 12, el periodo de inscripciones extemporáneas para el Primer Semestre de EPJA se desarrolla:",
+      "options": [
+        "Del 20 al 27 de febrero de 2026",
+        "Del 2 al 6 de febrero de 2026",
+        "Del 1 al 10 de marzo de 2026",
+        "Durante todo el mes de mayo de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Extemporáneos I Semestre",
+      "explicacion": "El Calendario del Art. 12 determina las inscripciones extemporáneas del 20 al 27 de febrero de 2026."
+    },
+    {
+      "question": "[18] De acuerdo con el Calendario del Art. 12, el proceso de 'Diagnóstico' en EPJA para el Primer Semestre se efectúa del:",
+      "options": [
+        "2 de febrero al 6 de febrero de 2026",
+        "19 de enero al 23 de enero de 2026",
+        "13 de julio al 17 de julio de 2026",
+        "1 al 5 de diciembre de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Diagnóstico EPJA I Semestre",
+      "explicacion": "El Calendario del Art. 12 fija el periodo de diagnóstico del 1er Semestre entre el 2 y el 6 de febrero de 2026."
+    },
+    {
+      "question": "[19] Según el Calendario del Art. 12, el desarrollo curricular del Primer Semestre de EPJA finaliza el:",
+      "options": [
+        "29 de junio de 2026",
+        "12 de mayo de 2026",
+        "31 de julio de 2026",
+        "1 de diciembre de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Cierre Desarrollo Curricular I Semestre",
+      "explicacion": "El Calendario del Art. 12 marca la finalización de clases del 1er Semestre el 29 de junio de 2026."
+    },
+    {
+      "question": "[20] Conforme al Calendario del Art. 12, los procesos administrativos de cierre del Primer Semestre de EPJA se ejecutan:",
+      "options": [
+        "Del 30 de junio al 6 de julio de 2026",
+        "Del 1 al 15 de agosto de 2026",
+        "Del 2 al 11 de diciembre de 2026",
+        "Del 19 al 23 de enero de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Procesos Administrativos I Semestre",
+      "explicacion": "El Calendario del Art. 12 ubica los procesos administrativos del 1er Semestre del 30 de junio al 6 de julio de 2026."
+    },
+    {
+      "question": "[21] De acuerdo con el Calendario del Art. 12, las inscripciones de participantes nuevos para el Segundo Semestre de EPJA inician el:",
+      "options": [
+        "30 de junio de 2026 (y cierran el 10 de agosto de 2026)",
+        "1 de junio de 2026 (y cierran el 15 de julio de 2026)",
+        "13 de julio de 2026 (y cierran el 1 de septiembre de 2026)",
+        "1 de septiembre de 2026 (y cierran el 30 de octubre de 2026)"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Inscripciones II Semestre",
+      "explicacion": "El Calendario fija las inscripciones del 2do Semestre de EPJA del 30 de junio al 10 de agosto de 2026."
+    },
+    {
+      "question": "[22] Según el Calendario del Art. 12, el desarrollo curricular del Segundo Semestre de EPJA comprende desde el:",
+      "options": [
+        "13 de julio de 2026 hasta el 1 de diciembre de 2026",
+        "1 de junio de 2026 hasta el 31 de octubre de 2026",
+        "10 de agosto de 2026 hasta el 15 de diciembre de 2026",
+        "1 de septiembre de 2026 hasta el 30 de enero de 2027"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Desarrollo Curricular II Semestre",
+      "explicacion": "El Calendario del Art. 12 fija el inicio de clases del 2do Semestre el 13 de julio y la finalización el 1 de diciembre de 2026."
+    },
+    {
+      "question": "[23] Conforme al Calendario del Art. 12, los procesos administrativos de cierre final del Segundo Semestre se realizan:",
+      "options": [
+        "Del 2 hasta el 11 de diciembre de 2026",
+        "Del 15 al 31 de diciembre de 2026",
+        "Del 20 al 28 de enero de 2027",
+        "Del 1 al 10 de noviembre de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Procesos Administrativos Cierre Anual",
+      "explicacion": "El Calendario ubica los procesos administrativos finales de EPJA entre el 2 y el 11 de diciembre de 2026."
+    },
+    {
+      "question": "[24] De acuerdo con el Calendario de Educación Permanente (Art. 12), las inscripciones y procesos formativos se desarrollan:",
+      "options": [
+        "De enero a diciembre de 2026, de acuerdo a las características de la región, necesidades, ciclo productivo y planificación del centro",
+        "Únicamente en el mes de febrero mediante trámite centralizado en La Paz",
+        "Exclusivamente durante las vacaciones escolares de invierno de Educación Regular",
+        "De forma trimestral fija coincidiendo con la universidad pública"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Educación Permanente Calendario",
+      "explicacion": "El Calendario establece que Educación Permanente opera de enero a diciembre según características regionales y ciclo productivo."
+    },
+    {
+      "question": "[25] Según el Artículo 13.I, la inscripción de estudiantes/participantes antiguos que continúan en el mismo CEA es:",
+      "options": [
+        "Automática al nivel, etapa o programa correspondiente, previa confirmación de la o el interesada/o habilitada en los sistemas de registro",
+        "Sujeta a pago de matrícula comercial obligatoria",
+        "Mediante presentación de una nueva carta de recomendación laboral",
+        "Mediante sorteo público de cupos disponibles"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.I - Inscripción de Antiguos",
+      "explicacion": "El Artículo 13.I garantiza la inscripción automática en sistema para participantes antiguos previa confirmación."
+    },
+    {
+      "question": "[26] Conforme al Artículo 13.II, respecto a los participantes antiguos, los centros de educación alternativa NO deberán:",
+      "options": [
+        "Realizar el llenado del formulario físico RUDEAL ni solicitar documentación adicional, salvo modificación de datos personales",
+        "Permitirles el ingreso a las instalaciones hasta el segundo mes de clases",
+        "Registrar su asistencia en el cuaderno andragógico docente",
+        "Entregarles certificaciones técnicas sin cobro previo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.II - Prohibición en RUDEAL Antiguos",
+      "explicacion": "El Artículo 13.II prohíbe exigir RUDEAL físico o pedir documentación repetida a participantes antiguos."
+    },
+    {
+      "question": "[27] De acuerdo con el Artículo 14.I, los requisitos obligatorios para inscripciones de estudiantes nuevos en EPJA Humanística son:",
+      "options": [
+        "Fotocopia simple de CI (verificada con original), libreta/certificado de estudios del último curso, Formulario RUDEAL firmado y cumplir la edad mínima",
+        "Título de licenciatura universitaria e informe de bienes patrimoniales",
+        "Certificado de bautismo y carta de la junta de vecinos del barrio",
+        "Aporte en efectivo de trescientas Unidades de Fomento a la Vivienda"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.I - Requisitos Inscripción Nuevos Humanística",
+      "explicacion": "El Artículo 14.I enumera la CI simple, certificado/libreta de estudios, RUDEAL y cumplimiento de edad mínima."
+    },
+    {
+      "question": "[28] Según el cuadro del Artículo 14.I, la edad mínima requerida para el nivel de Educación Primaria 'Aprendizajes Elementales' es de:",
+      "options": [
+        "15 años cumplidos (fecha límite: I Semestre hasta el 19 de marzo; II Semestre hasta el 6 de septiembre)",
+        "10 años cumplidos al inicio de las inscripciones",
+        "18 años cumplidos únicamente",
+        "12 años cumplidos previa prueba psicológica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.I - Edad Mínima Aprendizajes Elementales",
+      "explicacion": "El cuadro del Art. 14.I fija en 15 años la edad mínima para Aprendizajes Elementales de Primaria EPJA."
+    },
+    {
+      "question": "[29] Conforme al cuadro del Artículo 14.I, la edad mínima fijada para la etapa de 'Aprendizajes Avanzados' de Primaria EPJA es de:",
+      "options": [
+        "16 años cumplidos",
+        "12 años cumplidos",
+        "14 años cumplidos",
+        "20 años cumplidos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.I - Edad Mínima Aprendizajes Avanzados",
+      "explicacion": "El cuadro del Art. 14.I fija 16 años para la etapa de Aprendizajes Avanzados de Primaria EPJA."
+    },
+    {
+      "question": "[30] De acuerdo con el cuadro del Artículo 14.I, la edad mínima para ingresar a 'Aprendizajes Aplicados' de Secundaria EPJA es de:",
+      "options": [
+        "17 años cumplidos",
+        "15 años cumplidos",
+        "18 años cumplidos",
+        "13 años cumplidos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.I - Edad Mínima Aprendizajes Aplicados",
+      "explicacion": "El cuadro del Art. 14.I determina 17 años cumplidos para la etapa de Aprendizajes Aplicados de Secundaria EPJA."
+    },
+    {
+      "question": "[31] Según el cuadro del Artículo 14.I, la edad mínima requerida para las etapas de 'Aprendizajes Complementarios' y 'Especializados' de Secundaria EPJA es de:",
+      "options": [
+        "18 años cumplidos",
+        "16 años cumplidos",
+        "17 años cumplidos",
+        "21 años cumplidos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.I - Edad Mínima Complementarios y Especializados",
+      "explicacion": "El cuadro del Art. 14.I requiere 18 años cumplidos para Complementarios y Especializados de Secundaria EPJA."
+    },
+    {
+      "question": "[32] Conforme al Artículo 14.I.5, de manera excepcional, participantes que no cumplan la edad mínima en Primaria o Secundaria EPJA podrán inscribirse cuando:",
+      "options": [
+        "Se presenten situaciones excepcionales debidamente justificadas conforme a normativa (trabajo, vulnerabilidad social, maternidad, etc.)",
+        "El participante pague el doble del costo del formulario RUDEAL",
+        "El director distrital emita una resolución de dispensa comercial",
+        "Exista espacio físico vacante en las aulas sin importar su condición"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.I.5 - Excepciones de Edad",
+      "explicacion": "El Artículo 14.I.5 regula la atención de casos excepcionales justificados por situaciones sociales particulares."
+    },
+    {
+      "question": "[33] De acuerdo con el Artículo 14.IV, los requisitos para la inscripción en Educación Técnica, Tecnológica y Productiva de EPJA son:",
+      "options": [
+        "CI simple (verificada con original), Formulario RUDEAL, tener 15 años cumplidos y certificado previo para nivel Técnico Medio",
+        "Certificado de antecedentes policiales y garantía fiduciaria",
+        "Acreditar 10 años de experiencia laboral previa certificada",
+        "Tener título de bachiller en humanidades legalizado obligatoriamente para Técnico Básico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.IV - Requisitos Educación Técnica",
+      "explicacion": "El Artículo 14.IV enumera CI, RUDEAL, 15 años cumplidos y certificado del nivel técnico previo para acceder a Técnico Medio."
+    },
+    {
+      "question": "[34] Según el Artículo 14.V, el registro en programas de Educación Permanente No Escolarizada requiere:",
+      "options": [
+        "Fotocopia simple de Cédula de Identidad (verificada con original) y cumplir la edad mínima de 15 años al momento de inscripción",
+        "Pago de arancel universitario de matrícula corta",
+        "Presentación de un proyecto de tesis aprobado por el municipio",
+        "Tener más de 40 años cumplidos en todos los cursos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.V - Educación Permanente Requisitos",
+      "explicacion": "El Artículo 14.V exige CI simple y tener 15 años cumplidos para programas cortos y largos de Educación Permanente."
+    },
+    {
+      "question": "[35] Conforme al Artículo 15, la responsabilidad del archivo y resguardo de la documentación física y digital de los participantes inscritos corresponde a:",
+      "options": [
+        "El director y el personal administrativo del Centro de Educación Alternativa",
+        "La junta de vecinos de la zona donde funciona el centro",
+        "El Ministerio de Economía de forma centralizada en La Paz",
+        "Cada estudiante de manera individual en su domicilio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15 - Resguardo de Documentación",
+      "explicacion": "El Artículo 15 asigna la responsabilidad del resguardo documental a la dirección y administración del CEA."
+    },
+    {
+      "question": "[36] De acuerdo con el Artículo 16, queda prohibida la inscripción simultánea de un participante en dos o más CEAs cuando:",
+      "options": [
+        "Corresponda al mismo nivel, etapa, módulo o especialidad técnica durante el mismo semestre",
+        "Un participante estudia primaria en la mañana y corte y confección en la noche",
+        "Se inscribe a un curso corto de educación permanente los fines de semana",
+        "Cursa una especialidad técnica diferente en dos semestres continuos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16 - Inscripciones Simultáneas Prohibición",
+      "explicacion": "El Artículo 16 prohíbe la doble inscripción simultánea en la misma oferta o nivel en el mismo semestre."
+    },
+    {
+      "question": "[37] Según el Artículo 17, los estudiantes provenientes del Subsistema de Educación Regular que ingresen a Educación Alternativa deben:",
+      "options": [
+        "Cumplir la edad mínima requerida y presentar la libreta escolar electrónica del último curso aprobado verificada en el SIE",
+        "Comprar un código RUDE suplementario con valor comercial",
+        "Rendir un examen de suficiencia académica ante la Dirección Departamental",
+        "Acreditar que fueron expulsados del sistema escolar regular"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17 - Estudiantes de Regular a Alternativa",
+      "explicacion": "El Artículo 17 exige cumplir la edad mínima y verificar la libreta escolar electrónica del SIE."
+    },
+    {
+      "question": "[38] Conforme al Artículo 18, los participantes que concluyen Post-alfabetización y requieren continuar estudios en un CEA por traslado o enfermedad:",
+      "options": [
+        "Podrán continuar estudios cumpliendo los requisitos del Art. 14.I, realizándose traspasos una vez concluido el ciclo de calificaciones",
+        "Deben reiniciar la educación primaria desde la primera etapa de Aprendizajes Elementales",
+        "Quedan inhabilitados para ingresar a la educación secundaria de adultos",
+        "Deben pagar una cuota extraordinaria de homologación de notas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18 - Post-alfabetización Continuidad",
+      "explicacion": "El Artículo 18 garantiza la continuidad de participantes de Post-alfabetización hacia CEAs tras concluir el ciclo de notas."
+    },
+    {
+      "question": "[39] De acuerdo con el Artículo 19.I, los estudiantes que retornan del exterior deben presentar libretas o certificados del último curso visados por:",
+      "options": [
+        "El Consulado Boliviano del país de origen y la Cancillería del Estado Plurinacional de Bolivia, o contener la apostilla respectiva",
+        "La embajada de Estados Unidos en La Paz únicamente",
+        "El colegio de abogados del departamento de destino",
+        "Una agencia de viajes comercial internacional acreditada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19.I - Participantes del Exterior Documentos",
+      "explicacion": "El Artículo 19.I exige visado del Consulado y Cancillería o la Apostilla de La Haya."
+    },
+    {
+      "question": "[40] Según el Artículo 19.II, para estudiantes del exterior provenientes de países de convenios como MERCOSUR o Convenio Andrés Bello, los CEAs aplicarán:",
+      "options": [
+        "La tabla de equivalencias para su inscripción inmediata y gratuita",
+        "Un examen de expulsión antes de revisar la documentación",
+        "El cobro de una tasa de homologación internacional",
+        "El rechazo automático derivándolos a la universidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19.II - Convenios MERCOSUR y Andrés Bello",
+      "explicacion": "El Artículo 19.II dispone la aplicación de tablas de equivalencias para países con convenios de integración."
+    },
+    {
+      "question": "[41] Conforme al Artículo 19.III, si los documentos del exterior aún se encuentran en trámite, las direcciones de los CEAs otorgarán un plazo máximo de:",
+      "options": [
+        "Dos meses desde el inicio de las inscripciones del calendario educativo para su presentación",
+        "Cinco días hábiles contados desde la primera clase",
+        "Un año escolar completo sin registro en el sistema",
+        "Tres semestres consecutivos de prórroga automática"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19.III - Plazo Ventana Documentos Exterior",
+      "explicacion": "El Artículo 19.III concede un plazo ventana de máximo dos meses para presentar documentos en trámite del exterior."
+    },
+    {
+      "question": "[42] De acuerdo con el Artículo 20.I, el Cuaderno Andragógico es el instrumento exclusivo y obligatorio para el maestro que permite:",
+      "options": [
+        "Planificar, hacer seguimiento y registrar el avance curricular y la evaluación de los estudiantes/participantes en Educación Alternativa",
+        "Registrar la venta de uniformes y materiales del centro educativo",
+        "Llevar el control de aportes voluntarios de los padres de familia",
+        "Anotar las sanciones policiales aplicadas en la vía pública"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.I - Cuaderno Andragógico",
+      "explicacion": "El Artículo 20.I determina que el Cuaderno Andragógico registra planificación, seguimiento y evaluación andragógica."
+    },
+    {
+      "question": "[43] Según el Artículo 20.II, los maestros de CEAs deben realizar adaptaciones curriculares para participantes con discapacidad conforme a:",
+      "options": [
+        "La Guía Metodológica de Adaptaciones Curriculares de los ámbitos de Educación Alternativa y Especial",
+        "El criterio personal libre del docente sin guía normativa",
+        "El reglamento interno comercial de colegios privados",
+        "El código de comercio para la formación técnica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.II - Adaptaciones Curriculares Discapacidad",
+      "explicacion": "El Artículo 20.II exige aplicar la Guía Metodológica de Adaptaciones Curriculares de Educación Alternativa y Especial."
+    },
+    {
+      "question": "[44] Conforme al cuadro del Artículo 21.I, la relación mínimo maestro - estudiante requerida tanto en área urbana como rural en Educación Alternativa es:",
+      "options": [
+        "Primaria EPJA: mínimo 10; Secundaria EPJA: mínimo 20; Educación Técnica EPJA: mínimo 15",
+        "Primaria EPJA: mínimo 25; Secundaria EPJA: mínimo 35; Educación Técnica EPJA: mínimo 30",
+        "Mínimo 5 en todos los niveles sin distinción de área",
+        "Mínimo 50 participantes para el área rural y 10 para la ciudad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.I - Relación Maestro-Estudiante Tabla",
+      "explicacion": "El cuadro del Art. 21.I fija la relación mínima en 10 para Primaria, 20 para Secundaria y 15 para Técnica."
+    },
+    {
+      "question": "[45] De acuerdo con el Artículo 21.II, el análisis de procesos de reordenamiento según la relación maestro-estudiante se procederá hasta el mes de:",
+      "options": [
+        "Octubre de acuerdo a normativa vigente",
+        "Marzo al finalizar las inscripciones",
+        "Junio al cierre del primer semestre",
+        "Diciembre durante el cierre de gestión"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.II - Reordenamiento Mes",
+      "explicacion": "El Artículo 21.II señala que el análisis de reordenamiento se realiza hasta el mes de octubre."
+    },
+    {
+      "question": "[46] Según el Artículo 21.III, para el reordenamiento en Primaria EPJA en fronteras, riberas de río y áreas dispersas, el Director Distrital y del CEA deben evaluar:",
+      "options": [
+        "El estado situacional del reporte estadístico considerando las necesidades, características y contexto de la población",
+        "Cerrar inmediatamente el centro educativo si hay menos de 30 estudiantes",
+        "Eliminar el presupuesto asignado por el Estado",
+        "Transferir el CEA a la administración de una empresa privada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.III - Reordenamiento Zonas Dispersas",
+      "explicacion": "El Artículo 21.III exige evaluar las necesidades contextuales de poblaciones dispersas antes de reordenar en fronteras."
+    },
+    {
+      "question": "[47] Conforme al Artículo 22, la responsabilidad de registrar y actualizar la información de carga horaria en el SICH corresponde a:",
+      "options": [
+        "Los directores de centros de educación alternativa, debiendo actualizarse mensualmente con planilla a la Dirección Distrital",
+        "Los participantes electos en el consejo estudiantil",
+        "El Ministerio de Trabajo de forma trimestral",
+        "El portero del centro educativo al finalizar la jornada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22 - Sistema SICH",
+      "explicacion": "El Artículo 22 asigna al Director del CEA la actualización mensual del SICH con la entrega de documentación física."
+    },
+    {
+      "question": "[48] De acuerdo con el Artículo 23.1.a, los lineamientos del Congreso Educativo para EPJA garantizan el acceso, permanencia y conclusión mediante:",
+      "options": [
+        "Acciones flexibles, maestros itinerantes, reconocimiento de saberes y modalidad semipresencial en fronteras, áreas dispersas y de difícil acceso",
+        "La exigencia de asistencia presencial rígida de 8 horas diarias de lunes a domingo",
+        "El cobro de aranceles de nivelación académica a participantes de escasos recursos",
+        "La eliminación de la educación secundaria para personas mayores de 30 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.1.a - Lineamientos EPJA",
+      "explicacion": "El Artículo 23.1.a impulsa maestros itinerantes, flexibilidad, semipresencialidad y reconocimiento de saberes."
+    },
+    {
+      "question": "[49] Según el Artículo 23.1.c, la implementación de competencias digitales en primaria y secundaria EPJA se realizará a través de módulos emergentes en:",
+      "options": [
+        "Tecnologías de la Información y la Inteligencia Artificial",
+        "Mecanografía básica en máquinas de escribir de rodillo",
+        "Cursos pagados de redes sociales informales",
+        "Sistemas operativos obsoletos del siglo pasado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.1.c - Competencias Digitales e IA",
+      "explicacion": "El Artículo 23.1.c norma la incorporación de Tecnologías de la Información e Inteligencia Artificial."
+    },
+    {
+      "question": "[50] Conforme al Artículo 23.2.e, la articulación de la formación técnica con la producción, trabajo y emprendimiento se promoverá mediante la estrategia de:",
+      "options": [
+        "El enfoque de Educación Dual",
+        "La pasantía no remunerada de cinco años",
+        "El trabajo voluntario sin certificación académica",
+        "El arrendamiento comercial de los talleres a terceros"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.2.e - Educación Dual",
+      "explicacion": "El Artículo 23.2.e promueve la implementación de estrategias educativas basadas en el enfoque de Educación Dual."
+    },
+    {
+      "question": "[51] De acuerdo con el Artículo 23.3.a, la gestión institucional articulará la Educación Permanente No Escolarizada con:",
+      "options": [
+        "El Sistema Plurinacional de Certificación de Competencias (SPCC) para fortalecer la certificación de competencias y formación complementaria",
+        "Las agencias privadas de colocación de empleo no autorizadas",
+        "El sistema universitario privado exclusivamente",
+        "Los clubes deportivos profesionales del municipio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.3.a - Educación Permanente y SPCC",
+      "explicacion": "El Artículo 23.3.a dispone la articulación institucional entre Educación Permanente y el SPCC."
+    },
+    {
+      "question": "[52] Según el Artículo 23.3.b, en Educación Permanente se elaborará e implementará un programa de atención integral dirigido a:",
+      "options": [
+        "Personas adultas mayores, facilitando su acceso a oportunidades de aprendizaje e integración social",
+        "Niños menores de seis años sin escolarización inicial",
+        "Comerciantes mayoristas importadores de insumos",
+        "Funcionarios públicos con posgrado completado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.3.b - Adultos Mayores",
+      "explicacion": "El Artículo 23.3.b manda implementar un programa de atención integral para personas adultas mayores."
+    },
+    {
+      "question": "[53] Conforme al Artículo 31.I, en EPJA los CEAs desarrollan procesos de lunes a viernes con períodos de 40 minutos en la siguiente cantidad diaria:",
+      "options": [
+        "Cuatro (4) períodos en Educación Humanística y cinco (5) períodos en Educación Técnica",
+        "Seis (6) períodos en Humanística y seis (6) períodos en Técnica",
+        "Dos (2) períodos diarios de noventa minutos cada uno",
+        "Diez (10) períodos continuos exclusivamente los sábados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.I - Duración Períodos Formativos",
+      "explicacion": "El Artículo 31.I establece 4 períodos diarios en Humanística y 5 períodos en Educación Técnica."
+    },
+    {
+      "question": "[54] De acuerdo con el Artículo 32, la Modalidad Presencial en Educación Alternativa implica:",
+      "options": [
+        "Procesos formativos con participación física y simultánea de facilitadores y participantes cumpliendo horas y ritmos de aprendizaje",
+        "Envío exclusivo de guías impresas por correo postal sin docente",
+        "Clases grabadas en video transmitidas por televisión comercial",
+        "Asistencia obligatoria una sola vez al año para el examen final"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32 - Modalidades de Atención Alternativa",
+      "explicacion": "El Artículo 32.1 define la Modalidad Presencial con participación física y simultánea de facilitadores y participantes."
+    },
+    {
+      "question": "[55] Según el Artículo 35.1, en Educación Alternativa se garantiza la entrega de:",
+      "options": [
+        "La libreta de calificaciones electrónica del área humanística y el certificado de calificaciones electrónico de Educación Técnica",
+        "Cuadernos de notas comprados en imprentas privadas",
+        "Certificados verbales leídos en asamblea comunitaria",
+        "Libretas físicas con sellos de impuesto nacional impreso"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35.1 - Libretas Electrónicas",
+      "explicacion": "El Artículo 35.1 garantiza la libreta electrónica en humanística y el certificado electrónico en técnica."
+    },
+    {
+      "question": "[56] Conforme al Artículo 40.I, la certificación técnica en Educación Alternativa otorga los niveles de:",
+      "options": [
+        "Técnico Básico, Técnico Auxiliar y título de Técnico Medio",
+        "Técnico Superior Universitario y Licenciado Tecnológico",
+        "Perito Comercial y Diplomado de Especialización",
+        "Maestría en Ciencias Técnicas y Doctorado de Investigación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40.I - Certificación Formación Técnica",
+      "explicacion": "El Artículo 40.I norma la certificación en los niveles de Técnico Básico, Técnico Auxiliar y título de Técnico Medio."
+    },
+    {
+      "question": "[57] De acuerdo con el Artículo 40.II, la certificación de Técnico Básico, Auxiliar y Medio del CEPEAD estará a cargo de:",
+      "options": [
+        "La Dirección Departamental de Educación de La Paz por encontrarse allí su sede de operaciones",
+        "La Dirección Distrital de Educación de Cobija de forma rotativa",
+        "El consulado boliviano en el extranjero más cercano",
+        "Una comisión mixta del parlamento nacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40.II - CEPEAD Certificación La Paz",
+      "explicacion": "El Artículo 40.II asigna a la DDE de La Paz la gestión de certificaciones digitales del CEPEAD."
+    },
+    {
+      "question": "[58] Según el Artículo 41.I, el reporte, consolidación y resguardo de la información de los CEAs en el Sistema de Información Educativa (SIE) es responsabilidad de:",
+      "options": [
+        "Los técnicos departamentales y distritales del SIE",
+        "La junta de padres de familia del centro",
+        "El ministerio de economía y finanzas públicas",
+        "Los estudiantes representantes del consejo de curso"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41.I - Reporte SIE Responsabilidad",
+      "explicacion": "El Artículo 41.I determina la responsabilidad de los técnicos departamentales y distritales del SIE."
+    },
+    {
+      "question": "[59] Conforme al Artículo 46, los participantes que concluyen el nivel de Técnico Medio en un CEA pueden transitar a:",
+      "options": [
+        "Educación Superior de Formación Profesional (Institutos Técnicos y Tecnológicos) de acuerdo al Cuadro de Equivalencias armonizado",
+        "Exclusivamente a programas de maestría en universidades extranjeras",
+        "Repetir el nivel técnico medio en una unidad educativa regular",
+        "El segundo año de educación primaria de personas adultas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46 - Transitabilidad a Educación Superior",
+      "explicacion": "El Artículo 46 garantiza la transitabilidad de Técnico Medio de CEAs hacia Institutos Técnicos y Tecnológicos."
+    },
+    {
+      "question": "[60] De acuerdo con el Artículo 47, las suplencias justificadas en CEAs de lugares alejados o inaccesibles podrán designarse con personal que tenga:",
+      "options": [
+        "Formación afin al área del titular",
+        "Cualquier título universitario sin importar la rama",
+        "Solamente certificado de egreso de educación primaria",
+        "Registro de antecedentes comerciales en la alcaldía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 47 - Suplencias en Educación Alternativa",
+      "explicacion": "El Artículo 47 permite en lugares alejados designar suplentes con formación afín al área."
+    },
+    {
+      "question": "[61] Según el Artículo 48, los maestros del ámbito de Educación Alternativa podrán contar con horas acúmulo en:",
+      "options": [
+        "Educación Regular, cumpliendo lo establecido en el Reglamento específico aprobado mediante norma",
+        "Empresas privadas con contrato comercial a tiempo completo",
+        "Universidades privadas sin límite de horas semanales",
+        "Institutos militares con goce de doble sueldo fiscal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 48 - Horas Acúmulo",
+      "explicacion": "El Artículo 48 faculta la designación de horas acúmulo en Educación Regular conforme al Reglamento específico."
+    },
+    {
+      "question": "[62] Conforme al Artículo 49.II, sobre la apertura de centros de educación alternativa privados, la norma establece que:",
+      "options": [
+        "Queda prohibida la apertura de nuevos centros de educación alternativa privados",
+        "Se estimula la creación masiva de CEAs privados con subsidio estatal",
+        "Se autoriza su apertura previa fianza en dólares estadounidenses",
+        "Cualquier profesional puede abrir un CEA privado sin autorización"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 49.II - Prohibición CEAs Privados",
+      "explicacion": "El Artículo 49.II prohíbe expresamente la apertura de nuevos CEAs privados."
+    },
+    {
+      "question": "[63] De acuerdo con el Artículo 50.II y III, en los CEAs privados existentes para la Gestión Educativa 2026:",
+      "options": [
+        "No existirá incremento en las pensiones y queda prohibido el cobro de matrícula, derecho de inscripción o cualquier otro concepto",
+        "Se autoriza un cobro extra del 15% por concepto de diploma",
+        "El cobro de matrícula es obligatorio en dos cuotas iguales",
+        "Las pensiones se reajustan mensualmente según el tipo de cambio del dólar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50.II y III - Pensiones CEAs Privados",
+      "explicacion": "El Artículo 50 prohíbe el incremento de pensiones y el cobro de matrículas o inscripciones."
+    },
+    {
+      "question": "[64] Según el Artículo 51, los CEAs privados están prohibidos de suspender a participantes o retener libretas por:",
+      "options": [
+        "Falta del pago de pensiones",
+        "Inasistencia justificada por enfermedad",
+        "Llegar con retraso a la primera hora de clase",
+        "No portar el uniforme institucional completo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 51 - Prohibición de Suspensión",
+      "explicacion": "El Artículo 51 prohíbe suspender participantes o retener libretas por mora o falta de pago de pensiones."
+    },
+    {
+      "question": "[65] Conforme al Artículo 52.I, los CEAs privados deben otorgar obligatoriamente un régimen de becas completas equivalente al:",
+      "options": [
+        "10% del total de la población matriculada por semestre",
+        "2% de los participantes de cursos cortos únicamente",
+        "25% exclusivo para docentes del mismo centro",
+        "50% de los estudiantes del turno de la tarde"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52.I - Becas Completas CEAs Privados",
+      "explicacion": "El Artículo 52.I fija en 10% del total matriculado por semestre la asignación obligatoria de becas completas."
+    },
+    {
+      "question": "[66] De acuerdo con el Calendario Educativo de Educación Especial (Art. 54), el periodo de inscripción para estudiantes NUEVOS en CEEs es:",
+      "options": [
+        "Del 19 al 30 de enero de 2026 (Ratificación de antiguos: del 19 al 23 de enero de 2026)",
+        "Del 2 al 20 de febrero de 2026 únicamente",
+        "Del 1 al 15 de marzo de 2026",
+        "Durante todo el mes de noviembre"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54 - Calendario Educación Especial Nuevos",
+      "explicacion": "El Calendario de Especial (Art. 54) marca la ratificación de antiguos del 19 al 23 de enero y nuevos del 19 al 30 de enero de 2026."
+    },
+    {
+      "question": "[67] Según el Calendario del Art. 54, las inscripciones extemporáneas en Centros de Educación Especial se realizan:",
+      "options": [
+        "Del 02 al 20 de febrero de 2026",
+        "Del 26 al 30 de enero de 2026",
+        "Del 1 al 10 de marzo de 2026",
+        "Durante el mes de agosto de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54 - Extemporáneos Educación Especial",
+      "explicacion": "El Calendario de Especial (Art. 54) determina el periodo extemporáneo del 2 al 20 de febrero de 2026."
+    },
+    {
+      "question": "[68] Conforme al Calendario del Art. 54, el desarrollo curricular anual en Centros de Educación Especial comprende desde el:",
+      "options": [
+        "02 de febrero de 2026 hasta el 02 de diciembre de 2026 (cumpliendo 200 días hábiles de trabajo)",
+        "15 de enero de 2026 hasta el 31 de octubre de 2026",
+        "1 de marzo de 2026 hasta el 15 de noviembre de 2026",
+        "10 de febrero de 2026 hasta el 20 de diciembre de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54 - Desarrollo Curricular Educación Especial",
+      "explicacion": "El Calendario fija el desarrollo curricular en CEEs del 2 de febrero al 2 de diciembre de 2026 con 200 días hábiles."
+    },
+    {
+      "question": "[69] De acuerdo con el Calendario del Art. 54, el cierre de gestión y evaluación institucional en CEEs se realiza:",
+      "options": [
+        "Hasta el 11 de diciembre de 2026",
+        "Hasta el 30 de noviembre de 2026",
+        "El 24 de diciembre de 2026",
+        "El 15 de enero de 2027"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54 - Evaluación Cierre CEEs",
+      "explicacion": "El Calendario de Especial (Art. 54) marca la entrega de documentos y evaluación de cierre hasta el 11 de diciembre de 2026."
+    },
+    {
+      "question": "[70] Según la tabla del Art. 54, el cómputo de días trabajados por trimestre en Educación Especial es de:",
+      "options": [
+        "Primer Trimestre: 66 días; Segundo Trimestre: 68 días (considerando 10 días de descanso pedagógico); Tercer Trimestre: 66 días (Total 200 días hábiles)",
+        "Primer Trimestre: 50 días; Segundo Trimestre: 50 días; Tercer Trimestre: 100 días",
+        "Cuatro periodos bimestrales de 50 días cada uno",
+        "Primer Trimestre: 80 días; Segundo Trimestre: 60 días; Tercer Trimestre: 60 días"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54 - Trimestres en Educación Especial",
+      "explicacion": "La tabla trimestral del Art. 54 establece 66 + 68 + 66 = 200 días hábiles trabajados."
+    },
+    {
+      "question": "[71] Conforme al Artículo 56, los requisitos para la inscripción de estudiantes nuevos en un Centro de Educación Especial son:",
+      "options": [
+        "Cédula de Identidad o Certificado de Nacimiento, formulario RUDEE debidamente actualizado y diagnóstico pedagógico/multidisciplinario",
+        "Título de bachiller legalizado e informe fiscal de la renta",
+        "Pago de una fianza en efectivo por concepto de materiales",
+        "Certificado militar de libreta de redención de honor"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 56 - Requisitos Inscripción CEE Nuevos",
+      "explicacion": "El Artículo 56 exige CI o Certificado de Nacimiento, formulario RUDEE y evaluación diagnóstica."
+    },
+    {
+      "question": "[72] De acuerdo con el Artículo 57, los estudiantes de Educación Especial pueden realizar inscripciones simultáneas en:",
+      "options": [
+        "Educación Regular, Educación Alternativa o en el área de Formación Técnica de un CEA con el mismo número de registro",
+        "Dos CEEs privados con doble cobro de matrícula",
+        "La universidad pública autónoma sin haber cursado secundaria",
+        "Queda prohibida la inscripción simultánea en Educación Especial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 57 - Inscripciones Simultáneas Especial",
+      "explicacion": "El Artículo 57 garantiza la inscripción simultánea para promover la inclusión educativa y el apoyo técnico-pedagógico."
+    },
+    {
+      "question": "[73] Según el Artículo 58.III, el traspaso de un estudiante entre CEEs requiere que el CEE de origen otorgue la baja y el CEE de destino el alta, manteniendo:",
+      "options": [
+        "Los programas o niveles educativos equivalentes entre ambas instituciones",
+        "El cobro de una tasa de transferencia administrativa",
+        "La reprobación automática del año de escolaridad",
+        "La retención de la documentación original en el origen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 58.III - Traspasos CEEs",
+      "explicacion": "El Artículo 58.III exige mantener la equivalencia de programas o niveles educativos en el traspaso entre CEEs."
+    },
+    {
+      "question": "[74] Conforme al Artículo 59.1, las inscripciones excepcionales en CEEs por enfermedad, accidente o hecho fortuito no atribuible a la persona se realizarán:",
+      "options": [
+        "En el momento que sea necesario y conveniente, según programación individualizada previa verificación de espacio",
+        "Únicamente durante los primeros tres días del mes de enero",
+        "Solamente si el estudiante presenta una autorización del Alcalde",
+        "A la conclusión del tercer trimestre únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 59.1 - Inscripciones Excepcionales Especial",
+      "explicacion": "El Artículo 59.1 permite la inscripción excepcional individualizada en cualquier momento por causas justificadas."
+    },
+    {
+      "question": "[75] De acuerdo con el Artículo 61.I, el proceso de diagnóstico pedagógico en Educación Especial se realizará del:",
+      "options": [
+        "2 al 13 de febrero de 2026",
+        "19 al 30 de enero de 2026",
+        "1 al 15 de marzo de 2026",
+        "10 al 20 de noviembre de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 61.I - Diagnóstico Pedagógico Fechas",
+      "explicacion": "El Artículo 61.I fija el diagnóstico pedagógico entre el 2 y el 13 de febrero de 2026."
+    },
+    {
+      "question": "[76] Según el Artículo 61.II, para los estudiantes de Educación Especial serán válidas las evaluaciones multidisciplinarias integrales emitidas por:",
+      "options": [
+        "Instituciones del Estado que trabajen en el ámbito de la discapacidad (Unidades de Discapacidad del GAM, Gobernaciones y Sistema Nacional de Salud)",
+        "Clínicas estéticas privadas únicamente",
+        "Laboratorios comerciales no autorizados",
+        "Empresas aseguradoras internacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 61.II - Evaluaciones Válidas",
+      "explicacion": "El Artículo 61.II otorga validez a las evaluaciones emitidas por unidades de discapacidad estatales y del sistema público de salud."
+    },
+    {
+      "question": "[77] Conforme al Artículo 62.I, el Diseño Plural para los Aprendizajes (DPA) contempla la flexibilización curricular mediante:",
+      "options": [
+        "Dosificación, priorización, diversificación y flexibilización curricular según necesidades y potencialidades",
+        "La eliminación completa de los contenidos de lenguaje y matemáticas",
+        "La reprobación masiva de estudiantes con autismo",
+        "El cobro de guías impresas especiales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 62.I - DPA Flexibilización",
+      "explicacion": "El Artículo 62.I establece que el DPA opera mediante dosificación, priorización, diversificación y flexibilización."
+    },
+    {
+      "question": "[78] De acuerdo con el Artículo 66.I.a, para el Programa de Educación Sociocomunitaria en Casa (D.S. N° 2950), las Direcciones Departamentales emitirán la convocatoria para:",
+      "options": [
+        "La selección de los maestros voluntarios para garantizar la atención domiciliaria a personas con discapacidad Grave y Muy Grave",
+        "La compra de ambulancias privadas para los centros",
+        "El cobro de aportes a los familiares del estudiante",
+        "La contratación de personal policial de custodia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 66.I.a - Educación en Casa Convocatoria",
+      "explicacion": "El Artículo 66.I.a manda emitir la convocatoria para seleccionar a los maestros voluntarios del programa en casa."
+    },
+    {
+      "question": "[79] Según el Artículo 70, las actividades en los CEEs se desarrollan de lunes a viernes con cinco (5) períodos diarios de:",
+      "options": [
+        "Cuarenta y cinco (45) minutos cada uno",
+        "Treinta (30) minutos cada uno",
+        "Sesenta (60) minutos cada uno",
+        "Noventa (90) minutos cada uno"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 70 - Períodos Pedagógicos CEE",
+      "explicacion": "El Artículo 70 fija 5 períodos diarios de 45 minutos de duración cada uno en Educación Especial."
+    },
+    {
+      "question": "[80] Conforme al Artículo 71.I.1, la Modalidad de Atención Directa en Educación Especial comprende:",
+      "options": [
+        "Procesos educativos desarrollados en los Centros de Educación Especial en el marco de currículos y planes específicos por subáreas",
+        "Apoyo pedagógico brindado únicamente por teléfono o WhatsApp",
+        "La derivación del estudiante a una escuela privada regular sin seguimiento",
+        "Cursos de capacitación comercial nocturnos para padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 71.I.1 - Modalidad Atención Directa",
+      "explicacion": "El Artículo 71.I.1 define la Modalidad Directa como los procesos educativos desarrollados en el CEE con planes específicos."
+    },
+    {
+      "question": "[81] De acuerdo con el Artículo 71.I.2, la Modalidad de Atención Indirecta en Educación Especial consiste en:",
+      "options": [
+        "Acciones de apoyo técnico-pedagógico, asesoramiento y orientación a estudiantes con inscripción simultánea matriculados en Regular o Alternativa",
+        "Atención exclusiva en salas de internación hospitalaria privada",
+        "La entrega de becas económicas de subsistencia sin atención educativa",
+        "El dictado de talleres de manualidades para el público general"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 71.I.2 - Modalidad Atención Indirecta",
+      "explicacion": "El Artículo 71.I.2 define la Modalidad Indirecta como apoyo técnico-pedagógico a estudiantes con inscripción simultánea."
+    },
+    {
+      "question": "[82] Según el Artículo 72.I, los directores y maestros de CEEs coordinarán acciones de apoyo técnico-pedagógico y capacitación con:",
+      "options": [
+        "Maestros, padres, madres y tutores de Unidades Educativas y CEAs que cuenten con estudiantes con discapacidad, autismo, dificultades o talento extraordinario",
+        "Empresas privadas de transporte comercial interprovincial",
+        "Sindicatos de comerciantes minoristas del mercado central",
+        "Jueces de la corte electoral departamental"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 72.I - Apoyo CEEs a Regular y Alternativa",
+      "explicacion": "El Artículo 72.I determina la coordinación de apoyo pedagógico con docentes y padres de escuelas regulares e inclusivas."
+    },
+    {
+      "question": "[83] Conforme al Artículo 73.1, la evaluación e informes en el Área de Discapacidad en Modalidad Directa se rige por:",
+      "options": [
+        "El Reglamento para la Evaluación de Procesos y Programa de Atención Educativa de Estudiantes con Discapacidad (R.M. N° 0186/2024)",
+        "El código de comercio para la pequeña industria",
+        "La libreta de notas de la universidad pública",
+        "El criterio arbitrario del director del centro"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 73.1 - Libretas Discapacidad",
+      "explicacion": "El Artículo 73.1 remite al Reglamento de Evaluación aprobado por R.M. N° 0186/2024."
+    },
+    {
+      "question": "[84] De acuerdo con el Artículo 75.I, la certificación técnica en Educación Especial se sujeta al Reglamento específico y otorga los niveles de:",
+      "options": [
+        "Técnico Operario, Técnico Básico y Técnico Auxiliar",
+        "Técnico Superior Licenciado y Maestría Técnica",
+        "Perito Contable y Auditor Financiero",
+        "Auxiliar de Enfermería de Tercer Nivel"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 75.I - Certificación Técnica Especial",
+      "explicacion": "El Artículo 75.I determina los niveles de Técnico Operario, Técnico Básico y Técnico Auxiliar en Educación Especial."
+    },
+    {
+      "question": "[85] Según el Artículo 81.I y II, en los CEAs y CEEs fiscales y de convenio quedan terminantemente prohibidos:",
+      "options": [
+        "Cualquier tipo de cobros o aportes durante la gestión educativa, siendo todos los servicios de carácter gratuito",
+        "Los cobros superiores a cien bolivianos por concepto de libreta",
+        "Los aportes en especie de alimentos para el desayuno escolar",
+        "Las donaciones voluntarias provenientes de la cooperación internacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 81.I y II - Prohibición de Cobros",
+      "explicacion": "El Artículo 81 prohíbe terminantemente cualquier tipo de cobros o aportes garantizando la gratuidad de los servicios."
+    },
+    {
+      "question": "[86] Conforme al Artículo 84, la conformación, constitución y funcionamiento de las organizaciones estudiantiles/participantes en CEAs y CEEs debe realizarse hasta el:",
+      "options": [
+        "2 de marzo de 2026",
+        "15 de abril de 2026",
+        "30 de mayo de 2026",
+        "10 de agosto de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 84 - Organizaciones Estudiantiles Fecha",
+      "explicacion": "El Artículo 84 establece como fecha límite el 2 de marzo de 2026 para conformar las organizaciones estudiantiles."
+    },
+    {
+      "question": "[87] De acuerdo con la Disposición Final Primera, el incumplimiento de las Normas Generales para la Gestión Educativa 2026 por autoridades o personal educativo será sancionado:",
+      "options": [
+        "De acuerdo con la normativa disciplinaria y administrativa vigente",
+        "Con la clausura definitiva de la unidad educativa o centro",
+        "Con multa en dólares fijada por la junta de vecinos",
+        "Con la pérdida automática del título profesional de maestro"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Primera - Sanciones",
+      "explicacion": "La Disposición Final Primera dispone sanciones administrativas conforme a normativa disciplinaria vigente."
+    },
+    {
+      "question": "[88] Según la Disposición Final Tercera, las Subdirecciones de Educación Alternativa y Especial y Direcciones Distritales realizarán:",
+      "options": [
+        "Un mapeo con la identificación y especialización de unidades educativas y CEAs inclusivos por área de atención, remitido al Viceministerio",
+        "Una encuesta sobre el nivel de ingresos económicos familiares",
+        "Un censo comercial de los kioscos ubicados fuera de los centros",
+        "Un registro de licencias de conducir del personal administrativo"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Tercera - Mapeo Inclusivo",
+      "explicacion": "La Disposición Final Tercera encomienda realizar un mapeo de instituciones inclusivas por área de atención."
+    },
+    {
+      "question": "[89] Conforme a la Disposición Final Sexta, los aspectos académicos, técnicos o administrativos no previstos en la norma serán resueltos mediante:",
+      "options": [
+        "Instructivos o circulares emitidos por el Ministerio de Educación a través del Viceministerio de Educación Alternativa y Especial",
+        "Votación popular de los vecinos del municipio",
+        "Fallo irrenunciable del tribunal contencioso administrativo",
+        "Decisión unipersonal del portero del centro educativo"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Sexta - Imprevistos",
+      "explicacion": "La Disposición Final Sexta establece la resolución de imprevistos mediante instructivos y circulares del Viceministerio."
+    },
+    {
+      "question": "[90] De acuerdo con la Disposición Transitoria Primera, los procesos de certificación del área de Educación Permanente rezagados de las gestiones 2020 y 2021 deberán ser:",
+      "options": [
+        "Regularizados en la presente gestión a través del Sistema Académico habilitado por la UGPSEP-SI de Sistemas",
+        "Anulados definitivamente sin derecho a reclamo de los participantes",
+        "Transferidos a la universidad pública autónoma para su cobro",
+        "Archivados por diez años antes de su revisión"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Primera - Certificación Permanente",
+      "explicacion": "La Disposición Transitoria Primera manda regularizar en la gestión 2026 los procesos rezagados de 2020 y 2021."
+    },
+    {
+      "question": "[91] De acuerdo a la R.M. N° 0001/2026, ¿cuál es la naturaleza técnica del instrumento normativo para el Subsistema de Educación Alternativa y Especial?",
+      "options": [
+        "Es un instrumento técnico, administrativo, de gestión, pedagógico/andragógico y normativo que regula la Gestión Educativa 2026",
+        "Es un reglamento comercial privado para la venta de licencias de software educativo",
+        "Es una recomendación opcional no vinculante para los centros de educación especial",
+        "Es una norma exclusivamente presupuestaria emitida por el Banco Central de Bolivia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1 - Objeto Normativo",
+      "explicacion": "El Artículo 1 establece que es un instrumento técnico, administrativo, de gestión, pedagógico/andragógico y normativo."
+    },
+    {
+      "question": "[92] La R.M. N° 0001/2026 del Subsistema de Educación Alternativa y Especial norma las acciones de gestión educativa en los niveles:",
+      "options": [
+        "Nacional, departamental y distrital",
+        "Exclusivamente municipal e indígena originario campesino",
+        "Internacional y consular únicamente",
+        "Privado y cooperativo autárquico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.I - Ámbito Administrativo",
+      "explicacion": "El Artículo 2.I especifica los niveles nacional, departamental y distrital del Sistema Educativo Plurinacional."
+    },
+    {
+      "question": "[93] ¿Qué disposición establece la R.M. N° 0001/2026 respecto al desarrollo de las actividades extracurriculares en CEAs y CEEs?",
+      "options": [
+        "Deben ser programadas en horarios previamente establecidos sin suspender el desarrollo de las clases",
+        "Se realizan suspendiendo actividades lectivas los días viernes de cada semana",
+        "Se prohíbe la realización de cualquier actividad comunitaria durante todo el año",
+        "Deben ser cobradas como talleres de capacitación extracurricular pagada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.II - Horario de Consejos",
+      "explicacion": "El Artículo 3.II determina que se programan sin suspender las actividades educativas."
+    },
+    {
+      "question": "[94] En el marco de la R.M. N° 0001/2026, las Jornadas de Actualización Continua tienen por propósito:",
+      "options": [
+        "Permitir a los maestros desarrollar procesos educativos actualizados, de calidad y pertinentes a su ámbito y contexto",
+        "Otorgar licencias comerciales para la venta de insumos informáticos",
+        "Evaluar la conducta privada de los padres de familia",
+        "Sustituir los cursos de formación técnica por talleres teóricos genéricos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4 - Formación Continua",
+      "explicacion": "El Artículo 4 establece que la formación continua busca desarrollar procesos educativos pertinentes y de calidad."
+    },
+    {
+      "question": "[95] ¿Quiénes deben coordinar e instruir la opción por modalidades presencial, semipresencial o a distancia ante contingencias en CEAs y CEEs?",
+      "options": [
+        "Las direcciones departamentales de educación y direcciones distritales educativas",
+        "La junta vecinal del barrio donde se ubica el centro",
+        "El ministerio de economía y finanzas públicas",
+        "La asociación privada de propietarios de inmuebles"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5 - Modalidades por Riesgo",
+      "explicacion": "El Artículo 5 asigna la coordinación a las Direcciones Departamentales y Distritales de Educación."
+    },
+    {
+      "question": "[96] ¿Cuáles de los siguientes requerimientos DEBEN ser cubiertos obligatoriamente por el POA municipal según el Artículo 7.I?",
+      "options": [
+        "Equipamiento, infraestructura, ambientes, laboratorios, talleres, servicios básicos y alimentación escolar",
+        "El pago de viáticos para viajes al extranjero del director del centro",
+        "La compra de publicidad en redes sociales privadas",
+        "La contratación de abogados particulares para juicios privados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.I - Asignación Municipal POA",
+      "explicacion": "El Artículo 7.I enumera la asignación municipal para talleres, laboratorios, infraestructura, servicios y alimentación."
+    },
+    {
+      "question": "[97] En el marco de la Educación Inclusiva (Art. 8), la continuidad educativa de estudiantes de Educación Especial exige la presentación de:",
+      "options": [
+        "Informe de evaluación de diagnóstico o de transitabilidad, con certificación y libretas en los niveles pertinentes",
+        "Un depósito en garantía en la cuenta bancaria del Ministerio de Educación",
+        "Una dispensa aprobada por el Consejo Magistral de la universidad",
+        "Un certificado médico expedido en el extranjero con apostilla"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8 - Certificación e Informes",
+      "explicacion": "El Artículo 8 condiciona la transitabilidad al informe de diagnóstico/transitabilidad con certificación y libretas."
+    },
+    {
+      "question": "[98] La Práctica Educativa Comunitaria (PEC) normada en el Artículo 9 involucra la coordinación entre los centros educativos del Subsistema y:",
+      "options": [
+        "Las Escuelas Superiores de Formación de Maestros (ESFM) y Unidades Académicas (UA)",
+        "Los institutos privados de capacitación técnica comercial",
+        "Las academias diplomáticas de relaciones exteriores",
+        "Los sindicatos de comerciantes del mercado central"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9 - Coordinación PEC",
+      "explicacion": "El Artículo 9 establece la coordinación con las ESFM y Unidades Académicas para la PEC."
+    },
+    {
+      "question": "[99] El registro obligatorio de bienes, mobiliario y equipamiento del Artículo 10 aplica a los insumos provenientes de:",
+      "options": [
+        "El Ministerio de Educación, Gobiernos Autónomos Municipales, donaciones y recursos propios",
+        "Únicamente los aportes de las juntas de padres de familia",
+        "Suscripciones comerciales internacionales privadas",
+        "Venta de activos fijos de la gestión anterior"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10 - Activos Fijos",
+      "explicacion": "El Artículo 10 incluye bienes provistos por el Ministerio, GAMs, donaciones y recursos propios."
+    },
+    {
+      "question": "[100] Queda terminantemente prohibido utilizar la infraestructura de CEAs y CEEs para actividades ajenas a la educación, según el Artículo 11, porque:",
+      "options": [
+        "Son bienes públicos destinados exclusivamente al desarrollo de procesos educativos autorizados",
+        "Son propiedad privada del director institucionalizado",
+        "Requieren la aprobación previa de un tribunal militar",
+        "Pertenecen a corporaciones multinacionales privadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11 - Prohibición de Alquiler",
+      "explicacion": "El Artículo 11 resguarda los bienes públicos educativos prohibiendo usos ajenos no autorizados."
+    },
+    {
+      "question": "[101] ¿Cuál es el periodo de inscripciones ordinarias para participantes NUEVOS en EPJA durante el Primer Semestre 2026?",
+      "options": [
+        "Del 19 de enero al 20 de febrero de 2026",
+        "Del 2 al 15 de marzo de 2026",
+        "Del 1 al 30 de abril de 2026",
+        "Durante todo el mes de mayo de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Calendario EPJA I/2026",
+      "explicacion": "El Calendario del Art. 12 fija la inscripción de nuevos del 1er Semestre del 19 de enero al 20 de febrero de 2026."
+    },
+    {
+      "question": "[102] ¿Cuál es el periodo de inscripciones ordinarias para participantes NUEVOS en EPJA durante el Segundo Semestre 2026?",
+      "options": [
+        "Del 30 de junio al 10 de agosto de 2026",
+        "Del 1 al 15 de septiembre de 2026",
+        "Del 15 de mayo al 30 de junio de 2026",
+        "Del 1 al 20 de octubre de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Calendario EPJA II/2026",
+      "explicacion": "El Calendario del Art. 12 establece la inscripción de nuevos del 2do Semestre del 30 de junio al 10 de agosto de 2026."
+    },
+    {
+      "question": "[103] En el Calendario Educativo del Art. 12, las inscripciones extemporáneas del Segundo Semestre de EPJA se realizan:",
+      "options": [
+        "Del 10 al 17 de agosto de 2026",
+        "Del 1 al 10 de septiembre de 2026",
+        "Del 20 al 27 de julio de 2026",
+        "Durante todo el mes de noviembre"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Extemporáneos II Semestre",
+      "explicacion": "El Calendario fija las inscripciones extemporáneas del 2do Semestre entre el 10 y el 17 de agosto de 2026."
+    },
+    {
+      "question": "[104] De acuerdo con el Calendario de EPJA (Art. 12), el periodo de 'Diagnóstico' para el Segundo Semestre se desarrolla del:",
+      "options": [
+        "13 al 17 de julio de 2026",
+        "1 al 5 de junio de 2026",
+        "10 al 15 de agosto de 2026",
+        "1 al 5 de diciembre de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Diagnóstico II Semestre",
+      "explicacion": "El Calendario marca el diagnóstico del 2do Semestre del 13 al 17 de julio de 2026."
+    },
+    {
+      "question": "[105] La finalización del desarrollo curricular del Segundo Semestre en EPJA conforme al Calendario del Art. 12 está fijada para el:",
+      "options": [
+        "1 de diciembre de 2026",
+        "15 de noviembre de 2026",
+        "20 de diciembre de 2026",
+        "15 de enero de 2027"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12 - Finalización Clases II Semestre",
+      "explicacion": "El Calendario marca el fin de clases del 2do Semestre el 1 de diciembre de 2026."
+    },
+    {
+      "question": "[106] Para la inscripción automática de participantes antiguos en CEAs (Art. 13.I), ¿qué unidad del Ministerio de Educación habilita la opción en el sistema?",
+      "options": [
+        "La Unidad de Gestión de Personal del Sistema Educativo Plurinacional y Sistemas Informáticos (UGPSEP-SI)",
+        "La Dirección General de Educación Secundaria únicamente",
+        "El Viceministerio de Educación Superior",
+        "La Dirección Administrativa Financiera del GAM"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.I - Habilitación UGPSEP-SI",
+      "explicacion": "El Artículo 13.I especifica que la UGPSEP-SI habilita la opción de inscripción automática en los sistemas."
+    },
+    {
+      "question": "[107] El Artículo 13.III dispone que la eliminación del registro por ausencia posterior al cierre de inscripciones en un CEA tiene por fin:",
+      "options": [
+        "Evitar duplicidad de registro en el sistema académico oficial",
+        "Imponer sanciones penales al estudiante ausente",
+        "Aumentar el cobro de la libreta electrónica",
+        "Reducir la carga horaria del maestro itinerante"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.III - Duplicidad de Registro",
+      "explicacion": "El Artículo 13.III establece la eliminación del registro para evitar duplicidades en el sistema."
+    },
+    {
+      "question": "[108] Para la inscripción de nuevos participantes en EPJA Humanística (Art. 14.I), la verificación de la CI y la libreta se realiza mediante:",
+      "options": [
+        "Fotocopia simple cotejada con el documento original e historial del Sistema de Información de Educación Alternativa",
+        "Legalización notariada obligatoria en tres ejemplares",
+        "Certificado expedido por la Policía Internacional (INTERPOL)",
+        "Declaración jurada del chofer de transporte público"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.I - Documentación Nuevos EPJA",
+      "explicacion": "El Artículo 14.I señala la fotocopia simple verificada con el original y el historial del sistema de información."
+    },
+    {
+      "question": "[109] Conforme al cuadro del Artículo 14.I, la fecha límite de cumplimiento de la edad mínima para el Primer Semestre de EPJA es el:",
+      "options": [
+        "19 de marzo de 2026",
+        "31 de enero de 2026",
+        "30 de abril de 2026",
+        "15 de junio de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.I - Fecha Límite Edad I Semestre",
+      "explicacion": "El cuadro del Art. 14.I fija el 19 de marzo de 2026 como fecha límite de edad para el 1er Semestre."
+    },
+    {
+      "question": "[110] De acuerdo con el cuadro del Artículo 14.I, la fecha límite de cumplimiento de la edad mínima para el Segundo Semestre de EPJA es el:",
+      "options": [
+        "6 de septiembre de 2026",
+        "30 de julio de 2026",
+        "31 de agosto de 2026",
+        "1 de noviembre de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.I - Fecha Límite Edad II Semestre",
+      "explicacion": "El cuadro del Art. 14.I establece el 6 de septiembre de 2026 como fecha límite de edad para el 2do Semestre."
+    },
+    {
+      "question": "[111] Según el Artículo 14.IV, para inscribirse al nivel de Técnico Medio en un CEA, el participante debe presentar obligatoriamente:",
+      "options": [
+        "El Certificado de Técnico Auxiliar (obtenido mediante Certificado de Técnico Básico o de calificaciones)",
+        "Un diploma de licenciatura universitaria registrado en el Ministerio de Educación",
+        "Una carta de recomendación de un empresario privado de la zona",
+        "Un depósito bancario por concepto de herramientas de taller"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.IV - Requisito para Técnico Medio",
+      "explicacion": "El Artículo 14.IV exige el Certificado de Técnico Auxiliar para acceder al nivel de Técnico Medio."
+    },
+    {
+      "question": "[112] El Artículo 16 norma que las direcciones de CEAs y técnicos del SIE deben controlar la prohibición de inscripciones simultáneas para:",
+      "options": [
+        "Garantizar la transparencia y correcta asignación de matrícula en el sistema informático",
+        "Impedir que los participantes trabajen durante el día",
+        "Sancionar a los docentes que tienen horas acúmulo",
+        "Obligar a los estudiantes a inscribirse en universidades privadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16 - Control de Doble Matriculación",
+      "explicacion": "El Artículo 16 busca evitar distorsiones y garantizar la transparencia del registro académico."
+    },
+    {
+      "question": "[113] Un estudiante que proviene del Subsistema de Educación Regular y desea ingresar a un CEA (Art. 17) debe contar obligatoriamente con:",
+      "options": [
+        "La edad mínima reglamentaria establecida para la etapa o nivel al que se postula",
+        "La aprobación previa del Consejo de Magistrados de la ciudad",
+        "Un certificado de matrimonio o libreta de familia",
+        "Una dispensa del Servicio de Impuestos Nacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17 - Criterio para Traspaso de Regular",
+      "explicacion": "El Artículo 17 exige indispensablemente cumplir con la edad mínima prevista en la norma."
+    },
+    {
+      "question": "[114] Conforme al Artículo 18, los traspasos de participantes en Post-alfabetización entre CEAs por traslado de residencia o trabajo pueden realizarse:",
+      "options": [
+        "Una vez concluido el ciclo de calificaciones",
+        "En cualquier día del mes sin registro pedagógico",
+        "Únicamente durante la primera semana de enero",
+        "Solamente si el participante repite el semestre"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18 - Traspaso en Post-alfabetización",
+      "explicacion": "El Artículo 18 indica que los traspasos se efectúan una vez concluido el ciclo de calificaciones."
+    },
+    {
+      "question": "[115] De acuerdo con el Artículo 19.I, la libreta o certificado de estudios del exterior debe estar visado por el Consulado y Cancillería o:",
+      "options": [
+        "Contener la apostilla respectiva conforme al Convenio de La Haya",
+        "Estar traducido por un profesor del área rural",
+        "Tener el sello del sindicato de choferes fronterizo",
+        "Llevar la firma del alcalde del municipio de origen"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19.I - Apostilla de Documentos Exterior",
+      "explicacion": "El Artículo 19.I acepta la apostilla como alternativa válida de legalización de documentos del exterior."
+    },
+    {
+      "question": "[116] El Artículo 20.I dispone que el Cuaderno Andragógico debe ser utilizado obligatoriamente por el maestro para:",
+      "options": [
+        "El registro de planificación, avance de contenidos y evaluación de los participantes del CEA",
+        "Anotar el cobro de cuotas para el festejo del día del maestro",
+        "Registrar las ventas de insumos producidos en el centro",
+        "Escribir artículos periodísticos de opinión pública"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.I - Cuaderno Andragógico Uso",
+      "explicacion": "El Artículo 20.I determina que sirve para registrar la planificación, avance curricular y evaluación andragógica."
+    },
+    {
+      "question": "[117] Según el Artículo 20.II, ¿cuál es el documento normativo de referencia para realizar adaptaciones a personas con discapacidad en un CEA?",
+      "options": [
+        "La Guía Metodológica de Adaptaciones Curriculares de Educación Alternativa y Especial",
+        "El manual de funciones del Ministerio de Trabajo",
+        "El código de procedimiento civil de la magistratura",
+        "El reglamento de faltas y sanciones disciplinarias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.II - Guía de Adaptaciones Curriculares",
+      "explicacion": "El Artículo 20.II remite a la Guía Metodológica de Adaptaciones Curriculares del Subsistema."
+    },
+    {
+      "question": "[118] Conforme a la tabla del Artículo 21.I, el número MÍNIMO de participantes para abrir un curso en Secundaria EPJA es de:",
+      "options": [
+        "20 participantes (tanto en área urbana como rural)",
+        "35 participantes en ciudad y 10 en campo",
+        "10 participantes en todo el país",
+        "50 participantes obligatoriamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.I - Mínimo Participantes Secundaria EPJA",
+      "explicacion": "La tabla del Art. 21.I fija en 20 el mínimo de participantes para Secundaria EPJA en ambas áreas."
+    },
+    {
+      "question": "[119] De acuerdo con la tabla del Artículo 21.I, el número MÍNIMO de participantes para Educación Técnica EPJA es de:",
+      "options": [
+        "15 participantes (tanto en área urbana como rural)",
+        "30 participantes en el área urbana y 5 en la rural",
+        "25 participantes en todos los talleres",
+        "8 participantes previa fianza del facilitador"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.I - Mínimo Participantes Técnica EPJA",
+      "explicacion": "La tabla del Art. 21.I exige un mínimo de 15 participantes para Educación Técnica EPJA."
+    },
+    {
+      "question": "[120] El Artículo 22 exige que el reporte del SICH por el Director del CEA coincida mensualmente con:",
+      "options": [
+        "La planilla mensual entregada físicamente a las direcciones distritales educativas",
+        "El inventario de activos fijos de la gestión anterior",
+        "El listado de becas otorgadas por el municipio",
+        "El registro de facturas comerciales de luz y agua"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22 - Actualización SICH Planilla",
+      "explicacion": "El Artículo 22 determina que el SICH se actualiza mensualmente en concordancia con la planilla física."
+    },
+    {
+      "question": "[121] Para garantizar la conclusión de estudios en zonas dispersas y de difícil acceso (Art. 23.1.a), se implementará:",
+      "options": [
+        "Maestros itinerantes, reconocimiento de saberes y la modalidad semipresencial",
+        "La contratación de empresas privadas de transporte aéreo",
+        "El cobro de matrículas de permanencia a los participantes",
+        "La eliminación de la formación secundaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.1.a - Estrategias EPJA Dispersas",
+      "explicacion": "El Artículo 23.1.a norma el uso de maestros itinerantes, reconocimiento de saberes y semipresencialidad."
+    },
+    {
+      "question": "[122] La reorganización de la oferta técnica en CEAs (Art. 23.2.a) debe considerar obligatoriamente:",
+      "options": [
+        "Estudios de mercado, vocaciones productivas, potencialidades del contexto y transitabilidad a educación superior",
+        "El gusto personal exclusivo del director del centro",
+        "La disponibilidad de maquinaria obsoleta importada",
+        "El presupuesto del fondo de pensiones de los docentes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.2.a - Reorganización Oferta Técnica",
+      "explicacion": "El Artículo 23.2.a exige estudios de mercado, vocaciones productivas del contexto y transitabilidad."
+    },
+    {
+      "question": "[123] De acuerdo con el Artículo 23.2.b, para impulsar los productos y servicios generados por los CEAs se organizarán:",
+      "options": [
+        "Espacios de mercadeo, ferias productivas e intercambios de productos con instituciones públicas y privadas",
+        "Subastas judiciales de bienes embargados",
+        "Loterías comerciales nocturnas con fines de lucro",
+        "Ventas ambulatorias sin control sanitario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.2.b - Ferias e Intercambios",
+      "explicacion": "El Artículo 23.2.b impulsa ferias productivas, espacios de mercadeo e intercambios interinstitucionales."
+    },
+    {
+      "question": "[124] Según el Artículo 23.2.c, la implementación de planes y programas unificados en carreras técnicas tiene por fin:",
+      "options": [
+        "Asegurar la continuidad de estudios y la movilidad de los participantes a nivel nacional",
+        "Impedir que los participantes se trasladen a otros departamentos",
+        "Aumentar el número de asignaturas teóricas sin práctica",
+        "Centralizar el cobro de títulos en una cuenta privada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.2.c - Planes Unificados Técnica",
+      "explicacion": "El Artículo 23.2.c busca garantizar la movilidad de participantes y la unificación nacional curricular."
+    },
+    {
+      "question": "[125] Conforme al Artículo 23.3.c, todos los Centros de Educación Permanente implementarán acciones de:",
+      "options": [
+        "Caracterización, mapeo, inducción y evaluación para la certificación de competencias y formación complementaria",
+        "Cobro de tasas comerciales por la emisión de diplomas",
+        "Capacitación militar obligatoria de fin de semana",
+        "Exámenes de admisión masivos con cupos limitados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.3.c - Certificación de Competencias Permanentes",
+      "explicacion": "El Artículo 23.3.c exige caracterización, mapeo, inducción y evaluación para la certificación del SPCC."
+    },
+    {
+      "question": "[126] En el Artículo 31.I, la duración exacta fijada para cada período formativo en Educación Alternativa es de:",
+      "options": [
+        "Cuarenta (40) minutos por período",
+        "Treinta (30) minutos por período",
+        "Cincuenta (50) minutos por período",
+        "Sesenta (60) minutos por período"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.I - Duración Período Minutos",
+      "explicacion": "El Artículo 31.I señala que cada período formativo tiene una duración exacta de 40 minutos."
+    },
+    {
+      "question": "[127] De acuerdo con el Artículo 32.2, la Modalidad Semipresencial en Educación Alternativa combina:",
+      "options": [
+        "Tutorías presenciales programadas con procesos de autoaprendizaje e interacción a través de medios educativos",
+        "Clases presenciales obligatorias los 200 días de 8 a 12",
+        "Uso exclusivo de cartas por correo postal certificado",
+        "Estudio a distancia sin ningún tipo de evaluación o tutoría"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.2 - Modalidad Semipresencial",
+      "explicacion": "El Artículo 32.2 define la Modalidad Semipresencial mediante tutorías programadas y autoaprendizaje."
+    },
+    {
+      "question": "[128] Según el Artículo 32.3, la Modalidad a Distancia se desarrolla mediante el uso de:",
+      "options": [
+        "Tecnologías de la información, materiales impresos y entornos virtuales sin asistencia física regular obligatoria",
+        "Asistencia diaria al centro educativo en horario nocturno",
+        "Contratación de un tutor privado pagado por el participante",
+        "Exámenes semanales en la dirección distrital de educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.3 - Modalidad a Distancia",
+      "explicacion": "El Artículo 32.3 define la Modalidad a Distancia basada en TIC, materiales impresos y entornos virtuales."
+    },
+    {
+      "question": "[129] Conforme al Artículo 35.1, la certificación de calificaciones en el área técnica de Educación Alternativa es de carácter:",
+      "options": [
+        "Electrónico, emitido en cumplimiento a la reglamentación específica",
+        "Físico manuscrito con sello de agua comercial",
+        "Verbal comunicado ante el consejo de maestros",
+        "Notariado por un abogado particular de la zona"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35.1 - Certificado Electrónico Técnico",
+      "explicacion": "El Artículo 35.1 garantiza la emisión del certificado electrónico de calificaciones en el área técnica."
+    },
+    {
+      "question": "[130] De acuerdo con el Artículo 40.III, para la obtención del título de Técnico Medio en un CEA, los participantes deben:",
+      "options": [
+        "Optar por una de las modalidades de graduación establecidas en la normativa específica (Proyecto de Emprendimiento, Proyecto Comunitario, etc.)",
+        "Comprar un estampilla fiscal de valor comercial elevado",
+        "Pagar un arancel de graduación fijado en dólares",
+        "Aprobar un examen oral de tres horas ante un jurado universitario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40.III - Modalidades de Graduación Técnico Medio",
+      "explicacion": "El Artículo 40.III establece el cumplimiento de las modalidades de graduación de la normativa técnica."
+    },
+    {
+      "question": "[131] Según el Artículo 41.II, los centros de educación permanente registrarán la información estadística en el sistema SIE:",
+      "options": [
+        "Al concluir cada curso corto o largo, reportando la información educativa correspondiente",
+        "Únicamente cada cinco años coincidiendo con el censo nacional",
+        "A la mitad de cada mes sin importar si terminó el curso",
+        "Solo si el curso tuvo más de 100 participantes inscritos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41.II - Registro Permanente SIE",
+      "explicacion": "El Artículo 41.II determina el registro estadístico al concluir cada curso corto o largo."
+    },
+    {
+      "question": "[132] Conforme al Artículo 45.I, para garantizar la transitabilidad entre CEAs en humanística y asegurar equivalencias:",
+      "options": [
+        "Las áreas de conocimiento deben ir acompañadas de otras áreas de conocimiento según la tabla oficial",
+        "El participante debe reiniciar el nivel desde el primer semestre",
+        "Se exige un cobro de homologación por cambio de centro",
+        "El trámite requiere aprobación mediante Resolución Ministerial del Ministro"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 45.I - Transitabilidad Humanística",
+      "explicacion": "El Artículo 45.I norma la transitabilidad asegurando la continuidad y equivalencia de áreas."
+    },
+    {
+      "question": "[133] De acuerdo con el Artículo 47, las suplencias en CEAs de lugares alejados o inaccesibles exigen que el suplente tenga:",
+      "options": [
+        "Formación afín al área del titular cuando no haya candidato con formación idéntica",
+        "Certificado de residencia de más de 20 años en la zona",
+        "Carnet de militancia partidaria en vigencia",
+        "Título universitario de doctorado en ciencias puras"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 47 - Suplencias Excepcionales",
+      "explicacion": "El Artículo 47 faculta en zonas inaccesibles la designación de suplentes con formación afín."
+    },
+    {
+      "question": "[134] Según el Artículo 49.III, el incumplimiento a normativas emanadas del Ministerio en CEAs privados o de convenio será sancionado por:",
+      "options": [
+        "La Dirección Distrital Educativa según normativa vigente",
+        "La junta de propietarios del edificio donde funciona el centro",
+        "El sindicato de choferes de transporte urbano",
+        "La policía cantonal mediante detención preventiva"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 49.III - Sanción a Irregularidades CEAs",
+      "explicacion": "El Artículo 49.III otorga a la Dirección Distrital Educativa la potestad sancionatoria por irregularidades."
+    },
+    {
+      "question": "[135] Conforme al Artículo 50.IV, las denuncias por cobro indebido de matrículas o aumento de pensiones en CEAs privados se presentan ante:",
+      "options": [
+        "La Dirección Distrital Educativa de su jurisdicción, de forma verbal o escrita",
+        "La embajada extranjera del país de origen del propietario",
+        "El ministerio de hacienda y crédito público",
+        "El comité olímpico boliviano"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50.IV - Denuncia de Cobros Indebidos",
+      "explicacion": "El Artículo 50.IV norma la presentación de denuncias verbales o escritas ante la Dirección Distrital."
+    },
+    {
+      "question": "[136] De acuerdo con el Artículo 52.II, las becas completas del 10% en CEAs privados deben ser entregadas a:",
+      "options": [
+        "La Subdirección de Educación Alternativa y Especial correspondiente para su distribución a población vulnerable",
+        "Los familiares directos del director del centro privado",
+        "Los estudiantes que obtengan la nota más alta en un examen comercial",
+        "Una agencia de publicidad privada para su sorteo televisivo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52.II - Distribución de Becas CEAs Privados",
+      "explicacion": "El Artículo 52.II determina que las becas se entregan a la Subdirección para su asignación a población vulnerable."
+    },
+    {
+      "question": "[137] De acuerdo con el Calendario Educativo del Ámbito de Educación Especial (Art. 54), la planificación y organización en distritos y centros se realiza:",
+      "options": [
+        "Hasta el 16 de enero de 2026, en cumplimiento al D.S. N° 813",
+        "Hasta el 28 de febrero de 2026 de forma extemporánea",
+        "Durante la última semana del mes de junio de 2026",
+        "Del 1 al 10 de diciembre de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54 - Calendario Especial Planificación",
+      "explicacion": "El Calendario de Especial (Art. 54) marca el cierre de planificación y organización distrital hasta el 16 de enero de 2026."
+    },
+    {
+      "question": "[138] Según el Calendario del Art. 54, la ratificación de inscripción de estudiantes antiguos en Centros de Educación Especial se efectúa:",
+      "options": [
+        "Del 19 al 23 de enero de 2026",
+        "Del 2 al 6 de febrero de 2026",
+        "Del 10 al 15 de marzo de 2026",
+        "Durante todo el mes de abril"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54 - Inscripción Antiguos Especial",
+      "explicacion": "El Calendario de Especial (Art. 54) establece la ratificación de antiguos del 19 al 23 de enero de 2026."
+    },
+    {
+      "question": "[139] Conforme al Calendario del Art. 54, la inscripción de estudiantes NUEVOS en Centros de Educación Especial se realiza:",
+      "options": [
+        "Del 19 al 30 de enero de 2026",
+        "Del 2 al 20 de febrero de 2026",
+        "Del 1 al 15 de marzo de 2026",
+        "Del 10 de julio al 1 de agosto de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54 - Inscripción Nuevos Especial",
+      "explicacion": "El Calendario de Especial (Art. 54) determina la inscripción de nuevos en CEEs del 19 al 30 de enero de 2026."
+    },
+    {
+      "question": "[140] De acuerdo con el Calendario del Art. 54, las inscripciones extemporáneas en Centros de Educación Especial abarcan:",
+      "options": [
+        "Del 02 al 20 de febrero de 2026",
+        "Del 23 al 27 de febrero de 2026",
+        "Del 1 al 15 de marzo de 2026",
+        "Durante todo el mes de mayo de 2026"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54 - Extemporáneos Especial Fechas",
+      "explicacion": "El Calendario de Especial (Art. 54) fija las inscripciones extemporáneas del 2 al 20 de febrero de 2026."
+    },
+    {
+      "question": "[141] Según el Calendario del Art. 54, el inicio de las actividades educativas del desarrollo curricular en CEEs es el:",
+      "options": [
+        "02 de febrero de 2026 (y la finalización hasta el 02 de diciembre de 2026)",
+        "19 de enero de 2026 (y la finalización el 30 de noviembre de 2026)",
+        "1 de marzo de 2026 (y la finalización el 15 de diciembre de 2026)",
+        "15 de febrero de 2026 (y la finalización el 20 de diciembre de 2026)"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54 - Inicio Clases Educación Especial",
+      "explicacion": "El Calendario de Especial (Art. 54) fija el inicio de clases el 2 de febrero y la conclusión el 2 de diciembre de 2026."
+    },
+    {
+      "question": "[142] Conforme al Calendario del Art. 54, el cierre de gestión y evaluación institucional en CEEs se efectúa:",
+      "options": [
+        "Hasta el 11 de diciembre de 2026",
+        "El 30 de noviembre de 2026",
+        "El 24 de diciembre de 2026",
+        "El 15 de enero de 2027"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54 - Cierre Gestión Educación Especial",
+      "explicacion": "El Calendario de Especial (Art. 54) marca la entrega de documentos y evaluación de cierre hasta el 11 de diciembre de 2026."
+    },
+    {
+      "question": "[143] De acuerdo con las notas del Art. 54, ¿cuál de las siguientes fechas conmemorativas se destaca en el ámbito de Educación Especial?",
+      "options": [
+        "21 de marzo (Síndrome de Down), 2 de abril (Autismo e Inclusión en Especial) y 15 de octubre (Día de la Persona con Discapacidad)",
+        "1 de mayo (Día del Trabajo) únicamente",
+        "6 de agosto (Día de la Independencia) únicamente",
+        "31 de diciembre (Fin de Año) de forma obligatoria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54 - Fechas Conmemorativas Especial",
+      "explicacion": "Las notas del Art. 54 enumeran las fechas conmemorativas del ámbito de Educación Especial."
+    },
+    {
+      "question": "[144] Según el Artículo 55.I, si un estudiante antiguo de un CEE no ratifica su inscripción tras el periodo fijado, la dirección del centro debe:",
+      "options": [
+        "Eliminar el registro del estudiante en el sistema académico a fin de evitar duplicidad de registro",
+        "Denunciar al estudiante ante el Ministerio Público",
+        "Sancionar económicamente a los padres de familia",
+        "Inscribirlo de oficio en un colegio privado nocturno"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 55.I - Eliminación Duplicidad CEEs",
+      "explicacion": "El Artículo 55.I manda eliminar el registro para evitar la duplicidad en el sistema académico."
+    },
+    {
+      "question": "[145] Conforme al Artículo 55.II, los Centros de Educación Especial deberán actualizar el formulario RUDEE cuando:",
+      "options": [
+        "El estudiante cambie algún dato personal en sus registros",
+        "Transcurra un mes de clases sin importar si cambiaron datos",
+        "El estudiante apruebe el primer trimestre lectivo",
+        "Se adquiera nuevo equipamiento para la cocina del centro"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 55.II - Actualización RUDEE",
+      "explicacion": "El Artículo 55.II requiere actualizar el formulario RUDEE ante modificaciones en los datos del estudiante."
+    },
+    {
+      "question": "[146] De acuerdo con el Artículo 56, los requisitos obligatorios para la inscripción de estudiantes nuevos en CEEs son:",
+      "options": [
+        "Cédula de Identidad o Certificado de Nacimiento, Formulario RUDEE actualizado y diagnóstico pedagógico/multidisciplinario",
+        "Libreta militar de servicio en fronteras",
+        "Certificado de propiedad de inmueble familiar",
+        "Pago de arancel bancario de inscripción"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 56 - Documentos Nuevos CEEs",
+      "explicacion": "El Artículo 56 enumera CI o Certificado de Nacimiento, RUDEE y evaluación diagnóstica."
+    },
+    {
+      "question": "[147] Según el Artículo 57 y 41.III, los estudiantes de un Centro de Educación Especial pueden realizar inscripción simultánea en:",
+      "options": [
+        "El área de Formación Técnica Tecnológica Productiva de un CEA o en Educación Regular con el mismo número de registro",
+        "Dos centros de educación especial privados simultáneamente",
+        "La facultad de medicina universitaria sin requisitos",
+        "Queda prohibida cualquier tipo de inscripción simultánea"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 57 - Inscripción Simultánea CEE e ITT/CEA",
+      "explicacion": "Los Artículos 57 y 41.III facultan la inscripción simultánea en la formación técnica de CEAs o en Regular."
+    },
+    {
+      "question": "[148] Conforme al Artículo 58.III, el procedimiento de traspaso entre CEEs exige la baja en origen, el alta en destino y garantizar que:",
+      "options": [
+        "Los programas o niveles educativos se mantengan equivalentes entre ambas instituciones educativas",
+        "El padre de familia pague el traslado de mobiliario",
+        "El estudiante apruebe un examen de ingreso presencial",
+        "Se cambie la discapacidad registrada en el carnet"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 58.III - Requisito para Traspaso CEE",
+      "explicacion": "El Artículo 58.III determina la equivalencia de programas o niveles educativos en traspasos entre CEEs."
+    },
+    {
+      "question": "[149] De acuerdo con el Artículo 59.1, se autoriza la inscripción excepcional en CEEs en cualquier momento de la gestión por causas de:",
+      "options": [
+        "Discapacidad, enfermedad, tratamiento médico, accidente o hecho fortuito no atribuible a la persona",
+        "Viaje de vacaciones familiares al extranjero",
+        "Deseo de cambiar de turno por motivos de trabajo de los padres",
+        "Sanción disciplinaria aplicada en el subsistema regular"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 59.1 - Causa Inscripción Excepcional",
+      "explicacion": "El Artículo 59.1 norma la inscripción excepcional por salud, accidente o hecho fortuito no atribuible al estudiante."
+    },
+    {
+      "question": "[150] Según el Artículo 60, los CEEs coordinarán con las UMADIS y Unidades de Discapacidad para facilitar en favor de los estudiantes:",
+      "options": [
+        "La tramitación y obtención del Carnet de Discapacidad oficial emitido por el sistema de salud",
+        "La entrega de licencias de conducir de vehículos pesados",
+        "El cobro de una pensión graciable de jubilación",
+        "La exención de impuestos comerciales a empresas familiares"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60 - Carnet de Discapacidad Acciones",
+      "explicacion": "El Artículo 60 encomienda acciones de gestión para la obtención del Carnet de Discapacidad."
+    }
+  ]
+}

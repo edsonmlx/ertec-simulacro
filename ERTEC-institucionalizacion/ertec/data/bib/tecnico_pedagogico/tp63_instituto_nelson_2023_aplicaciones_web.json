@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp63_instituto_nelson_2023_aplicaciones_web",
+    "nombre": "Desarrollo de aplicaciones web con tecnologías modernas",
+    "detalle": "Instituto Nelson (2023)",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Téc. Sistemas y Soporte"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

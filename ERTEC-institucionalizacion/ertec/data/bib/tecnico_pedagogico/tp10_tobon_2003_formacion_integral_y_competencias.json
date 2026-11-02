@@ -1,0 +1,27 @@
+{
+  "bibliografia": {
+    "id": "tp10_tobon_2003_formacion_integral_y_competencias",
+    "nombre": "Formación Integral y competencias. Pensamiento complejo, currículo, didáctica y evaluación",
+    "detalle": "Tobón, S. (2003). Ecoe Ediciones",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Rector ITT",
+      "Director Académico ITT",
+      "Rector Formación Artística",
+      "Director Académico Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

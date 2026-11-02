@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "ne26_rm_764_2025_poblaciones_diversas_y_vulnerables",
+    "nombre": "R.M. N° 764/2025 Reglamento para la Atención Educativa de las Poblaciones Diversas y Vulnerables del Ámbito de Educación Alternativa",
+    "detalle": "16 de octubre de 2025",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Alt. y Especial",
+      "Director de CEA"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

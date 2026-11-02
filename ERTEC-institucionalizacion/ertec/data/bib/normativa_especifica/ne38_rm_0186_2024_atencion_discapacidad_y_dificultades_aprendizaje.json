@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "ne38_rm_0186_2024_atencion_discapacidad_y_dificultades_aprendizaje",
+    "nombre": "Reglamento para la Evaluación de Procesos y Programas de Atención Educativa de Estudiantes con Discapacidad y Dificultades en el Aprendizaje (R.M. N° 0186/2024)",
+    "detalle": "12 de marzo de 2024",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director de CEE"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp50_ds_1302_2012_erradicar_violencia_sexual_en_educacion",
+    "nombre": "Decreto Supremo N° 1302 Erradicar Violencia Sexual en Educación",
+    "detalle": "1 de agosto de 2012",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Asesor Legal"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

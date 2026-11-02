@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp48_ds_23318a_1992_responsabilidad_por_la_funcion_publica",
+    "nombre": "Decreto Supremo N° 23318-A Reglamento de la Responsabilidad por la Función Pública",
+    "detalle": "3 de noviembre de 1992",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Asesor Legal"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

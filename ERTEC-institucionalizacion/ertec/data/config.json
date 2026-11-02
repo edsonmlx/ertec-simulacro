@@ -1,0 +1,3015 @@
+{
+ "convocatoria": {
+  "numero": "N° 0001/2026",
+  "titulo": "Proceso de Institucionalización de Cargos del Sistema Educativo Plurinacional",
+  "gestiones": "2027 · 2028 · 2029",
+  "emisor": "Ministerio de Educación",
+  "portal": "http://sisep.minedu.gob.bo/",
+  "maxPostulaciones": 2,
+  "inscripcion": [
+   "2026-10-09",
+   "2026-10-22"
+  ]
+ },
+ "referencial": "La bibliografía por cargo proviene del documento «Bibliografía V4» del Ministerio de Educación (3 áreas: normativa general, normativa específica y técnico pedagógico). La convocatoria no publica el número de preguntas, el tiempo ni la nota mínima del examen: esos valores, y el peso de cada área (30% / 40% / 30%), son referenciales y se editan en data/config.json.",
+ "perfiles": {
+  "general": {
+   "nombre": "Examen de competencia (referencial)",
+   "preguntas": 100,
+   "minutos": 120,
+   "aprobacion": 60,
+   "pesos": {
+    "normativa_general": 0.3,
+    "normativa_especifica": 0.4,
+    "tecnico_pedagogico": 0.3
+   }
+  }
+ },
+ "practica": {
+  "preguntas": 20,
+  "segundosPorPregunta": 72,
+  "porGrupo": 30
+ },
+ "familias": {
+  "dd": {
+   "nombre": "Dirección Departamental y Subdirecciones",
+   "examen": "2026-11-26",
+   "meritos": [
+    "2026-12-07",
+    "2026-12-12"
+   ],
+   "designacion": "2026-12-28",
+   "posesion": "2027-01-04"
+  },
+  "dist": {
+   "nombre": "Dirección Distrital",
+   "examen": "2026-11-26",
+   "meritos": [
+    "2026-12-07",
+    "2026-12-12"
+   ],
+   "designacion": "2026-12-29",
+   "posesion": "2027-01-05"
+  },
+  "esfm": {
+   "nombre": "ESFM/UA e Institutos Técnicos, Tecnológicos y Artísticos",
+   "examen": "2026-11-27",
+   "meritos": [
+    "2026-12-14",
+    "2026-12-19"
+   ],
+   "designacion": "2026-12-29",
+   "posesion": "2027-01-05"
+  },
+  "ue": {
+   "nombre": "Unidades Educativas, CEA y CEE",
+   "examen": "2026-11-28",
+   "meritos": [
+    "2027-01-06",
+    "2027-01-11"
+   ],
+   "designacion": "2027-01-19",
+   "posesion": "2027-02-01"
+  }
+ },
+ "documentos": {
+  "meritos": [
+   "Certificación de no contar con procesos administrativos con Resolución Final Sancionatoria Ejecutoriada pendiente de cumplimiento (Dirección Departamental de Educación; para Directores Departamentales, Subdirectores y directivos de ESFM en función: Dirección General de Asuntos Jurídicos del Ministerio)",
+   "Certificación de no contar con imputación formal por violencia sexual contra estudiantes (Unidad de Asuntos Jurídicos de la Dirección Departamental, o DGAJ del Ministerio según el cargo)"
+  ],
+  "designacion": [
+   "Certificación REJAP: sin procesos ni antecedentes penales",
+   "Certificación CENVI (ex SIPASSE): sin procesos ni antecedentes de violencia contra la mujer o miembros de su familia",
+   "Certificado de Solvencia Fiscal (Contraloría General del Estado): sin deudas con el Estado"
+  ]
+ },
+ "requisitos": {
+  "ci": "Cédula de Identidad vigente",
+  "libreta": "Libreta de Servicio Militar (solo varones)",
+  "normalista": "Título en Provisión Nacional o Título Profesional de maestra/o normalista, RM de Declaratoria Titular por Antigüedad o Título Homologado",
+  "lic_esfm": "Licenciatura de ESFM, o Título en Provisión Nacional reconocido por el Sistema Universitario Boliviano (privadas: título del Min. Educación)",
+  "posgrado_educ": "Título de Posgrado (Diplomado, Especialidad, Maestría o Doctorado) en el ámbito educativo",
+  "cat2": "Categoría Segunda como mínimo",
+  "cat3": "Categoría Tercera como mínimo",
+  "cat4": "Categoría Cuarta como mínimo",
+  "exp3": "Documento que acredite cargo institucionalizado por 3 gestiones educativas consecutivas en los cargos que indica la convocatoria",
+  "rda": "Duplicado de Registro Docente Administrativo (RDA) actualizado",
+  "lengua": "Certificado de Lengua Originaria emitido por institución reconocida por el Ministerio de Educación",
+  "m150": "Tener 150 puntos en méritos como mínimo",
+  "m120": "Tener 120 puntos en méritos como mínimo",
+  "m100": "Tener 100 puntos en méritos como mínimo"
+ },
+ "grupos": [
+  {
+   "id": "normativa_general",
+   "nombre": "Normativa general",
+   "icono": "⚖️",
+   "color": "#F5C451",
+   "desc": "8 normas iguales para todos los cargos"
+  },
+  {
+   "id": "normativa_especifica",
+   "nombre": "Normativa específica",
+   "icono": "📑",
+   "color": "#8B7DFF",
+   "desc": "Reglamentos y resoluciones propios de tu cargo"
+  },
+  {
+   "id": "tecnico_pedagogico",
+   "nombre": "Técnico pedagógico",
+   "icono": "📘",
+   "color": "#14B8A6",
+   "desc": "Libros, informes y normas técnicas de tu cargo"
+  }
+ ],
+ "bibliografias": [
+  {
+   "id": "ng01_constitucion_politica_del_estado",
+   "grupo": "normativa_general",
+   "icono": "🏛️",
+   "nombre": "Constitución Política del Estado",
+   "autor": "Promulgada oficialmente el 7 de febrero de 2009",
+   "color": "#F5C451",
+   "archivo": "data/bib/normativa_general/ng01_constitucion_politica_del_estado.json",
+   "survey": false
+  },
+  {
+   "id": "ng02_ley_070_avelino_sinani_elizardo_perez",
+   "grupo": "normativa_general",
+   "icono": "📜",
+   "nombre": "Ley N° 070 de la Educación \"Avelino Siñani–Elizardo Pérez\"",
+   "autor": "20 de diciembre de 2010",
+   "color": "#F5C451",
+   "archivo": "data/bib/normativa_general/ng02_ley_070_avelino_sinani_elizardo_perez.json",
+   "survey": false
+  },
+  {
+   "id": "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+   "grupo": "normativa_general",
+   "icono": "✊",
+   "nombre": "Ley N° 045 Contra el Racismo y Toda Forma de Discriminación",
+   "autor": "8 de octubre de 2010",
+   "color": "#F5C451",
+   "archivo": "data/bib/normativa_general/ng03_ley_045_contra_el_racismo_y_la_discriminacion.json",
+   "survey": false
+  },
+  {
+   "id": "ng04_ley_348_vida_libre_de_violencia",
+   "grupo": "normativa_general",
+   "icono": "🛡️",
+   "nombre": "Ley N° 348 Integral para garantizar a las mujeres una vida libre de violencia",
+   "autor": "9 de marzo de 2013",
+   "color": "#F5C451",
+   "archivo": "data/bib/normativa_general/ng04_ley_348_vida_libre_de_violencia.json",
+   "survey": false
+  },
+  {
+   "id": "ng05_ley_548_codigo_nina_nino_adolescente",
+   "grupo": "normativa_general",
+   "icono": "👶",
+   "nombre": "Ley N° 548 Código Niña, Niño y Adolescente",
+   "autor": "17 de julio de 2014",
+   "color": "#F5C451",
+   "archivo": "data/bib/normativa_general/ng05_ley_548_codigo_nina_nino_adolescente.json",
+   "survey": false
+  },
+  {
+   "id": "ng06_ley_223_personas_con_discapacidad",
+   "grupo": "normativa_general",
+   "icono": "♿",
+   "nombre": "Ley N° 223 General para Personas con Discapacidad",
+   "autor": "2 de marzo de 2012",
+   "color": "#F5C451",
+   "archivo": "data/bib/normativa_general/ng06_ley_223_personas_con_discapacidad.json",
+   "survey": false
+  },
+  {
+   "id": "ng07_ley_1178_administracion_y_control_gubernamentales",
+   "grupo": "normativa_general",
+   "icono": "🧾",
+   "nombre": "Ley N° 1178 de Administración y Control Gubernamentales",
+   "autor": "20 de julio de 1990",
+   "color": "#F5C451",
+   "archivo": "data/bib/normativa_general/ng07_ley_1178_administracion_y_control_gubernamentales.json",
+   "survey": false
+  },
+  {
+   "id": "ng08_ley_004_lucha_contra_la_corrupcion",
+   "grupo": "normativa_general",
+   "icono": "🚫",
+   "nombre": "Ley N° 004 de Lucha Contra la Corrupción, Enriquecimiento Ilícito e Investigación de Fortunas \"Marcelo Quiroga Santa Cruz\"",
+   "autor": "31 de marzo de 2010",
+   "color": "#F5C451",
+   "archivo": "data/bib/normativa_general/ng08_ley_004_lucha_contra_la_corrupcion.json",
+   "survey": false
+  },
+  {
+   "id": "ne01_ley_031_marco_autonomias_descentralizacion",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "Ley N° 031 Marco de Autonomías y Descentralización \"Andrés Ibáñez\"",
+   "autor": "19 de julio de 2010",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne01_ley_031_marco_autonomias_descentralizacion.json",
+   "survey": false
+  },
+  {
+   "id": "ne02_ds_4688_reglamento_escalafon_nacional",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "Decreto Supremo N° 4688 Reglamento del Escalafón Nacional del Servicio de Educación",
+   "autor": "18 de julio de 1957",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne02_ds_4688_reglamento_escalafon_nacional.json",
+   "survey": false
+  },
+  {
+   "id": "ne03_ds_813_direcciones_departamentales_educacion",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "Decreto Supremo N° 813 que reglamenta la estructura, composición y funciones de las Direcciones Departamentales de Educación, de la Ley N° 070",
+   "autor": "9 de marzo de 2011",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne03_ds_813_direcciones_departamentales_educacion.json",
+   "survey": false
+  },
+  {
+   "id": "ne04_rs_212414_reglamento_faltas_y_sanciones",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "Resolución Suprema N° 212414 Reglamento de Faltas y Sanciones del Magisterio (Disciplinarias)",
+   "autor": "21 de abril de 1993",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne04_rs_212414_reglamento_faltas_y_sanciones.json",
+   "survey": false
+  },
+  {
+   "id": "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 062/00 Reglamento de la Carrera Administrativa del Servicio de Educación Pública y R.M. N° 0138/2025 (modifica el Art. 62)",
+   "autor": "17 de febrero de 2000 · 17 de marzo de 2025",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025.json",
+   "survey": false
+  },
+  {
+   "id": "ne06_rm_864_2019_protocolo_violencia",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 864/2019 Protocolo de Prevención, Actuación y Denuncia en Casos de Violencia Física, Psicológica y Sexual en Unidades Educativas y Centros de Educación Especial",
+   "autor": "9 de agosto de 2019",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne06_rm_864_2019_protocolo_violencia.json",
+   "survey": false
+  },
+  {
+   "id": "ne07_rm_069_2025_educacion_inclusiva",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 069/2025 Reglamento para el Fortalecimiento de la Educación Inclusiva en el Sistema Educativo Plurinacional",
+   "autor": "7 de febrero de 2025",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne07_rm_069_2025_educacion_inclusiva.json",
+   "survey": false
+  },
+  {
+   "id": "ne08_rm_0244_2023_bachillerato_tecnico_humanistico",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0244/2023 Reglamento de Bachillerato Técnico Humanístico",
+   "autor": "28 de marzo de 2023",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne08_rm_0244_2023_bachillerato_tecnico_humanistico.json",
+   "survey": false
+  },
+  {
+   "id": "ne09_rm_350_2023_reglamento_general_institutos",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 350/2023 Reglamento General de Institutos Técnicos y Tecnológicos de Carácter Fiscal, de Convenio y Privado",
+   "autor": "16 de mayo de 2023",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne09_rm_350_2023_reglamento_general_institutos.json",
+   "survey": false
+  },
+  {
+   "id": "ne10_rm_1027_2023_reglamento_general_cca_ifa",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 1027/2023 Reglamento General de Centros de Capacitación Artística e Institutos de Formación Artística",
+   "autor": "13 de noviembre de 2023",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne10_rm_1027_2023_reglamento_general_cca_ifa.json",
+   "survey": false
+  },
+  {
+   "id": "ne11_rm_0189_2023_evaluacion_desarrollo_curricular_institutos",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0189/2023 Reglamento del Sistema de Evaluación del Desarrollo Curricular de los Institutos Técnicos y Tecnológicos",
+   "autor": "7 de marzo de 2023",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne11_rm_0189_2023_evaluacion_desarrollo_curricular_institutos.json",
+   "survey": false
+  },
+  {
+   "id": "ne12_rm_487_2023_modalidades_graduacion_institutos",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 487/2023 Reglamento de Modalidades de Graduación de Institutos Técnicos y Tecnológicos",
+   "autor": "14 de junio de 2023",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne12_rm_487_2023_modalidades_graduacion_institutos.json",
+   "survey": false
+  },
+  {
+   "id": "ne13_rm_631_2023_faltas_sanciones_institutos",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 631/2023 Reglamento de Faltas y Sanciones de Directivos, Docentes y Administrativos de Institutos Técnicos, Tecnológicos e Institutos de Formación Artística (DGESTTLA)",
+   "autor": "2 de agosto de 2023",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne13_rm_631_2023_faltas_sanciones_institutos.json",
+   "survey": false
+  },
+  {
+   "id": "ne14_rm_0020_0021_0022_2024_apertura_modificacion_cierre_regular",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0020, 0021 y 0022/2024 y modificatoria R.M. N° 534/2025 Reglamento de Apertura, Modificación y Cierre de Unidades Educativas Fiscales, de Convenio y Privadas del Subsistema de Educación Regular",
+   "autor": "9 de enero de 2024",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne14_rm_0020_0021_0022_2024_apertura_modificacion_cierre_regular.json",
+   "survey": false
+  },
+  {
+   "id": "ne15_rm_0166_2025_transitabilidad_institutos",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0166/2025 Reglamento de Transitabilidad a los Institutos Técnicos y Tecnológicos",
+   "autor": "31 de marzo de 2025",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne15_rm_0166_2025_transitabilidad_institutos.json",
+   "survey": false
+  },
+  {
+   "id": "ne16_rm_001_2026_subsistema_educacion_regular",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 001/2026 del Subsistema de Educación Regular",
+   "autor": "5 de enero de 2026",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne16_rm_001_2026_subsistema_educacion_regular.json",
+   "survey": false
+  },
+  {
+   "id": "ne17_rm_1126_2022_modalidad_modular_multigrado",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 1126/2022 Reglamento de la Gestión Curricular e Institucional de la Modalidad de Atención Modular Multigrado de Educación Secundaria Comunitaria Productiva",
+   "autor": "13 de diciembre de 2022",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne17_rm_1126_2022_modalidad_modular_multigrado.json",
+   "survey": false
+  },
+  {
+   "id": "ne18_rm_1040_2022_lineamientos_curriculares",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 1040/2022 Lineamientos Curriculares: Educación de Personas Jóvenes y Adultas, Educación Permanente No Escolarizada y Educación Inclusiva",
+   "autor": "22 de noviembre de 2022",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne18_rm_1040_2022_lineamientos_curriculares.json",
+   "survey": false
+  },
+  {
+   "id": "ne19_rm_0872_2024_reconocimiento_de_saberes",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0872/2024 Reglamento de Reconocimiento de Saberes, Conocimientos y Experiencias para la Educación de Personas Jóvenes y Adultas",
+   "autor": "3 de diciembre de 2024",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne19_rm_0872_2024_reconocimiento_de_saberes.json",
+   "survey": false
+  },
+  {
+   "id": "ne20_rm_531_2023_y_rm_1115_2023_certificacion_competencias",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 531/2023 y modificatoria R.M. N° 1115/2023 Reglamento para la certificación de competencias en el ámbito de Educación Alternativa",
+   "autor": "27 de junio de 2023 · 6 de diciembre de 2023",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne20_rm_531_2023_y_rm_1115_2023_certificacion_competencias.json",
+   "survey": false
+  },
+  {
+   "id": "ne21_rm_679_2025_certificacion_tecnica_tecnologica_productiva",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 679/2025 Reglamento de Certificación para la Educación Técnica, Tecnológica y Productiva de Personas Jóvenes y Adultas",
+   "autor": "30 de septiembre de 2025",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne21_rm_679_2025_certificacion_tecnica_tecnologica_productiva.json",
+   "survey": false
+  },
+  {
+   "id": "ne22_ley_4024_convencion_derechos_personas_discapacidad",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "Ley N° 4024 que aprueba la Convención sobre los Derechos de las Personas con Discapacidad",
+   "autor": "15 de abril de 2009",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne22_ley_4024_convencion_derechos_personas_discapacidad.json",
+   "survey": false
+  },
+  {
+   "id": "ne23_rm_0092_2025_apertura_modificacion_cierre_cea",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0092/2025 Reglamento de Apertura, Modificación y Cierre de Centros de Educación Alternativa, Centros de Educación Permanente No Escolarizada y Centros de Educación Alternativa Integrados",
+   "autor": "Febrero de 2025",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne23_rm_0092_2025_apertura_modificacion_cierre_cea.json",
+   "survey": false
+  },
+  {
+   "id": "ne24_rm_0023_2024_apertura_modificacion_cierre_cee",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0023/2024 Reglamento de Apertura, Modificación y Cierre de Centros de Educación Especial Fiscales y de Convenio",
+   "autor": "10 de enero de 2024",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne24_rm_0023_2024_apertura_modificacion_cierre_cee.json",
+   "survey": false
+  },
+  {
+   "id": "ne25_rm_0718_2025_maestros_itinerantes_multigrado",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0718/2025 Reglamento para la Implementación de Maestros Itinerantes en Atención Multigrado (Primaria y Secundaria de Personas Jóvenes y Adultas)",
+   "autor": "10 de octubre de 2025",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne25_rm_0718_2025_maestros_itinerantes_multigrado.json",
+   "survey": false
+  },
+  {
+   "id": "ne26_rm_764_2025_poblaciones_diversas_y_vulnerables",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 764/2025 Reglamento para la Atención Educativa de las Poblaciones Diversas y Vulnerables del Ámbito de Educación Alternativa",
+   "autor": "16 de octubre de 2025",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne26_rm_764_2025_poblaciones_diversas_y_vulnerables.json",
+   "survey": false
+  },
+  {
+   "id": "ne27_rm_001_2026_subsistema_alternativa_y_especial",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 001/2026 del Subsistema de Educación Alternativa y Especial",
+   "autor": "5 de enero de 2026",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne27_rm_001_2026_subsistema_alternativa_y_especial.json",
+   "survey": false
+  },
+  {
+   "id": "ne28_rm_525_2018_manual_funciones_institutos",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 525/2018 Manual de Organización y Funciones del personal Directivo, Docente y Administrativo de los Institutos Técnicos y Tecnológicos",
+   "autor": "2018",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne28_rm_525_2018_manual_funciones_institutos.json",
+   "survey": false
+  },
+  {
+   "id": "ne29_rm_0740_2023_titulos_profesionales",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0740/2023 Reglamento de Títulos Profesionales del subsistema de educación superior de formación profesional",
+   "autor": "2023",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne29_rm_0740_2023_titulos_profesionales.json",
+   "survey": false
+  },
+  {
+   "id": "ne30_rm_036_2026_seleccion_designacion_personal_institutos",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 036/2026 Reglamento de selección y designación del personal de institutos técnicos, tecnológicos e instituciones de formación artística",
+   "autor": "2026",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne30_rm_036_2026_seleccion_designacion_personal_institutos.json",
+   "survey": false
+  },
+  {
+   "id": "ne31_resolucion_biministerial_001_2023_recursos_humanos_salud",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "Resolución Biministerial N° 001/2023 Reglamento especial para instituciones que forman recursos humanos técnicos en salud",
+   "autor": "2023",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne31_resolucion_biministerial_001_2023_recursos_humanos_salud.json",
+   "survey": false
+  },
+  {
+   "id": "ne32_rm_001_2026_subsistema_superior_formacion_profesional",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 001/2026 del Subsistema de Educación Superior de Formación Profesional",
+   "autor": "2026",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne32_rm_001_2026_subsistema_superior_formacion_profesional.json",
+   "survey": false
+  },
+  {
+   "id": "ne33_rm_0190_2024_evaluacion_desarrollo_curricular_regular",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0190/2024 Reglamento de Evaluación del Desarrollo Curricular del Subsistema de Educación Regular",
+   "autor": "12 de marzo de 2024",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne33_rm_0190_2024_evaluacion_desarrollo_curricular_regular.json",
+   "survey": false
+  },
+  {
+   "id": "ne34_rm_800_2015_libretas_calificaciones_electronicas",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 800/2015 Reglamento de Procedimientos para la Emisión de Libretas de Calificaciones Electrónicas y Certificados de Calificaciones Electrónicas",
+   "autor": "23 de octubre de 2015",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne34_rm_800_2015_libretas_calificaciones_electronicas.json",
+   "survey": false
+  },
+  {
+   "id": "ne35_rm_0183_2024_evaluacion_procesos_formativos_epja",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0183/2024 Reglamento de Evaluación de Procesos Formativos del Área de Educación de Personas Jóvenes y Adultas (EPJA)",
+   "autor": "11 de marzo de 2024",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne35_rm_0183_2024_evaluacion_procesos_formativos_epja.json",
+   "survey": false
+  },
+  {
+   "id": "ne36_rm_0826_2021_formacion_tecnica_educacion_especial",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "Reglamento para la Formación Técnica Tecnológica Productiva del ámbito de Educación Especial (R.M. N° 0826/2021)",
+   "autor": "26 de diciembre de 2021",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne36_rm_0826_2021_formacion_tecnica_educacion_especial.json",
+   "survey": false
+  },
+  {
+   "id": "ne37_rm_0795_2021_talento_extraordinario",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "Reglamento del Programa de Atención Integral a Estudiantes con Talento Extraordinario (R.M. N° 0795/2021)",
+   "autor": "8 de diciembre de 2021",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne37_rm_0795_2021_talento_extraordinario.json",
+   "survey": false
+  },
+  {
+   "id": "ne38_rm_0186_2024_atencion_discapacidad_y_dificultades_aprendizaje",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "Reglamento para la Evaluación de Procesos y Programas de Atención Educativa de Estudiantes con Discapacidad y Dificultades en el Aprendizaje (R.M. N° 0186/2024)",
+   "autor": "12 de marzo de 2024",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne38_rm_0186_2024_atencion_discapacidad_y_dificultades_aprendizaje.json",
+   "survey": false
+  },
+  {
+   "id": "ne39_rm_0536_2024_carga_horaria_cee",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "Reglamento de Cumplimiento de Carga Horaria para Maestras y Maestros de Centros de Educación Especial (R.M. N° 0536/2024)",
+   "autor": "27 de junio de 2024",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne39_rm_0536_2024_carga_horaria_cee.json",
+   "survey": false
+  },
+  {
+   "id": "ne40_rm_548_2023_revalidacion_homologacion_titulos_extranjero",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 548/2023 Reglamento de Revalidación, Homologación y Reconocimiento de Títulos Profesionales obtenidos en el extranjero",
+   "autor": "2023",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne40_rm_548_2023_revalidacion_homologacion_titulos_extranjero.json",
+   "survey": false
+  },
+  {
+   "id": "ne41_rm_2942_2017_convivencia_estudiantil_institutos",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 2942/2017 Reglamento de Convivencia Estudiantil y Procedimientos disciplinarios de los Institutos Técnicos Tecnológicos",
+   "autor": "2017",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne41_rm_2942_2017_convivencia_estudiantil_institutos.json",
+   "survey": false
+  },
+  {
+   "id": "ne42_rm_0904_2023_manual_funciones_ifa_cca",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0904/2023 Manual de Organización y Funciones del personal directivo, docente y administrativo de los Institutos de Formación Artística y Centros de Capacitación Artística",
+   "autor": "2023",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne42_rm_0904_2023_manual_funciones_ifa_cca.json",
+   "survey": false
+  },
+  {
+   "id": "ne43_rm_0037_2024_aranceles_ifa",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0037/2024 Reglamento específico del régimen de aranceles para Instituciones de Formación Artística",
+   "autor": "2024",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne43_rm_0037_2024_aranceles_ifa.json",
+   "survey": false
+  },
+  {
+   "id": "ne44_rm_01137_2022_escuelas_bolivianas_interculturales",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 01137/2022 Reglamento General de funcionamiento de las Escuelas Bolivianas Interculturales",
+   "autor": "2022",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne44_rm_01137_2022_escuelas_bolivianas_interculturales.json",
+   "survey": false
+  },
+  {
+   "id": "ne45_rm_0031_2024_evaluacion_formacion_superior_artistica",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0031/2024 Reglamento del Sistema de Evaluación del Desarrollo Curricular de la Formación Superior Artística",
+   "autor": "2024",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne45_rm_0031_2024_evaluacion_formacion_superior_artistica.json",
+   "survey": false
+  },
+  {
+   "id": "ne46_rm_0859_2023_modalidades_graduacion_ifa_ebi",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 0859/2023 Reglamento de Modalidades de Graduación de Institutos de Formación Artística y Escuelas Bolivianas Interculturales",
+   "autor": "2023",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne46_rm_0859_2023_modalidades_graduacion_ifa_ebi.json",
+   "survey": false
+  },
+  {
+   "id": "ne47_rm_2938_2017_reglamentos_esfm_ua",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 2938/2017 Reglamento general de las ESFM/UA y reglamentos de residencias, licencias, convivencia, diploma académico, evaluación, investigación (IEPC-PEC) y TACFI",
+   "autor": "22 de diciembre de 2017",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne47_rm_2938_2017_reglamentos_esfm_ua.json",
+   "survey": false
+  },
+  {
+   "id": "ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua",
+   "grupo": "normativa_especifica",
+   "icono": "📑",
+   "nombre": "R.M. N° 2726/2017 Manual de Organización de Funciones de las ESFM/UA",
+   "autor": "20 de octubre de 2017",
+   "color": "#8B7DFF",
+   "archivo": "data/bib/normativa_especifica/ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua.json",
+   "survey": false
+  },
+  {
+   "id": "tp01_ods_4_educacion_2030_unesco",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Objetivo de Desarrollo Sostenible (ODS 4), Educación 2030",
+   "autor": "UNESCO",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp01_ods_4_educacion_2030_unesco.json",
+   "survey": false
+  },
+  {
+   "id": "tp02_lidei_2022_liderazgo_directivo_iberoamerica",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "LIDEI 2022: Liderazgo Directivo en Iberoamérica",
+   "autor": "OEI (2023)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp02_lidei_2022_liderazgo_directivo_iberoamerica.json",
+   "survey": false
+  },
+  {
+   "id": "tp03_reimaginar_juntos_nuestros_futuros",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Reimaginar juntos nuestros futuros: un nuevo contrato social para la educación",
+   "autor": "UNESCO (2022)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp03_reimaginar_juntos_nuestros_futuros.json",
+   "survey": false
+  },
+  {
+   "id": "tp04_marco_gestion_liderazgo_educativo_local",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Marco para la Gestión y el Liderazgo Educativo Local: promoviendo prácticas de liderazgo intermedio para la mejora integral de la educación pública en los territorios",
+   "autor": "Uribe, Aziz dos Santos, Berkowitz, Galdames, Torche y Zoro (2025)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp04_marco_gestion_liderazgo_educativo_local.json",
+   "survey": false
+  },
+  {
+   "id": "tp05_erce_2019_estudio_regional_comparativo",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Estudio Regional Comparativo y Explicativo (ERCE 2019)",
+   "autor": "ERCE 2019",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp05_erce_2019_estudio_regional_comparativo.json",
+   "survey": false
+  },
+  {
+   "id": "tp06_acero_ordonez_2020_educacion_4_0",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Educación 4.0: Tendencias en la ruta del aprendizaje en la educación superior del siglo XXI",
+   "autor": "Acero Ordoñez, O. (2020)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp06_acero_ordonez_2020_educacion_4_0.json",
+   "survey": false
+  },
+  {
+   "id": "tp07_armijo_2009_planificacion_estrategica",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Manual de Planificación Estratégica e Indicadores de Desempeño en el Sector Público",
+   "autor": "Armijo, M. (2009). ILPES/CEPAL",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp07_armijo_2009_planificacion_estrategica.json",
+   "survey": false
+  },
+  {
+   "id": "tp08_rosso_orozco_2010_musica_en_bolivia",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Panorama de la música en Bolivia. Una primera aproximación",
+   "autor": "Rosso Orozco, C. (2010). Revista de la Universidad Católica Boliviana",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp08_rosso_orozco_2010_musica_en_bolivia.json",
+   "survey": false
+  },
+  {
+   "id": "tp09_de_zubiria_2006_pedagogia_dialogante",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Hacia una Pedagogía Dialogante",
+   "autor": "De Zubiría Samper, J. (2006)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp09_de_zubiria_2006_pedagogia_dialogante.json",
+   "survey": false
+  },
+  {
+   "id": "tp10_tobon_2003_formacion_integral_y_competencias",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Formación Integral y competencias. Pensamiento complejo, currículo, didáctica y evaluación",
+   "autor": "Tobón, S. (2003). Ecoe Ediciones",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp10_tobon_2003_formacion_integral_y_competencias.json",
+   "survey": false
+  },
+  {
+   "id": "tp11_vallejo_2024_rol_docente_inteligencia_artificial",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "La transformación del rol docente en la era de la Inteligencia Artificial: hacia un liderazgo pedagógico estratégico",
+   "autor": "Vallejo, A. E. (2024). Trayectorias Universitarias",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp11_vallejo_2024_rol_docente_inteligencia_artificial.json",
+   "survey": false
+  },
+  {
+   "id": "tp12_pyme_como_elaborar_el_cuadro_de_mando",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Manuales Prácticos de la PYME: Cómo elaborar el cuadro de mando",
+   "autor": "Xunta de Galicia",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp12_pyme_como_elaborar_el_cuadro_de_mando.json",
+   "survey": false
+  },
+  {
+   "id": "tp13_catalano_2004_diseno_curricular_competencia_laboral",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Diseño Curricular basado en normas de competencia laboral: Conceptos y orientaciones metodológicas",
+   "autor": "Catalano, A. M., Avolio de Cols, S. y Sladogma, M. G. (2004). BID",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp13_catalano_2004_diseno_curricular_competencia_laboral.json",
+   "survey": false
+  },
+  {
+   "id": "tp14_rezabala_2024_gamificacion_educacion_superior",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Estrategia de gamificación que favorezca el proceso de enseñanza aprendizaje de la educación superior en línea",
+   "autor": "Rezabala Zambrano, M. M., et al. (2024). Revista Sinapsis",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp14_rezabala_2024_gamificacion_educacion_superior.json",
+   "survey": false
+  },
+  {
+   "id": "tp15_goleman_2006_inteligencia_social",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Inteligencia Social: La nueva ciencia de las relaciones humanas",
+   "autor": "Goleman, D. (2006)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp15_goleman_2006_inteligencia_social.json",
+   "survey": false
+  },
+  {
+   "id": "tp16_reglamento_ley_1451_transparencia_servicio_publico",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Reglamento de la Ley N° 1451 de Transparencia en el Servicio Público",
+   "autor": "Ministerio de Economía y Finanzas Públicas (2022)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp16_reglamento_ley_1451_transparencia_servicio_publico.json",
+   "survey": false
+  },
+  {
+   "id": "tp17_rm_1212_2023_planilla_de_haberes",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "R.M. N° 1212/2023 Manual de Procesos para la elaboración de la planilla de haberes del Servicio de Educación Pública",
+   "autor": "2023",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp17_rm_1212_2023_planilla_de_haberes.json",
+   "survey": false
+  },
+  {
+   "id": "tp18_gutovic_2026_informe_mundial_educacion_superior",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Informe mundial sobre tendencias de la educación superior: Hacia una educación inclusiva, equitativa y de calidad en un panorama de movilidad internacional",
+   "autor": "Gutović, V., Bouckaert, M., Xia, T., et al. (2026). UNESCO",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp18_gutovic_2026_informe_mundial_educacion_superior.json",
+   "survey": false
+  },
+  {
+   "id": "tp19_soria_leon_2025_gestion_educativa_educacion_superior",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Gestión educativa en la educación superior",
+   "autor": "Soria León, N. G. (2025). Sophia Editions",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp19_soria_leon_2025_gestion_educativa_educacion_superior.json",
+   "survey": false
+  },
+  {
+   "id": "tp20_carrasco_ruiz_2023_cultura_organizacional_docente",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Cultura organizacional y desempeño profesional docente en la educación superior",
+   "autor": "Carrasco Ruiz, R. E., Aucca Marín, J., et al. (2023). Editorial CLAEC",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp20_carrasco_ruiz_2023_cultura_organizacional_docente.json",
+   "survey": false
+  },
+  {
+   "id": "tp21_castro_rubilar_2013_proyectos_gestion_educacional",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Manual para el diseño de proyectos de gestión educacional: Proyecto de intervención curricular y/o pedagógica, proyecto de mejoramiento para la gestión educativa, proyecto educativo institucional",
+   "autor": "Castro Rubilar, F. y Castro Rubilar, J. (2013). Universidad del Bío-Bío",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp21_castro_rubilar_2013_proyectos_gestion_educacional.json",
+   "survey": false
+  },
+  {
+   "id": "tp22_amadio_opertti_tedesco_2015_curriculo_horizonte_2030",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "El currículo en los debates y en las reformas educativas al horizonte 2030: Para una agenda curricular del siglo XXI",
+   "autor": "Amadio, M., Opertti, R. y Tedesco, J. C. (2015). UNESCO-IBE",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp22_amadio_opertti_tedesco_2015_curriculo_horizonte_2030.json",
+   "survey": false
+  },
+  {
+   "id": "tp23_velazquez_2009_pedagogia_y_formacion_docente",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Pedagogía y formación docente",
+   "autor": "Velázquez de Bustamante, M. E., Díaz Mendoza, F. y de León Cruz, A. (2009). CECC/SICA",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp23_velazquez_2009_pedagogia_y_formacion_docente.json",
+   "survey": false
+  },
+  {
+   "id": "tp24_cairo_daza_2017_gestion_academica",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Gestión académica como herramienta educativa para obtener la calidad de formación y enseñanza en instituciones de educación superior",
+   "autor": "Cairo Daza, S., Pérez Marroquín, R. D. y Gómez Chávez, E. (2017). Editorial Navegante",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp24_cairo_daza_2017_gestion_academica.json",
+   "survey": false
+  },
+  {
+   "id": "tp25_alliaud_antelo_2011_gajes_del_oficio",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Los gajes del oficio: Enseñanza, pedagogía y formación",
+   "autor": "Alliaud, A. y Antelo, E. (2011). Grupo Aique",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp25_alliaud_antelo_2011_gajes_del_oficio.json",
+   "survey": false
+  },
+  {
+   "id": "tp26_rojas_gaspar_2006_bases_del_liderazgo_en_educacion",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Bases del liderazgo en educación",
+   "autor": "Rojas, A. y Gaspar, F. (2006). OREALC/UNESCO Santiago",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp26_rojas_gaspar_2006_bases_del_liderazgo_en_educacion.json",
+   "survey": false
+  },
+  {
+   "id": "tp27_monarca_2018_calidad_de_la_educacion_iberoamerica",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Calidad de la educación en Iberoamérica: Discursos, políticas y prácticas",
+   "autor": "Monarca, H. (Coord.) (2018). Dykinson",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp27_monarca_2018_calidad_de_la_educacion_iberoamerica.json",
+   "survey": false
+  },
+  {
+   "id": "tp28_de_souza_minayo_2007_investigacion_social",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Investigación social: Teoría, método y creatividad",
+   "autor": "De Souza Minayo, M. C. (Ed.) (2007). Lugar Editorial",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp28_de_souza_minayo_2007_investigacion_social.json",
+   "survey": false
+  },
+  {
+   "id": "tp29_latorre_2005_la_investigacion_accion",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "La investigación-acción: Conocer y cambiar la práctica educativa",
+   "autor": "Latorre, A. (2005). Editorial Graó",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp29_latorre_2005_la_investigacion_accion.json",
+   "survey": false
+  },
+  {
+   "id": "tp30_mora_2013_neuroeducacion",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Neuroeducación: Solo se puede aprender aquello que se ama",
+   "autor": "Mora, F. (2013). Editorial Alianza",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp30_mora_2013_neuroeducacion.json",
+   "survey": false
+  },
+  {
+   "id": "tp31_lopez_gomez_2016_didactica_general_formacion_profesorado",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Didáctica general y formación del profesorado",
+   "autor": "López Gómez, E. (Coord.), Cacheiro González, M. L., et al. (2016). Editorial UNIR",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp31_lopez_gomez_2016_didactica_general_formacion_profesorado.json",
+   "survey": false
+  },
+  {
+   "id": "tp32_barraza_macias_2023_investigacion_cualitativa",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Metodología de la investigación cualitativa: Una perspectiva interpretativa",
+   "autor": "Barraza Macías, A. (2023). Benessere",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp32_barraza_macias_2023_investigacion_cualitativa.json",
+   "survey": false
+  },
+  {
+   "id": "tp33_ley_2042_administracion_presupuestaria",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Ley N° 2042 de Administración Presupuestaria",
+   "autor": "21 de diciembre de 1999",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp33_ley_2042_administracion_presupuestaria.json",
+   "survey": false
+  },
+  {
+   "id": "tp34_ley_1705_presupuesto_general_del_estado_2026",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Ley N° 1705 Presupuesto General del Estado; normativa financiera y Clasificador Presupuestario",
+   "autor": "31 de diciembre de 2025",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp34_ley_1705_presupuesto_general_del_estado_2026.json",
+   "survey": false
+  },
+  {
+   "id": "tp35_ds_3607_2018_modificaciones_presupuestarias",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Decreto Supremo N° 3607 Reglamento de Modificaciones Presupuestarias",
+   "autor": "27 de junio de 2018",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp35_ds_3607_2018_modificaciones_presupuestarias.json",
+   "survey": false
+  },
+  {
+   "id": "tp36_ds_0181_2009_normas_basicas_sistema_bienes_y_servicios",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Decreto Supremo N° 0181 Normas Básicas del Sistema de Administración de Bienes y Servicios",
+   "autor": "28 de junio de 2009",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp36_ds_0181_2009_normas_basicas_sistema_bienes_y_servicios.json",
+   "survey": false
+  },
+  {
+   "id": "tp37_rs_222957_2005_normas_basicas_contabilidad_integrada",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Resolución Suprema N° 222957 Normas Básicas del Sistema de Contabilidad Integrada",
+   "autor": "4 de marzo de 2005",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp37_rs_222957_2005_normas_basicas_contabilidad_integrada.json",
+   "survey": false
+  },
+  {
+   "id": "tp38_rm_0288_2026_re_sap_administracion_de_personal",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "R.M. N° 0288 Reglamento Específico del Sistema de Administración de Personal (RE-SAP) del Ministerio de Educación",
+   "autor": "6 de julio de 2026",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp38_rm_0288_2026_re_sap_administracion_de_personal.json",
+   "survey": false
+  },
+  {
+   "id": "tp39_rm_0224_2026_re_soa_organizacion_administrativa",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "R.M. N° 0224 Reglamento Específico del Sistema de Organización Administrativa (RE-SOA) del Ministerio de Educación",
+   "autor": "25 de mayo de 2026",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp39_rm_0224_2026_re_soa_organizacion_administrativa.json",
+   "survey": false
+  },
+  {
+   "id": "tp40_rm_0289_2026_re_sci_contabilidad_integrada",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "R.M. N° 0289 Reglamento Específico del Sistema de Contabilidad Integrada (RE-SCI) del Ministerio de Educación",
+   "autor": "6 de julio de 2026",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp40_rm_0289_2026_re_sci_contabilidad_integrada.json",
+   "survey": false
+  },
+  {
+   "id": "tp41_rm_0298_2026_re_ste_tesoreria_del_estado",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "R.M. N° 0298 Reglamento Específico del Sistema de Tesorería del Estado (RE-STE) del Ministerio de Educación",
+   "autor": "9 de julio de 2026",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp41_rm_0298_2026_re_ste_tesoreria_del_estado.json",
+   "survey": false
+  },
+  {
+   "id": "tp42_ley_254_codigo_procesal_constitucional",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Ley N° 254 Código Procesal Constitucional",
+   "autor": "5 de julio de 2012",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp42_ley_254_codigo_procesal_constitucional.json",
+   "survey": false
+  },
+  {
+   "id": "tp43_ley_2341_procedimiento_administrativo",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Ley N° 2341 de Procedimiento Administrativo",
+   "autor": "23 de abril de 2002",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp43_ley_2341_procedimiento_administrativo.json",
+   "survey": false
+  },
+  {
+   "id": "tp44_ley_2027_estatuto_del_funcionario_publico",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Ley N° 2027 Estatuto del Funcionario Público",
+   "autor": "27 de octubre de 1999",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp44_ley_2027_estatuto_del_funcionario_publico.json",
+   "survey": false
+  },
+  {
+   "id": "tp45_ley_1768_codigo_penal",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Ley N° 1768 Código Penal",
+   "autor": "10 de marzo de 1997",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp45_ley_1768_codigo_penal.json",
+   "survey": false
+  },
+  {
+   "id": "tp46_ley_439_codigo_procesal_civil",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Ley N° 439 Código Procesal Civil",
+   "autor": "19 de noviembre de 2013",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp46_ley_439_codigo_procesal_civil.json",
+   "survey": false
+  },
+  {
+   "id": "tp47_ds_27113_2003_reglamento_ley_2341",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Decreto Supremo N° 27113 Reglamento a la Ley N° 2341 de Procedimiento Administrativo",
+   "autor": "23 de julio de 2003",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp47_ds_27113_2003_reglamento_ley_2341.json",
+   "survey": false
+  },
+  {
+   "id": "tp48_ds_23318a_1992_responsabilidad_por_la_funcion_publica",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Decreto Supremo N° 23318-A Reglamento de la Responsabilidad por la Función Pública",
+   "autor": "3 de noviembre de 1992",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp48_ds_23318a_1992_responsabilidad_por_la_funcion_publica.json",
+   "survey": false
+  },
+  {
+   "id": "tp49_ds_26237_2001_modificaciones_responsabilidad_funcion_publica",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Decreto Supremo N° 26237 Modificaciones al Reglamento de la Responsabilidad por la Función Pública",
+   "autor": "29 de junio de 2001",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp49_ds_26237_2001_modificaciones_responsabilidad_funcion_publica.json",
+   "survey": false
+  },
+  {
+   "id": "tp50_ds_1302_2012_erradicar_violencia_sexual_en_educacion",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Decreto Supremo N° 1302 Erradicar Violencia Sexual en Educación",
+   "autor": "1 de agosto de 2012",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp50_ds_1302_2012_erradicar_violencia_sexual_en_educacion.json",
+   "survey": false
+  },
+  {
+   "id": "tp51_ds_1320_2012_modifica_ds_1302",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Decreto Supremo N° 1320 Modifica el Decreto Supremo N° 1302",
+   "autor": "8 de agosto de 2012",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp51_ds_1320_2012_modifica_ds_1302.json",
+   "survey": false
+  },
+  {
+   "id": "tp52_cruz_mundet_2011_administracion_de_documentos_y_archivos",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Administración de documentos y archivos: Textos fundamentales",
+   "autor": "Cruz Mundet, J. R. (2011). Coordinadora de Asociaciones de Archiveros",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp52_cruz_mundet_2011_administracion_de_documentos_y_archivos.json",
+   "survey": false
+  },
+  {
+   "id": "tp53_barnard_amozorrutia_2009_archivos_electronicos",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Archivos electrónicos: Textos y contextos",
+   "autor": "Barnard Amozorrutia, A. (2009). RENAIES, Benemérita Universidad Autónoma de Puebla",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp53_barnard_amozorrutia_2009_archivos_electronicos.json",
+   "survey": false
+  },
+  {
+   "id": "tp54_rodriguez_barboza_2019_tic_en_bibliotecologia",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Las TIC como apoyo al proceso de enseñanza-aprendizaje en Bibliotecología",
+   "autor": "Rodríguez, K. y Barboza, L. (2019)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp54_rodriguez_barboza_2019_tic_en_bibliotecologia.json",
+   "survey": false
+  },
+  {
+   "id": "tp55_rm_789_2023_reglamento_interno_archivo_gestion_documental",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "R.M. N° 789 Reglamento Interno de Archivo y Gestión Documental",
+   "autor": "15 de septiembre de 2023",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp55_rm_789_2023_reglamento_interno_archivo_gestion_documental.json",
+   "survey": false
+  },
+  {
+   "id": "tp56_rs_217095_1997_normas_basicas_sistema_de_presupuesto",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Resolución Suprema N° 217095 Normas Básicas del Sistema de Presupuesto",
+   "autor": "4 de julio de 1997",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp56_rs_217095_1997_normas_basicas_sistema_de_presupuesto.json",
+   "survey": false
+  },
+  {
+   "id": "tp57_ds_1233_2012_declaracion_jurada_bienes_y_rentas",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Decreto Supremo N° 1233 Declaración Jurada de Bienes y Rentas",
+   "autor": "16 de mayo de 2012",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp57_ds_1233_2012_declaracion_jurada_bienes_y_rentas.json",
+   "survey": false
+  },
+  {
+   "id": "tp58_ds_2528_2015_modificacion_declaracion_jurada_bienes_rentas",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Decreto Supremo N° 2528 Modificación a la normativa sobre Declaración Jurada de Bienes y Rentas",
+   "autor": "23 de septiembre de 2015",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp58_ds_2528_2015_modificacion_declaracion_jurada_bienes_rentas.json",
+   "survey": false
+  },
+  {
+   "id": "tp59_rm_0684_2019_manual_procesos_manejo_de_bienes",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "R.M. N° 0684 Manual de Procesos del Subsistema de Manejo de Bienes",
+   "autor": "13 de diciembre de 2019",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp59_rm_0684_2019_manual_procesos_manejo_de_bienes.json",
+   "survey": false
+  },
+  {
+   "id": "tp60_avevedo_2019_medicina_preventiva_y_social_ii",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Manual Medicina Preventiva y Social II",
+   "autor": "Avevedo G., L. (2019)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp60_avevedo_2019_medicina_preventiva_y_social_ii.json",
+   "survey": false
+  },
+  {
+   "id": "tp61_martinez_hernandez_nociones_de_salud_publica",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Nociones de Salud Pública",
+   "autor": "Martínez Hernández, J. (s.f.)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp61_martinez_hernandez_nociones_de_salud_publica.json",
+   "survey": false
+  },
+  {
+   "id": "tp62_kroeger_niveles_de_atencion_y_prevencion",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Niveles de Atención, de Prevención y Atención Primaria de la Salud",
+   "autor": "Kroeger, A. (s.f.)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp62_kroeger_niveles_de_atencion_y_prevencion.json",
+   "survey": false
+  },
+  {
+   "id": "tp63_instituto_nelson_2023_aplicaciones_web",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Desarrollo de aplicaciones web con tecnologías modernas",
+   "autor": "Instituto Nelson (2023)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp63_instituto_nelson_2023_aplicaciones_web.json",
+   "survey": false
+  },
+  {
+   "id": "tp64_velez_de_guevara_2019_gestion_de_bases_de_datos",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Gestión de bases de datos",
+   "autor": "Vélez de Guevara, L. (2019). Departamento de Informática",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp64_velez_de_guevara_2019_gestion_de_bases_de_datos.json",
+   "survey": false
+  },
+  {
+   "id": "tp65_ministerio_educacion_2024_guia_sistemas_informaticos",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Guía de trabajo: Sistemas informáticos",
+   "autor": "Ministerio de Educación (2024)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp65_ministerio_educacion_2024_guia_sistemas_informaticos.json",
+   "survey": false
+  },
+  {
+   "id": "tp66_arevalo_jordan_2001_teoria_de_la_archivologia",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Teoría, fundamentos y práctica de la archivología (5.ª ed.)",
+   "autor": "Arévalo Jordán, V. H. (2001). Santa Fe",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp66_arevalo_jordan_2001_teoria_de_la_archivologia.json",
+   "survey": false
+  },
+  {
+   "id": "tp67_bowker_1974_la_biblioteca_escolar",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "La biblioteca escolar, propulsora de la educación",
+   "autor": "Bowker (1974)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp67_bowker_1974_la_biblioteca_escolar.json",
+   "survey": false
+  },
+  {
+   "id": "tp68_arteaga_2000_procesos_tecnicos_para_bibliotecas",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Manual de procesos técnicos para bibliotecas",
+   "autor": "Arteaga, F. (2000). Agaetra",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp68_arteaga_2000_procesos_tecnicos_para_bibliotecas.json",
+   "survey": false
+  },
+  {
+   "id": "tp69_ley_1493_2022_presupuesto_general_del_estado",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Ley N° 1493 Ley del Presupuesto General del Estado",
+   "autor": "17 de diciembre de 2022",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp69_ley_1493_2022_presupuesto_general_del_estado.json",
+   "survey": false
+  },
+  {
+   "id": "tp70_rm_0666_2023_aranceles_y_legalizaciones",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "R.M. N° 0666 Aranceles y Legalizaciones",
+   "autor": "11 de agosto de 2023",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp70_rm_0666_2023_aranceles_y_legalizaciones.json",
+   "survey": false
+  },
+  {
+   "id": "tp71_rm_0776_2023_baja_y_reposicion_de_valores_fiscales",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "R.M. N° 0776 Reglamento Interno de Baja y Reposición de Valores Fiscales del Ministerio de Educación",
+   "autor": "12 de septiembre de 2023",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp71_rm_0776_2023_baja_y_reposicion_de_valores_fiscales.json",
+   "survey": false
+  },
+  {
+   "id": "tp72_circular_externa_ciex_56_2020",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Circular Externa CIEX N° 56/2020",
+   "autor": "17 de diciembre de 2020",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp72_circular_externa_ciex_56_2020.json",
+   "survey": false
+  },
+  {
+   "id": "tp73_lozano_2008_nueva_ortografia_activa_2",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Nueva ortografía activa 2",
+   "autor": "Lozano, L. (2008). Nueva Editorial Lucero S.A.",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp73_lozano_2008_nueva_ortografia_activa_2.json",
+   "survey": false
+  },
+  {
+   "id": "tp74_marco_2020_33_utilidades_para_microsoft_excel",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "33 utilidades para Microsoft Excel",
+   "autor": "Marco, J. (2020)",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp74_marco_2020_33_utilidades_para_microsoft_excel.json",
+   "survey": false
+  },
+  {
+   "id": "tp75_cassany_2019_describir_el_escribir",
+   "grupo": "tecnico_pedagogico",
+   "icono": "📘",
+   "nombre": "Describir el escribir",
+   "autor": "Cassany, D. (2019). Ediciones Paidós",
+   "color": "#14B8A6",
+   "archivo": "data/bib/tecnico_pedagogico/tp75_cassany_2019_describir_el_escribir.json",
+   "survey": false
+  }
+ ],
+ "cargos": [
+  {
+   "id": "dir_departamental",
+   "nombre": "Director(a) Departamental de Educación",
+   "corto": "Director Departamental",
+   "fam": "dd",
+   "costo": 550,
+   "perfil": "general",
+   "categoriaMin": "Segunda",
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat2",
+    "exp3",
+    "rda",
+    "lengua",
+    "m150"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne01_ley_031_marco_autonomias_descentralizacion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne03_ds_813_direcciones_departamentales_educacion",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "ne06_rm_864_2019_protocolo_violencia",
+    "ne07_rm_069_2025_educacion_inclusiva",
+    "ne08_rm_0244_2023_bachillerato_tecnico_humanistico",
+    "ne09_rm_350_2023_reglamento_general_institutos",
+    "ne10_rm_1027_2023_reglamento_general_cca_ifa",
+    "ne11_rm_0189_2023_evaluacion_desarrollo_curricular_institutos",
+    "ne12_rm_487_2023_modalidades_graduacion_institutos",
+    "ne13_rm_631_2023_faltas_sanciones_institutos",
+    "tp01_ods_4_educacion_2030_unesco",
+    "tp02_lidei_2022_liderazgo_directivo_iberoamerica",
+    "tp03_reimaginar_juntos_nuestros_futuros",
+    "tp04_marco_gestion_liderazgo_educativo_local",
+    "tp05_erce_2019_estudio_regional_comparativo"
+   ]
+  },
+  {
+   "id": "sub_regular",
+   "nombre": "Subdirector(a) de Educación Regular",
+   "corto": "Subdirector Regular",
+   "fam": "dd",
+   "costo": 450,
+   "perfil": "general",
+   "categoriaMin": "Segunda",
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat2",
+    "exp3",
+    "rda",
+    "lengua",
+    "m150"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne03_ds_813_direcciones_departamentales_educacion",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "ne06_rm_864_2019_protocolo_violencia",
+    "ne07_rm_069_2025_educacion_inclusiva",
+    "ne08_rm_0244_2023_bachillerato_tecnico_humanistico",
+    "ne14_rm_0020_0021_0022_2024_apertura_modificacion_cierre_regular",
+    "ne15_rm_0166_2025_transitabilidad_institutos",
+    "ne16_rm_001_2026_subsistema_educacion_regular",
+    "ne17_rm_1126_2022_modalidad_modular_multigrado",
+    "tp01_ods_4_educacion_2030_unesco",
+    "tp02_lidei_2022_liderazgo_directivo_iberoamerica",
+    "tp03_reimaginar_juntos_nuestros_futuros",
+    "tp04_marco_gestion_liderazgo_educativo_local",
+    "tp05_erce_2019_estudio_regional_comparativo"
+   ]
+  },
+  {
+   "id": "sub_alt_especial",
+   "nombre": "Subdirector(a) de Educación Alternativa y Especial",
+   "corto": "Subdirector Alt. y Especial",
+   "fam": "dd",
+   "costo": 450,
+   "perfil": "general",
+   "categoriaMin": "Segunda",
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat2",
+    "exp3",
+    "rda",
+    "lengua",
+    "m150"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne18_rm_1040_2022_lineamientos_curriculares",
+    "ne19_rm_0872_2024_reconocimiento_de_saberes",
+    "ne20_rm_531_2023_y_rm_1115_2023_certificacion_competencias",
+    "ne21_rm_679_2025_certificacion_tecnica_tecnologica_productiva",
+    "ne22_ley_4024_convencion_derechos_personas_discapacidad",
+    "ne23_rm_0092_2025_apertura_modificacion_cierre_cea",
+    "ne24_rm_0023_2024_apertura_modificacion_cierre_cee",
+    "ne15_rm_0166_2025_transitabilidad_institutos",
+    "ne25_rm_0718_2025_maestros_itinerantes_multigrado",
+    "ne06_rm_864_2019_protocolo_violencia",
+    "ne26_rm_764_2025_poblaciones_diversas_y_vulnerables",
+    "ne07_rm_069_2025_educacion_inclusiva",
+    "ne27_rm_001_2026_subsistema_alternativa_y_especial",
+    "tp01_ods_4_educacion_2030_unesco",
+    "tp02_lidei_2022_liderazgo_directivo_iberoamerica",
+    "tp03_reimaginar_juntos_nuestros_futuros",
+    "tp04_marco_gestion_liderazgo_educativo_local",
+    "tp05_erce_2019_estudio_regional_comparativo"
+   ]
+  },
+  {
+   "id": "sub_superior",
+   "nombre": "Subdirector(a) de Educación Superior de Formación Profesional",
+   "corto": "Subdirector Educ. Superior",
+   "fam": "dd",
+   "costo": 450,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "Título en Provisión Nacional o Título Profesional de maestra/o normalista, o RM de Titular por Antigüedad con Licenciatura en áreas técnicas, tecnológicas o artísticas",
+    "Título Profesional con grado de Licenciatura reconocido por el Sistema Universitario Boliviano o por el Min. Educación (universidades privadas)",
+    "Haber desempeñado funciones como Autoridad Educativa en el SEP o directivo en ITT, Formación Artística, CCA o EBI, con 5 años como mínimo",
+    "posgrado_educ",
+    "Duplicado de RDA o RP-DGESTTLA actualizado",
+    "lengua",
+    "m150"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne09_rm_350_2023_reglamento_general_institutos",
+    "ne10_rm_1027_2023_reglamento_general_cca_ifa",
+    "ne11_rm_0189_2023_evaluacion_desarrollo_curricular_institutos",
+    "ne12_rm_487_2023_modalidades_graduacion_institutos",
+    "ne13_rm_631_2023_faltas_sanciones_institutos",
+    "ne28_rm_525_2018_manual_funciones_institutos",
+    "ne29_rm_0740_2023_titulos_profesionales",
+    "ne30_rm_036_2026_seleccion_designacion_personal_institutos",
+    "ne31_resolucion_biministerial_001_2023_recursos_humanos_salud",
+    "ne32_rm_001_2026_subsistema_superior_formacion_profesional",
+    "tp01_ods_4_educacion_2030_unesco",
+    "tp06_acero_ordonez_2020_educacion_4_0",
+    "tp07_armijo_2009_planificacion_estrategica",
+    "tp08_rosso_orozco_2010_musica_en_bolivia",
+    "tp02_lidei_2022_liderazgo_directivo_iberoamerica",
+    "tp03_reimaginar_juntos_nuestros_futuros",
+    "tp04_marco_gestion_liderazgo_educativo_local",
+    "tp05_erce_2019_estudio_regional_comparativo"
+   ]
+  },
+  {
+   "id": "dir_distrital",
+   "nombre": "Director(a) Distrital de Educación",
+   "corto": "Director Distrital",
+   "fam": "dist",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": "Tercera",
+   "meritosMin": 120,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat3",
+    "exp3",
+    "rda",
+    "lengua",
+    "m120"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne03_ds_813_direcciones_departamentales_educacion",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne06_rm_864_2019_protocolo_violencia",
+    "ne07_rm_069_2025_educacion_inclusiva",
+    "ne08_rm_0244_2023_bachillerato_tecnico_humanistico",
+    "ne14_rm_0020_0021_0022_2024_apertura_modificacion_cierre_regular",
+    "ne15_rm_0166_2025_transitabilidad_institutos",
+    "ne17_rm_1126_2022_modalidad_modular_multigrado",
+    "ne22_ley_4024_convencion_derechos_personas_discapacidad",
+    "ne16_rm_001_2026_subsistema_educacion_regular",
+    "ne27_rm_001_2026_subsistema_alternativa_y_especial",
+    "tp01_ods_4_educacion_2030_unesco",
+    "tp02_lidei_2022_liderazgo_directivo_iberoamerica",
+    "tp03_reimaginar_juntos_nuestros_futuros",
+    "tp04_marco_gestion_liderazgo_educativo_local",
+    "tp05_erce_2019_estudio_regional_comparativo"
+   ]
+  },
+  {
+   "id": "dir_ue",
+   "nombre": "Director(a) de Unidad Educativa",
+   "corto": "Director de U.E.",
+   "fam": "ue",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "cat4",
+    "rda",
+    "lengua",
+    "Tener 100 puntos en méritos como mínimo, según pertinencia del subsistema y área a la que postula"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne06_rm_864_2019_protocolo_violencia",
+    "ne07_rm_069_2025_educacion_inclusiva",
+    "ne14_rm_0020_0021_0022_2024_apertura_modificacion_cierre_regular",
+    "ne33_rm_0190_2024_evaluacion_desarrollo_curricular_regular",
+    "ne34_rm_800_2015_libretas_calificaciones_electronicas",
+    "ne16_rm_001_2026_subsistema_educacion_regular",
+    "tp01_ods_4_educacion_2030_unesco",
+    "tp02_lidei_2022_liderazgo_directivo_iberoamerica",
+    "tp04_marco_gestion_liderazgo_educativo_local",
+    "tp05_erce_2019_estudio_regional_comparativo"
+   ]
+  },
+  {
+   "id": "dir_cea",
+   "nombre": "Director(a) de Centro de Educación Alternativa",
+   "corto": "Director de CEA",
+   "fam": "ue",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "cat4",
+    "rda",
+    "lengua",
+    "Tener 100 puntos en méritos como mínimo, según pertinencia del subsistema y área a la que postula"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne23_rm_0092_2025_apertura_modificacion_cierre_cea",
+    "ne35_rm_0183_2024_evaluacion_procesos_formativos_epja",
+    "ne19_rm_0872_2024_reconocimiento_de_saberes",
+    "ne21_rm_679_2025_certificacion_tecnica_tecnologica_productiva",
+    "ne25_rm_0718_2025_maestros_itinerantes_multigrado",
+    "ne18_rm_1040_2022_lineamientos_curriculares",
+    "ne20_rm_531_2023_y_rm_1115_2023_certificacion_competencias",
+    "ne26_rm_764_2025_poblaciones_diversas_y_vulnerables",
+    "ne27_rm_001_2026_subsistema_alternativa_y_especial",
+    "tp01_ods_4_educacion_2030_unesco",
+    "tp02_lidei_2022_liderazgo_directivo_iberoamerica",
+    "tp04_marco_gestion_liderazgo_educativo_local",
+    "tp05_erce_2019_estudio_regional_comparativo"
+   ]
+  },
+  {
+   "id": "dir_cee",
+   "nombre": "Director(a) de Centro de Educación Especial",
+   "corto": "Director de CEE",
+   "fam": "ue",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "cat4",
+    "rda",
+    "lengua",
+    "Tener 100 puntos en méritos como mínimo, según pertinencia del subsistema y área a la que postula"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne36_rm_0826_2021_formacion_tecnica_educacion_especial",
+    "ne37_rm_0795_2021_talento_extraordinario",
+    "ne38_rm_0186_2024_atencion_discapacidad_y_dificultades_aprendizaje",
+    "ne24_rm_0023_2024_apertura_modificacion_cierre_cee",
+    "ne39_rm_0536_2024_carga_horaria_cee",
+    "ne07_rm_069_2025_educacion_inclusiva",
+    "ne18_rm_1040_2022_lineamientos_curriculares",
+    "ne06_rm_864_2019_protocolo_violencia",
+    "ne22_ley_4024_convencion_derechos_personas_discapacidad",
+    "ne27_rm_001_2026_subsistema_alternativa_y_especial",
+    "tp01_ods_4_educacion_2030_unesco",
+    "tp02_lidei_2022_liderazgo_directivo_iberoamerica",
+    "tp04_marco_gestion_liderazgo_educativo_local",
+    "tp05_erce_2019_estudio_regional_comparativo"
+   ]
+  },
+  {
+   "id": "rector_itt",
+   "nombre": "Rector(a) de Instituto Técnico y/o Tecnológico",
+   "corto": "Rector ITT",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título Normalista, RM de Titular por Antigüedad con Licenciatura en áreas técnicas/tecnológicas/artísticas, o Título con grado de Licenciatura en áreas Técnicas, Tecnológicas, Productivas, Ciencias de la Educación, Pedagogía, Administración o Gestión Educativa",
+    "Título de Postgrado (Diplomado, Especialización, Maestría o Doctorado) en el ámbito educativo",
+    "Experiencia de 4 años en docencia en Educación Superior con pertinencia técnica a una carrera del Instituto y/o funciones directivas en ITT, Formación Artística, CCA o EBI (público o de convenio)",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne09_rm_350_2023_reglamento_general_institutos",
+    "ne28_rm_525_2018_manual_funciones_institutos",
+    "ne13_rm_631_2023_faltas_sanciones_institutos",
+    "ne11_rm_0189_2023_evaluacion_desarrollo_curricular_institutos",
+    "ne12_rm_487_2023_modalidades_graduacion_institutos",
+    "ne40_rm_548_2023_revalidacion_homologacion_titulos_extranjero",
+    "ne41_rm_2942_2017_convivencia_estudiantil_institutos",
+    "ne32_rm_001_2026_subsistema_superior_formacion_profesional",
+    "tp06_acero_ordonez_2020_educacion_4_0",
+    "tp09_de_zubiria_2006_pedagogia_dialogante",
+    "tp10_tobon_2003_formacion_integral_y_competencias",
+    "tp11_vallejo_2024_rol_docente_inteligencia_artificial",
+    "tp12_pyme_como_elaborar_el_cuadro_de_mando"
+   ]
+  },
+  {
+   "id": "dir_academico_itt",
+   "nombre": "Director(a) Académico de Instituto Técnico y/o Tecnológico",
+   "corto": "Director Académico ITT",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título Normalista, RM de Titular por Antigüedad con Licenciatura en áreas técnicas/tecnológicas/artísticas, o Título con grado de Licenciatura o Técnico Superior en áreas Técnicas o Tecnológicas relacionado con las carreras del Instituto",
+    "Título de Posgrado (Diplomado, Especialidad, Maestría o Doctorado) en el ámbito educativo",
+    "Experiencia mínima de 3 años en docencia en Educación Superior con pertinencia a una carrera del Instituto y/o funciones directivas en ITT, Formación Artística, CCA o EBI",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne09_rm_350_2023_reglamento_general_institutos",
+    "ne28_rm_525_2018_manual_funciones_institutos",
+    "ne13_rm_631_2023_faltas_sanciones_institutos",
+    "ne11_rm_0189_2023_evaluacion_desarrollo_curricular_institutos",
+    "ne12_rm_487_2023_modalidades_graduacion_institutos",
+    "ne40_rm_548_2023_revalidacion_homologacion_titulos_extranjero",
+    "ne41_rm_2942_2017_convivencia_estudiantil_institutos",
+    "ne32_rm_001_2026_subsistema_superior_formacion_profesional",
+    "tp06_acero_ordonez_2020_educacion_4_0",
+    "tp13_catalano_2004_diseno_curricular_competencia_laboral",
+    "tp14_rezabala_2024_gamificacion_educacion_superior",
+    "tp11_vallejo_2024_rol_docente_inteligencia_artificial",
+    "tp10_tobon_2003_formacion_integral_y_competencias"
+   ]
+  },
+  {
+   "id": "dir_admin_itt",
+   "nombre": "Director(a) Administrativo de Instituto Técnico y/o Tecnológico",
+   "corto": "Director Administrativo ITT",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título con grado de Licenciatura o Técnico Superior en áreas económicas, financieras o administrativas (normalistas: contar además con Licenciatura o Técnico Superior en esas áreas)",
+    "Experiencia profesional de 3 años como mínimo en entidades públicas o privadas en áreas económicas, financieras o administrativas",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne09_rm_350_2023_reglamento_general_institutos",
+    "ne28_rm_525_2018_manual_funciones_institutos",
+    "ne13_rm_631_2023_faltas_sanciones_institutos",
+    "ne11_rm_0189_2023_evaluacion_desarrollo_curricular_institutos",
+    "ne12_rm_487_2023_modalidades_graduacion_institutos",
+    "ne40_rm_548_2023_revalidacion_homologacion_titulos_extranjero",
+    "ne41_rm_2942_2017_convivencia_estudiantil_institutos",
+    "ne32_rm_001_2026_subsistema_superior_formacion_profesional",
+    "tp15_goleman_2006_inteligencia_social",
+    "tp16_reglamento_ley_1451_transparencia_servicio_publico",
+    "tp17_rm_1212_2023_planilla_de_haberes",
+    "tp12_pyme_como_elaborar_el_cuadro_de_mando"
+   ]
+  },
+  {
+   "id": "rector_artistico",
+   "nombre": "Rector(a) de Instituto de Formación Artística, CCA o Escuela Boliviana Intercultural",
+   "corto": "Rector Formación Artística",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título con grado de Licenciatura en carreras artísticas, Técnico Superior en áreas artísticas, Ciencias de la Educación, Pedagogía o Título de Maestro/a de las Artes (RM 427/2014), relacionado con las carreras de la institución",
+    "Experiencia de 3 años en docencia en Educación Superior y/o funciones directivas en Formación Artística, CCA o EBI (público, privado o de convenio), o universidades afines a la formación artística",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne10_rm_1027_2023_reglamento_general_cca_ifa",
+    "ne42_rm_0904_2023_manual_funciones_ifa_cca",
+    "ne43_rm_0037_2024_aranceles_ifa",
+    "ne44_rm_01137_2022_escuelas_bolivianas_interculturales",
+    "ne45_rm_0031_2024_evaluacion_formacion_superior_artistica",
+    "ne13_rm_631_2023_faltas_sanciones_institutos",
+    "ne40_rm_548_2023_revalidacion_homologacion_titulos_extranjero",
+    "ne46_rm_0859_2023_modalidades_graduacion_ifa_ebi",
+    "ne41_rm_2942_2017_convivencia_estudiantil_institutos",
+    "ne32_rm_001_2026_subsistema_superior_formacion_profesional",
+    "tp06_acero_ordonez_2020_educacion_4_0",
+    "tp09_de_zubiria_2006_pedagogia_dialogante",
+    "tp10_tobon_2003_formacion_integral_y_competencias",
+    "tp11_vallejo_2024_rol_docente_inteligencia_artificial",
+    "tp12_pyme_como_elaborar_el_cuadro_de_mando"
+   ]
+  },
+  {
+   "id": "dir_academico_artistico",
+   "nombre": "Director(a) Académico de Instituto de Formación Artística, CCA o EBI",
+   "corto": "Director Académico Artístico",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título con grado de Licenciatura en carreras artísticas, Técnico Superior en áreas artísticas, Ciencias de la Educación, Pedagogía o Maestro/a de las Artes (RM 427/2014), relacionado con una de las carreras de la institución",
+    "Experiencia de 3 años en docencia en Educación Superior y/o funciones directivas en Formación Artística, CCA o EBI (público, privado o de convenio), o universidades afines",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne10_rm_1027_2023_reglamento_general_cca_ifa",
+    "ne42_rm_0904_2023_manual_funciones_ifa_cca",
+    "ne43_rm_0037_2024_aranceles_ifa",
+    "ne44_rm_01137_2022_escuelas_bolivianas_interculturales",
+    "ne45_rm_0031_2024_evaluacion_formacion_superior_artistica",
+    "ne13_rm_631_2023_faltas_sanciones_institutos",
+    "ne40_rm_548_2023_revalidacion_homologacion_titulos_extranjero",
+    "ne46_rm_0859_2023_modalidades_graduacion_ifa_ebi",
+    "ne41_rm_2942_2017_convivencia_estudiantil_institutos",
+    "ne32_rm_001_2026_subsistema_superior_formacion_profesional",
+    "tp06_acero_ordonez_2020_educacion_4_0",
+    "tp13_catalano_2004_diseno_curricular_competencia_laboral",
+    "tp14_rezabala_2024_gamificacion_educacion_superior",
+    "tp11_vallejo_2024_rol_docente_inteligencia_artificial",
+    "tp10_tobon_2003_formacion_integral_y_competencias"
+   ]
+  },
+  {
+   "id": "dir_admin_artistico",
+   "nombre": "Director(a) Administrativo de Instituto de Formación Artística, CCA o EBI",
+   "corto": "Director Administrativo Artístico",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título con grado de Licenciatura o Técnico Superior en áreas económicas, financieras o administrativas (normalistas: Licenciatura en esas áreas)",
+    "Experiencia profesional de 3 años como mínimo en entidades públicas o privadas en áreas económicas, financieras o administrativas",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne10_rm_1027_2023_reglamento_general_cca_ifa",
+    "ne42_rm_0904_2023_manual_funciones_ifa_cca",
+    "ne43_rm_0037_2024_aranceles_ifa",
+    "ne44_rm_01137_2022_escuelas_bolivianas_interculturales",
+    "ne45_rm_0031_2024_evaluacion_formacion_superior_artistica",
+    "ne13_rm_631_2023_faltas_sanciones_institutos",
+    "ne40_rm_548_2023_revalidacion_homologacion_titulos_extranjero",
+    "ne46_rm_0859_2023_modalidades_graduacion_ifa_ebi",
+    "ne41_rm_2942_2017_convivencia_estudiantil_institutos",
+    "ne32_rm_001_2026_subsistema_superior_formacion_profesional",
+    "tp15_goleman_2006_inteligencia_social",
+    "tp16_reglamento_ley_1451_transparencia_servicio_publico",
+    "tp17_rm_1212_2023_planilla_de_haberes",
+    "tp12_pyme_como_elaborar_el_cuadro_de_mando"
+   ]
+  },
+  {
+   "id": "dir_general_esfm",
+   "nombre": "Director(a) General de ESFM",
+   "corto": "Director General ESFM",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": "Tercera",
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat3",
+    "exp3",
+    "rda",
+    "lengua",
+    "Tener 150 puntos en méritos como mínimo, del área que corresponda"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "tp18_gutovic_2026_informe_mundial_educacion_superior",
+    "tp19_soria_leon_2025_gestion_educativa_educacion_superior",
+    "tp20_carrasco_ruiz_2023_cultura_organizacional_docente",
+    "tp21_castro_rubilar_2013_proyectos_gestion_educacional"
+   ]
+  },
+  {
+   "id": "dir_academico_esfm",
+   "nombre": "Director(a) Académico de ESFM",
+   "corto": "Director Académico ESFM",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": "Tercera",
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat3",
+    "exp3",
+    "rda",
+    "lengua",
+    "Tener 150 puntos en méritos como mínimo, del área que corresponda"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "tp22_amadio_opertti_tedesco_2015_curriculo_horizonte_2030",
+    "tp23_velazquez_2009_pedagogia_y_formacion_docente",
+    "tp24_cairo_daza_2017_gestion_academica",
+    "tp25_alliaud_antelo_2011_gajes_del_oficio"
+   ]
+  },
+  {
+   "id": "dir_admin_fin_esfm",
+   "nombre": "Director(a) Administrativo Financiero de ESFM",
+   "corto": "Dir. Administrativo Financiero ESFM",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "Licenciatura en Administración de Empresas, Auditoría Financiera, Auditoría, Contaduría Pública o Economía (Sistema Universitario Boliviano o Min. Educación para privadas)",
+    "Título de Posgrado (Diplomado, Especialidad, Maestría o Doctorado) en el ámbito Económico, Administrativo y Financiero",
+    "Mínimo 3 años de experiencia en el área administrativa en entidades públicas o privadas (económicas, financieras o administrativas)",
+    "rda",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua",
+    "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "tp33_ley_2042_administracion_presupuestaria",
+    "tp34_ley_1705_presupuesto_general_del_estado_2026",
+    "tp35_ds_3607_2018_modificaciones_presupuestarias",
+    "tp36_ds_0181_2009_normas_basicas_sistema_bienes_y_servicios",
+    "tp37_rs_222957_2005_normas_basicas_contabilidad_integrada",
+    "tp38_rm_0288_2026_re_sap_administracion_de_personal",
+    "tp39_rm_0224_2026_re_soa_organizacion_administrativa",
+    "tp40_rm_0289_2026_re_sci_contabilidad_integrada",
+    "tp41_rm_0298_2026_re_ste_tesoreria_del_estado"
+   ]
+  },
+  {
+   "id": "coord_ua",
+   "nombre": "Coordinador(a) de Unidad Académica",
+   "corto": "Coordinador de UA",
+   "fam": "esfm",
+   "costo": 300,
+   "perfil": "general",
+   "categoriaMin": "Tercera",
+   "meritosMin": 150,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "posgrado_educ",
+    "cat3",
+    "exp3",
+    "rda",
+    "lengua",
+    "Tener 150 puntos en méritos como mínimo, del área que corresponda"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "tp19_soria_leon_2025_gestion_educativa_educacion_superior",
+    "tp20_carrasco_ruiz_2023_cultura_organizacional_docente",
+    "tp26_rojas_gaspar_2006_bases_del_liderazgo_en_educacion"
+   ]
+  },
+  {
+   "id": "coord_iepc_pec",
+   "nombre": "Coordinador(a) Académico IEPC – PEC",
+   "corto": "Coordinador IEPC-PEC",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 120,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "Título de Postgrado (Diplomado, Especialidad, Maestría o Doctorado) en Investigación",
+    "cat4",
+    "rda",
+    "lengua",
+    "Tener 120 puntos en méritos como mínimo, del área que corresponda"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "tp27_monarca_2018_calidad_de_la_educacion_iberoamerica",
+    "tp28_de_souza_minayo_2007_investigacion_social",
+    "tp29_latorre_2005_la_investigacion_accion"
+   ]
+  },
+  {
+   "id": "asesor_legal",
+   "nombre": "Asesor(a) Legal",
+   "corto": "Asesor Legal",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Matrícula vigente del Registro Público de Abogados del Ministerio de Justicia",
+    "normalista",
+    "Título Profesional o en Provisión Nacional de Abogado (Sistema Universitario Boliviano o Min. Educación para privadas)",
+    "Posgrado (Diplomado, Especialidad, Maestría o Doctorado) en Derecho Administrativo, Civil, Penal o Constitucional",
+    "lengua",
+    "Certificado de Trabajo que acredite 3 años mínimo de ejercicio de la abogacía (público o privado)"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua",
+    "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "tp42_ley_254_codigo_procesal_constitucional",
+    "tp43_ley_2341_procedimiento_administrativo",
+    "tp44_ley_2027_estatuto_del_funcionario_publico",
+    "tp45_ley_1768_codigo_penal",
+    "tp46_ley_439_codigo_procesal_civil",
+    "tp47_ds_27113_2003_reglamento_ley_2341",
+    "tp48_ds_23318a_1992_responsabilidad_por_la_funcion_publica",
+    "tp49_ds_26237_2001_modificaciones_responsabilidad_funcion_publica",
+    "tp50_ds_1302_2012_erradicar_violencia_sexual_en_educacion",
+    "tp51_ds_1320_2012_modifica_ds_1302"
+   ]
+  },
+  {
+   "id": "catedratico",
+   "nombre": "Catedrático(a) – Docente",
+   "corto": "Catedrático Docente",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "Título de maestra/o normalista, RM de Titular por Antigüedad o Título Homologado, de la especialidad a la que postula",
+    "Licenciatura de la especialidad a la que postula (ESFM o Sistema Universitario Boliviano; privadas: Min. Educación)",
+    "Título de Posgrado (Diplomado, Especialidad, Maestría o Doctorado) en Educación Superior",
+    "cat4",
+    "rda",
+    "lengua",
+    "Tener 100 puntos en méritos como mínimo, del área que corresponda"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "tp30_mora_2013_neuroeducacion",
+    "tp31_lopez_gomez_2016_didactica_general_formacion_profesorado",
+    "tp32_barraza_macias_2023_investigacion_cualitativa"
+   ]
+  },
+  {
+   "id": "catedratico_lengua",
+   "nombre": "Catedrático(a) – Docente de Lengua Originaria",
+   "corto": "Docente Lengua Originaria",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "lic_esfm",
+    "Licenciatura en Lengua Originaria o Certificado de Lengua Originaria Nivel Avanzado, según la región",
+    "posgrado_educ",
+    "cat4",
+    "rda",
+    "Tener 100 puntos en méritos como mínimo"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "tp30_mora_2013_neuroeducacion",
+    "tp31_lopez_gomez_2016_didactica_general_formacion_profesorado",
+    "tp32_barraza_macias_2023_investigacion_cualitativa"
+   ],
+   "bibNota": "La Bibliografía V4 solo trae la sección \"Catedrático Docente\"; este cargo usa esa misma lista (referencial)."
+  },
+  {
+   "id": "catedratico_productiva",
+   "nombre": "Catedrático(a) – Docente de Área Productiva",
+   "corto": "Docente Área Productiva",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "normalista",
+    "Licenciatura o Ingeniería en el Área Productiva que requiere la ESFM o UA",
+    "Título de Posgrado en el área Técnica Tecnológica Productiva",
+    "cat4",
+    "rda",
+    "lengua",
+    "m100"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "tp30_mora_2013_neuroeducacion",
+    "tp31_lopez_gomez_2016_didactica_general_formacion_profesorado",
+    "tp32_barraza_macias_2023_investigacion_cualitativa"
+   ],
+   "bibNota": "La Bibliografía V4 solo trae la sección \"Catedrático Docente\"; este cargo usa esa misma lista (referencial)."
+  },
+  {
+   "id": "catedratico_apoyo",
+   "nombre": "Catedrático(a) – Docente de Apoyo / Intérprete",
+   "corto": "Docente de Apoyo / Intérprete",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "Título normalista o RM de Titular por Antigüedad en Educación Especial para Personas con Discapacidad",
+    "Licenciatura en Educación Especial (ESFM o Sistema Universitario Boliviano)",
+    "Título de Posgrado en Lengua de Señas Boliviana o Lectura del Sistema Braille, según corresponda",
+    "cat4",
+    "rda",
+    "lengua",
+    "m100"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "tp30_mora_2013_neuroeducacion",
+    "tp31_lopez_gomez_2016_didactica_general_formacion_profesorado",
+    "tp32_barraza_macias_2023_investigacion_cualitativa"
+   ],
+   "bibNota": "La Bibliografía V4 solo trae la sección \"Catedrático Docente\"; este cargo usa esa misma lista (referencial)."
+  },
+  {
+   "id": "catedratico_bienestar",
+   "nombre": "Catedrático(a) – Docente Responsable de Bienestar Estudiantil",
+   "corto": "Docente Bienestar Estudiantil",
+   "fam": "esfm",
+   "costo": 200,
+   "perfil": "general",
+   "categoriaMin": "Cuarta",
+   "meritosMin": 100,
+   "req": [
+    "ci",
+    "libreta",
+    "Título de maestra/o normalista o RM de Titular por Antigüedad",
+    "Licenciatura en Psicología, Trabajo Social o Psicopedagogía",
+    "Título de Posgrado en el ámbito educativo o en su especialidad",
+    "cat4",
+    "rda",
+    "lengua",
+    "m100"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "tp30_mora_2013_neuroeducacion",
+    "tp31_lopez_gomez_2016_didactica_general_formacion_profesorado",
+    "tp32_barraza_macias_2023_investigacion_cualitativa"
+   ],
+   "bibNota": "La Bibliografía V4 solo trae la sección \"Catedrático Docente\"; este cargo usa esa misma lista (referencial)."
+  },
+  {
+   "id": "tec_sistemas_kardex",
+   "nombre": "Técnico(a) I – Responsable de Sistemas y Archivo Kárdex",
+   "corto": "Téc. Sistemas y Kárdex",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Licenciatura o Técnico Superior en Informática, Ingeniería de Sistemas, Ingeniería de Software, Analista de Sistemas o Sistemas Informáticos",
+    "Experiencia mínima de 2 años en el ámbito de su formación",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua",
+    "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "tp52_cruz_mundet_2011_administracion_de_documentos_y_archivos",
+    "tp53_barnard_amozorrutia_2009_archivos_electronicos",
+    "tp54_rodriguez_barboza_2019_tic_en_bibliotecologia",
+    "tp55_rm_789_2023_reglamento_interno_archivo_gestion_documental"
+   ]
+  },
+  {
+   "id": "tec_presupuesto",
+   "nombre": "Técnico(a) I – Responsable de Presupuesto y Contabilidad",
+   "corto": "Téc. Presupuesto y Contabilidad",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Licenciatura o Técnico Superior en Contaduría General, Contaduría Pública, Auditoría Financiera o Auditoría",
+    "Experiencia mínima de 2 años en el ejercicio de su profesión",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua",
+    "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "tp36_ds_0181_2009_normas_basicas_sistema_bienes_y_servicios",
+    "tp56_rs_217095_1997_normas_basicas_sistema_de_presupuesto",
+    "tp39_rm_0224_2026_re_soa_organizacion_administrativa",
+    "tp40_rm_0289_2026_re_sci_contabilidad_integrada",
+    "tp41_rm_0298_2026_re_ste_tesoreria_del_estado"
+   ]
+  },
+  {
+   "id": "tec_bienes",
+   "nombre": "Técnico(a) I – Responsable de Bienes y Servicios",
+   "corto": "Téc. Bienes y Servicios",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Licenciatura o Técnico Superior en Contaduría General, Contaduría Pública, Administración de Empresas, Auditoría Financiera, Auditoría, Ingeniería Comercial o Contabilidad",
+    "Experiencia mínima de 2 años en el ejercicio de su profesión",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua",
+    "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "tp36_ds_0181_2009_normas_basicas_sistema_bienes_y_servicios",
+    "tp57_ds_1233_2012_declaracion_jurada_bienes_y_rentas",
+    "tp58_ds_2528_2015_modificacion_declaracion_jurada_bienes_rentas",
+    "tp59_rm_0684_2019_manual_procesos_manejo_de_bienes",
+    "tp38_rm_0288_2026_re_sap_administracion_de_personal"
+   ]
+  },
+  {
+   "id": "tec_salud",
+   "nombre": "Técnico(a) I – Responsable de Salud Preventiva",
+   "corto": "Téc. Salud Preventiva",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Matrícula profesional vigente emitida por el Ministerio de Salud",
+    "Licenciatura o Técnico Superior en Medicina o Enfermería (ESFM con Educación Física y Deportes: formación complementaria en Kinesiología o Fisioterapia)",
+    "Experiencia mínima de 2 años en el ejercicio de su profesión",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua",
+    "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "tp60_avevedo_2019_medicina_preventiva_y_social_ii",
+    "tp61_martinez_hernandez_nociones_de_salud_publica",
+    "tp62_kroeger_niveles_de_atencion_y_prevencion"
+   ]
+  },
+  {
+   "id": "tec_soporte",
+   "nombre": "Técnico(a) II – Sistemas y Soporte Informático",
+   "corto": "Téc. Sistemas y Soporte",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Técnico Superior en Sistemas Informáticos o Licenciatura en Informática, Ingeniería de Sistemas, Ingeniería de Software, Analista de Sistemas o Programador de Sistemas",
+    "Experiencia mínima de 2 años en el ejercicio de su profesión",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua",
+    "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "tp63_instituto_nelson_2023_aplicaciones_web",
+    "tp64_velez_de_guevara_2019_gestion_de_bases_de_datos",
+    "tp65_ministerio_educacion_2024_guia_sistemas_informaticos"
+   ]
+  },
+  {
+   "id": "tec_biblioteca",
+   "nombre": "Técnico(a) II – Biblioteca",
+   "corto": "Téc. Biblioteca",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Técnico Superior en Sistemas Informáticos o Licenciatura en Bibliotecología y Archivos, Archivística, Gestión Documental, Informática o Ingeniería de Sistemas",
+    "Experiencia mínima de 2 años en el ámbito de su formación",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua",
+    "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "tp66_arevalo_jordan_2001_teoria_de_la_archivologia",
+    "tp67_bowker_1974_la_biblioteca_escolar",
+    "tp68_arteaga_2000_procesos_tecnicos_para_bibliotecas"
+   ]
+  },
+  {
+   "id": "tec_cajero",
+   "nombre": "Técnico(a) II – Cajero",
+   "corto": "Téc. Cajero",
+   "fam": "esfm",
+   "costo": 120,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Licenciatura o Técnico Superior en Contaduría Pública, Administración de Empresas o Contaduría General",
+    "Experiencia mínima de 2 años en el ejercicio de su profesión",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua",
+    "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "tp69_ley_1493_2022_presupuesto_general_del_estado",
+    "tp35_ds_3607_2018_modificaciones_presupuestarias",
+    "tp70_rm_0666_2023_aranceles_y_legalizaciones",
+    "tp71_rm_0776_2023_baja_y_reposicion_de_valores_fiscales",
+    "tp72_circular_externa_ciex_56_2020"
+   ]
+  },
+  {
+   "id": "secretaria",
+   "nombre": "Secretaria/o de Dirección General, Académica, Administrativa o de Coordinación de UA",
+   "corto": "Secretaria/o",
+   "fam": "esfm",
+   "costo": 100,
+   "perfil": "general",
+   "categoriaMin": null,
+   "meritosMin": null,
+   "req": [
+    "ci",
+    "libreta",
+    "Título Profesional o en Provisión Nacional a nivel Técnico Superior de Secretariado Ejecutivo",
+    "Experiencia mínima de 2 años en el ejercicio de su profesión",
+    "lengua"
+   ],
+   "bibs": [
+    "ng01_constitucion_politica_del_estado",
+    "ng02_ley_070_avelino_sinani_elizardo_perez",
+    "ng03_ley_045_contra_el_racismo_y_la_discriminacion",
+    "ng04_ley_348_vida_libre_de_violencia",
+    "ng05_ley_548_codigo_nina_nino_adolescente",
+    "ng06_ley_223_personas_con_discapacidad",
+    "ng07_ley_1178_administracion_y_control_gubernamentales",
+    "ng08_ley_004_lucha_contra_la_corrupcion",
+    "ne02_ds_4688_reglamento_escalafon_nacional",
+    "ne04_rs_212414_reglamento_faltas_y_sanciones",
+    "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua",
+    "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "tp73_lozano_2008_nueva_ortografia_activa_2",
+    "tp74_marco_2020_33_utilidades_para_microsoft_excel",
+    "tp75_cassany_2019_describir_el_escribir"
+   ]
+  }
+ ],
+ "cronograma": [
+  {
+   "t": "Publicación de la Convocatoria",
+   "ini": "2026-10-08",
+   "fin": null,
+   "fam": [
+    "all"
+   ]
+  },
+  {
+   "t": "Inscripción de postulantes en el sitio web (sisep.minedu.gob.bo)",
+   "ini": "2026-10-09",
+   "fin": "2026-10-22",
+   "fam": [
+    "all"
+   ]
+  },
+  {
+   "t": "Publicación de la lista de postulantes habilitados",
+   "ini": "2026-10-25",
+   "fin": null,
+   "fam": [
+    "all"
+   ]
+  },
+  {
+   "t": "Examen de competencia — Directores Departamentales y Subdirectores",
+   "ini": "2026-11-26",
+   "fin": null,
+   "fam": [
+    "dd"
+   ]
+  },
+  {
+   "t": "Examen de competencia — Directores Distritales",
+   "ini": "2026-11-26",
+   "fin": null,
+   "fam": [
+    "dist"
+   ]
+  },
+  {
+   "t": "Examen de competencia — Directivos, Catedráticos, Administrativos y Técnicos de ESFM/UA e Institutos",
+   "ini": "2026-11-27",
+   "fin": null,
+   "fam": [
+    "esfm"
+   ]
+  },
+  {
+   "t": "Examen de competencia — Directores de U.E., CEA y CEE",
+   "ini": "2026-11-28",
+   "fin": null,
+   "fam": [
+    "ue"
+   ]
+  },
+  {
+   "t": "Publicación de la lista de postulantes aprobados",
+   "ini": "2026-12-03",
+   "fin": null,
+   "fam": [
+    "all"
+   ]
+  },
+  {
+   "t": "Calificación de méritos — Departamentales, Subdirectores y Distritales",
+   "ini": "2026-12-07",
+   "fin": "2026-12-12",
+   "fam": [
+    "dd",
+    "dist"
+   ]
+  },
+  {
+   "t": "Presentación y resolución de apelaciones — Departamentales, Subdirectores y Distritales",
+   "ini": "2026-12-13",
+   "fin": "2026-12-17",
+   "fam": [
+    "dd",
+    "dist"
+   ]
+  },
+  {
+   "t": "Calificación de méritos — ESFM/UA e Institutos",
+   "ini": "2026-12-14",
+   "fin": "2026-12-19",
+   "fam": [
+    "esfm"
+   ]
+  },
+  {
+   "t": "Presentación y resolución de apelaciones — ESFM/UA e Institutos",
+   "ini": "2026-12-20",
+   "fin": "2026-12-24",
+   "fam": [
+    "esfm"
+   ]
+  },
+  {
+   "t": "Publicación de resultados — Departamentales, Subdirectores y Distritales",
+   "ini": "2026-12-21",
+   "fin": null,
+   "fam": [
+    "dd",
+    "dist"
+   ]
+  },
+  {
+   "t": "Publicación de resultados — ESFM/UA e Institutos",
+   "ini": "2026-12-28",
+   "fin": null,
+   "fam": [
+    "esfm"
+   ]
+  },
+  {
+   "t": "Designación — Directores Departamentales y Subdirectores",
+   "ini": "2026-12-28",
+   "fin": null,
+   "fam": [
+    "dd"
+   ]
+  },
+  {
+   "t": "Designación — Directores Distritales y personal de ESFM/UA e Institutos",
+   "ini": "2026-12-29",
+   "fin": null,
+   "fam": [
+    "dist",
+    "esfm"
+   ]
+  },
+  {
+   "t": "Posesión — Directores Departamentales y Subdirectores",
+   "ini": "2027-01-04",
+   "fin": null,
+   "fam": [
+    "dd"
+   ]
+  },
+  {
+   "t": "Posesión — Directores Distritales",
+   "ini": "2027-01-05",
+   "fin": "2027-01-06",
+   "fam": [
+    "dist"
+   ]
+  },
+  {
+   "t": "Posesión — ESFM/UA e Institutos (05–06 ene o 01 feb, según corresponda)",
+   "ini": "2027-01-05",
+   "fin": "2027-02-01",
+   "fam": [
+    "esfm"
+   ]
+  },
+  {
+   "t": "Calificación de méritos — Directores de U.E., CEA y CEE",
+   "ini": "2027-01-06",
+   "fin": "2027-01-11",
+   "fam": [
+    "ue"
+   ]
+  },
+  {
+   "t": "Presentación y resolución de apelaciones — Directores de U.E., CEA y CEE",
+   "ini": "2027-01-12",
+   "fin": "2027-01-16",
+   "fam": [
+    "ue"
+   ]
+  },
+  {
+   "t": "Publicación de resultados finales — Directores de U.E., CEA y CEE",
+   "ini": "2027-01-18",
+   "fin": null,
+   "fam": [
+    "ue"
+   ]
+  },
+  {
+   "t": "Designación — Directores de U.E., CEA y CEE",
+   "ini": "2027-01-19",
+   "fin": "2027-01-25",
+   "fam": [
+    "ue"
+   ]
+  },
+  {
+   "t": "Posesión — Directores de U.E., CEA y CEE",
+   "ini": "2027-02-01",
+   "fin": null,
+   "fam": [
+    "ue"
+   ]
+  }
+ ],
+ "pesosNombres": {
+  "normativa_general": "Normativa general",
+  "normativa_especifica": "Normativa específica",
+  "tecnico_pedagogico": "Técnico pedagógico"
+ },
+ "info": [
+  {
+   "ico": "🧩",
+   "t": "Etapas del proceso",
+   "d": "i. Convocatoria y registro de postulantes en línea · ii. Examen de competencia · iii. Calificación de méritos y deméritos · iv. Impugnaciones y apelaciones · v. Designación por prelación."
+  },
+  {
+   "ico": "📝",
+   "t": "Inscripción",
+   "d": "En sisep.minedu.gob.bo, llenando correctamente el formulario. Puedes inscribirte hasta en 2 cargos, en el mismo departamento, según pertinencia, nivel y área (urbano y rural)."
+  },
+  {
+   "ico": "⛪",
+   "t": "Instituciones de convenio",
+   "d": "Los postulantes a Dirección de Unidad Educativa, CEA y CEE eligen al inscribirse entre institución Fiscal o de Convenio. Quien elija Convenio debe presentar y defender un Plan Educativo ante la Comisión Interinstitucional de Calificación (Convenio Sectorial Iglesia Católica – Estado)."
+  },
+  {
+   "ico": "💳",
+   "t": "Pago de la postulación",
+   "d": "Se descuenta automáticamente de la boleta de haberes del SEP. Si no estás en planilla: deposita por cada postulación en Banco Unión S.A., cuenta 10000004669343 (Ministerio de Educación – Recursos Propios), al menos 24 horas antes de inscribirte. Verifica los datos en el portal antes de depositar."
+  },
+  {
+   "ico": "📍",
+   "t": "Sedes del examen",
+   "d": "Las sedes del examen de competencia y de la calificación de méritos se comunicarán mediante instructivo específico en sisep.minedu.gob.bo."
+  },
+  {
+   "ico": "📚",
+   "t": "Reglamentación y base legal",
+   "d": "La convocatoria cita como base legal la Constitución Política del Estado, la Ley 070 (20/12/2010), el D.S. 04688 (18/07/1957) y el D.S. 514 (17/05/2010). La bibliografía de estudio por cargo está en el documento «Bibliografía V4» del Ministerio de Educación. El proceso se rige por el Reglamento específico que se emitirá mediante Resolución Ministerial."
+  }
+ ],
+ "fuenteBibliografia": "Bibliografía V4 del Ministerio de Educación (documento \"BibliografiaV4.pdf\")"
+}

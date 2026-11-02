@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "ne19_rm_0872_2024_reconocimiento_de_saberes",
+    "nombre": "R.M. N° 0872/2024 Reglamento de Reconocimiento de Saberes, Conocimientos y Experiencias para la Educación de Personas Jóvenes y Adultas",
+    "detalle": "3 de diciembre de 2024",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Alt. y Especial",
+      "Director de CEA"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

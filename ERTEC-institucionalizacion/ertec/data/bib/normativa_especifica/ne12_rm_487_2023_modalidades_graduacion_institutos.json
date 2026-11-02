@@ -1,0 +1,28 @@
+{
+  "bibliografia": {
+    "id": "ne12_rm_487_2023_modalidades_graduacion_institutos",
+    "nombre": "R.M. N° 487/2023 Reglamento de Modalidades de Graduación de Institutos Técnicos y Tecnológicos",
+    "detalle": "14 de junio de 2023",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Educ. Superior",
+      "Rector ITT",
+      "Director Académico ITT",
+      "Director Administrativo ITT"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

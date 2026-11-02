@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp34_ley_1705_presupuesto_general_del_estado_2026",
+    "nombre": "Ley N° 1705 Presupuesto General del Estado; normativa financiera y Clasificador Presupuestario",
+    "detalle": "31 de diciembre de 2025",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Dir. Administrativo Financiero ESFM"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

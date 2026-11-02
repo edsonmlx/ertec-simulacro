@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp75_cassany_2019_describir_el_escribir",
+    "nombre": "Describir el escribir",
+    "detalle": "Cassany, D. (2019). Ediciones Paidós",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Secretaria/o"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

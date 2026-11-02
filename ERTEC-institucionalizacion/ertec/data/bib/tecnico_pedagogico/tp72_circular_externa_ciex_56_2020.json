@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp72_circular_externa_ciex_56_2020",
+    "nombre": "Circular Externa CIEX N° 56/2020",
+    "detalle": "17 de diciembre de 2020",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Téc. Cajero"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp52_cruz_mundet_2011_administracion_de_documentos_y_archivos",
+    "nombre": "Administración de documentos y archivos: Textos fundamentales",
+    "detalle": "Cruz Mundet, J. R. (2011). Coordinadora de Asociaciones de Archiveros",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Téc. Sistemas y Kárdex"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

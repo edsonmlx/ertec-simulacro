@@ -1,0 +1,27 @@
+{
+  "bibliografia": {
+    "id": "ne28_rm_525_2018_manual_funciones_institutos",
+    "nombre": "R.M. N° 525/2018 Manual de Organización y Funciones del personal Directivo, Docente y Administrativo de los Institutos Técnicos y Tecnológicos",
+    "detalle": "2018",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Educ. Superior",
+      "Rector ITT",
+      "Director Académico ITT",
+      "Director Administrativo ITT"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

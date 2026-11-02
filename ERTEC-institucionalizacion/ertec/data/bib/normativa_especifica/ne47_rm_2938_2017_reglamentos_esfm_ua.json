@@ -1,0 +1,42 @@
+{
+  "bibliografia": {
+    "id": "ne47_rm_2938_2017_reglamentos_esfm_ua",
+    "nombre": "R.M. N° 2938/2017 Reglamento general de las ESFM/UA y reglamentos de residencias, licencias, convivencia, diploma académico, evaluación, investigación (IEPC-PEC) y TACFI",
+    "detalle": "22 de diciembre de 2017",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director General ESFM",
+      "Director Académico ESFM",
+      "Dir. Administrativo Financiero ESFM",
+      "Coordinador de UA",
+      "Coordinador IEPC-PEC",
+      "Asesor Legal",
+      "Catedrático Docente",
+      "Docente Lengua Originaria",
+      "Docente Área Productiva",
+      "Docente de Apoyo / Intérprete",
+      "Docente Bienestar Estudiantil",
+      "Téc. Sistemas y Kárdex",
+      "Téc. Presupuesto y Contabilidad",
+      "Téc. Bienes y Servicios",
+      "Téc. Salud Preventiva",
+      "Téc. Sistemas y Soporte",
+      "Téc. Biblioteca",
+      "Téc. Cajero",
+      "Secretaria/o"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

@@ -1,0 +1,27 @@
+{
+  "bibliografia": {
+    "id": "tp12_pyme_como_elaborar_el_cuadro_de_mando",
+    "nombre": "Manuales Prácticos de la PYME: Cómo elaborar el cuadro de mando",
+    "detalle": "Xunta de Galicia",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Rector ITT",
+      "Director Administrativo ITT",
+      "Rector Formación Artística",
+      "Director Administrativo Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

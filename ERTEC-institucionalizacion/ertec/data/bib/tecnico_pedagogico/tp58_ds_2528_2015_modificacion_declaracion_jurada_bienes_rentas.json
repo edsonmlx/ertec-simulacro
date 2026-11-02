@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp58_ds_2528_2015_modificacion_declaracion_jurada_bienes_rentas",
+    "nombre": "Decreto Supremo N° 2528 Modificación a la normativa sobre Declaración Jurada de Bienes y Rentas",
+    "detalle": "23 de septiembre de 2015",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Téc. Bienes y Servicios"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

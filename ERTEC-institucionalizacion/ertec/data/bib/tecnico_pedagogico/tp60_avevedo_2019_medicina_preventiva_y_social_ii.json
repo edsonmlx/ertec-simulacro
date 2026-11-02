@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp60_avevedo_2019_medicina_preventiva_y_social_ii",
+    "nombre": "Manual Medicina Preventiva y Social II",
+    "detalle": "Avevedo G., L. (2019)",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Téc. Salud Preventiva"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

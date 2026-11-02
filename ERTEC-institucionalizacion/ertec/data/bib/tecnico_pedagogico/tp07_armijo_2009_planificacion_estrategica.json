@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp07_armijo_2009_planificacion_estrategica",
+    "nombre": "Manual de Planificación Estratégica e Indicadores de Desempeño en el Sector Público",
+    "detalle": "Armijo, M. (2009). ILPES/CEPAL",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Subdirector Educ. Superior"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

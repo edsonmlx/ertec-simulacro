@@ -1,0 +1,26 @@
+{
+  "bibliografia": {
+    "id": "ne18_rm_1040_2022_lineamientos_curriculares",
+    "nombre": "R.M. N° 1040/2022 Lineamientos Curriculares: Educación de Personas Jóvenes y Adultas, Educación Permanente No Escolarizada y Educación Inclusiva",
+    "detalle": "22 de noviembre de 2022",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Alt. y Especial",
+      "Director de CEA",
+      "Director de CEE"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

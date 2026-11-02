@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "ne21_rm_679_2025_certificacion_tecnica_tecnologica_productiva",
+    "nombre": "R.M. N° 679/2025 Reglamento de Certificación para la Educación Técnica, Tecnológica y Productiva de Personas Jóvenes y Adultas",
+    "detalle": "30 de septiembre de 2025",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Alt. y Especial",
+      "Director de CEA"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

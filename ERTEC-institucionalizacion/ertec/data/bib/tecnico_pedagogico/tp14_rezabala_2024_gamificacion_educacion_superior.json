@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "tp14_rezabala_2024_gamificacion_educacion_superior",
+    "nombre": "Estrategia de gamificación que favorezca el proceso de enseñanza aprendizaje de la educación superior en línea",
+    "detalle": "Rezabala Zambrano, M. M., et al. (2024). Revista Sinapsis",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director Académico ITT",
+      "Director Académico Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

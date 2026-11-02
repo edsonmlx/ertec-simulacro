@@ -1,0 +1,35 @@
+{
+  "bibliografia": {
+    "id": "ne05_rm_062_2000_carrera_administrativa_y_rm_0138_2025",
+    "nombre": "R.M. N° 062/00 Reglamento de la Carrera Administrativa del Servicio de Educación Pública y R.M. N° 0138/2025 (modifica el Art. 62)",
+    "detalle": "17 de febrero de 2000 · 17 de marzo de 2025",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Regular",
+      "Dir. Administrativo Financiero ESFM",
+      "Asesor Legal",
+      "Téc. Sistemas y Kárdex",
+      "Téc. Presupuesto y Contabilidad",
+      "Téc. Bienes y Servicios",
+      "Téc. Salud Preventiva",
+      "Téc. Sistemas y Soporte",
+      "Téc. Biblioteca",
+      "Téc. Cajero",
+      "Secretaria/o"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

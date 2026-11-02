@@ -1,0 +1,1832 @@
+{
+  "bibliografia": {
+    "id": "tp01_ods_4_educacion_2030_unesco",
+    "nombre": "Objetivo de Desarrollo Sostenible (ODS 4), Educación 2030",
+    "detalle": "UNESCO",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Regular",
+      "Subdirector Alt. y Especial",
+      "Subdirector Educ. Superior",
+      "Director Distrital",
+      "Director de U.E.",
+      "Director de CEA",
+      "Director de CEE"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "[1] Según el Párrafo 6 de la Declaración de Incheon, ¿cuál es la combinación exacta de años de educación primaria y secundaria garantizada y cuántos de ellos deben ser obligatorios?",
+      "options": [
+        "12 años de educación primaria y secundaria gratuita y financiada con fondos públicos, de los cuales al menos 9 serán obligatorios",
+        "12 años de educación obligatoria y gratuita, de los cuales 6 corresponden a primaria y 6 a secundaria",
+        "10 años de educación básica gratuita y financiada con fondos públicos, de los cuales 8 serán obligatorios",
+        "14 años de educación desde preescolar hasta secundaria, siendo todos ellos de carácter gratuito y obligatorio"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 6",
+      "explicacion": "El Párrafo 6 especifica 12 años de educación primaria y secundaria de calidad, equitativa, gratuita y financiada con fondos públicos, de los cuales al menos nueve serán obligatorios."
+    },
+    {
+      "question": "[2] Conforme a la Declaración de Incheon (Párrafo 6), respecto a la enseñanza preescolar y la primera infancia, ¿qué compromiso específico asumen los países?",
+      "options": [
+        "Alentar a que se imparta al menos un año de enseñanza preescolar de calidad, gratuita y obligatoria",
+        "Garantizar tres años de educación inicial y preescolar totalmente gratuita y obligatoria para toda la población",
+        "Universalizar dos años de educación parvularia obligatoria con financiamiento mixto público-privado",
+        "Establecer la educación preescolar como optativa dependiente de la disponibilidad presupuestaria de cada municipio"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 6",
+      "explicacion": "La Declaración alienta a que se imparta 'al menos un año de enseñanza preescolar de calidad, gratuita y obligatoria' y acceso a la educación y desarrollo de la primera infancia."
+    },
+    {
+      "question": "[3] De acuerdo con el Párrafo 14 de la Declaración de Incheon, ¿cuáles son los dos parámetros internacionales de referencia para la asignación del gasto público en educación?",
+      "options": [
+        "Asignar entre un 4% y un 6% del Producto Interno Bruto (PIB) o entre un 15% y un 20% del total del gasto público",
+        "Asignar al menos el 8% del Producto Nacional Bruto (PNB) o el 25% del presupuesto estatal consolidado",
+        "Asignar entre el 2% y el 4% del PIB o entre el 10% y el 12% del gasto público en países en desarrollo",
+        "Asignar al menos el 5% del Producto Interno Bruto obligatoriamente a la educación primaria exclusivamente"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 14",
+      "explicacion": "Los parámetros de referencia fijados son asignar eficientemente a la educación al menos entre un 4% y un 6% del PIB o al menos entre un 15% y un 20% del gasto público total."
+    },
+    {
+      "question": "[4] Según el Párrafo 15 de la Declaración de Incheon, ¿cuál es la meta de Asistencia Oficial para el Desarrollo (AOD) que se insta a cumplir a los países desarrollados respecto a su Producto Nacional Bruto (PNB)?",
+      "options": [
+        "Destinar el 0,7% de su Producto Nacional Bruto (PNB) a AOD para los países en desarrollo",
+        "Destinar el 1,5% del PIB nacional exclusivamente a fondos globales de educación primaria",
+        "Destinar el 0,5% del Presupuesto General del Estado a becas universitarias internacionales",
+        "Destinar el 2,0% del PNB a proyectos de infraestructura escolar en África subsahariana"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 15",
+      "explicacion": "Se reafirma el compromiso de los países desarrollados de alcanzar la meta de destinar el 0,7% del PNB a Asistencia Oficial para el Desarrollo (AOD) para países en desarrollo."
+    },
+    {
+      "question": "[5] Según el Párrafo 18 de la Declaración de Incheon, ¿cuál es la función asignada al Informe de Seguimiento de la EPT en el Mundo (Informe GEM)?",
+      "options": [
+        "Mantenerse como un informe independiente de seguimiento de la educación en el mundo, implantado y publicado por la UNESCO",
+        "Convertirse en un organismo vinculante de fiscalización financiera supervisado por el Banco Mundial",
+        "Transformarse en un ranking anual clasificatorio de las mejores universidades del mundo",
+        "Reemplazarse por un comité técnico evaluador compuesto únicamente por ministerios de economía"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 18",
+      "explicacion": "Se solicita mantener el Informe de Seguimiento de la EPT en el Mundo como informe independiente implantado en la UNESCO y publicado por ella para vigilar el ODS 4."
+    },
+    {
+      "question": "[6] ¿Dónde y cuándo se celebró el Foro Mundial sobre la Educación 2015 en el que se aprobó la Declaración de Incheon?",
+      "options": [
+        "Incheon (República de Corea), del 19 al 22 de mayo de 2015",
+        "Mascate (Omán), en mayo de 2014",
+        "París (Francia), en noviembre de 2015",
+        "Jomtien (Tailandia), en marzo de 1990"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 1 y Título",
+      "explicacion": "El Foro Mundial sobre la Educación 2015 tuvo lugar en Incheon (República de Corea) del 19 al 22 de mayo de 2015."
+    },
+    {
+      "question": "[7] Según el Párrafo 1 de la Declaración de Incheon, ¿cuántos organismos de las Naciones Unidas coorganizaron el Foro Mundial junto con la UNESCO?",
+      "options": [
+        "Seis organismos: UNICEF, Banco Mundial, UNFPA, PNUD, ONU Mujeres y ACNUR",
+        "Cuatro organismos: UNICEF, Banco Mundial, OIT y OMS",
+        "Ocho organismos: UNICEF, PNUD, ACNUR, FAO, CEPAL, FMI, UIT y ONU Mujeres",
+        "Tres organismos: UNICEF, Banco Mundial y PNUD únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 1",
+      "explicacion": "Los 6 coorganizadores junto a la UNESCO fueron: UNICEF, Banco Mundial, UNFPA, PNUD, ONU Mujeres y ACNUR."
+    },
+    {
+      "question": "[8] Conforme al Párrafo 3 de la Declaración de Incheon, ¿qué documento sirvió de fundamento previo para las metas de educación propuestas por el Grupo de Trabajo Abierto sobre los ODS?",
+      "options": [
+        "El Acuerdo de Mascate (2014)",
+        "El Marco de Acción de Dakar (2000)",
+        "La Declaración de Jomtien (1990)",
+        "La Declaración de Aichi-Nagoya (2014)"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 3",
+      "explicacion": "El Párrafo 3 señala expresamente que el Acuerdo de Mascate de 2014 sirvió de fundamento para las metas propuestas."
+    },
+    {
+      "question": "[9] Según el Párrafo 5 de la Declaración de Incheon, ¿cuál es la formulación exacta del ODS 4 propuesto?",
+      "options": [
+        "Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos",
+        "Lograr la enseñanza primaria universal y eliminar la brecha de género en la educación secundaria",
+        "Asegurar la gratuidad total de la educación superior y técnica para los países en desarrollo",
+        "Garantizar la alfabetización funcional y el empleo juvenil digno para el año 2030"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 5",
+      "explicacion": "El ODS 4 establece textualmente: 'Garantizar una educación inclusiva y equitativa de calidad y promover oportunidades de aprendizaje permanente para todos'."
+    },
+    {
+      "question": "[10] De acuerdo con el Párrafo 7 de la Declaración de Incheon, ¿cuál es considerada la 'piedra angular' de una agenda de la educación transformadora?",
+      "options": [
+        "La inclusión y la equidad en la educación y a través de ella",
+        "La infraestructura escolar tecnológica y el acceso a Internet",
+        "La inversión presupuestaria exclusiva en educación universitaria",
+        "La evaluación estandarizada de competencias matemáticas"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 7",
+      "explicacion": "El Párrafo 7 afirma explícitamente: 'La inclusión y la equidad en la educación y a través de ella son la piedra angular de una agenda de la educación transformadora'."
+    },
+    {
+      "question": "[11] En la Declaración de Incheon (Párrafo 7), ¿qué principio condicional se establece respecto al logro de las metas educativas?",
+      "options": [
+        "Ninguna meta educativa debería considerarse lograda a menos que se haya logrado para todos",
+        "Las metas se considerarán cumplidas si el promedio nacional alcanza el 85% de cobertura",
+        "Las metas se evaluarán según el rendimiento del quintil con mayores ingresos económicos",
+        "Una meta se considera alcanzada cuando se erradique el analfabetismo absoluto en la población urbana"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 7",
+      "explicacion": "El texto compromete: 'Ninguna meta educativa debería considerarse lograda a menos que se haya logrado para todos'."
+    },
+    {
+      "question": "[12] Según el Párrafo 9 de la Declaración de Incheon, ¿cuáles son los dos conceptos educativos globales clave para responder a los desafíos locales y mundiales?",
+      "options": [
+        "La Educación para el Desarrollo Sostenible (EDS) y la Educación para la Ciudadanía Mundial (ECM)",
+        "La Educación Técnica Profesional (EFTP) y la Educación no Formal para Adultos",
+        "La Educación STEM y la Alfabetización Digital Temprana",
+        "La Educación Intercultural Bilingüe y la Formación Docente Continua"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 9",
+      "explicacion": "El Párrafo 9 destaca expresamente la Educación para el Desarrollo Sostenible (EDS) y la Educación para la Ciudadanía Mundial (ECM)."
+    },
+    {
+      "question": "[13] Conforme al Párrafo 12 de la Declaración de Incheon, ¿a quién corresponde la 'responsabilidad fundamental' de aplicar con éxito la agenda Educación 2030?",
+      "options": [
+        "A los gobiernos de cada país",
+        "A la UNESCO y los organismos multilaterales",
+        "A las Organizaciones No Gubernamentales (ONG) internacionales",
+        "Al sector privado y las empresas multinacionales"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 12",
+      "explicacion": "El Párrafo 12 reafirma que 'la responsabilidad fundamental de aplicar con éxito esta agenda corresponde a los gobiernos'."
+    },
+    {
+      "question": "[14] Según el Párrafo 16 de la Declaración de Incheon, ¿qué plataforma de financiación de múltiples interesados se recomienda que forme parte del mecanismo de coordinación mundial?",
+      "options": [
+        "La Alianza Mundial para la Educación (GPE)",
+        "El Fondo Monetario Internacional (FMI)",
+        "La Organización para la Cooperación y el Desarrollo Económicos (OCDE)",
+        "El Banco Interamericano de Desarrollo (BID)"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 16",
+      "explicacion": "Se recomienda expresamente que la Alianza Mundial para la Educación sea parte del futuro mecanismo de coordinación mundial."
+    },
+    {
+      "question": "[15] De acuerdo con el Párrafo 17 de la Declaración de Incheon, ¿qué organismo de la ONU lidera y coordina la agenda de la Educación 2030?",
+      "options": [
+        "La UNESCO",
+        "El UNICEF",
+        "El PNUD",
+        "El Consejo Económico y Social (ECOSOC)"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 17",
+      "explicacion": "Se encomienda a la UNESCO, en su calidad de organismo de las Naciones Unidas especializado en educación, que continúe liderando y coordinando la agenda."
+    },
+    {
+      "question": "[16] Según la declaración de Irina Bokova (Directora General de la UNESCO) en el documento de Incheon, la educación es la clave para:",
+      "options": [
+        "La paz y el desarrollo sostenible en el mundo",
+        "El incremento directo del Producto Interno Bruto de los países emergentes",
+        "La sustitución de los sistemas jurídicos nacionales por normativas internacionales",
+        "La erradicación automática del desempleo tecnológico"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Cita de Irina Bokova",
+      "explicacion": "Irina Bokova reafirma que la educación, como derecho humano fundamental, es la clave para la paz y el desarrollo sostenible en el mundo."
+    },
+    {
+      "question": "[17] Según Jim Yong Kim (Presidente del Grupo del Banco Mundial) en su declaración de Incheon, ¿qué elementos deben aprovecharse para producir cambios radicales?",
+      "options": [
+        "La financiación para el desarrollo y los conocimientos técnicos especializados",
+        "Las donaciones privadas exclusivamente corporativas",
+        "Los préstamos financieros con tasas de interés preferenciales",
+        "La privatización gradual de la educación universitaria"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Cita de Jim Yong Kim",
+      "explicacion": "Jim Yong Kim indica: 'debemos valernos de la financiación para el desarrollo y de los conocimientos técnicos especializados para producir cambios radicales'."
+    },
+    {
+      "question": "[18] Según António Guterres (Alto Comisionado de las N.U. para los Refugiados) en su mensaje de Incheon, ¿qué grupos vulnerables específicos deben tenerse en cuenta en los planes de educación?",
+      "options": [
+        "Los refugiados, los niños desplazados internos, los niños apátridas y los niños afectados por la guerra y la inseguridad",
+        "Únicamente los estudiantes matriculados en universidades de países desarrollados",
+        "Exclusivamente los niños en edad escolar que habitan en zonas urbanas periféricas",
+        "Los trabajadores informales mayores de 45 años en países de ingresos medios"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Cita de António Guterres",
+      "explicacion": "Guterres menciona expresamente a refugiados, niños desplazados internos, niños apátridas y niños afectados por la guerra e inseguridad."
+    },
+    {
+      "question": "[19] Conforme al Párrafo 1 del Marco de Acción, ¿cuáles fueron los dos marcos globales predecesores fijados en el año 2000 que no se alcanzaron totalmente en 2015?",
+      "options": [
+        "Los seis objetivos de la Educación para Todos (EPT) y los Objetivos de Desarrollo del Milenio (ODM)",
+        "Los 17 Objetivos de Desarrollo Sostenible (ODS) y el Acuerdo de París",
+        "La Declaración de Jomtien y los Tratados de Mascate",
+        "Las Metas del Milenio para África y el Plan Marco de la OCDE"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Introducción, Párrafo 1",
+      "explicacion": "El Párrafo 1 menciona los seis objetivos de la EPT y los Objetivos de Desarrollo del Milenio (ODM) relacionados con la educación."
+    },
+    {
+      "question": "[20] Según el Párrafo 2 del Marco de Acción, ¿qué iniciativa está integrada por los nueve países más poblados del Sur (E-9) creada en 1993?",
+      "options": [
+        "Bangladesh, Brasil, China, Egipto, India, Indonesia, México, Nigeria y Pakistán",
+        "Argentina, Brasil, Chile, Colombia, México, Perú, Uruguay, Venezuela y Bolivia",
+        "Sudáfrica, Rusia, India, China, Brasil, Egipto, Etiopía, Irán y Emiratos Árabes",
+        "Angola, Ghana, Kenia, Nigeria, Senegal, Sudáfrica, Tanzania, Uganda y Zambia"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Nota al pie 2 (Párrafo 2)",
+      "explicacion": "La Nota al pie 2 define los países del Grupo E-9: Bangladesh, Brasil, China, Egipto, India, Indonesia, México, Nigeria y Pakistán."
+    },
+    {
+      "question": "[21] Según el Párrafo 3 del Marco de Acción ODS 4, ¿cuántas secciones principales componen la estructura de dicho Marco de Acción?",
+      "options": [
+        "Tres secciones: I) Visión, justificación y principios; II) Objetivo, enfoques estratégicos, metas e indicadores; III) Modalidades de Aplicación",
+        "Cinco secciones divididas según cada continente geográfico",
+        "Cuatro secciones correspondientes a preescolar, primaria, secundaria y universidad",
+        "Dos secciones: I) Diagnóstico situacional y II) Presupuesto internacional"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 3",
+      "explicacion": "El Párrafo 3 detalla que el Marco consta de 3 secciones: I) Visión, justificación y principios; II) Objetivo, enfoques estratégicos, metas e indicadores; y III) Modalidades de aplicación."
+    },
+    {
+      "question": "[22] Según el Párrafo 10 del Marco de Acción, ¿cuáles son los dos principios clave referidos a la naturaleza de la educación y el rol del Estado?",
+      "options": [
+        "La educación es un derecho humano fundamental y un bien público cuyo principal garante es el Estado",
+        "La educación es un servicio comercial regulado por la oferta y la demanda del mercado laboral",
+        "La educación es un beneficio asistencial condicionado al rendimiento fiscal de cada municipio",
+        "La educación es un derecho exclusivo de los ciudadanos nacidos en el territorio nacional"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Sección I, Párrafo 10",
+      "explicacion": "El Párrafo 10 establece dos principios centrales: 'La educación es un derecho humano fundamental y un derecho habilitador' y 'La educación es un bien público, cuyo principal garante es el Estado'."
+    },
+    {
+      "question": "[23] Según el Párrafo 10 del Marco de Acción, ¿cuál de los siguientes instrumentos internacionales de derechos humanos NO es mencionado explícitamente entre las bases del Marco de Acción?",
+      "options": [
+        "El Tratado de Libre Comercio de América del Norte (TLCAN)",
+        "La Declaración Universal de Derechos Humanos (Artículo 26)",
+        "La Convención sobre los Derechos del Niño",
+        "La Convención sobre la Eliminación de Todas las Formas de Discriminación contra la Mujer"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Sección I, Párrafo 10",
+      "explicacion": "El TLCAN es un tratado comercial y no un instrumento internacional de derechos humanos en los que reposa el Marco de Acción."
+    },
+    {
+      "question": "[24] Conforme al Párrafo 12 del Marco de Acción, ¿cuál es la duración total acumulada de educación primaria y secundaria inclusiva, equitativa y gratuita que debe garantizarse?",
+      "options": [
+        "Al menos 12 años, de los cuales al menos nueve de manera obligatoria",
+        "10 años completos de educación obligatoria y 2 años optativos de Bachillerato",
+        "14 años continuos de escolarización obligatoria financiada por el Estado",
+        "8 años de educación básica obligatoria y 4 años de formación técnica privada"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Sección II, Párrafo 12",
+      "explicacion": "Se exige asegurar una educación primaria y secundaria gratuita y financiada con fondos públicos que dure al menos 12 años, de los cuales al menos 9 sean obligatorios."
+    },
+    {
+      "question": "[25] Según la Clasificación Internacional Normalizada de la Educación (CINE 2011) citada en la Nota al pie 6 del Marco de Acción, ¿a qué corresponden CINE 1 y CINE 2?",
+      "options": [
+        "CINE 1 corresponde a la educación primaria (suele durar 6 años) y CINE 2 a la educación secundaria baja (suele durar 3 años)",
+        "CINE 1 corresponde a la educación preescolar y CINE 2 a la educación primaria completa",
+        "CINE 1 corresponde a la educación secundaria alta y CINE 2 a la enseñanza universitaria",
+        "CINE 1 corresponde a la alfabetización de adultos y CINE 2 a la educación técnica profesional"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Nota al pie 6 (Párrafo 30)",
+      "explicacion": "CINE 1 es el nivel de educación primaria (duración típica de 6 años) y CINE 2 es la educación secundaria baja (duración típica de 3 años)."
+    },
+    {
+      "question": "[26] Conforme a la Nota al pie 8 del Marco de Acción, ¿cuáles son los cuatro niveles de educación terciaria según la CINE 2011?",
+      "options": [
+        "CINE 5 (ciclo corto), CINE 6 (licenciatura o equivalente), CINE 7 (maestría o equivalente) y CINE 8 (doctorado o equivalente)",
+        "CINE 3 (bachillerato), CINE 4 (técnico medio), CINE 5 (licenciatura) y CINE 6 (postgrado)",
+        "CINE 1 (inicial), CINE 2 (primaria), CINE 3 (secundaria) y CINE 4 (universidad)",
+        "CINE A (diplomado), CINE B (maestría), CINE C (doctorado) y CINE D (postdoctorado)"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Nota al pie 8 (Párrafo 40)",
+      "explicacion": "La CINE 2011 clasifica la educación terciaria en: CINE 5 (ciclo corto), CINE 6 (licenciatura), CINE 7 (maestría) y CINE 8 (doctorado)."
+    },
+    {
+      "question": "[27] Según el Párrafo 15 del Marco de Acción, ¿cómo se define el concepto de 'aprendizaje a lo largo de la vida'?",
+      "options": [
+        "Un concepto holístico que abarca actividades de aprendizaje para todas las edades, en todos los contextos de la vida (familia, escuela, comunidad, trabajo) y mediante modalidades formal, no formal e informal",
+        "La obligación legal de cursar estudios universitarios hasta cumplir los 60 años de edad",
+        "Un programa exclusivo de alfabetización nocturna destinado a personas jubiladas",
+        "La acumulación continua de títulos académicos formales dentro del sistema escolarizado"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 15 y Nota al pie 5",
+      "explicacion": "Reposante en la integración del aprendizaje y la vida, comprende actividades de aprendizaje para personas de todas las edades en todos los contextos (formal, no formal e informal)."
+    },
+    {
+      "question": "[28] Según el Párrafo 19 del Marco de Acción, ¿qué estrategia de recopilación de datos es indispensable para estimar la marginación en la educación y medir el progreso?",
+      "options": [
+        "Reunir, analizar y emplear datos desglosados en función de las características específicas de grupos de población determinados",
+        "Realizar un censo decenal único sin distinción de género ni ubicación geográfica",
+        "Recopilar encuestas únicamente en instituciones privadas de áreas urbanas",
+        "Utilizar estimaciones financieras globales proporcionadas por bancos privados"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 19",
+      "explicacion": "Se exige expresamente la reunión y análisis de datos desglosados para visibilizar y corregir la desigualdad y la marginación."
+    },
+    {
+      "question": "[29] Según el Párrafo 25 del Marco de Acción, ¿cuál es el efecto protector inmediato de la educación en situaciones de emergencia?",
+      "options": [
+        "Proporcionar conocimientos y aptitudes para la supervivencia y apoyo psicosocial a los afectados por las crisis",
+        "Garantizar el pago de indemnizaciones económicas a las familias de los estudiantes",
+        "Sustituir automáticamente los gobiernos locales por comités de las Naciones Unidas",
+        "Otorgar visas de residencia permanente en países desarrollados a todos los refugiados"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 25",
+      "explicacion": "La educación en emergencias ofrece protección inmediata al brindar aptitudes para la supervivencia y apoyo psicosocial."
+    },
+    {
+      "question": "[30] Conforme al Párrafo 26 del Marco de Acción, ¿qué normas internacionales se establecen como guía para la planificación y respuesta educativa en emergencias?",
+      "options": [
+        "Las Normas Mínimas de la Red Interinstitucional para la Educación en Situaciones de Emergencia (INEE)",
+        "El Código Penal Internacional para Zonas de Conflicto",
+        "Las Directivas del Consejo de Seguridad de la OEA",
+        "Los Estatutos Fundacionales del Comité Olímpico Internacional"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 26",
+      "explicacion": "Las directrices establecidas internacionalmente como las Normas Mínimas de la INEE deben guiar la planificación y respuesta."
+    },
+    {
+      "question": "[31] Según el Párrafo 29 del Marco de Acción (Meta 4.1), ¿cuántos niños en edad primaria y adolescentes en edad secundaria baja seguían sin escolarizar en 2013?",
+      "options": [
+        "Unos 59 millones de niños de primaria y 65 millones de adolescentes de secundaria baja",
+        "Unos 100 millones de niños de primaria y 200 millones de adolescentes de secundaria",
+        "Unos 20 millones de niños de primaria y 30 millones de adolescentes de secundaria",
+        "Unos 10 millones de niños de primaria y 15 millones de adolescentes de secundaria"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 29",
+      "explicacion": "En 2013 seguían sin escolarizar unos 59 millones de niños en edad primaria y 65 millones de adolescentes en edad de cursar el ciclo inicial de secundaria."
+    },
+    {
+      "question": "[32] Según el Párrafo 29 del Marco de Acción, de los 250 millones de niños en edad primaria que no alcanzan los niveles mínimos de aprendizaje, ¿qué porcentaje ha asistido al menos cuatro años a la escuela?",
+      "options": [
+        "Más del 50%",
+        "Menos del 10%",
+        "Exactamente el 25%",
+        "El 100% de los niños no escolarizados"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 29",
+      "explicacion": "El Párrafo 29 destaca con preocupación que más del 50% de esos 250 millones de niños han asistido durante al menos cuatro años a la escuela."
+    },
+    {
+      "question": "[33] Conforme al Párrafo 30 del Marco de Acción (Meta 4.1), ¿cuál es la definición explícita del concepto de 'gratuidad de la educación'?",
+      "options": [
+        "La eliminación de las barreras ligadas a los costes de la enseñanza primaria y secundaria",
+        "La exoneración exclusiva de los trámites de titulación universitaria para los mejores estudiantes",
+        "El pago directo de subsidios en dinero efectivo a todos los padres de familia",
+        "La provisión obligatoria de computadoras portátiles a cada estudiante del sistema privado"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 30",
+      "explicacion": "La gratuidad supone la eliminación de las barreras ligadas a los costes de la enseñanza primaria y secundaria."
+    },
+    {
+      "question": "[34] Según el Párrafo 32 del Marco de Acción, en contextos plurilingües, ¿cuál es la recomendación sobre la lengua de instrucción inicial?",
+      "options": [
+        "Promover el aprendizaje y la enseñanza en la primera lengua o la hablada en el hogar",
+        "Imponer un único idioma oficial nacional prohibiendo las lenguas indígenas en el aula",
+        "Enseñar exclusivamente en inglés o francés desde el primer año de preescolar",
+        "Dejar la elección del idioma de instrucción a criterio exclusivo de los textos comerciales"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 32",
+      "explicacion": "En contextos plurilingües se recomienda promover la enseñanza en la primera lengua del niño o la hablada en el hogar."
+    },
+    {
+      "question": "[35] Según el Párrafo 34 de las estrategias indicativas de la Meta 4.1, los países deben establecer sistemas de evaluación que reflejen:",
+      "options": [
+        "Tanto aptitudes cognitivas como aptitudes no cognitivas",
+        "Únicamente el rendimiento de memorización en exámenes de historia",
+        "Exclusivamente la velocidad de cálculo matemático sin considerar la lectura",
+        "La disciplina física y el comportamiento en desfiles escolares"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 34",
+      "explicacion": "Los sistemas de evaluación deben analizar resultados de aprendizaje que reflejen aptitudes cognitivas y no cognitivas/transferibles."
+    },
+    {
+      "question": "[36] Según el Párrafo 35 del Marco de Acción (Meta 4.2), ¿cuánto aumentó la Tasa Bruta de Escolarización en la enseñanza preescolar entre 2000 y 2015?",
+      "options": [
+        "Del 35% en 2000 al 58% en 2015",
+        "Del 10% en 2000 al 90% en 2015",
+        "Del 50% en 2000 al 52% en 2015",
+        "Permaneció estancada en el 25% global"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 35",
+      "explicacion": "Las proyecciones del Marco de Acción indican que la tasa bruta de escolarización preescolar aumentó del 35% en 2000 al 58% en 2015."
+    },
+    {
+      "question": "[37] Según el Párrafo 36 del Marco de Acción (Meta 4.2), ¿qué abarca de forma integral la Atención y Educación de la Primera Infancia (AEPI)?",
+      "options": [
+        "Salud y nutrición adecuadas, estimulación, protección frente a la violencia y atención al desarrollo cognitivo, lingüístico, social, emocional y físico",
+        "Únicamente la enseñanza formal del abecedario y los números a partir de los 5 años",
+        "Exclusivamente el suministro de vacunas gratuitas en centros asistenciales",
+        "La custodia temporal de niños en guarderías privadas no reguladas"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 36",
+      "explicacion": "La AEPI abarca salud, nutrición, estimulación en hogar/comunidad/escuela, protección de la violencia y desarrollo holístico."
+    },
+    {
+      "question": "[38] Conforme al Párrafo 36 del Marco de Acción (Meta 4.2), ¿qué recomendación mínima concreta se plantea para la educación preescolar?",
+      "options": [
+        "Impartir por lo menos un año de educación preescolar gratuita y obligatoria de calidad",
+        "Garantizar tres años obligatorios de kínder financiado por los municipios",
+        "Hacer optativa la asistencia al preescolar hasta cumplir los 7 años de edad",
+        "Exigir un examen de admisión académico previo al ingreso a preescolar"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 36",
+      "explicacion": "Se aconseja impartir por lo menos un año de educación preescolar gratuita y obligatoria de calidad por docentes formados."
+    },
+    {
+      "question": "[39] Según las estrategias indicativas de la Meta 4.2 (Párrafo 37), el mecanismo de coordinación de la AEPI debe reunir a los ministerios de:",
+      "options": [
+        "Nutrición, salud, protección social e infantil, agua y saneamiento, justicia y educación",
+        "Relaciones exteriores, defensa, hacienda y minería únicamente",
+        "Educación y economía exclusivamente sin participación de salud",
+        "Comercio exterior, transporte e industria manufacturera"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 37",
+      "explicacion": "Se exige un mecanismo de coordinación multisectorial entre nutrición, salud, protección social, agua/saneamiento, justicia y educación."
+    },
+    {
+      "question": "[40] Según el Párrafo 39 del Marco de Acción (Meta 4.3), ¿qué porcentaje de la matrícula en el ciclo superior de educación secundaria representaba la EFTP en 2013?",
+      "options": [
+        "Aproximadamente un 23%",
+        "Exactamente el 50%",
+        "Menos del 5%",
+        "Más del 75%"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 39",
+      "explicacion": "En 2013 la EFTP representó aproximadamente un 23% de las matrículas en el ciclo superior de educación secundaria."
+    },
+    {
+      "question": "[41] Según el Párrafo 40 del Marco de Acción (Meta 4.3), ¿cómo evolucionó la cifra total de matriculación en la educación terciaria entre 2000 y 2013?",
+      "options": [
+        "Pasó de 100 millones en 2000 a 199 millones en 2013",
+        "Se redujo de 150 millones a 80 millones debido a crisis económicas",
+        "Aumentó de 500 millones a 1.000 millones de estudiantes",
+        "Permaneció invariable en 50 millones en todo el mundo"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 40",
+      "explicacion": "La matrícula total en educación terciaria aumentó rápidamente de 100 millones en 2000 a 199 millones en 2013."
+    },
+    {
+      "question": "[42] Según el Párrafo 40 del Marco de Acción, respecto a las disparidades de género en el acceso a la educación terciaria, ¿cuál es la tendencia observada según el nivel de ingresos del país?",
+      "options": [
+        "Las mujeres están en situación más desfavorecida en países de bajos ingresos, mientras que los hombres lo están en países de altos ingresos",
+        "Las mujeres están en situación más desfavorecida en todos los países del mundo sin excepción",
+        "Los hombres están en situación más desfavorecida únicamente en países de bajos ingresos",
+        "Existe paridad absoluta de género en la universidad en todos los continentes"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 40",
+      "explicacion": "El texto aclara: 'Las mujeres se encuentran en una situación más desfavorecida en los países de bajos ingresos, mientras que en los países de altos ingresos son los hombres que se encuentran en una situación más desfavorecida'."
+    },
+    {
+      "question": "[43] Según el Párrafo 43 del Marco de Acción, ¿cuál es el principio relativo a los costos de la educación terciaria a lo largo del tiempo?",
+      "options": [
+        "La educación terciaria deberá hacerse gratuita progresivamente",
+        "La educación terciaria debe ser totalmente arancelada para financiar la investigación",
+        "Los costos universitarios deben ser cubiertos al 100% por créditos bancarios privados",
+        "La gratuidad universitaria aplica exclusivamente a los títulos de doctorado"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 43",
+      "explicacion": "El Marco señala que la educación terciaria deberá hacerse gratuita progresivamente, conforme a los acuerdos internacionales."
+    },
+    {
+      "question": "[44] Según el Párrafo 48 del Marco de Acción (Meta 4.4), ¿por qué es riesgoso un enfoque centrado únicamente en aptitudes específicas para un trabajo?",
+      "options": [
+        "Reduce la capacidad de los diplomados de adaptarse a las exigencias en rápida evolución del mercado laboral",
+        "Impide el otorgamiento de títulos de grado académico en el extranjero",
+        "Aumenta los costos de infraestructura en los institutos técnicos",
+        "Genera la quiebra inmediata de las empresas del sector público"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 48",
+      "explicacion": "Se explica que centrarse solo en aptitudes específicas reduce la adaptabilidad; por ello se requieren aptitudes cognitivas y transferibles de alto nivel."
+    },
+    {
+      "question": "[45] Según el Párrafo 48 del Marco de Acción, ¿cuáles son ejemplos de aptitudes cognitivas y no cognitivas/transferibles de alto nivel necesarias en la Meta 4.4?",
+      "options": [
+        "Resolución de problemas, pensamiento crítico, creatividad, trabajo en equipo, comunicación y resolución de conflictos",
+        "Memorización de textos legales y mecanografía de alta velocidad",
+        "Cálculo manual repetitivo y obediencia a mandos jerárquicos",
+        "Uso exclusivo de programas informáticos propietarios cerrados"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 48",
+      "explicacion": "El Párrafo 48 lista expresamente: resolución de problemas, pensamiento crítico, creatividad, trabajo en equipo, comunicación y resolución de conflictos."
+    },
+    {
+      "question": "[46] Según el Párrafo 51 del Marco de Acción (Meta 4.5), ¿qué brecha de finalización de primaria existía en torno al año 2009 entre los más pobres y los más ricos?",
+      "options": [
+        "Los niños del 20% más pobre tenían una probabilidad 5 veces superior de no terminar los estudios primarios que los del 20% más rico",
+        "Los niños ricos y pobres tenían exactamente la misma tasa de deserción primaria",
+        "Los niños pobres tenían una probabilidad 20 veces menor de ingresar a la escuela",
+        "La brecha afectaba exclusivamente a la educación universitaria y no a la primaria"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 51",
+      "explicacion": "En los países de ingresos bajos y medios, los niños del 20% de hogares más pobres tenían 5 veces más probabilidad de no terminar primaria que el 20% más rico."
+    },
+    {
+      "question": "[47] Conforme al Párrafo 54 del Marco de Acción (Meta 4.5), ¿cuáles eran las previsiones de alcance de la paridad de género en la matriculación escolar para 2015?",
+      "options": [
+        "Solo el 69% de los países alcanzaría la paridad en primaria y el 48% en secundaria",
+        "El 100% de los países alcanzaría la paridad en todos los niveles educativos",
+        "El 90% en primaria y el 85% en la enseñanza universitaria",
+        "Menos del 10% de los países lograría la paridad en la escuela primaria"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 54",
+      "explicacion": "Las previsiones indicaban que solo el 69% de países alcanzaría paridad de género en primaria y el 48% en secundaria en 2015."
+    },
+    {
+      "question": "[48] Según el Párrafo 54 del Marco de Acción, ¿cuál es la diferencia cualitativa entre 'paridad de género' e 'igualdad de género'?",
+      "options": [
+        "La paridad es una medida cuantitativa de igual número de niños/niñas matriculados; la igualdad supone idénticas oportunidades, niveles y beneficios de la educación",
+        "La paridad se refiere únicamente a los docentes masculinos; la igualdad a las estudiantes femeninas",
+        "La paridad aplica al sector universitario; la igualdad aplica a la educación preescolar",
+        "No existe diferencia alguna, son términos jurídicamente sinónimos e intercambiables"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 54",
+      "explicacion": "La paridad es la relación numérica 1:1 en matriculación; la igualdad es un objetivo más profundo de goce de idénticos derechos, oportunidades y beneficios."
+    },
+    {
+      "question": "[49] Según el Párrafo 56 del Marco de Acción, ¿cuántos niños que no asistían a la escuela en todo el mundo en 2012 vivían en zonas afectadas por conflictos?",
+      "options": [
+        "Aproximadamente 21 millones de niños (el 36% del total mundial)",
+        "Aproximadamente 5 millones de niños (el 5% del total)",
+        "Aproximadamente 50 millones de niños (el 80% del total)",
+        "Menos del 1% de la población infantil mundial"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 56",
+      "explicacion": "En 2012, unos 21 millones de niños no escolarizados (el 36%) vivían en zonas de conflicto, frente al 30% en el año 2000."
+    },
+    {
+      "question": "[50] Según la Nota al pie 9 y Párrafo 57 del Marco de Acción, ¿qué herramienta de base de datos se menciona como ejemplo para facilitar el seguimiento de las desigualdades en la educación?",
+      "options": [
+        "La Base de datos mundial sobre las desigualdades en la educación (WIDE)",
+        "El Sistema Integrado de Cuentas Nacionales (SIDC)",
+        "La Plataforma Global de Comercio y Trabajo (PGCT)",
+        "El Registro Internacional de Títulos Docentes (RITD)"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 57 y Nota 9",
+      "explicacion": "Se menciona la base de datos WIDE (World Inequality Database on Education: www.education-inequalities.org)."
+    },
+    {
+      "question": "[51] Según el Párrafo 58 del Marco de Acción (Meta 4.6), ¿cuántos adultos de 15 años y más en todo el mundo eran analfabetos en 2013 y qué proporción eran mujeres?",
+      "options": [
+        "757 millones de adultos, de los cuales dos tercios eran mujeres",
+        "500 millones de adultos, de los cuales la mitad eran hombres",
+        "1.000 millones de adultos, de los cuales el 90% eran mujeres",
+        "100 millones de adultos, de los cuales el 10% eran analfabetos funcionales"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 58",
+      "explicacion": "En 2013 había 757 millones de adultos analfabetos en el mundo, y dos tercios de ellos continuaban siendo mujeres."
+    },
+    {
+      "question": "[52] Según el Párrafo 58 del Marco de Acción, ¿qué porcentaje aproximado de adultos europeos carecía en 2013 de las aptitudes básicas en lectoescritura necesarias para participar en la sociedad?",
+      "options": [
+        "Aproximadamente el 20% de los adultos europeos",
+        "Exactamente el 2% de la población europea",
+        "Más del 60% de los habitantes de Europa central",
+        "Menos del 0,1% debido a la escolarización universal"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 58",
+      "explicacion": "El documento resalta que el bajo nivel de alfabetización afecta a países de ingresos altos: aprox. el 20% de adultos europeos carece de aptitudes básicas."
+    },
+    {
+      "question": "[53] Conforme al Párrafo 59 del Marco de Acción (Meta 4.6), ¿cuál es la concepción moderna del concepto de 'alfabetización'?",
+      "options": [
+        "Un continuo de niveles de competencia y no una simple dicotomía entre 'alfabetismo' y 'analfabetismo'",
+        "Un examen único de memorización que se aprueba una sola vez en la vida",
+        "La habilidad exclusiva de firmar el documento de identidad civil",
+        "El dominio avanzado de al menos tres lenguas extranjeras europeas"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 59",
+      "explicacion": "La alfabetización ya no reposa en la dicotomía entre alfabetismo/analfabetismo, sino en una idea de continuidad entre niveles de competencia."
+    },
+    {
+      "question": "[54] Según la Nota al pie 11 del Marco de Acción (Meta 4.6), ¿cómo se define a una persona 'alfabetizada funcionalmente'?",
+      "options": [
+        "Toda persona que puede realizar todas las actividades en las que es necesaria la alfabetización para el funcionamiento eficaz de su grupo y comunidad",
+        "Toda persona que ha obtenido un título universitario de nivel de Licenciatura",
+        "Toda persona capaz de leer un texto corto en voz alta sin comprender su significado",
+        "Toda persona que utiliza computadoras e internet en su centro de trabajo"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Nota al pie 11 (Párrafo 59)",
+      "explicacion": "Es funcionalmente alfabetizada la persona que puede realizar las actividades necesarias para el funcionamiento eficaz de su grupo/comunidad y su desarrollo."
+    },
+    {
+      "question": "[55] Según el Párrafo 62 del Marco de Acción (Meta 4.7), ¿qué porcentaje de los Estados Miembros de la UNESCO indicaba haber integrado la EDS en sus políticas hacia 2014?",
+      "options": [
+        "Solo el 50% de los Estados Miembros",
+        "El 100% de los países firmantes",
+        "Menos del 5% a nivel global",
+        "El 85% de los países en desarrollo"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 62",
+      "explicacion": "El Párrafo 62 indica que 'solo el 50% de los Estados Miembros de la UNESCO indican, por ejemplo, haber integrado la EDS en políticas pertinentes'."
+    },
+    {
+      "question": "[56] Conforme a la Nota al pie 12 del Marco de Acción, la Educación para el Desarrollo Sostenible (EDS) pretende habilitar a los educandos para:",
+      "options": [
+        "Tomar decisiones fundamentadas y adoptar medidas responsables en favor de la integridad del medio ambiente, la viabilidad económica y la justicia social",
+        "Promover la explotación industrial ilimitada de los recursos naturales renovables",
+        "Sustituir los acuerdos climáticos internacionales por normativas locales de comercio",
+        "Aumentar el consumo individual de bienes no biodegradables"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Nota al pie 12 (Párrafo 62)",
+      "explicacion": "La EDS habilita a tomar decisiones fundamentadas en favor del medio ambiente, economía viable y justicia social para generaciones presentes y futuras."
+    },
+    {
+      "question": "[57] Según el Párrafo 64 del Marco de Acción (Meta 4.a), ¿qué proporción de escuelas primarias en los países menos avanzados cumplía la norma de servicios de saneamiento adecuados en 2012?",
+      "options": [
+        "Solo una de cada dos escuelas (50%)",
+        "El 100% de las escuelas rurales",
+        "Nueve de cada diez escuelas",
+        "Menos del 5% de las instituciones"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 64",
+      "explicacion": "El Párrafo 64 denuncia que solo una de cada dos escuelas cumplía la norma de saneamiento adecuado en 52 países menos avanzados y de bajos ingresos."
+    },
+    {
+      "question": "[58] Según el Párrafo 65 del Marco de Acción (Meta 4.a), ¿cuántos niños y niñas sufren acoso y abusos dentro y alrededor de las escuelas cada año a nivel mundial?",
+      "options": [
+        "Aproximadamente 246 millones de niñas y niños",
+        "Aproximadamente 10 millones de niños",
+        "Aproximadamente 500 millones de adolescentes",
+        "Menos de 1 millón de estudiantes"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 65",
+      "explicacion": "Aproximadamente 246 millones de niñas y niños sufren acoso y abusos dentro y alrededor de las escuelas cada año."
+    },
+    {
+      "question": "[59] Según el Párrafo 67 del Marco de Acción (Meta 4.b), ¿cuál era el monto promedio anual de ayuda destinado a sufragar becas y gastos de estudiantes en 2010-2011?",
+      "options": [
+        "3.200 millones de dólares estadounidenses (equivalente a un cuarto del total de ayuda a la educación)",
+        "10.000 millones de dólares asignados exclusivamente a África",
+        "500 millones de dólares repartidos entre todos los países de la OCDE",
+        "100 millones de dólares destinados únicamente a becas de posgrado"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 67",
+      "explicacion": "Se destinó un promedio anual de 3.200 millones de dólares a becas y gastos escolares (25% del total de ayuda a la educación)."
+    },
+    {
+      "question": "[60] Conforme a las estrategias de la Meta 4.b (Párrafo 69), ¿qué tipo de programas académicos se recomienda elaborar para evitar la 'fuga de cerebros'?",
+      "options": [
+        "Programas conjuntos entre universidades del país de origen y del país receptor para fomentar la 'ganancia de cerebros'",
+        "Prohibiciones legales de salida del país para graduados universitarios",
+        "Cobro de impuestos de emigración a profesionales altamente calificados",
+        "Anulación automática de títulos extranjeros no homologados"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 69",
+      "explicacion": "Se recomienda elaborar programas conjuntos entre universidades de origen y receptoras para motivar el retorno y fomentar la 'ganancia de cerebros'."
+    },
+    {
+      "question": "[61] Según el Párrafo 71 del Marco de Acción (Meta 4.c), ¿cuántos docentes adicionales se requerirán a nivel mundial de aquí a 2030 para lograr la universalidad de la educación primaria y secundaria baja?",
+      "options": [
+        "3,2 millones para la educación primaria y 5,1 millones para el ciclo inicial de educación secundaria",
+        "1 millón para primaria y 1 millón para secundaria",
+        "10 millones exclusivos para la educación universitaria",
+        "500 mil docentes para el nivel preescolar únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 71",
+      "explicacion": "Se requieren 3,2 millones de docentes adicionales para primaria universal y 5,1 millones adicionales para el ciclo inicial de secundaria."
+    },
+    {
+      "question": "[62] Según el Párrafo 71 del Marco de Acción (Meta 4.c), ¿qué problemática sobre la calidad docente se observó en un tercio de los países con datos disponibles?",
+      "options": [
+        "Menos del 75% de los profesores de escuela primaria fueron capacitados según las normas nacionales",
+        "El 100% de los maestros carecía de título pedagógico normalista",
+        "Todos los docentes tenían más de 30 años de servicio ininterrumpido",
+        "Los salarios docentes superaban el promedio de las profesiones médicas"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 71",
+      "explicacion": "En un tercio de los países con datos, menos del 75% de los profesores de primaria recibieron capacitación conforme a normas nacionales."
+    },
+    {
+      "question": "[63] Según el Párrafo 74 de las estrategias indicativas de la Meta 4.c, respecto a la remuneración de los docentes, los gobiernos deben asegurar que:",
+      "options": [
+        "Los sueldos de los docentes sean por lo menos comparables a los que se pagan en otros puestos que requieren calificaciones similares",
+        "Los salarios se fijen según las donaciones voluntarias de las asociaciones de padres",
+        "Los docentes trabajen obligatoriamente a tiempo parcial sin prestaciones de seguridad social",
+        "Se apliquen descuentos salariales automáticos para financiar la infraestructura escolar"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 74",
+      "explicacion": "Se debe asegurar que los sueldos docentes sean por lo menos comparables a los pagados en puestos con calificaciones equivalentes."
+    },
+    {
+      "question": "[64] Según el Párrafo 75 del Marco de Acción, ¿cuáles son los cuatro niveles de indicadores propuestos para el seguimiento de la Educación 2030?",
+      "options": [
+        "Mundiales, temáticos, regionales y nacionales",
+        "Municipales, departamentales, nacionales e internacionales",
+        "Primarios, secundarios, terciarios y universitarios",
+        "Financieros, pedagógicos, administrativos y legales"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 75",
+      "explicacion": "El seguimiento se basa en 4 niveles de indicadores: mundiales, temáticos, regionales y nacionales."
+    },
+    {
+      "question": "[65] Según el Párrafo 76 del Marco de Acción, ¿cuáles son los cinco criterios utilizados para la elaboración del marco de indicadores temáticos?",
+      "options": [
+        "Pertinencia, alineamiento a la meta, posibilidad de recabar datos de forma periódica, facilidad de comunicar y claridad",
+        "Costo económico, volumen de hojas, aprobación política, idioma inglés y confidencialidad",
+        "Velocidad de cómputo, aprobación bancaria, antigüedad, neutralidad y complejidad",
+        "Unanimidad de ONG, exclusión de datos urbanos, costo cero, rigidez y brevedad"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 76",
+      "explicacion": "Los 5 criterios son: pertinencia, alineamiento a los conceptos de la meta, recolección periódica, facilidad de comunicación y claridad."
+    },
+    {
+      "question": "[66] Según el Párrafo 80 del Marco de Acción, ¿cuál es el rol asignado a las Organizaciones de la Sociedad Civil (OSC)?",
+      "options": [
+        "Promover la movilización social, crear enfoques innovadores, aportar evidencia empírica y exigir rendición de cuentas a los gobiernos",
+        "Sustituir la administración de las escuelas públicas por modelos de franquicias privadas",
+        "Recaudar impuestos estatales para el pago de los sueldos del magisterio",
+        "Elaborar de forma exclusiva los exámenes estandarizados de admisiones universitarias"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 80",
+      "explicacion": "Las OSC sensibilizan, aportan innovación, reúnen evidencia de la práctica y exigen rendición de cuentas e investigación."
+    },
+    {
+      "question": "[67] Según el Párrafo 87 del Marco de Acción, ¿cuál de los siguientes NO es un marco de estrategia regional mencionado explícitamente?",
+      "options": [
+        "El Plan Marshall para la Educación Universitaria de América del Norte",
+        "La Agenda 2063 de la Unión Africana",
+        "El Proyecto Regional de Educación para América Latina y el Caribe (PRELAC)",
+        "La Estrategia Europa 2020 de la Unión Europea"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 87",
+      "explicacion": "El Párrafo 87 lista las estrategias regionales oficiales (África 2063, PRELAC, Europa 2020, ASEAN Vision 2025, etc.); el 'Plan Marshall' no figura."
+    },
+    {
+      "question": "[68] Según los Párrafos 93 y 94 del Marco de Acción, ¿cuál es la instancia máxima de coordinación mundial del ODS 4 que convoca la UNESCO?",
+      "options": [
+        "El Comité de Dirección del ODS-Educación 2030 (CD del ODS-Educación 2030)",
+        "El Consejo de Seguridad de las Naciones Unidas",
+        "La Asamblea General del Banco Mundial",
+        "El Comité de Asuntos Financieros del G20"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafos 93-94",
+      "explicacion": "La UNESCO convoca el Comité de Dirección del ODS-Educación 2030 (SDG-Education 2030 Steering Committee)."
+    },
+    {
+      "question": "[69] Según el Párrafo 94 del Marco de Acción, ¿quiénes conforman la MAYORÍA de los miembros del Comité de Dirección del ODS-Educación 2030 y cuál es el período de rotación?",
+      "options": [
+        "Los Estados Miembros representan la mayoría (3 por cada una de las 6 regiones y 1 del Grupo E-9), con una rotación cada dos años",
+        "Las empresas privadas transnacionales ocupan el 80% de los puestos, con rotación quinquenal",
+        "Las Organizaciones No Gubernamentales ostentan la mayoría absoluta sin rotación de cargos",
+        "Los ministros de economía del G7 ocupan todos los escaños de manera permanente"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 94",
+      "explicacion": "Los Estados Miembros conforman la mayoría (3 por cada grupo regional de UNESCO + 1 del E-9) y la rotación tiene lugar cada dos años."
+    },
+    {
+      "question": "[70] Según el Párrafo 94 del Marco de Acción, ¿quién desempeña las funciones de Secretaría del Comité de Dirección del ODS-Educación 2030?",
+      "options": [
+        "La UNESCO",
+        "El UNICEF",
+        "El Banco Mundial",
+        "La OCDE"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 94",
+      "explicacion": "El Párrafo 94 establece explícitamente: 'La UNESCO desempeñará las funciones de secretaría del Comité de Dirección del ODS-Educación 2030'."
+    },
+    {
+      "question": "[71] Según el Párrafo 100 del Marco de Acción, ¿cuál es la entidad designada como la 'fuente oficial' de datos comparables entre países sobre educación?",
+      "options": [
+        "El Instituto de Estadística de la UNESCO (IEU / UIS)",
+        "El Departamento de Asuntos Económicos de la OEA",
+        "El Centro Internacional de Investigaciones del FMI",
+        "La Oficina de Cuentas Estadísticas del Banco Mundial"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 100",
+      "explicacion": "El IEU (UIS) seguirá siendo la fuente oficial de datos comparables entre países sobre educación."
+    },
+    {
+      "question": "[72] Según el Párrafo 101 del Marco de Acción, el 'Informe de Seguimiento de la EPT en el Mundo' pasó a denominarse oficialmente:",
+      "options": [
+        "Informe de Seguimiento de la Educación en el Mundo (Informe GEM)",
+        "Reporte Anual de Calidad Educativa Global (RACEG)",
+        "Indicador de Desarrollo Humano Escolar (IDHE)",
+        "Boletín Estadístico de la Alianza Mundial (BEAM)"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 101",
+      "explicacion": "El reporte se convierte oficialmente en el Informe de Seguimiento de la Educación en el Mundo (Global Education Monitoring Report - Informe GEM)."
+    },
+    {
+      "question": "[73] Según el Párrafo 105 del Marco de Acción, ¿cuál fue el gasto medio asignado a la educación a nivel mundial en 2012 en relación con el PIB y el gasto público?",
+      "options": [
+        "Promedio del 5% del PIB y el 13,7% del gasto público",
+        "Promedio del 10% del PIB y el 30% del gasto público",
+        "Promedio del 2% del PIB y el 5% del gasto público",
+        "Promedio del 1% del PIB y el 8% del gasto público"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 105",
+      "explicacion": "En 2012 los países asignaron, en promedio, el 5% del PIB y el 13,7% del gasto público a la educación."
+    },
+    {
+      "question": "[74] Según el Párrafo 105 del Marco de Acción, ¿cuánto costará en promedio por año (2015-2030) lograr la educación preescolar, primaria y secundaria universal en países de ingresos bajos y medianos-bajos?",
+      "options": [
+        "340.000 millones de dólares estadounidenses en promedio",
+        "50.000 millones de dólares en total",
+        "1 billón de dólares anuales exclusivamente para infraestructura",
+        "10.000 millones de dólares financiados por donaciones privadas"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 105",
+      "explicacion": "Se prevé un aumento de costo de 149.000 millones en 2012 a 340.000 millones de dólares en promedio anual entre 2015 y 2030."
+    },
+    {
+      "question": "[75] Según el Párrafo 107 del Marco de Acción, ¿a cuánto asciende la brecha total anual de financiación de la educación en los países de ingresos bajos y medianos-bajos entre 2015 y 2030?",
+      "options": [
+        "Un promedio de 39.000 millones de dólares estadounidenses anuales",
+        "Un promedio de 100.000 millones de dólares anuales",
+        "Un promedio de 5.000 millones de dólares anuales",
+        "Un promedio de 500.000 millones de dólares anuales"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 107",
+      "explicacion": "La brecha total anual de financiación entre los recursos internos y lo necesario para alcanzar las metas es de 39.000 millones de dólares."
+    },
+    {
+      "question": "[76] Según el Párrafo 107 del Marco de Acción, ¿qué porcentaje del gasto total anual representa la brecha de financiación en los países de ingresos bajos?",
+      "options": [
+        "Representa el 42% del gasto total anual",
+        "Representa únicamente el 5% del presupuesto",
+        "Representa el 90% del Producto Interno Bruto",
+        "Representa el 15% del total de las exportaciones"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 107",
+      "explicacion": "La disparidad es especialmente amplia en países de ingresos bajos, donde la brecha representa el 42% del gasto total anual."
+    },
+    {
+      "question": "[77] Según el Párrafo 107 del Marco de Acción, ¿qué porcentaje de los fondos de llamamientos de ayuda humanitaria se asignaba a la educación en 2015?",
+      "options": [
+        "Solo el 2% de los fondos humanitarios",
+        "El 25% del presupuesto de emergencia",
+        "El 50% de la ayuda oficial internacional",
+        "El 0% debido a prohibición de los donantes"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 107",
+      "explicacion": "El documento denuncia que solo el 2% de los fondos de llamamientos de ayuda humanitaria se asignan a la educación."
+    },
+    {
+      "question": "[78] Según el Anexo I (Cuadro 1) del Marco de Acción, ¿cuántos indicadores MUNDIALES mínimos fueron aprobados por la Comisión de Estadística de las N.U. en marzo de 2016?",
+      "options": [
+        "11 indicadores mundiales",
+        "43 indicadores temáticos",
+        "100 indicadores regionales",
+        "7 indicadores generales"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Párrafo 191",
+      "explicacion": "Los 11 indicadores mundiales representan el conjunto mínimo de indicadores propuestos para el seguimiento mundial del ODS 4."
+    },
+    {
+      "question": "[79] Según el Anexo I, ¿cuál es el enunciado exacto del Indicador Mundial 4.1.1?",
+      "options": [
+        "Porcentaje de niños y jóvenes: a) en los grados 2/3; b) al final de la enseñanza primaria; y c) al final del primer ciclo de la enseñanza secundaria, que han alcanzado al menos un nivel mínimo de competencia en i) lectura y ii) matemáticas, por sexo",
+        "Tasa bruta de matriculación universitaria por cada 100.000 habitantes",
+        "Porcentaje de escuelas primarias que cuentan con laboratorios de química y física",
+        "Número total de docentes jubilados contratados en el sector privado"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Cuadro 1 (4.1.1)",
+      "explicacion": "El Indicador 4.1.1 mide la competencia en lectura y matemáticas en 3 puntos clave: grados 2/3, final de primaria y final de secundaria baja."
+    },
+    {
+      "question": "[80] Según el Anexo I, ¿cuál es el Indicador Mundial 4.2.2 para la Meta 4.2?",
+      "options": [
+        "Tasa de participación en el aprendizaje organizado (un año antes de la edad oficial de ingreso en la enseñanza primaria), por sexo",
+        "Porcentaje de niños menores de 3 años matriculados en guarderías nocturnas",
+        "Tasa de alfabetización de los padres de familia de niños preescolares",
+        "Número de textos educativos distribuidos gratuitamente en el nivel parvulario"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Cuadro 1 (4.2.2)",
+      "explicacion": "El Indicador 4.2.2 es la Tasa de participación en aprendizaje organizado un año antes de la edad oficial de ingreso a primaria."
+    },
+    {
+      "question": "[81] Según el Anexo I, ¿cuál es el Indicador Mundial 4.3.1 para la Meta 4.3?",
+      "options": [
+        "Tasa de participación de jóvenes y adultos en la educación y la formación formales y no formales en los últimos 12 meses, por sexo",
+        "Número de graduados de maestría y doctorado por cada millón de habitantes",
+        "Porcentaje de universidades privadas acreditadas por el Ministerio de Economía",
+        "Monto total acumulado por matriculación en institutos de enseñanza de idiomas"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Cuadro 1 (4.3.1)",
+      "explicacion": "El Indicador 4.3.1 mide la tasa de participación de jóvenes y adultos en educación/formación formal y no formal en los últimos 12 meses."
+    },
+    {
+      "question": "[82] Según el Anexo I, ¿cuál es el Indicador Mundial 4.4.1 para la Meta 4.4?",
+      "options": [
+        "Porcentaje de jóvenes y adultos con conocimientos de tecnología de la información y las comunicaciones (TIC), por tipo de conocimiento técnico",
+        "Tasa de desempleo juvenil de graduados técnicos de nivel medio",
+        "Porcentaje de trabajadores informales inscritos en el seguro social",
+        "Número de patentes científicas registradas por empresas multinacionales"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Cuadro 1 (4.4.1)",
+      "explicacion": "El Indicador 4.4.1 evalúa el porcentaje de jóvenes/adultos con conocimientos de TIC por tipo de conocimiento técnico."
+    },
+    {
+      "question": "[83] Según el Anexo I, ¿cuál es la medida central del Indicador Mundial 4.5.1 para la Meta 4.5?",
+      "options": [
+        "Índices de paridad (mujeres/hombres, rurales/urbanas, quintil inferior/superior de riqueza, discapacidad, indígenas) para todos los indicadores desglosables",
+        "Gasto total en becas universitarias otorgadas a estudiantes extranjeros",
+        "Porcentaje de escuelas de varones convertidas en escuelas mixtas",
+        "Número de leyes sancionadas en materia de equidad de género laboral"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Cuadro 1 (4.5.1)",
+      "explicacion": "El Indicador 4.5.1 calcula los índices de paridad comparativos (género, ubicación, riqueza, discapacidad, etc.) en todos los indicadores."
+    },
+    {
+      "question": "[84] Según el Anexo I, ¿cuál es el Indicador Mundial 4.6.1 para la Meta 4.6?",
+      "options": [
+        "Porcentaje de población en un grupo de edad determinado que alcanza por lo menos un nivel fijo de competencia funcional en a) alfabetización y b) aritmética, por sexo",
+        "Número total de cuadernos de lectura impresos por el Ministerio de Educación",
+        "Porcentaje de adultos inscritos en cursos de formación sindical",
+        "Tasa bruta de aprobación de exámenes de conducir vehículos"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Cuadro 1 (4.6.1)",
+      "explicacion": "El Indicador 4.6.1 mide el porcentaje de población que alcanza competencia funcional fija en alfabetización y aritmética."
+    },
+    {
+      "question": "[85] Según el Anexo I, ¿cuál es el Indicador Mundial 4.7.1 para la Meta 4.7?",
+      "options": [
+        "Grado de incorporación de la ECM y la EDS en: a) políticas educativas nacionales, b) planes de estudio, c) formación de docentes y d) evaluación de estudiantes",
+        "Número de árboles plantados por estudiantes en campañas ecológicas escolares",
+        "Porcentaje de horas de clase dedicadas a la instrucción militar patriótica",
+        "Tasa de participación ciudadana en elecciones municipales locales"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Cuadro 1 (4.7.1)",
+      "explicacion": "El 4.7.1 evalúa el grado de incorporación de la Educación para la Ciudadanía Mundial (ECM) y la EDS en políticas, currículo, formación y evaluación."
+    },
+    {
+      "question": "[86] Según el Anexo I, ¿cuáles son los componentes evaluados en el Indicador Mundial 4.a.1 respecto a las instalaciones escolares?",
+      "options": [
+        "Acceso a: a) electricidad, b) Internet pedagógico, c) computadoras pedagógicas, d) infraestructura adaptada a discapacidad, e) agua potable básica, f) servicios higiénicos separados por sexo, y g) instalaciones para lavado de manos",
+        "Acceso a laboratorios robóticos, piscinas olímpicas y comedores gourmet",
+        "Número de pisos construidos y metros cuadrados de césped sintético",
+        "Cámaras de vigilancia conectadas a estaciones policiales privadas"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Cuadro 1 (4.a.1)",
+      "explicacion": "El 4.a.1 mide 7 servicios/infraestructuras básicas: electricidad, internet, computadoras, adaptación a discapacidad, agua potable, saneamiento por sexo y lavado de manos (WASH)."
+    },
+    {
+      "question": "[87] Según el Anexo I, ¿cuál es el Indicador Mundial 4.b.1 para la Meta 4.b?",
+      "options": [
+        "Volumen de la asistencia oficial para el desarrollo (AOD) destinada a becas, por sector y por tipo de estudios",
+        "Número de pasaportes diplomáticos emitidos a estudiantes universitarios",
+        "Monto pagado por estudiantes en billetes de avión internacionales",
+        "Porcentaje de becarios que deciden no retornar a su país de origen"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Cuadro 1 (4.b.1)",
+      "explicacion": "El Indicador 4.b.1 registra el volumen de Asistencia Oficial para el Desarrollo (AOD) destinada a programas de becas."
+    },
+    {
+      "question": "[88] Según el Anexo I, ¿cuál es el Indicador Mundial 4.c.1 para la Meta 4.c?",
+      "options": [
+        "Porcentaje de docentes en preescolar, primaria, secundaria baja y secundaria alta que han recibido al menos el mínimo de formación docente organizada pedagógica exigida",
+        "Años promedio de antigüedad en el Escalafón del magisterio fiscal",
+        "Porcentaje de profesores evaluados con calificación perfecta en exámenes escritos",
+        "Número de huelgas y paros laborales docentes registrados durante la gestión"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Cuadro 1 (4.c.1)",
+      "explicacion": "El 4.c.1 mide el porcentaje de docentes por nivel que cuentan con la formación pedagógica mínima organizada exigida en el país."
+    },
+    {
+      "question": "[89] Según el Anexo II (Cuadro 2), ¿cuántos indicadores TEMÁTICOS propuso el Grupo Consultivo Técnico (TAG) para realizar un seguimiento más amplio de las metas?",
+      "options": [
+        "43 indicadores temáticos en total",
+        "10 indicadores temáticos únicamente",
+        "100 indicadores temáticos obligatorios",
+        "5 indicadores temáticos no desglosables"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo II, Cuadro 2",
+      "explicacion": "El Cuadro 2 del Anexo II contiene la lista de 43 indicadores temáticos propuestos por el TAG."
+    },
+    {
+      "question": "[90] Según el Anexo II, Indicador Temático 7 de la Meta 4.1, ¿qué se mide respecto a la legislación nacional?",
+      "options": [
+        "Número de años de educación primaria y secundaria i) gratuita y ii) obligatoria garantizada en los marcos legales",
+        "Número de leyes educativas derogadas por el Congreso en el último lustro",
+        "Porcentaje de presupuesto destinado a la publicación de leyes en la Gaceta",
+        "Número de juicios laborales iniciados por profesores de escuelas privadas"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo II, Indicador 7",
+      "explicacion": "El Indicador 7 mide el número de años de educación primaria y secundaria gratuita y obligatoria garantizados por ley."
+    },
+    {
+      "question": "[91] Según el Anexo II, Indicador Temático 41 de la Meta 4.c, ¿qué aspecto se mide para evaluar la motivación docente?",
+      "options": [
+        "Salario medio de los docentes en relación con otras profesiones que exigen calificaciones o un nivel educativo comparables",
+        "Monto de aguinaldo de fin de año pagado en efectivo",
+        "Porcentaje de docentes que reciben felicitaciones escritas de los directores",
+        "Número de vacaciones pagadas concedidas durante el año escolar"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo II, Indicador 41",
+      "explicacion": "El Indicador 41 evalúa el salario medio docente comparado con otras profesiones de cualificación equivalente."
+    },
+    {
+      "question": "[92] En conclusión, según la Declaración de Incheon y el Marco de Acción Educación 2030, ¿cuál es el mensaje ético fundamental respecto a la evaluación del éxito global de la agenda?",
+      "options": [
+        "El éxito del ODS 4-Educación 2030 solo se podrá proclamar cuando concierna a todos y no deje a nadie atrás",
+        "El éxito se logrará cuando los países desarrollados reduzcan su gasto público educativo",
+        "El éxito se proclamará cuando las universidades privadas monopolicen la formación docente",
+        "El éxito dependerá únicamente de alcanzar el 100% de matriculación en las capitales de departamento"
+      ],
+      "answer": 0,
+      "fuente": "Declaración de Incheon, Párrafo 5 y Marco de Acción, Párrafo 109",
+      "explicacion": "El Marco concluye enfatizando que el éxito de la agenda Educación 2030 solo se podrá proclamar cuando concierna a todos sin dejar a nadie rezagado."
+    },
+    {
+      "question": "[93] Según el Párrafo 18 del Marco de Acción, ¿qué función cumple la 'colaboración Sur-Sur y triangular' en el fortalecimiento de los sistemas educativos?",
+      "options": [
+        "Intercambiar mejores prácticas e innovaciones adaptadas a los contextos nacionales y regionales",
+        "Obligar a los países receptores a adoptar leyes de educación extranjeras",
+        "Sustituir los presupuestos nacionales de educación por créditos multilaterales",
+        "Transferir la administración de las escuelas a consorcios privados transnacionales"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 18",
+      "explicacion": "El refuerzo de los sistemas se basa en la colaboración Sur-Sur y triangular e intercambio de mejores prácticas adaptadas a los contextos."
+    },
+    {
+      "question": "[94] Según el Párrafo 20 del Marco de Acción, para eliminar los prejuicios de género en las escuelas, los gobiernos y asociados deben:",
+      "options": [
+        "Crear entornos de aprendizaje con perspectiva de género, incorporarla en la formación docente y eliminar la discriminación y violencia escolar",
+        "Separar obligatoriamente a niños y niñas en establecimientos educativos distintos",
+        "Eliminar todas las asignaturas de educación física y deportes para mujeres",
+        "Prohibir el acceso de docentes femeninas a cargos de dirección escolar"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 20",
+      "explicacion": "El Párrafo 20 exige políticas con perspectiva de género, formación docente adecuada y erradicación de violencia y estereotipos."
+    },
+    {
+      "question": "[95] Según el Párrafo 22 del Marco de Acción, la enseñanza y el aprendizaje de calidad para centrarse en la innovación debe fortalecer el enfoque en:",
+      "options": [
+        "Las ciencias, la tecnología, la ingeniería y las matemáticas (STEM)",
+        "La contabilidad comercial e impuestos únicamente",
+        "La instrucción militar y desfiles cívicos obligatorios",
+        "La teología y religión de Estado obligatoria"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 22",
+      "explicacion": "El Párrafo 22 señala expresamente que para centrarse en calidad e innovación es necesario fortalecer la educación en STEM."
+    },
+    {
+      "question": "[96] Conforme al Párrafo 27 del Marco de Acción, ¿cuál es la directriz internacional para resguardar las escuelas en situaciones de conflicto armado?",
+      "options": [
+        "Proteger los establecimientos educativos como zonas de paz exentas de violencia y cumplir el derecho internacional humanitario",
+        "Convertir las escuelas en cuarteles militares defensivos temporales",
+        "Suspender la escolaridad de forma permanente hasta el fin del conflicto",
+        "Arancelar las matrículas para pagar la seguridad privada de los colegios"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 27",
+      "explicacion": "Las partes deben garantizar que las escuelas se protejan como zonas de paz y cumplir el derecho internacional humanitario que las protege como objetivos civiles."
+    },
+    {
+      "question": "[97] Según el Párrafo 28 del Marco de Acción, para evitar la escasa rendición de cuentas de las metas a largo plazo (2030), los gobiernos deben:",
+      "options": [
+        "Establecer indicadores e hitos intermedios cuantitativos (por ejemplo, para 2020 y 2025)",
+        "Eliminar las evaluaciones nacionales de rendimiento estudiantil",
+        "Postergar las auditorías educativas hasta el año 2029",
+        "Dejar el seguimiento en manos exclusivas de consultoras bancarias privadas"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 28",
+      "explicacion": "Se exige fijar indicadores intermedios adecuados (p. ej. para 2020 y 2025) como hitos cuantitativos para el examen continuo de avances."
+    },
+    {
+      "question": "[98] Según el Párrafo 33 del Marco de Acción, ¿qué dos tipos complementarios de evaluación del aprendizaje deben desarrollarse?",
+      "options": [
+        "Evaluación formativa o continua en el aula y evaluación cumulativa en distintos niveles",
+        "Evaluaciones orales públicas y pruebas de castigo disciplinario",
+        "Evaluaciones de ingreso eliminatorias y exámenes arancelados de titulación",
+        "Evaluaciones psiquiátricas individuales y censos de salud bucal"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 33",
+      "explicacion": "El Párrafo 33 demanda información obtenida mediante evaluación formativa/continua en aula y evaluación cumulativa en puntos críticos."
+    },
+    {
+      "question": "[99] Según el Párrafo 41 del Marco de Acción, las universidades desempeñan un rol insustituible para el desarrollo porque:",
+      "options": [
+        "Estimulan el pensamiento crítico y creativo, y generan investigación para resolver problemas locales y mundiales",
+        "Sustituyen la educación técnica media por cursos cortos de capacitación laboral",
+        "Garantizan la contratación automática de todos sus egresados en el sector público",
+        "Financian el 100% de la educación primaria del país con sus propios aranceles"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 41",
+      "explicacion": "Las universidades cumplen una función básica mediante investigación, desarrollo de capacidades analíticas y creación de conocimientos para el desarrollo sostenible."
+    },
+    {
+      "question": "[100] Según el Párrafo 45 de la Meta 4.3, para ampliar el acceso a una educación terciaria de calidad se deben promover:",
+      "options": [
+        "Cursos abiertos en línea de amplia participación (MOOCs) y tecnologías de educación a distancia",
+        "Aranceles de inscripción elevados para limitar la matriculación a los mejores promedios",
+        "Exámenes de admisión de memorización legalista sin cupos de equidad",
+        "La eliminación de las bibliotecas físicas en todas las universidades públicas"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 45",
+      "explicacion": "Se recomienda formular políticas para suministrar educación terciaria a distancia con cursos abiertos en línea de amplia participación (MOOCs) e internet."
+    },
+    {
+      "question": "[101] Según el Párrafo 50 del Marco de Acción (Meta 4.4), en la formulación de programas de EFTP se debe invitar a participar a:",
+      "options": [
+        "Los interlocutores sociales (empleadores y sindicatos)",
+        "Únicamente a empresas multinacionales extranjeras",
+        "Exclusivamente a los tribunales de justicia constitucional",
+        "A los mandos policiales y militares de la región"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 50",
+      "explicacion": "Se indica explícitamente invitar a los interlocutores sociales a participar en la formulación y aplicación de programas de formación holísticos."
+    },
+    {
+      "question": "[102] Conforme al Párrafo 60 del Marco de Acción (Meta 4.6), para acelerar el progreso en alfabetización y aritmética de adultos se debe aprovechar el potencial de:",
+      "options": [
+        "Las Tecnologías de la Información y la Comunicación (TIC), en particular las tecnologías móviles",
+        "La televisión comercial en señal abierta exclusivamente",
+        "Los periódicos impresos de circulación nacional",
+        "Los sistemas manuales de dictado en folletos de papel"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 60",
+      "explicacion": "Se promueve el uso de las TIC, y en especial de las tecnologías móviles, en programas de alfabetización y aritmética básica."
+    },
+    {
+      "question": "[103] Según el Párrafo 68 del Marco de Acción (Meta 4.b), respecto al otorgamiento de becas universitarias, se debe prestar atención especial a:",
+      "options": [
+        "Otorgar becas a niñas y mujeres en los ámbitos de ciencias, tecnología, ingeniería y matemáticas (STEM)",
+        "Asignar becas exclusivamente a estudiantes de áreas urbanas con altos ingresos",
+        "Reservar todas las becas para funcionarios del gobierno de turno",
+        "Eliminar las becas para carreras científicas e incentivar únicamente cursos comerciales de corta duración"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 68",
+      "explicacion": "El Párrafo 68 resalta dar atención particular a otorgar a niñas y mujeres becas para realizar estudios en ámbitos STEM."
+    },
+    {
+      "question": "[104] Conforme al Párrafo 72 del Marco de Acción (Meta 4.c), para que la docencia sea una profesión atractiva elegida como primera opción, los gobiernos deben:",
+      "options": [
+        "Mejorar la condición profesional y condiciones de trabajo, garantizar remuneración adecuada y fortalecer el diálogo político con sus organizaciones",
+        "Prohibir la sindicalización de los maestros e imponer salarios mínimos fijos no negociables",
+        "Obligar a los docentes a pagar su propia capacitación en servicio de sus sueldos",
+        "Reducir las vacaciones de los profesores y aumentar la jornada laboral sin compensación"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 72",
+      "explicacion": "Convertir la docencia en primera opción requiere mejorar estatus, condiciones de trabajo, sueldo adecuado y diálogo institucionalizado."
+    },
+    {
+      "question": "[105] Según el Párrafo 82 del Marco de Acción, el sector privado y las fundaciones filantrópicas pueden contribuir a la educación pública SIEMPRE QUE:",
+      "options": [
+        "Sus contribuciones sean transparentes, se ajusten a prioridades nacionales, respeten la educación como derecho humano y no agraven desigualdades",
+        "Obtengan a cambio la propiedad exclusiva de los edificios escolares construidos",
+        "Puedan seleccionar a los estudiantes según su nivel de ingresos o raza",
+        "Se exonere a sus empresas de pagar impuestos nacionales de por vida"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 82",
+      "explicacion": "El sector privado puede colaborar mediante contribuciones transparentes ajustadas a prioridades nacionales y sin agravar desigualdades."
+    },
+    {
+      "question": "[106] Según el Párrafo 84 del Marco de Acción, los jóvenes y estudiantes deben ser considerados en la agenda Educación 2030 como:",
+      "options": [
+        "Asociados clave con conocimientos específicos y educandos activos y responsables titulares de derechos",
+        "Receptores pasivos que no deben opinar sobre las políticas de enseñanza",
+        "Clientes comerciales de los centros de formación profesional",
+        "Mano de obra no calificada para prácticas de trabajo gratuitas"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 84",
+      "explicacion": "Los jóvenes y estudiantes son reconocidos como asociados clave, educandos activos y titulares de derechos en la política educativa."
+    },
+    {
+      "question": "[107] Según el Párrafo 86 del Marco de Acción, la coordinación gubernamental nacional para la educación requiere un enfoque de:",
+      "options": [
+        "'El gobierno en su conjunto' articulando la educación con el desarrollo socioeconómico global",
+        "Centralización absoluta en el Ministerio de Hacienda excluyendo al Ministerio de Educación",
+        "Delegación completa de la enseñanza a las administraciones municipales autónomas sin rectoría estatal",
+        "Supervisión militar directa sobre los planes de estudio de secundaria"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 86",
+      "explicacion": "Se destaca la necesidad de un enfoque de la educación 'del gobierno en su conjunto' (whole-of-government approach)."
+    },
+    {
+      "question": "[108] Según el Párrafo 102 del Marco de Acción, para colmar las brechas de datos se requiere promover la recomendación del Secretario General de las N.U. sobre:",
+      "options": [
+        "La 'Revolución de los Datos para el Desarrollo Sostenible'",
+        "El cierre definitivo de los institutos nacionales de estadística",
+        "La privatización del censo de población escolar",
+        "El uso exclusivo de estimaciones matemáticas teóricas sin recolección de campo"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 102",
+      "explicacion": "El Párrafo 102 aboga por la 'revolución de los datos para el desarrollo sostenible' formulada por el Grupo Asesor de Expertos de la ONU."
+    },
+    {
+      "question": "[109] Según el Párrafo 104 del Marco de Acción, ¿qué comisión de alto nivel se creó en la Cumbre de Oslo (2015) para redinamizar la inversión educativa?",
+      "options": [
+        "La Comisión Internacional sobre la Financiación de las Oportunidades para la Educación Mundial",
+        "El Comité de Acreedores Internacionales para la Educación Básica",
+        "La Junta Financiera de Emergencia del Banco Central Europeo",
+        "El Fondo Monetario Educativo de los Países Latinoamericanos"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 104",
+      "explicacion": "En Oslo se creó la Comisión Internacional sobre la Financiación de las Oportunidades para la Educación Mundial."
+    },
+    {
+      "question": "[110] Según el Párrafo 106 del Marco de Acción, para incrementar los recursos fiscales internos destinados a la educación, los países deben:",
+      "options": [
+        "Ampliar la base impositiva y acabar con los incentivos fiscales perjudiciales y la evasión fiscal",
+        "Crear impuestos sobre la matrícula de las escuelas primarias públicas",
+        "Reducir los sueldos de los trabajadores de salud para transferirlos a educación",
+        "Aumentar el endeudamiento externo con bancos privados a corto plazo"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 106",
+      "explicacion": "Se exige ampliar la base impositiva, acabar con incentivos fiscales perjudiciales y combatir la evasión fiscal para financiar educación."
+    },
+    {
+      "question": "[111] Según el Párrafo 107 del Marco de Acción, la cooperación entre países del Sur para financiar e intercambiar experiencias en educación se denomina:",
+      "options": [
+        "Cooperación Sur-Sur y cooperación triangular",
+        "Acuerdos de concesión territorial compartida",
+        "Convenios de subordinación económica unilateral",
+        "Mecanismos de privatización transfronteriza"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 107",
+      "explicacion": "El texto promueve expresamente la cooperación Sur-Sur y la cooperación triangular como expresión de solidaridad e intercambio."
+    },
+    {
+      "question": "[112] Según el Párrafo 108 del Marco de Acción, para evitar la pérdida de fondos destinados a las escuelas, los países deben:",
+      "options": [
+        "Hacer frente a la corrupción e ineficiencia mediante supervisión y seguimiento independiente del gasto",
+        "Eliminar los presupuestos descentralizados a los directores de unidad educativa",
+        "Prohibir que las comunidades participen en la fiscalización de las obras escolares",
+        "Transferir los fondos escolares a cuentas secretas no auditales"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 108",
+      "explicacion": "Se demanda combatir la corrupción e ineficiencia mediante supervisión y seguimiento independiente del gasto para que los fondos lleguen a las aulas."
+    },
+    {
+      "question": "[113] Según el Anexo I del Marco de Acción, el Indicador Mundial 4.3.1 evalúa la tasa de participación en educación formal y no formal en un período de:",
+      "options": [
+        "Los últimos 12 meses",
+        "Los últimos 5 años",
+        "Toda la vida laboral del adulto",
+        "El último mes calendario únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Indicador 4.3.1",
+      "explicacion": "El Indicador 4.3.1 mide la participación de jóvenes y adultos en educación formal y no formal 'en los últimos 12 meses'."
+    },
+    {
+      "question": "[114] Según el Anexo I del Marco de Acción, el Indicador Mundial 4.a.1 evalúa si las instalaciones sanitarias escolares cumplen con el criterio WASH de ser:",
+      "options": [
+        "Instalaciones de saneamiento básicas separadas para hombres y mujeres e instalaciones básicas para lavado de manos",
+        "Servicios de baño mixtos sin agua corriente ni jabón",
+        "Instalaciones químicas portátiles alquiladas periódicamente",
+        "Baños exclusivos para el uso del personal administrativo"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo I, Indicador 4.a.1",
+      "explicacion": "El Indicador 4.a.1 exige sanitarios básicos separados por sexo e instalaciones básicas para lavarse las manos (WASH)."
+    },
+    {
+      "question": "[115] Según el Anexo II, Indicador Temático 28 de la Meta 4.7, se mide el porcentaje de escuelas que imparten:",
+      "options": [
+        "Educación sobre sexualidad y VIH basada en competencias para la vida",
+        "Cursos de conducción de vehículos automotores",
+        "Instrucción en artes marciales defensivas obligatorias",
+        "Capacitación en inversiones financieras en la bolsa de valores"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo II, Indicador 28",
+      "explicacion": "El Indicador Temático 28 mide la impartición de educación sobre sexualidad y VIH basada en competencias para la vida."
+    },
+    {
+      "question": "[116] Según el Anexo II, Indicador Temático 33 de la Meta 4.a, se registra el porcentaje de estudiantes que experimentan:",
+      "options": [
+        "Acoso, castigos corporales, hostigamiento, violencia, discriminación sexual y abusos",
+        "Reprobación de exámenes en materias científicas",
+        "Faltas de puntualidad al ingreso del periodo escolar",
+        "Cambios de domicilio o traslado de centro educativo"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo II, Indicador 33",
+      "explicacion": "El Indicador 33 mide la prevalencia de acoso, castigos corporales, hostigamiento, violencia y discriminación en las escuelas."
+    },
+    {
+      "question": "[117] Según el Anexo II, Indicador Temático 42 de la Meta 4.c, ¿qué variable se mide para evaluar la estabilidad de la profesión docente?",
+      "options": [
+        "Tasa de abandono de docentes por nivel educativo",
+        "Número de licencias por maternidad solicitadas al año",
+        "Porcentaje de profesores que cambian de materia de enseñanza",
+        "Tasa de aprobación de postulantes en las escuelas normales"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Anexo II, Indicador 42",
+      "explicacion": "El Indicador 42 del Anexo II calcula específicamente la tasa de abandono (deserción) de docentes por nivel educativo."
+    },
+    {
+      "question": "[118] Según el Párrafo 1 del Marco de Acción, ¿en qué fecha y por cuántos Estados Miembros fue aprobado en París el Marco de Acción Educación 2030?",
+      "options": [
+        "El 4 de noviembre de 2015 por 184 Estados Miembros de la UNESCO",
+        "El 21 de mayo de 2015 por 160 delegaciones ministeriales",
+        "El 18 de septiembre de 2015 por la Asamblea General de la ONU",
+        "El 10 de diciembre de 2014 por 100 países miembros del E-9"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Agradecimientos, Párrafo 1",
+      "explicacion": "El 4 de noviembre de 2015, 184 Estados Miembros de la UNESCO aprobaron en París el Marco de Acción Educación 2030."
+    },
+    {
+      "question": "[119] Conforme al Párrafo 4 del Marco de Acción, ¿cómo se integra la educación dentro de la estructura general de la Agenda 2030?",
+      "options": [
+        "Como un objetivo autónomo (ODS 4) e integrada transversalmente en metas de otros ODS (salud, empleo, consumo sostenible, cambio climático)",
+        "Exclusivamente como una nota aclaratoria dependiente del ODS 1 sobre erradicación de la pobreza",
+        "Como un programa opcional financiado exclusivamente por donaciones privadas",
+        "Como una meta técnica limitada a la formación universitaria de científicos"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Sección I, Párrafo 4",
+      "explicacion": "La educación se destaca como objetivo en sí mismo (ODS 4) y se integra transversalmente en metas sobre salud, empleo, consumo y clima."
+    },
+    {
+      "question": "[120] Según el Párrafo 8 del Marco de Acción, la educación es señalada como el medio más eficaz para:",
+      "options": [
+        "Lograr la igualdad entre hombres y mujeres, el empoderamiento económico de las mujeres y mejorar la salud familiar",
+        "Incrementar las exportaciones de productos primarios en países en desarrollo",
+        "Sustituir las lenguas maternas originarias por idiomas comerciales internacionales",
+        "Financiar los presupuestos de defensa y seguridad pública"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 8",
+      "explicacion": "La educación es el medio más eficaz para la igualdad de género, participación social/política, empoderamiento femenino y salud familiar."
+    },
+    {
+      "question": "[121] Según el Párrafo 11 del Marco de Acción, la convalidación del aprendizaje a lo largo de la vida requiere establecer mecanismos para:",
+      "options": [
+        "El reconocimiento, la validación y la acreditación de los conocimientos acquired mediante la educación no formal e informal",
+        "La anulación automática de títulos obtenidos fuera del sistema escolarizado tradicional",
+        "El cobro de aranceles estatales por cada certificado no formal emitido",
+        "La prohibición de cursos cortos de capacitación técnica para trabajadores"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 11",
+      "explicacion": "Se exige el reconocimiento, validación y acreditación de aprendizajes adquiridos mediante educación informal y no formal."
+    },
+    {
+      "question": "[122] Conforme al Párrafo 16 del Marco de Acción, para alcanzar el ODS 4 se requiere movilizar esfuerzos orientados a:",
+      "options": [
+        "Alianzas eficaces, políticas integradas, sistemas equitativos e inclusivos, movilización de recursos y supervisión/seguimiento",
+        "Centralización administrativa, arancelamiento universitario y privatización escolar",
+        "Reducción del gasto público docente e incremento de donaciones privadas",
+        "Sustitución de maestros por plataformas automatizadas sin tutoría humana"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 16",
+      "explicacion": "Se enumeran 5 enfoques estratégicos: alianzas, políticas, equidad/calidad, financiamiento adecuado y supervisión/seguimiento."
+    },
+    {
+      "question": "[123] Según el Párrafo 17 del Marco de Acción, los exámenes de políticas educativas para cumplir obligaciones normativas deben ser:",
+      "options": [
+        "Exámenes participativos de múltiples partes interesadas dirigidos por los gobiernos",
+        "Auditorías secretas llevadas a cabo por bancos privados internacionales",
+        "Evaluaciones exclusivas del Ministerio de Hacienda sin consulta pública",
+        "Informes anónimos elaborados por agencias publicitarias externas"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 17",
+      "explicacion": "Se insta a organizar exámenes participativos de múltiples partes interesadas dirigidos por los gobiernos."
+    },
+    {
+      "question": "[124] Según el Párrafo 21 del Marco de Acción, respecto a los niños, jóvenes y adultos con discapacidad, se enfatiza con preocupación:",
+      "options": [
+        "Las grandes dificultades de acceso a oportunidades educativas y la falta de datos que fundamenten intervenciones eficaces",
+        "Que constituyen el grupo con mayor financiamiento estatal en la región",
+        "Que sus necesidades están plenamente cubiertas en todos los países de ingresos bajos",
+        "Que no requieren adaptaciones curriculares ni infraestructuras accesibles"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 21",
+      "explicacion": "Se alerta sobre las graves dificultades de acceso y la falta de datos para diseñar programas e intervenciones oportunas."
+    },
+    {
+      "question": "[125] Según el Párrafo 24 del Marco de Acción, las políticas de educación para adultos analfabetos deben abordarse mediante:",
+      "options": [
+        "Enfoques intersectoriales que abarquen educación, ciencias, empleo, familia, desarrollo industrial, migración y bienestar social",
+        "Programas aislados de alfabetización sin vinculación laboral ni social",
+        "Cursos de pago obligatorio dictados exclusivamente en universidades privadas",
+        "Sanciones administrativas a quienes no sepan leer ni escribir"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 24",
+      "explicacion": "Se requieren enfoques intersectoriales que abarquen políticas de educación, tecnología, empleo, migración y bienestar social."
+    },
+    {
+      "question": "[126] Según el Párrafo 26 del Marco de Acción, los planes de educación deben incorporar medidas de resiliencia para fortalecer:",
+      "options": [
+        "La gestión del riesgo de desastres, la educación para la paz y la adaptación al cambio climático",
+        "La rentabilidad económica de las instituciones educativas privadas",
+        "La exclusión de estudiantes migrantes en zonas de frontera",
+        "La imposición de aranceles extraordinarios en situaciones de emergencia"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 26",
+      "explicacion": "Los planes deben comprender reducción del riesgo de desastres, educación para la paz y adaptación al cambio climático."
+    },
+    {
+      "question": "[127] Según el Párrafo 31 del Marco de Acción, las competencias adquiridas al finalizar la educación primaria y secundaria deben incluir:",
+      "options": [
+        "Competencias básicas de lectura, escritura y cálculo, saberes disciplinares y aptitudes cognitivas y no cognitivas",
+        "Únicamente destrezas de memorización de textos antiguos sin análisis crítico",
+        "Exclusivamente formación teórica sin aplicación práctica ni aptitudes sociales",
+        "Competencias exclusivas para el manejo de maquinaria pesada agrícola"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 31",
+      "explicacion": "Se exige una base sólida en lectoescritura, cálculo, saberes disciplinares y aptitudes cognitivas y no cognitivas (sociales, críticas, etc.)."
+    },
+    {
+      "question": "[128] Según el Párrafo 32 del Marco de Acción, además de la primera lengua, se recomienda en el currículo:",
+      "options": [
+        "Ofrecer al menos una lengua extranjera como asignatura",
+        "Prohibir la enseñanza de lenguas extranjeras en la escuela primaria pública",
+        "Exigir el dominio de cinco idiomas extranjeros antes de los 10 años",
+        "Sustituir la lengua materna por una lengua muerta en la educación secundaria"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 32",
+      "explicacion": "Habida cuenta de la interdependencia global, se recomienda ofrecer al menos una lengua extranjera como asignatura."
+    },
+    {
+      "question": "[129] Según el Párrafo 34 de las estrategias de la Meta 4.1, para los niños y adolescentes sin escolarizar se deben crear:",
+      "options": [
+        "Modalidades alternativas de aprendizaje y programas de equivalencia y transición reconocidos y acreditados por el Estado",
+        "Procesos judiciales sancionatorios contra los menores no escolarizados",
+        "Escuelas de internamiento obligatorio sin contacto familiar",
+        "Exámenes eliminatorios sin posibilidad de nivelación o reinserción"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 34",
+      "explicacion": "Se exige ofrecer modalidades alternativas y programas de equivalencia y transición reconocidos y acreditados por el Estado."
+    },
+    {
+      "question": "[130] Conforme al Párrafo 36 del Marco de Acción (Meta 4.2), la 'preparación para la escuela primaria' se refiere a:",
+      "options": [
+        "El logro de hitos en el desarrollo biológico, nutricional, lingüístico, cognitivo, social y emocional acorde con la edad",
+        "La aprobación de un examen estandarizado escrito de matemáticas y lectura",
+        "Tener una edad mínima obligatoria de 8 años cumplidos",
+        "El pago previo de la matrícula anual de inscripción primaria"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 36",
+      "explicacion": "Refiere al logro de hitos de desarrollo acordes con la edad en salud, nutrición, lenguaje, cognición y ámbito socioemocional."
+    },
+    {
+      "question": "[131] Según el Párrafo 37 del Marco de Acción, los programas de la primera infancia deben respaldar de manera primordial a:",
+      "options": [
+        "Las familias en tanto que primeras cuidadoras de los niños",
+        "Las empresas privadas de servicios infantiles sustitutivos",
+        "Los organismos internacionales de crédito financiero",
+        "Los internados estatales desconectados del entorno familiar"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 37",
+      "explicacion": "Se exige respaldar a las familias en tanto que primeras cuidadoras de los niños."
+    },
+    {
+      "question": "[132] Según el Párrafo 42 del Marco de Acción (Meta 4.3), el incremento de la movilidad internacional de estudiantes plantea el desafío de:",
+      "options": [
+        "Garantizar la comparabilidad, el reconocimiento y la garantía de calidad de las calificaciones académicas",
+        "Prohibir que los estudiantes egresados retornen a sus países de origen",
+        "Imponer impuestos de visado a todos los becarios internacionales",
+        "Estandarizar un único plan de estudios idéntico para todas las universidades del mundo"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 42",
+      "explicacion": "El incremento de movilidad requiere asegurar comparabilidad, reconocimiento y garantía de calidad de las calificaciones."
+    },
+    {
+      "question": "[133] Según el Párrafo 44 del Marco de Acción, para promover el aprendizaje a lo largo de la vida en la educación superior, se debe velar por:",
+      "options": [
+        "Crear oportunidades equitativas de acceso a las universidades para los adultos mayores y grupos vulnerables",
+        "Fijar un límite de edad de 35 años para el ingreso a la universidad",
+        "Excluir a las personas jubiladas de los programas de educación continua",
+        "Reservar la matriculación universitaria exclusivamente para jóvenes recién graduados de secundaria"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 44",
+      "explicacion": "Se demanda crear oportunidades equitativas de acceso a universidades para adultos mayores y vulnerables."
+    },
+    {
+      "question": "[134] Según el Párrafo 47 del Marco de Acción (Meta 4.4), los sistemas de EFTP deben reconocer y valorar:",
+      "options": [
+        "Las aptitudes adquiridas con la experiencia o en entornos no formales e informales, como el lugar de trabajo o Internet",
+        "Únicamente los diplomas expedidos por institutos privados arancelados",
+        "Exclusivamente las horas de clase teóricas impartidas en aula",
+        "La antigüedad en años de residencia en la capital del país"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 47",
+      "explicacion": "Los sistemas de EFTP deben reconocer y convalidar competencias adquiridas por la experiencia o en entornos no formales e informales."
+    },
+    {
+      "question": "[135] Según el Párrafo 50 de las estrategias de la Meta 4.4, para permitir la movilidad laboral y académica se deben elaborar:",
+      "options": [
+        "Marcos de calificaciones y colaboración para el reconocimiento transfronterizo de competencias",
+        "Exámenes eliminatorios únicos en idioma inglés obligatorios",
+        "Contratos de trabajo exclusivos por temporada sin prestaciones",
+        "Licencias de trabajo temporales sujetas a fianza económica"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 50",
+      "explicacion": "Se exige elaborar marcos de calificaciones y colaborar en el reconocimiento transfronterizo de títulos y competencias."
+    },
+    {
+      "question": "[136] Según el Párrafo 52 del Marco de Acción (Meta 4.5), la barrera más grande a la inclusión educativa en todas las regiones sigue siendo:",
+      "options": [
+        "La pobreza",
+        "La falta de computadoras de última generación",
+        "El tamaño reducido de los edificios escolares",
+        "La distancia a las capitales departamentales"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 52",
+      "explicacion": "El Párrafo 52 afirma categóricamente: 'La pobreza debe seguir siendo una cuestión prioritaria, ya que es aún la mayor barrera a la inclusión'."
+    },
+    {
+      "question": "[137] Según el Párrafo 55 del Marco de Acción, para garantizar la permanencia escolar de niñas y adolescentes se debe prestar atención especial a:",
+      "options": [
+        "Su seguridad personal en los establecimientos y en el trayecto de la escuela a la casa y viceversa",
+        "Prohibir que realicen actividades deportivas durante la jornada escolar",
+        "Exigir el pago de matrículas diferenciadas según el género",
+        "Reducir las horas de clase de ciencias para las mujeres"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 55",
+      "explicacion": "Se deben adoptar medidas especiales para velar por la seguridad personal en las escuelas y en el trayecto hacia y desde ellas."
+    },
+    {
+      "question": "[138] Conforme al Párrafo 57 del Marco de Acción, los gobiernos deben examinar planes de estudio y libros de texto para asegurar que:",
+      "options": [
+        "Estén exentos de estereotipos de género y promuevan la igualdad, la no discriminación y los derechos humanos",
+        "Contengan únicamente la historia oficial aprobada por partidos políticos",
+        "Eliminen las referencias a la diversidad cultural e indígena",
+        "Se enfoquen exclusivamente en ejercicios de memorización matemática"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 57",
+      "explicacion": "Se exige examinar libros y currículos para eliminar estereotipos de género y promover igualdad, no discriminación y derechos humanos."
+    },
+    {
+      "question": "[139] Según el Párrafo 60 del Marco de Acción (Meta 4.6), los programas de alfabetización de adultos deben vincularse directamente con:",
+      "options": [
+        "El desarrollo de aptitudes para un trabajo y nivel de vida dignos",
+        "La obligación de prestar servicio militar voluntario",
+        "El pago de impuestos sobre la propiedad inmueble",
+        "La afiliación obligatoria a sindicatos políticos"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 60",
+      "explicacion": "Los programas deben responder a las necesidades de los educandos y vincularse al desarrollo de aptitudes para el trabajo y vida digna."
+    },
+    {
+      "question": "[140] Según el Párrafo 63 de la Meta 4.7, los programas de EDS y ECM deben tomar en cuenta que la cultura desempeña un rol clave para:",
+      "options": [
+        "Lograr la sostenibilidad, crear conciencia sobre el patrimonio y fomentar el respeto por los derechos humanos",
+        "Fijar precios de venta en los mercados artesanales locales",
+        "Sustituir las asignaturas científicas por folclore regional",
+        "Limitar la educación a los grupos étnicos autóctonos"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 63",
+      "explicacion": "Garantizar que la educación reconozca el papel clave de la cultura para la sostenibilidad, el patrimonio y los derechos humanos."
+    },
+    {
+      "question": "[141] Según el Párrafo 66 de la Meta 4.a, la asignación de recursos escolares debe orientarse a corregir desigualdades mediante:",
+      "options": [
+        "El reparto equitativo entre escuelas favorecidas y desfavorecidas desde un punto de vista socioeconómico",
+        "Entregar mayores fondos a las escuelas de zonas de altos ingresos",
+        "Privilegiar únicamente a los centros educativos urbanos capitalinos",
+        "Condicionar la entrega de pupitres al rendimiento en exámenes estandarizados"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 66",
+      "explicacion": "Se exige repartir los recursos de manera equitativa entre escuelas favorecidas y desfavorecidas desde el punto de vista socioeconómico."
+    },
+    {
+      "question": "[142] Según el Párrafo 69 de la Meta 4.b, la adjudicación de becas internacionales debe caracterizarse por:",
+      "options": [
+        "Total transparencia y estar dirigida prioritariamente a jóvenes de medios desfavorecidos",
+        "Criterios confidenciales administrados por agencias de viajes privadas",
+        "Priorizar a los familiares directos de las autoridades de gobierno",
+        "Exigir el pago de una fianza económica bancaria antes de la postulación"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 69",
+      "explicacion": "Las becas deben otorgarse con total transparencia a jóvenes de medios desfavorecidos y alinearse a planes de desarrollo."
+    },
+    {
+      "question": "[143] Conforme al Párrafo 74 de la Meta 4.c, el marco de calificaciones docentes debe incluir a:",
+      "options": [
+        "Docentes, formadores de docentes, supervisores de docentes e inspectores",
+        "Únicamente a los profesores jubilados del sistema fiscal",
+        "Exclusivamente a los directores de colegios privados",
+        "A los estudiantes universitarios sin título pedagógico"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 74",
+      "explicacion": "Se debe elaborar un marco de calificaciones para docentes, formadores de docentes, supervisores e inspectores."
+    },
+    {
+      "question": "[144] Según el Párrafo 81 del Marco de Acción, ¿cuál es la contribución propia de los docentes en el diálogo sobre políticas educativas?",
+      "options": [
+        "Llevar las realidades de las aulas de clase a la primera fila del diálogo y crear un puente entre la política y la práctica",
+        "Administrar de forma exclusiva el presupuesto de infraestructura escolar",
+        "Sustituir a los inspectores del Ministerio en la fiscalización impositiva",
+        "Redactar las leyes nacionales sin consulta a la comunidad escolar"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 81",
+      "explicacion": "Los docentes aportan su profesionalismo, llevan las realidades del aula al diálogo y conectan la política con la práctica pedagógica."
+    },
+    {
+      "question": "[145] Según el Párrafo 83 del Marco de Acción, la comunidad de investigación contribuye al desarrollo educativo mediante:",
+      "options": [
+        "Investigaciones aplicables a las políticas, desarrollo de capacidades locales y propuesta de soluciones innovadoras",
+        "La venta de libros de texto comerciales a las familias",
+        "El cobro de patentes por cada método pedagógico utilizado en aula",
+        "La sustitución de los docentes por programas estadísticos"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 83",
+      "explicacion": "Investigación aplicable a políticas, desarrollo de capacidades locales de investigación y monitoreo de progresos y buenas prácticas."
+    },
+    {
+      "question": "[146] Según el Párrafo 89 del Marco de Acción, la coordinación regional eficaz se centra en:",
+      "options": [
+        "Recopilación de datos, exámenes cruzados entre países, aprendizaje mutuo, diálogo político y proyectos conjuntos",
+        "La unificación de las monedas nacionales de los países integrantes",
+        "La fijación arancelaria única para las universidades privadas",
+        "La creación de un único ministerio de educación continental centralizado"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 89",
+      "explicacion": "Centrada en recopilación de datos, exámenes cruzados, aprendizaje mutuo, diálogo de políticas, fortalecimiento de capacidades y proyectos conjuntos."
+    },
+    {
+      "question": "[147] Según el Párrafo 92 del Marco de Acción, entre las funciones de la UNESCO para coordinar la agenda Educación 2030 figura:",
+      "options": [
+        "Facilitar el diálogo sobre políticas, realizar el seguimiento mediante el IEU y el Informe GEM y reunir a las partes interesadas",
+        "Otorgar créditos financieros con tasa de interés comercial a las escuelas",
+        "Sancionar con multas a los países que no alcancen las metas en 2030",
+        "Nombrar directamente a los ministros de educación de los Estados Miembros"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 92",
+      "explicacion": "La UNESCO realiza actividades de promoción, desarrollo de capacidades, diálogo sobre políticas, seguimiento con el IEU/GEM y convocatorias."
+    },
+    {
+      "question": "[148] Según el Párrafo 103 del Marco de Acción, los principios básicos del enfoque de evaluación de los sistemas educativos incluyen:",
+      "options": [
+        "Centralidad de la calidad de la enseñanza y aprendizaje, liderazgo escolar, equidad, inclusión, transparencia y participación",
+        "Clasificación jerárquica punitiva de escuelas con menor presupuesto",
+        "Publicación de listas de docentes despedidos por bajo rendimiento",
+        "Evaluación exclusiva de las ganancias financieras de los colegios"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 103",
+      "explicacion": "Principios: centralidad de la calidad, liderazgo escolar, equidad e inclusión, transparencia y participación para desarrollo y rendición de cuentas."
+    },
+    {
+      "question": "[149] Según el Párrafo 107 del Marco de Acción, ¿cuál es la orientación requerida respecto a la ayuda oficial para la educación en los países de ingresos medianos-bajos?",
+      "options": [
+        "Invertir la tendencia a la baja de los flujos de AOD y no guiar la asignación únicamente por el ingreso per cápita",
+        "Eliminar por completo la ayuda oficial en países de ingresos medios",
+        "Exigir la devolución inmediata de todas las donaciones históricas",
+        "Condicionar la AOD a la privatización del sistema escolar público"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 107",
+      "explicacion": "Se demanda invertir la tendencia a la baja de la AOD a países de ingresos medianos-bajos y considerar vulnerabilidades más allá del ingreso per cápita."
+    },
+    {
+      "question": "[150] En conclusión, el Marco de Acción Educación 2030 establece que la visión renovada de la educación va más allá de un enfoque utilitarista integrando:",
+      "options": [
+        "Las múltiples dimensiones de la existencia humana, los derechos humanos, la ciudadanía mundial y la paz",
+        "La preparación exclusiva de mano de obra barata para la industria pesada",
+        "La maximización del rendimiento tributario mercantil de las escuelas",
+        "La eliminación de los estudios de ciencias sociales y filosofía"
+      ],
+      "answer": 0,
+      "fuente": "Marco de Acción, Párrafo 7 y Conclusión",
+      "explicacion": "Su visión holística y humanista va más allá del enfoque utilitarista, integrando la dignidad humana, ciudadanía mundial, democracia y desarrollo sostenible."
+    }
+  ]
+}

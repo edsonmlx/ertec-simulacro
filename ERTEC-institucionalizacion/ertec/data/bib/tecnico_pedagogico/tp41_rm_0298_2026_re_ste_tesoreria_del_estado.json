@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "tp41_rm_0298_2026_re_ste_tesoreria_del_estado",
+    "nombre": "R.M. N° 0298 Reglamento Específico del Sistema de Tesorería del Estado (RE-STE) del Ministerio de Educación",
+    "detalle": "9 de julio de 2026",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Dir. Administrativo Financiero ESFM",
+      "Téc. Presupuesto y Contabilidad"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

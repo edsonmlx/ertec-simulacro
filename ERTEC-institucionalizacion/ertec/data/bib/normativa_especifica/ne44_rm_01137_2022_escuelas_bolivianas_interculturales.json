@@ -1,0 +1,26 @@
+{
+  "bibliografia": {
+    "id": "ne44_rm_01137_2022_escuelas_bolivianas_interculturales",
+    "nombre": "R.M. N° 01137/2022 Reglamento General de funcionamiento de las Escuelas Bolivianas Interculturales",
+    "detalle": "2022",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Rector Formación Artística",
+      "Director Académico Artístico",
+      "Director Administrativo Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

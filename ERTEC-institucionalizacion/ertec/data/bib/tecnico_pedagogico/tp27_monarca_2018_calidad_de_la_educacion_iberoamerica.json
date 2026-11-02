@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp27_monarca_2018_calidad_de_la_educacion_iberoamerica",
+    "nombre": "Calidad de la educación en Iberoamérica: Discursos, políticas y prácticas",
+    "detalle": "Monarca, H. (Coord.) (2018). Dykinson",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Coordinador IEPC-PEC"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

@@ -1,0 +1,28 @@
+{
+  "bibliografia": {
+    "id": "tp31_lopez_gomez_2016_didactica_general_formacion_profesorado",
+    "nombre": "Didáctica general y formación del profesorado",
+    "detalle": "López Gómez, E. (Coord.), Cacheiro González, M. L., et al. (2016). Editorial UNIR",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Catedrático Docente",
+      "Docente Lengua Originaria",
+      "Docente Área Productiva",
+      "Docente de Apoyo / Intérprete",
+      "Docente Bienestar Estudiantil"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

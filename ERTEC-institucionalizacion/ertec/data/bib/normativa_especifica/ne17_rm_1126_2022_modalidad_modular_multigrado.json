@@ -1,0 +1,1826 @@
+{
+  "bibliografia": {
+    "id": "ne17_rm_1126_2022_modalidad_modular_multigrado",
+    "nombre": "R.M. N° 1126/2022 Reglamento de la Gestión Curricular e Institucional de la Modalidad de Atención Modular Multigrado de Educación Secundaria Comunitaria Productiva",
+    "detalle": "13 de diciembre de 2022",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Regular",
+      "Director Distrital"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "[1] ¿Cuál es el objeto principal del Reglamento aprobado mediante la R.M. N° 1126/2022 conforme a su Artículo 1?",
+      "options": [
+        "Normar la gestión curricular e institucional de la Modalidad de Atención Modular Multigrado en Educación Secundaria Comunitaria Productiva del Subsistema de Educación Regular, bajo dependencia de una U.E. de Primaria",
+        "Establecer el nuevo escalafón docente para colegios privados del área urbana",
+        "Reglamentar la transferencia de infraestructuras educativas a los municipios autónomos",
+        "Crear los Centros de Educación Alternativa en zonas de frontera con carácter autárquico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 1 establece que el objeto es normar la gestión curricular e institucional de la Modalidad de Atención Modular Multigrado en Secundaria Regular, bajo dependencia de una U.E. de Primaria."
+    },
+    {
+      "question": "[2] De acuerdo con el Artículo 1 del Reglamento de la R.M. N° 1126/2022, ¿de qué tipo de unidad educativa depende institucionalmente la Modalidad de Atención Modular Multigrado de Secundaria?",
+      "options": [
+        "De una Unidad Educativa de Educación Primaria Comunitaria Vocacional",
+        "De un Instituto Técnico Superior Departamental",
+        "Directamente de la Dirección Departamental de Educación sin intermediación",
+        "De un Centro de Educación Alternativa y Especial de la provincia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 1 señala expresamente que la modalidad modular multigrado de Secundaria se desarrolla bajo la dependencia de una U.E. de Primaria Comunitaria Vocacional."
+    },
+    {
+      "question": "[3] Según el Artículo 3 del Reglamento (Alcance), ¿a qué poblaciones específicas está destinada la Modalidad de Atención Modular Multigrado de Secundaria?",
+      "options": [
+        "Poblaciones que carecen de unidades educativas del nivel Secundario, con baja densidad estudiantil en fronteras, riberas de río, liberadoras y zonas de difícil acceso",
+        "Ciudades capitales con sobrepoblación estudiantil e infraestructura saturada",
+        "Exclusivamente a estudiantes de colegios privados nocturnos del área urbana",
+        "Poblaciones urbanas con más de 500 estudiantes por año de escolaridad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 3 establece que atiende a poblaciones sin U.E. secundarias, con baja densidad estudiantil en fronteras, riberas de río, liberadoras y zonas de difícil acceso."
+    },
+    {
+      "question": "[4] Conforme al Artículo 4 del Reglamento, ¿cuál de las siguientes afirmaciones expresa un OBJETIVO de la Modalidad Modular Multigrado de Secundaria?",
+      "options": [
+        "Brindar condiciones adecuadas para garantizar la obligatoriedad de la Educación Secundaria Comunitaria Productiva en poblaciones de frontera, riberas de río, liberadoras y zonas de difícil acceso",
+        "Privatizar la educación secundaria rural mediante cobro de matrículas comunitarias",
+        "Sustituir a los maestros titulados por egresados de bachillerato sin formación pedagógica",
+        "Eliminar la enseñanza de las áreas de ciencias exactas en zonas alejadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.b, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 4.b señala que uno de los objetivos es brindar condiciones para garantizar la obligatoriedad de Secundaria en zonas vulnerables y de difícil acceso."
+    },
+    {
+      "question": "[5] En el marco del Artículo 2 (Marco Legal) del Reglamento aprobado por la R.M. N° 1126/2022, ¿cuál de las siguientes normas reglamentarias de evaluación se menciona expresamente?",
+      "options": [
+        "Resolución Ministerial N° 0473/2021 de 20 de agosto de 2021",
+        "Resolución Ministerial N° 0141/2016 de 11 de abril de 2016",
+        "Decreto Supremo N° 29894 de 07 de febrero de 2009",
+        "Ley N° 1178 de 20 de julio de 1990"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.d, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 2.d cita expresamente la R.M. N° 0473/2021 que aprueba el Reglamento de Evaluación del Desarrollo Curricular."
+    },
+    {
+      "question": "[6] Según el Artículo 5.I del Reglamento, ¿de qué manera se desarrolla el trabajo de las maestras y maestros en la Modalidad de Atención Modular Multigrado?",
+      "options": [
+        "De manera 'Itinerante' en una zona de intervención con cuatro (4) unidades educativas mediante rotación por periodos de 50 días hábiles",
+        "De forma sedentaria permanente en una sola unidad educativa durante los 200 días del año",
+        "Mediante clases virtuales síncronas desde las capitales de departamento",
+        "Por periodos trimestrales de 90 días en tres colegios urbanos de convenio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 5.I establece que el trabajo es 'Itinerante' en una zona de 4 U.E. mediante rotación por periodos de 50 días hábiles."
+    },
+    {
+      "question": "[7] Conforme al Artículo 5.I y II, ¿cuántas Unidades Educativas integran una zona de intervención y en cuántos periodos de 50 días hábiles se cumplen los 4 Campos de Saberes en una gestión?",
+      "options": [
+        "Una zona consta de 4 Unidades Educativas y se cumplen los 4 Campos en 4 periodos de 50 días hábiles (200 días hábiles)",
+        "Una zona consta de 2 Unidades Educativas y se cumplen en 2 periodos de 100 días hábiles",
+        "Una zona consta de 6 Unidades Educativas y se cumplen en 3 periodos de 60 días hábiles",
+        "Una zona consta de 5 Unidades Educativas y se cumplen en 5 periodos de 40 días hábiles"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I y II, Reglamento RM 1126/2022",
+      "explicacion": "Cada zona consta de 4 U.E. atendidas por 4 maestros (uno por Campo), rotando en 4 periodos de 50 días hábiles para completar los 4 Campos en los 200 días escolares."
+    },
+    {
+      "question": "[8] De acuerdo con el Artículo 6 del Reglamento, ¿cómo se define la 'Modalidad Multigrado' en Educación Secundaria Comunitaria Productiva?",
+      "options": [
+        "La maestra o maestro trabaja con uno o más años de escolaridad, continuos o discontinuos, de manera simultánea",
+        "El maestro imparte clases exclusivamente a un solo año de escolaridad en aulas individuales",
+        "Se agrupa a los estudiantes por edades biológicas sin tomar en cuenta su avance curricular",
+        "Los estudiantes de distintos años cursan la materia en turnos nocturnos separados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 6 define la modalidad multigrado señalando que el maestro trabaja con uno o más años de escolaridad, continuos o discontinuos, de manera simultánea."
+    },
+    {
+      "question": "[9] Según el Artículo 7.I del Reglamento, ¿qué instancia realiza la selección de maestras y maestros cursantes del Diplomado 'Formación de Maestras/os de Educación Secundaria bajo la estrategia modular'?",
+      "options": [
+        "La Dirección General de Educación Secundaria",
+        "La Junta Escolar de Padres de Familia",
+        "El Gobierno Autónomo Municipal correspondiente",
+        "La Federación Departamental de Maestros Rurales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.I indica que la Dirección General de Educación Secundaria (DGES) selecciona a los docentes cursantes del diplomado mediante evaluación integral."
+    },
+    {
+      "question": "[10] Conforme al cuadro del Artículo 7.II del Reglamento, ¿qué especialidad de formación docente corresponde al Campo de Saberes y Conocimientos 'COMUNIDAD Y SOCIEDAD'?",
+      "options": [
+        "Comunicación y Lenguajes / Ciencias Sociales",
+        "Cosmovisiones, Filosofía y Psicología / Valores, Espiritualidad y Religiones",
+        "Física-Química / Biología-Geografía",
+        "Matemática / Técnica Tecnológica General"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Reglamento RM 1126/2022",
+      "explicacion": "El cuadro del Art. 7.II asigna las especialidades de Comunicación y Lenguajes y Ciencias Sociales al Campo Comunidad y Sociedad."
+    },
+    {
+      "question": "[11] Según el cuadro del Artículo 7.II del Reglamento, ¿a qué Campo de Saberes y Conocimientos corresponde la maestra o maestro con especialidad en 'FÍSICA-QUÍMICA' o 'BIOLOGÍA-GEOGRAFÍA'?",
+      "options": [
+        "Vida Tierra Territorio",
+        "Ciencia, Tecnología y Producción",
+        "Cosmos y Pensamiento",
+        "Comunidad y Sociedad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.II establece que la formación en Física-Química y Biología-Geografía corresponde al Campo Vida Tierra Territorio."
+    },
+    {
+      "question": "[12] De acuerdo con el Artículo 7.II, ¿qué especialidades de formación docente integran el Campo 'COSMOS Y PENSAMIENTO'?",
+      "options": [
+        "Cosmovisiones, Filosofía y Psicología / Valores, Espiritualidad y Religiones",
+        "Comunicación y Lenguajes / Ciencias Sociales",
+        "Matemática / Técnica Tecnológica General",
+        "Física-Química / Biología-Geografía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Reglamento RM 1126/2022",
+      "explicacion": "Cosmos y Pensamiento comprende las especialidades de Cosmovisiones, Filosofía y Psicología y Valores, Espiritualidad y Religiones."
+    },
+    {
+      "question": "[13] Según el Artículo 7.II, ¿qué especialidades docentes integran el Campo 'CIENCIA, TECNOLOGÍA Y PRODUCCIÓN'?",
+      "options": [
+        "Matemática / Técnica Tecnológica General (Técnica Vocacional, Taller General, Tecnología y Conocimiento Práctico)",
+        "Biología-Geografía / Educación Física y Deportes",
+        "Comunicación y Lenguajes / Lengua Extranjera",
+        "Artes Plásticas y Visuales / Educación Musical"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Reglamento RM 1126/2022",
+      "explicacion": "Ciencia, Tecnología y Producción integra las especialidades de Matemática y Técnica Tecnológica General."
+    },
+    {
+      "question": "[14] Conforme al Artículo 7.III del Reglamento, ¿cuántos documentos debe adjuntar la Dirección Distrital Educativa para la designación y posesión del maestro modular?",
+      "options": [
+        "Cinco (5) documentos: Informe de evaluación integral de DGES, Memorándum, Declaratoria en Comisión, Duplicado del RDA y Ficha de Compulsa (si corresponde)",
+        "Dos (2) documentos: Certificado de nacimiento y fotocopia de C.I.",
+        "Tres (3) documentos: Título en provisión nacional, certificado médico y récord policial",
+        "Un (1) documento: Acta de asamblea comunitaria de aprobación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.III, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.III enumera los 5 requisitos documentales obligatorios para la posesión y elaboración de planillas."
+    },
+    {
+      "question": "[15] En caso de no existir maestras y maestros cursantes del diplomado, ¿cuál es el procedimiento por etapas establecido en el Artículo 7.V del Reglamento?",
+      "options": [
+        "1ª convocatoria para docentes con pertinencia; 2ª instancia flexibilización a todas las áreas de Regular; y si persiste acefalía, invitación directa (debiendo el designado inscribirse y cursar el Diplomado)",
+        "Designación inmediata de personas particulares sin título pedagógico ni obligación de estudio",
+        "Cierre definitivo de la unidad educativa y traslado de los estudiantes a la capital",
+        "Contratación de profesores jubilados exentos de cualquier tipo de capacitación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.V, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.V norma el procedimiento de prelación: 1ª convocatoria con pertinencia, 2ª flexibilización a otras áreas de Regular, e invitación directa con compromiso obligatorio de cursar el diplomado."
+    },
+    {
+      "question": "[16] De acuerdo con el Artículo 7.VI del Reglamento, ¿qué sanción se aplica al personal modular seleccionado, designado o que abandone funciones dentro del periodo obligatorio de dos (2) años?",
+      "options": [
+        "No podrá participar en otros procesos de selección y designación durante toda la gestión educativa en la que abandone funciones",
+        "Inhabilitación de por vida para ejercer la docencia en Bolivia",
+        "Multa equivalente a tres sueldos mensuales depositados en la DDE",
+        "Descenso automático a la última categoría del Escalafón"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.VI, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.VI dispone que quien abandone funciones dentro de los 2 años obligatorios no podrá participar en otros procesos durante toda la gestión en que abandone."
+    },
+    {
+      "question": "[17] Conforme al Artículo 8.I del Reglamento, ¿cuál es la carga horaria asignada a los ítems de la Modalidad Modular Multigrado y cuántas horas pedagógicas diarias se deben cumplir?",
+      "options": [
+        "Asignados con una carga horaria de 120 horas, cumpliendo seis (6) horas pedagógicas de 45 minutos diarias durante la semana",
+        "Carga horaria de 80 horas con cuatro (4) horas pedagógicas diarias",
+        "Carga horaria de 160 horas con ocho (8) horas pedagógicas diarias",
+        "Carga horaria de 100 horas con cinco (5) horas pedagógicas diarias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 8.I fija que los ítems tienen 120 horas de carga horaria, cumpliendo 6 horas pedagógicas diarias de 45 minutos."
+    },
+    {
+      "question": "[18] Según el Artículo 8.I del Reglamento, si el maestro no cumple obligatoriamente con el calendario de 200 días hábiles, ¿cómo se compensan las jornadas faltantes?",
+      "options": [
+        "Podrá ampliarse a los fines de semana con el desarrollo de actividades socioproductivas",
+        "Se le descuenta el 50% de su sueldo en la planilla del mes siguiente",
+        "Se dictan clases nocturnas de 2 horas adicionales todos los días",
+        "Se transfieren las horas faltantes a la gestión escolar del año subsiguiente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 8.I prevé que ante el no cumplimiento de los 200 días hábiles, se podrá ampliar a los fines de semana con actividades socioproductivas."
+    },
+    {
+      "question": "[19] De acuerdo con el Artículo 8.II del Reglamento, ¿qué beneficio económico adicional perciben los ítems registrados en Unidades Educativas de la modalidad modular?",
+      "options": [
+        "Goce de Bono de Frontera o Bono Zona",
+        "Subsidio de vivienda en capitales de departamento",
+        "Bono de transporte aéreo mensual",
+        "Bono por sobreproducción agrícola"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 8.II establece expresamente el goce de Bono de Frontera o Bono Zona según el registro de la U.E."
+    },
+    {
+      "question": "[20] Conforme al Artículo 8.III y IV del Reglamento, ¿cuántos años de servicio en el SEP se reconocen al maestro por haber desempeñado funciones durante dos (2) años continuos en la modalidad modular multigrado en unidades con Bono Zona o en Frontera?",
+      "options": [
+        "Reconocimiento de dos (2) años de servicio en el SEP (actualizado automáticamente en el RDA)",
+        "Reconocimiento de un (1) año de servicio adicional únicamente",
+        "Reconocimiento de cuatro (4) años de servicio en el Escalafón",
+        "Sin ningún tipo de reconocimiento de tiempo de servicio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.III y IV, Reglamento RM 1126/2022",
+      "explicacion": "Los parágrafos III y IV del Art. 8 otorgan el reconocimiento de 2 años de servicio en el SEP por 2 años continuos de trabajo en la modalidad en U.E. con Bono Zona o Frontera."
+    },
+    {
+      "question": "[21] Según el Artículo 8.V del Reglamento, ¿cuántos puntos para compulsa de méritos se reconocen al docente por prestar servicio profesional durante dos años continuos en esta modalidad (registrado en RDA)?",
+      "options": [
+        "Reconocimiento de 10 puntos para compulsa de méritos",
+        "Reconocimiento de 5 puntos para compulsa de méritos",
+        "Reconocimiento de 20 puntos para compulsa de méritos",
+        "Reconocimiento de 15 puntos para compulsa de méritos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.V, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 8.V asigna el reconocimiento de 10 puntos para compulsa de méritos tras 2 años continuos de servicio registrado en el RDA."
+    },
+    {
+      "question": "[22] Conforme al Artículo 9.I del Reglamento, ¿quién emite la Declaratoria en Comisión para los docentes modulares y qué datos debe especificar fehacientemente?",
+      "options": [
+        "El Director Distrital de Educación, estableciendo específicamente los periodos de 50 días hábiles y las 4 Unidades Educativas de la zona",
+        "El Director de la Unidad Educativa de Primaria mediante nota simple",
+        "El Director Departamental de Educación mediante Resolución Administrativa quinquenal",
+        "El Ministro de Educación mediante Resolución Ministerial individual"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.I, Reglamento RM 1126/2022",
+      "explicacion": "El Director Distrital del cual dependen los ítems declara en comisión al docente detallando los 4 periodos de 50 días y las 4 U.E."
+    },
+    {
+      "question": "[23] Según el Artículo 9.II del Reglamento, ¿a qué instancia debe remitir la Dirección Distrital fotocopia legalizada de la Declaratoria en Comisión?",
+      "options": [
+        "A la o las Direcciones Departamentales de Educación de cuya jurisdicción dependan las Unidades Educativas",
+        "A la Policía Nacional y Fuerzas Armadas de la zona",
+        "Al Ministerio de Economía y Finanzas Públicas",
+        "A la Fiscalía General del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 9.II exige remitir fotocopia legalizada de la Declaratoria en Comisión a la DDE correspondiente para seguimiento y control."
+    },
+    {
+      "question": "[24] De acuerdo con el Artículo 10 del Reglamento, ¿dónde firman el reporte mensual los maestros itinerantes y a través de quién se remite a la Dirección Distrital y DDE?",
+      "options": [
+        "Firman en el Formulario de Parte Mensual de la U.E. de la cual dependen, siendo remitido por el Director de la U.E. a la Distrital y luego a la DDE",
+        "Firman digitalmente en la aplicación móvil de la DDE desde su teléfono personal",
+        "Firman en la Alcaldía municipal al finalizar cada trimestre",
+        "No requieren firmar ningún reporte mensual al estar en comisión"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 10 exige la firma en el Formulario de Parte Mensual de la U.E. de origen, remitido por su Director a la Distrital y DDE."
+    },
+    {
+      "question": "[25] Conforme al Artículo 11.I del Reglamento, ¿qué autoridad escolar amplía sus funciones de seguimiento sobre la o el maestro declarado en comisión en su sede?",
+      "options": [
+        "El Director de la Unidad Educativa de Educación Primaria Comunitaria Vocacional",
+        "El Alcalde Municipal del distrito rural",
+        "El Corregidor o Cacique de la comunidad originaria",
+        "El Subdirector de Educación Alternativa y Especial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 11.I señala que el Director de la U.E. de Primaria donde se encuentra en comisión el docente ampliará sus funciones de seguimiento."
+    },
+    {
+      "question": "[26] Según el Artículo 11.II del Reglamento, ¿cuál es la relación funcional y comunitaria de los maestros modulares durante su permanencia en la U.E. asignada?",
+      "options": [
+        "Desarrollan sus actividades en coordinación y dependencia de la Dirección de la U.E. donde están en comisión y participan de todas las actividades conjuntas de la comunidad",
+        "Trabajan de forma totalmente aislada sin contacto con el personal docente local",
+        "Dependen administrativamente del Corregidor local y no del Director de Primaria",
+        "Tienen prohibido participar en reuniones o actividades socioproductivas del colegio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 11.II establece que actúan bajo dependencia y coordinación del Director de la U.E. receptora y se integran a la comunidad educativa."
+    },
+    {
+      "question": "[27] De acuerdo con el Artículo 12.I y II del Reglamento, ¿quién es el responsable de supervisar, apoyar y realizar seguimiento al desarrollo curricular y administrativo de la modalidad modular?",
+      "options": [
+        "El Director Distrital de Educación de la jurisdicción (junto a los Directores de U.E.)",
+        "El Director General de Asuntos Jurídicos del Ministerio",
+        "El Gobernador del Departamento mediante la secretaría de desarrollo humano",
+        "El Comité de Vigilancia del Municipio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.I y II, Reglamento RM 1126/2022",
+      "explicacion": "El Director Distrital es responsable de supervisar, apoyar y dar seguimiento curricular/administrativo y de gestión de personal (RDA, bajas, etc.)."
+    },
+    {
+      "question": "[28] Conforme al Artículo 12.III del Reglamento, cuando la organización de la modalidad involucra a más de un Distrito Educativo, ¿qué acción deben realizar las autoridades?",
+      "options": [
+        "Los Directores Distritales involucrados deben coordinar acciones para garantizar el funcionamiento adecuado de la Modalidad",
+        "Se cancela la rotación y cada distrito contrata a sus propios docentes",
+        "Se transfiere el caso a la justicia ordinaria para dirimir competencias",
+        "Se suspenden las clases en los distritos secundarios afectados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.III, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 12.III dispone que cuando abarque más de un Distrito, los Directores Distritales involucrados deben coordinar directamente el funcionamiento."
+    },
+    {
+      "question": "[29] Según el Artículo 13.I del Reglamento, respecto a las zonas de trabajo, ¿pueden las 4 Unidades Educativas de una zona pertenecer a distintos distritos, municipios o departamentos?",
+      "options": [
+        "Sí, pueden pertenecer a más de un Distrito Educativo, Municipio o Departamento, debiendo estar relativamente próximas para facilitar la rotación",
+        "No, está estrictamente prohibido que pertenezcan a municipios distintos",
+        "Únicamente pueden pertenecer al mismo núcleo escolar urbano",
+        "Solo se permite si corresponden a un mismo cantón judicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 13.I aclara que las 4 U.E. pueden pertenecer a más de un Distrito, Municipio o Departamento, a condición de estar próximas para la rotación."
+    },
+    {
+      "question": "[30] Conforme al Artículo 13.III del Reglamento, al finalizar el periodo de 50 días hábiles en una U.E., ¿de cuántos días dispone el maestro para entregar documentación e inventario y desplazarse a la siguiente comunidad?",
+      "options": [
+        "Dispone de cinco (5) días hábiles",
+        "Dispone de diez (10) días hábiles",
+        "Dispone de un (1) día calendario",
+        "Dispone de quince (15) días hábiles"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.III, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 13.III otorga un plazo de 5 días hábiles al finalizar el módulo para entregar documentación e inventario y trasladarse a la siguiente U.E."
+    },
+    {
+      "question": "[31] De acuerdo con el Artículo 15 del Reglamento, ¿cómo está distribuido el calendario de trabajo de 200 días hábiles y qué instancia lo emite?",
+      "options": [
+        "Distribuidos en 4 periodos de 50 días hábiles cada uno, emitido por el Viceministerio de Educación Regular",
+        "Distribuidos en 3 trimestres de 66 días, emitido por la DDE",
+        "Distribuidos en 2 semestres de 100 días, emitido por la Dirección Distrital",
+        "Distribuidos en 10 módulos de 20 días, emitido por la UGP-SEP"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 15 fija 200 días hábiles distribuidos en 4 periodos de 50 días hábiles, bajo el calendario emitido por el Viceministerio de Educación Regular."
+    },
+    {
+      "question": "[32] Según el Artículo 16 del Reglamento, ¿quiénes son los responsables directos de la inscripción de los estudiantes al inicio de la gestión escolar?",
+      "options": [
+        "La Directora o Director de la Unidad Educativa de Primaria Comunitaria Vocacional en coordinación con el maestro del Campo correspondiente",
+        "El Secretario de Desarrollo Humano del Municipio junto al Control Social",
+        "El Director Departamental de Educación en persona",
+        "El Presidente de la Junta Nacional de Padres de Familia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 16 asigna la responsabilidad de inscripción al Director de la U.E. de Primaria en coordinación con el docente modular del Campo."
+    },
+    {
+      "question": "[33] Conforme al Artículo 17.I del Reglamento, ¿qué documentos se deben presentar para la inscripción regular de los estudiantes?",
+      "options": [
+        "La Libreta Escolar de la última gestión cursada y un documento personal (Certificado de Nacimiento, C.I., Libreta Militar u otro)",
+        "Exclusivamente el pasaporte diplomático o visa de estudiante",
+        "Título en provisión nacional y certificado de antecedentes judiciales",
+        "Fe de bautismo firmada por el obispo de la diócesis"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 17.I exige la libreta escolar previa y cualquier documento de identidad personal."
+    },
+    {
+      "question": "[34] En caso de inexistencia de documentos personales al momento de la inscripción (Art. 17.II), ¿cuál es el plazo fijado en el Acta de Compromiso para regularizar los papeles y quiénes deben coadyuvar?",
+      "options": [
+        "Plazo de 120 días; coadyuvan DDE, Dirección Distrital, Director de U.E., Maestro Modular y autoridades locales",
+        "Plazo de 30 días; coadyuva únicamente el apoderado legal",
+        "Plazo de 365 días; coadyuva el Tribunal Electoral",
+        "Plazo de 10 días hábiles sin prorroga"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 17.II establece 120 días de plazo bajo Acta de Compromiso, involucrando a autoridades educativas y locales para gestionar la documentación."
+    },
+    {
+      "question": "[35] De acuerdo con el Artículo 17.III del Reglamento, ¿quiénes deben gestionar el cumplimiento de los requisitos para la obtención del Diploma de Bachiller de los estudiantes de la modalidad modular?",
+      "options": [
+        "La DDE, Dirección Distrital, Director de U.E., Maestra/o de la modalidad y autoridades locales",
+        "El Ministerio de Relaciones Exteriores exclusivamente",
+        "Los propios estudiantes de forma individual sin apoyo institucional",
+        "Las agencias privadas de tramitación universitaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.III, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 17.III compromete la gestión conjunta de autoridades educativas (DDE, Distrital, U.E., docentes) y locales para el Diploma de Bachiller."
+    },
+    {
+      "question": "[36] Según el Artículo 18.II del Reglamento, en poblaciones donde NO exista Centro de Educación Alternativa (CEA), ¿qué medida excepcional se aplica a estudiantes mayores de 18 años?",
+      "options": [
+        "Se permitirá de forma excepcional el registro de los mismos en la Modalidad de Atención Modular Multigrado de Secundaria",
+        "Se les prohíbe rotundamente el acceso a la educación pública",
+        "Se les obliga a trasladarse a pie a la capital de departamento",
+        "Se los inscribe automáticamente en institutos militares de frontera"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 18.II permite excepcionalmente inscribir a mayores de 18 años en la modalidad modular secundaria si no hay un CEA en la población."
+    },
+    {
+      "question": "[37] Conforme al Artículo 20 del Reglamento, ¿quién genera el Registro Único de Estudiantes (RUDE) cuando el estudiante carece de él?",
+      "options": [
+        "La Maestra o Maestro de la Modalidad Modular Multigrado conjuntamente el Director de la U.E. de Primaria correspondiente",
+        "El funcionario del SERECI en la capital de municipio",
+        "El propio estudiante mediante formulario web en línea",
+        "El Técnico de Sistemas de la Dirección Departamental de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 20 asigna la generación del RUDE al maestro modular junto al Director de la U.E. de Primaria."
+    },
+    {
+      "question": "[38] Según el Artículo 21.I y II del Reglamento, ¿quién realiza el reporte en el SIE del Inicio y Cierre de Gestión y cómo se procede si solo hay un Director Encargado?",
+      "options": [
+        "Lo realiza el Director de la U.E. de la que depende; si es Director Encargado, coordina con el maestro modular y la Dirección de Núcleo o U.E. matriz",
+        "Lo realiza el Secretario del Sindicato de Maestros de la zona",
+        "Lo realiza la DDE desde su sede sin consultar a la unidad educativa",
+        "Lo realiza el Alcalde Municipal durante el desfile patrio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.I y II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 21 norma que el reporte SIE lo hace el Director titular o, si es encargado, coordinando con el docente modular y la Dirección de Núcleo."
+    },
+    {
+      "question": "[39] De acuerdo con el Artículo 22 del Reglamento, ¿qué trámite deben realizar los Directores de U.E. de Primaria o de Núcleo ante la DDE para consolidar la oferta modular de Secundaria?",
+      "options": [
+        "Las gestiones para la emisión de la Resolución Administrativa de ampliación del nivel de Educación Secundaria Comunitaria Productiva",
+        "La solicitud de personería jurídica municipal como U.E. privada",
+        "La tramitación de un préstamo bancario institucional con garantía estatal",
+        "La firma de un convenio de privatización curricular"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 22 dispone que se debe tramitar ante la DDE la Resolución Administrativa de ampliación del nivel Secundario."
+    },
+    {
+      "question": "[40] Según el Artículo 23 del Reglamento, ¿cuáles son las cuatro (4) Áreas de Saberes y Conocimientos que integran el Campo 'COSMOS Y PENSAMIENTO'?",
+      "options": [
+        "Cosmovisiones, Filosofía y Psicología / Valores, Espiritualidad y Religiones / Educación Musical / Artes Plásticas y Visuales",
+        "Comunicación y Lenguajes / Ciencias Sociales / Lengua Extranjera / Lengua Originaria",
+        "Biología-Geografía / Física-Química / Educación Física / Salud",
+        "Matemática / Técnica Tecnológica General / Computación / Robótica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Reglamento RM 1126/2022",
+      "explicacion": "El cuadro del Art. 23 estructura Cosmos y Pensamiento con Cosmovisiones/Filosofía/Psicología, Valores/Espiritualidad/Religiones, Ed. Musical y Artes Plásticas."
+    },
+    {
+      "question": "[41] Conforme al Artículo 23 del Reglamento, ¿qué áreas del conocimiento componen el Campo 'COMUNIDAD Y SOCIEDAD' en la estructura curricular modular?",
+      "options": [
+        "Comunicación y Lenguajes / Ciencias Sociales / Lengua extranjera",
+        "Matemática / Técnica Tecnológica General",
+        "Física-Química / Biología-Geografía / Educación Física",
+        "Filosofía / Religión / Artes Plásticas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Reglamento RM 1126/2022",
+      "explicacion": "Comunidad y Sociedad comprende Comunicación y Lenguajes, Ciencias Sociales y Lengua extranjera."
+    },
+    {
+      "question": "[42] Según el Artículo 23 del Reglamento, ¿qué áreas del conocimiento componen el Campo 'VIDA TIERRA TERRITORIO'?",
+      "options": [
+        "Biología - Geografía / Física - Química / Educación Física y Deportes",
+        "Cosmovisiones / Filosofía / Artes Plásticas",
+        "Matemática / Técnica Tecnológica",
+        "Comunicación / Lengua Extranjera / Ciencias Sociales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Reglamento RM 1126/2022",
+      "explicacion": "Vida Tierra Territorio integra Biología-Geografía, Física-Química y Educación Física y Deportes."
+    },
+    {
+      "question": "[43] De acuerdo con el Artículo 23 del Reglamento, ¿qué áreas integran el Campo 'CIENCIA, TECNOLOGÍA Y PRODUCCIÓN'?",
+      "options": [
+        "Matemática / Técnica Tecnológica General",
+        "Ciencias Sociales / Filosofía",
+        "Educación Musical / Lengua Extranjera",
+        "Biología - Geografía / Psicología"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Reglamento RM 1126/2022",
+      "explicacion": "Ciencia, Tecnología y Producción integra las áreas de Matemática y Técnica Tecnológica General."
+    },
+    {
+      "question": "[44] Conforme al Artículo 24.I y II del Reglamento, ¿cuál es el rol exclusivo del personal designado por el Ministerio de Educación para el seguimiento en los distritos modulares?",
+      "options": [
+        "Rol exclusivo de apoyo y seguimiento pedagógico, brindando orientaciones para la concreción de elementos curriculares y el PSP",
+        "Rol sancionador y de procesamiento sumario a los docentes",
+        "Rol de fiscalización presupuestaria de las obras municipales",
+        "Rol de toma de exámenes directos de graduación a los alumnos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24.I y II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 24.II aclara que su rol es exclusivamente de apoyo y seguimiento pedagógico para articular el currículo con el PSP."
+    },
+    {
+      "question": "[45] Según el Artículo 25 del Reglamento, ¿cómo se realiza la evaluación y calificación del desarrollo curricular en la modalidad modular?",
+      "options": [
+        "El desarrollo curricular es integral por Campo; la evaluación y calificación se asigna por áreas y es única para todos y cada uno de los periodos correspondientes",
+        "Se califica de forma global con una sola nota para todas las materias del año",
+        "Se evalúa semanalmente mediante exámenes estandarizados enviados desde La Paz",
+        "La nota es asignada libremente por las autoridades originarias de la comunidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 25 señala que la enseñanza es integral por Campo pero la evaluación/calificación se desglosa y asigna por áreas de forma única por periodo."
+    },
+    {
+      "question": "[46] De acuerdo con el Artículo 26.V del Reglamento, ¿a la valoración de qué dimensiones del desarrollo humano debe estar orientada la Autoevaluación del estudiante?",
+      "options": [
+        "A la valoración de las dimensiones del Ser y Decidir (de forma paralela a la evaluación final del periodo)",
+        "Exclusivamente a la dimensión del Saber (conocimiento memorístico)",
+        "A la dimensión del Hacer únicamente (destrezas físicas)",
+        "A la medición del coeficiente intelectual cuantitativo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26.V, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 26.V establece que la autoevaluación se orienta a la valoración cualitativa y cuantitativa de las dimensiones del Ser y Decidir."
+    },
+    {
+      "question": "[47] Conforme al Artículo 27.I y II del Reglamento, ¿cuándo se realiza la Evaluación Comunitaria y dónde deben registrarse sus aspectos más relevantes?",
+      "options": [
+        "Se realiza al finalizar el periodo establecido (con maestros, padres y autoridades en diálogo intercultural) y se registra en el Cuaderno Pedagógico",
+        "Se realiza al inicio del año y se registra en la libreta militar del estudiante",
+        "Se realiza cada fin de semana y se archiva en la Alcaldía municipal",
+        "Se realiza únicamente en caso de reprobación masiva de alumnos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27.I y II, Reglamento RM 1126/2022",
+      "explicacion": "La Evaluación Comunitaria reúne a maestros, padres y comunidad al concluir los 50 días de módulo, asentando acuerdos en el Cuaderno Pedagógico."
+    },
+    {
+      "question": "[48] Según el Artículo 28.I y II del Reglamento, al rotar a otra U.E., ¿cómo entrega el maestro las calificaciones y qué debe hacer el Director receptor?",
+      "options": [
+        "Entrega en medio magnético e impreso firmando Acta de entrega; el Director las registra en las libretas electrónicas y archiva copia",
+        "Entrega verbalmente en reunión de consejo de profesores sin firmar ningún documento",
+        "Envía las notas por correo postal directamente a los padres de familia",
+        "Retiene las notas en su poder hasta que concluyan los dos años de rotación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28.I y II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 28 dispone la entrega formal en formato impreso y digital con Acta de entrega, para su cargado por el Director al sistema de libretas electrónicas."
+    },
+    {
+      "question": "[49] De acuerdo con el Artículo 29 del Reglamento, ¿qué libreta escolar se utiliza en la Modalidad Modular Multigrado de Secundaria?",
+      "options": [
+        "La Libreta Escolar Electrónica del Subsistema de Educación Regular, con vigencia y validez en todo el territorio nacional",
+        "Una libreta especial de cartón emitida por el Municipio",
+        "Un certificado de notas provisional sin valor legal fuera del distrito",
+        "La libreta de calificaciones del Subsistema de Educación Alternativa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 29 aclara que se utiliza la misma Libreta Escolar Electrónica del Subsistema Regular con plena validez nacional."
+    },
+    {
+      "question": "[50] Conforme al Artículo 30 del Reglamento (Promoción y Transferencia), ¿cuál es la regla estricta de transferencia para un estudiante durante la gestión escolar?",
+      "options": [
+        "Mientras no termine la gestión escolar, no puede transferirse a ninguna otra U.E., salvo que sea en la misma Modalidad Modular y con los mismos campos desarrollados",
+        "Puede transferirse libremente a cualquier colegio urbano en cualquier momento del mes",
+        "Tiene prohibido cambiarse de colegio incluso si concluye los 4 módulos del año",
+        "Puede transferirse a institutos universitarios sin haber terminado la secundaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 30 exige concluir los 4 módulos para cambiar de U.E. regular, prohibiendo transferencias a mitad de año salvo entre U.E. modulares con idénticos campos avanzados."
+    },
+    {
+      "question": "[51] Según el Artículo 31 del Reglamento, ¿cuáles son los Mecanismos de Apoyo y Seguimiento que el maestro puede aplicar para garantizar la calidad educativa?",
+      "options": [
+        "Tutorías individuales y colectivas, adaptaciones curriculares, evaluación comunitaria en el periodo y eventos de reforzamiento",
+        "Exámenes de eliminación directa y expulsión de alumnos atrasados",
+        "Cobro de clases particulares obligatorias los días domingos",
+        "Asignación de tareas pesadas de trabajo agrícola como castigo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 31 faculta el uso de tutorías, adaptaciones curriculares, reforzamiento y evaluación comunitaria continua para apoyar el aprendizaje."
+    },
+    {
+      "question": "[52] De acuerdo con el Artículo 32.II y IV del Reglamento, ¿cómo se distribuyen las 6 horas pedagógicas diarias entre el turno mañana y el turno tarde?",
+      "options": [
+        "Cuatro (4) sesiones en el turno mañana y dos (2) sesiones en el turno tarde (de 45 minutos cada una)",
+        "Tres (3) sesiones en la mañana y tres (3) sesiones en la tarde",
+        "Seis (6) sesiones continuas en el turno de la noche",
+        "Cinco (5) sesiones en la mañana y una (1) sesión en la tarde"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.II y IV, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 32.IV especifica que se desarrollan 4 sesiones por la mañana y 2 sesiones por la tarde, completando las 6 horas pedagógicas diarias."
+    },
+    {
+      "question": "[53] Conforme al cuadro del Artículo 32.III del Reglamento, ¿qué actividad pedagógica corresponde a las Sesiones 1 y 2 del turno de la mañana?",
+      "options": [
+        "Organización y desarrollo del proceso educativo",
+        "Descanso de medio día y almuerzo",
+        "Plenarias y conclusiones del desarrollo educativo",
+        "Cierre y evaluación de la jornada con tareas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.III, Reglamento RM 1126/2022",
+      "explicacion": "El cuadro del Art. 32.III establece que las Sesiones 1 y 2 se dedican a la organización y desarrollo del proceso educativo."
+    },
+    {
+      "question": "[54] Según el cuadro del Artículo 32.III del Reglamento, ¿qué actividades se desarrollan en las Sesiones 5 y 6 del turno de la tarde?",
+      "options": [
+        "Sesión 5: Plenarias y conclusiones del desarrollo educativo; Sesión 6: Cierre y evaluación de la jornada (socialización y tareas)",
+        "Sesiones 5 y 6: Recreo largo y actividades deportivas únicamente",
+        "Sesiones 5 y 6: Exámenes teóricos escritos exclusivamente",
+        "Sesión 5: Almuerzo comunitario; Sesión 6: Aseo del establecimiento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.III, Reglamento RM 1126/2022",
+      "explicacion": "Las Sesiones 5 y 6 corresponden a las plenarias/conclusiones y al cierre/evaluación de la jornada escolar respectivamente."
+    },
+    {
+      "question": "[55] De acuerdo con el Artículo 33 del Reglamento, ¿cuál es el procedimiento e instancias requeridas para la REUBICACIÓN del punto de atención de una U.E. modular?",
+      "options": [
+        "Procederá previo informe emitido por la Dirección Distrital Educativa y aprobado por la Subdirección de Educación Regular",
+        "Por simple decisión verbal del maestro itinerante sin consultar a nadie",
+        "Mediante voto resolutivo de la junta vecinal urbana",
+        "Por orden directa del comandante militar de la guarnición"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 33 exige un informe previo emitido por la Dirección Distrital y aprobado formalmente por la Subdirección de Educación Regular."
+    },
+    {
+      "question": "[56] Conforme al Artículo 33.c del Reglamento, ¿cuál es la causal por CANTIDAD DE ESTUDIANTES que exige solicitar el traslado de la modalidad modular a otra población?",
+      "options": [
+        "Cuando las U.E. de Atención Modular Multigrado tuvieran MÁS DE 10 ESTUDIANTES por año de escolaridad",
+        "Cuando la unidad educativa cuente con exactamente 50 estudiantes en total",
+        "Cuando la unidad educativa tenga menos de 2 estudiantes en toda la escuela",
+        "Cuando el número de estudiantes sea mayor a 100 por aula"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33.c, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 33.c establece que si la U.E. llega a tener más de 10 estudiantes por año de escolaridad, se debe solicitar el traslado a otra población de menor densidad (pasando a modalidad regular tradicional)."
+    },
+    {
+      "question": "[57] Según el Artículo 33.a y b del Reglamento, ¿en qué otras dos situaciones procede la reubicación del módulo a otra población?",
+      "options": [
+        "a) Cuando la U.E. ya no cuente con estudiantes que lo requieran; b) Cuando las U.E. se encuentren en zonas urbanas y existan medios de transporte accesibles",
+        "a) Cuando los maestros soliciten permuta a la capital; b) Cuando se construya un coliseo cerrado",
+        "a) Cuando el clima sea muy lluvioso; b) Cuando falten textos escolares",
+        "a) Por discrepancias políticas locales; b) Por cambio de director distrital"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33.a y b, Reglamento RM 1126/2022",
+      "explicacion": "Las causales a y b contemplan la falta de estudiantes necesitados o la conversión de la zona en área urbana con transporte accesible."
+    },
+    {
+      "question": "[58] Conforme a la Disposición Transitoria Segunda del Reglamento, ¿qué instancia realiza la actualización automática de los Códigos de Cargo de la Modalidad Modular Multigrado?",
+      "options": [
+        "La Unidad de Gestión de Personal del SEP (UGP-SEP) en coordinación con la Dirección General de Educación Secundaria",
+        "El Ministerio de Trabajo, Empleo y Previsión Social",
+        "La Dirección Departamental de Autonomías",
+        "El Instituto Nacional de Estadística (INE)"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Segunda, Reglamento RM 1126/2022",
+      "explicacion": "La Transitoria Segunda encarga a la UGP-SEP la actualización automática de Códigos de Cargo junto a la DGES."
+    },
+    {
+      "question": "[59] De acuerdo con la Disposición Transitoria Tercera del Reglamento, ¿cómo se regularizan los ítems que no se encontraban en el techo presupuestario para la gestión 2023?",
+      "options": [
+        "Se regularizarán los ítems en el distrito y Departamento en el que se esté trabajando con dicha modalidad, proceso que reemplazará por ítems de nueva creación",
+        "Se recortará el 20% del salario a todos los maestros del país",
+        "Se clausurará la modalidad modular en todos los distritos del departamento",
+        "Se exigirá el pago retroactivo de salarios a los padres de familia"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Tercera, Reglamento RM 1126/2022",
+      "explicacion": "La Transitoria Tercera prevé la regularización presupuestaria de ítems en los distritos de trabajo mediante reemplazo por ítems de nueva creación."
+    },
+    {
+      "question": "[60] Según la Disposición Transitoria Cuarta del Reglamento, ¿qué beneficio especial en equipamiento tecnológico se otorga con prioridad y por única vez a los maestros modulares?",
+      "options": [
+        "Prioridad para el beneficio de la dotación de computadoras, por única vez, mientras se encuentren ejerciendo funciones en la modalidad",
+        "Dotación de teléfonos satelitales con internet ilimitado de por vida",
+        "Entrega de motocicletas 0 km para sus desplazamientos",
+        "Dotación de paneles solares para sus domicilios privados"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Cuarta, Reglamento RM 1126/2022",
+      "explicacion": "La Transitoria Cuarta asigna prioridad por única vez en la dotación de computadoras a los docentes en ejercicio activo en la modalidad modular."
+    },
+    {
+      "question": "[61] En conclusión, la Resolución Ministerial N° 1126/2022 de 13 de diciembre de 2022 constituye una norma estratégica fundamental en Bolivia porque:",
+      "options": [
+        "Garantiza el derecho a la Educación Secundaria obligatoria y gratuita en poblaciones alejadas, de frontera y difícil acceso, mediante una gestión curricular e institucional modular itinerante de alta pertinencia",
+        "Elimina el nivel de educación secundaria en el área rural boliviana",
+        "Sustituye a los maestros del Escalafón por voluntarios internacionales",
+        "Obliga a los estudiantes rurales a abandonar sus comunidades para estudiar en las ciudades"
+      ],
+      "answer": 0,
+      "fuente": "Consolidado R.M. N° 1126/2022",
+      "explicacion": "La R.M. 1126/2022 reglamenta la atención modular multigrado garantizando la continuidad y obligatoriedad de Secundaria en zonas vulnerables."
+    },
+    {
+      "question": "[62] ¿Cuál es el objeto principal del Reglamento aprobado mediante la R.M. N° 1126/2022 conforme a su Artículo 1? (Enfoque de evaluación 2)",
+      "options": [
+        "Normar la gestión curricular e institucional de la Modalidad de Atención Modular Multigrado en Educación Secundaria Comunitaria Productiva del Subsistema de Educación Regular, bajo dependencia de una U.E. de Primaria",
+        "Establecer el nuevo escalafón docente para colegios privados del área urbana",
+        "Reglamentar la transferencia de infraestructuras educativas a los municipios autónomos",
+        "Crear los Centros de Educación Alternativa en zonas de frontera con carácter autárquico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 1 establece que el objeto es normar la gestión curricular e institucional de la Modalidad de Atención Modular Multigrado en Secundaria Regular, bajo dependencia de una U.E. de Primaria."
+    },
+    {
+      "question": "[63] De acuerdo con el Artículo 1 del Reglamento de la R.M. N° 1126/2022, ¿de qué tipo de unidad educativa depende institucionalmente la Modalidad de Atención Modular Multigrado de Secundaria? (Enfoque de evaluación 2)",
+      "options": [
+        "De una Unidad Educativa de Educación Primaria Comunitaria Vocacional",
+        "De un Instituto Técnico Superior Departamental",
+        "Directamente de la Dirección Departamental de Educación sin intermediación",
+        "De un Centro de Educación Alternativa y Especial de la provincia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 1 señala expresamente que la modalidad modular multigrado de Secundaria se desarrolla bajo la dependencia de una U.E. de Primaria Comunitaria Vocacional."
+    },
+    {
+      "question": "[64] Según el Artículo 3 del Reglamento (Alcance), ¿a qué poblaciones específicas está destinada la Modalidad de Atención Modular Multigrado de Secundaria? (Enfoque de evaluación 2)",
+      "options": [
+        "Poblaciones que carecen de unidades educativas del nivel Secundario, con baja densidad estudiantil en fronteras, riberas de río, liberadoras y zonas de difícil acceso",
+        "Ciudades capitales con sobrepoblación estudiantil e infraestructura saturada",
+        "Exclusivamente a estudiantes de colegios privados nocturnos del área urbana",
+        "Poblaciones urbanas con más de 500 estudiantes por año de escolaridad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 3 establece que atiende a poblaciones sin U.E. secundarias, con baja densidad estudiantil en fronteras, riberas de río, liberadoras y zonas de difícil acceso."
+    },
+    {
+      "question": "[65] Conforme al Artículo 4 del Reglamento, ¿cuál de las siguientes afirmaciones expresa un OBJETIVO de la Modalidad Modular Multigrado de Secundaria? (Enfoque de evaluación 2)",
+      "options": [
+        "Brindar condiciones adecuadas para garantizar la obligatoriedad de la Educación Secundaria Comunitaria Productiva en poblaciones de frontera, riberas de río, liberadoras y zonas de difícil acceso",
+        "Privatizar la educación secundaria rural mediante cobro de matrículas comunitarias",
+        "Sustituir a los maestros titulados por egresados de bachillerato sin formación pedagógica",
+        "Eliminar la enseñanza de las áreas de ciencias exactas en zonas alejadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.b, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 4.b señala que uno de los objetivos es brindar condiciones para garantizar la obligatoriedad de Secundaria en zonas vulnerables y de difícil acceso."
+    },
+    {
+      "question": "[66] En el marco del Artículo 2 (Marco Legal) del Reglamento aprobado por la R.M. N° 1126/2022, ¿cuál de las siguientes normas reglamentarias de evaluación se menciona expresamente? (Enfoque de evaluación 2)",
+      "options": [
+        "Resolución Ministerial N° 0473/2021 de 20 de agosto de 2021",
+        "Resolución Ministerial N° 0141/2016 de 11 de abril de 2016",
+        "Decreto Supremo N° 29894 de 07 de febrero de 2009",
+        "Ley N° 1178 de 20 de julio de 1990"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.d, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 2.d cita expresamente la R.M. N° 0473/2021 que aprueba el Reglamento de Evaluación del Desarrollo Curricular."
+    },
+    {
+      "question": "[67] Según el Artículo 5.I del Reglamento, ¿de qué manera se desarrolla el trabajo de las maestras y maestros en la Modalidad de Atención Modular Multigrado? (Enfoque de evaluación 2)",
+      "options": [
+        "De manera 'Itinerante' en una zona de intervención con cuatro (4) unidades educativas mediante rotación por periodos de 50 días hábiles",
+        "De forma sedentaria permanente en una sola unidad educativa durante los 200 días del año",
+        "Mediante clases virtuales síncronas desde las capitales de departamento",
+        "Por periodos trimestrales de 90 días en tres colegios urbanos de convenio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 5.I establece que el trabajo es 'Itinerante' en una zona de 4 U.E. mediante rotación por periodos de 50 días hábiles."
+    },
+    {
+      "question": "[68] Conforme al Artículo 5.I y II, ¿cuántas Unidades Educativas integran una zona de intervención y en cuántos periodos de 50 días hábiles se cumplen los 4 Campos de Saberes en una gestión? (Enfoque de evaluación 2)",
+      "options": [
+        "Una zona consta de 4 Unidades Educativas y se cumplen los 4 Campos en 4 periodos de 50 días hábiles (200 días hábiles)",
+        "Una zona consta de 2 Unidades Educativas y se cumplen en 2 periodos de 100 días hábiles",
+        "Una zona consta de 6 Unidades Educativas y se cumplen en 3 periodos de 60 días hábiles",
+        "Una zona consta de 5 Unidades Educativas y se cumplen en 5 periodos de 40 días hábiles"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I y II, Reglamento RM 1126/2022",
+      "explicacion": "Cada zona consta de 4 U.E. atendidas por 4 maestros (uno por Campo), rotando en 4 periodos de 50 días hábiles para completar los 4 Campos en los 200 días escolares."
+    },
+    {
+      "question": "[69] De acuerdo con el Artículo 6 del Reglamento, ¿cómo se define la 'Modalidad Multigrado' en Educación Secundaria Comunitaria Productiva? (Enfoque de evaluación 2)",
+      "options": [
+        "La maestra o maestro trabaja con uno o más años de escolaridad, continuos o discontinuos, de manera simultánea",
+        "El maestro imparte clases exclusivamente a un solo año de escolaridad en aulas individuales",
+        "Se agrupa a los estudiantes por edades biológicas sin tomar en cuenta su avance curricular",
+        "Los estudiantes de distintos años cursan la materia en turnos nocturnos separados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 6 define la modalidad multigrado señalando que el maestro trabaja con uno o más años de escolaridad, continuos o discontinuos, de manera simultánea."
+    },
+    {
+      "question": "[70] Según el Artículo 7.I del Reglamento, ¿qué instancia realiza la selección de maestras y maestros cursantes del Diplomado 'Formación de Maestras/os de Educación Secundaria bajo la estrategia modular'? (Enfoque de evaluación 2)",
+      "options": [
+        "La Dirección General de Educación Secundaria",
+        "La Junta Escolar de Padres de Familia",
+        "El Gobierno Autónomo Municipal correspondiente",
+        "La Federación Departamental de Maestros Rurales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.I indica que la Dirección General de Educación Secundaria (DGES) selecciona a los docentes cursantes del diplomado mediante evaluación integral."
+    },
+    {
+      "question": "[71] Conforme al cuadro del Artículo 7.II del Reglamento, ¿qué especialidad de formación docente corresponde al Campo de Saberes y Conocimientos 'COMUNIDAD Y SOCIEDAD'? (Enfoque de evaluación 2)",
+      "options": [
+        "Comunicación y Lenguajes / Ciencias Sociales",
+        "Cosmovisiones, Filosofía y Psicología / Valores, Espiritualidad y Religiones",
+        "Física-Química / Biología-Geografía",
+        "Matemática / Técnica Tecnológica General"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Reglamento RM 1126/2022",
+      "explicacion": "El cuadro del Art. 7.II asigna las especialidades de Comunicación y Lenguajes y Ciencias Sociales al Campo Comunidad y Sociedad."
+    },
+    {
+      "question": "[72] Según el cuadro del Artículo 7.II del Reglamento, ¿a qué Campo de Saberes y Conocimientos corresponde la maestra o maestro con especialidad en 'FÍSICA-QUÍMICA' o 'BIOLOGÍA-GEOGRAFÍA'? (Enfoque de evaluación 2)",
+      "options": [
+        "Vida Tierra Territorio",
+        "Ciencia, Tecnología y Producción",
+        "Cosmos y Pensamiento",
+        "Comunidad y Sociedad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.II establece que la formación en Física-Química y Biología-Geografía corresponde al Campo Vida Tierra Territorio."
+    },
+    {
+      "question": "[73] De acuerdo con el Artículo 7.II, ¿qué especialidades de formación docente integran el Campo 'COSMOS Y PENSAMIENTO'? (Enfoque de evaluación 2)",
+      "options": [
+        "Cosmovisiones, Filosofía y Psicología / Valores, Espiritualidad y Religiones",
+        "Comunicación y Lenguajes / Ciencias Sociales",
+        "Matemática / Técnica Tecnológica General",
+        "Física-Química / Biología-Geografía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Reglamento RM 1126/2022",
+      "explicacion": "Cosmos y Pensamiento comprende las especialidades de Cosmovisiones, Filosofía y Psicología y Valores, Espiritualidad y Religiones."
+    },
+    {
+      "question": "[74] Según el Artículo 7.II, ¿qué especialidades docentes integran el Campo 'CIENCIA, TECNOLOGÍA Y PRODUCCIÓN'? (Enfoque de evaluación 2)",
+      "options": [
+        "Matemática / Técnica Tecnológica General (Técnica Vocacional, Taller General, Tecnología y Conocimiento Práctico)",
+        "Biología-Geografía / Educación Física y Deportes",
+        "Comunicación y Lenguajes / Lengua Extranjera",
+        "Artes Plásticas y Visuales / Educación Musical"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Reglamento RM 1126/2022",
+      "explicacion": "Ciencia, Tecnología y Producción integra las especialidades de Matemática y Técnica Tecnológica General."
+    },
+    {
+      "question": "[75] Conforme al Artículo 7.III del Reglamento, ¿cuántos documentos debe adjuntar la Dirección Distrital Educativa para la designación y posesión del maestro modular? (Enfoque de evaluación 2)",
+      "options": [
+        "Cinco (5) documentos: Informe de evaluación integral de DGES, Memorándum, Declaratoria en Comisión, Duplicado del RDA y Ficha de Compulsa (si corresponde)",
+        "Dos (2) documentos: Certificado de nacimiento y fotocopia de C.I.",
+        "Tres (3) documentos: Título en provisión nacional, certificado médico y récord policial",
+        "Un (1) documento: Acta de asamblea comunitaria de aprobación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.III, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.III enumera los 5 requisitos documentales obligatorios para la posesión y elaboración de planillas."
+    },
+    {
+      "question": "[76] En caso de no existir maestras y maestros cursantes del diplomado, ¿cuál es el procedimiento por etapas establecido en el Artículo 7.V del Reglamento? (Enfoque de evaluación 2)",
+      "options": [
+        "1ª convocatoria para docentes con pertinencia; 2ª instancia flexibilización a todas las áreas de Regular; y si persiste acefalía, invitación directa (debiendo el designado inscribirse y cursar el Diplomado)",
+        "Designación inmediata de personas particulares sin título pedagógico ni obligación de estudio",
+        "Cierre definitivo de la unidad educativa y traslado de los estudiantes a la capital",
+        "Contratación de profesores jubilados exentos de cualquier tipo de capacitación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.V, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.V norma el procedimiento de prelación: 1ª convocatoria con pertinencia, 2ª flexibilización a otras áreas de Regular, e invitación directa con compromiso obligatorio de cursar el diplomado."
+    },
+    {
+      "question": "[77] De acuerdo con el Artículo 7.VI del Reglamento, ¿qué sanción se aplica al personal modular seleccionado, designado o que abandone funciones dentro del periodo obligatorio de dos (2) años? (Enfoque de evaluación 2)",
+      "options": [
+        "No podrá participar en otros procesos de selección y designación durante toda la gestión educativa en la que abandone funciones",
+        "Inhabilitación de por vida para ejercer la docencia en Bolivia",
+        "Multa equivalente a tres sueldos mensuales depositados en la DDE",
+        "Descenso automático a la última categoría del Escalafón"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.VI, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.VI dispone que quien abandone funciones dentro de los 2 años obligatorios no podrá participar en otros procesos durante toda la gestión en que abandone."
+    },
+    {
+      "question": "[78] Conforme al Artículo 8.I del Reglamento, ¿cuál es la carga horaria asignada a los ítems de la Modalidad Modular Multigrado y cuántas horas pedagógicas diarias se deben cumplir? (Enfoque de evaluación 2)",
+      "options": [
+        "Asignados con una carga horaria de 120 horas, cumpliendo seis (6) horas pedagógicas de 45 minutos diarias durante la semana",
+        "Carga horaria de 80 horas con cuatro (4) horas pedagógicas diarias",
+        "Carga horaria de 160 horas con ocho (8) horas pedagógicas diarias",
+        "Carga horaria de 100 horas con cinco (5) horas pedagógicas diarias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 8.I fija que los ítems tienen 120 horas de carga horaria, cumpliendo 6 horas pedagógicas diarias de 45 minutos."
+    },
+    {
+      "question": "[79] Según el Artículo 8.I del Reglamento, si el maestro no cumple obligatoriamente con el calendario de 200 días hábiles, ¿cómo se compensan las jornadas faltantes? (Enfoque de evaluación 2)",
+      "options": [
+        "Podrá ampliarse a los fines de semana con el desarrollo de actividades socioproductivas",
+        "Se le descuenta el 50% de su sueldo en la planilla del mes siguiente",
+        "Se dictan clases nocturnas de 2 horas adicionales todos los días",
+        "Se transfieren las horas faltantes a la gestión escolar del año subsiguiente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 8.I prevé que ante el no cumplimiento de los 200 días hábiles, se podrá ampliar a los fines de semana con actividades socioproductivas."
+    },
+    {
+      "question": "[80] De acuerdo con el Artículo 8.II del Reglamento, ¿qué beneficio económico adicional perciben los ítems registrados en Unidades Educativas de la modalidad modular? (Enfoque de evaluación 2)",
+      "options": [
+        "Goce de Bono de Frontera o Bono Zona",
+        "Subsidio de vivienda en capitales de departamento",
+        "Bono de transporte aéreo mensual",
+        "Bono por sobreproducción agrícola"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 8.II establece expresamente el goce de Bono de Frontera o Bono Zona según el registro de la U.E."
+    },
+    {
+      "question": "[81] Conforme al Artículo 8.III y IV del Reglamento, ¿cuántos años de servicio en el SEP se reconocen al maestro por haber desempeñado funciones durante dos (2) años continuos en la modalidad modular multigrado en unidades con Bono Zona o en Frontera? (Enfoque de evaluación 2)",
+      "options": [
+        "Reconocimiento de dos (2) años de servicio en el SEP (actualizado automáticamente en el RDA)",
+        "Reconocimiento de un (1) año de servicio adicional únicamente",
+        "Reconocimiento de cuatro (4) años de servicio en el Escalafón",
+        "Sin ningún tipo de reconocimiento de tiempo de servicio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.III y IV, Reglamento RM 1126/2022",
+      "explicacion": "Los parágrafos III y IV del Art. 8 otorgan el reconocimiento de 2 años de servicio en el SEP por 2 años continuos de trabajo en la modalidad en U.E. con Bono Zona o Frontera."
+    },
+    {
+      "question": "[82] Según el Artículo 8.V del Reglamento, ¿cuántos puntos para compulsa de méritos se reconocen al docente por prestar servicio profesional durante dos años continuos en esta modalidad (registrado en RDA)? (Enfoque de evaluación 2)",
+      "options": [
+        "Reconocimiento de 10 puntos para compulsa de méritos",
+        "Reconocimiento de 5 puntos para compulsa de méritos",
+        "Reconocimiento de 20 puntos para compulsa de méritos",
+        "Reconocimiento de 15 puntos para compulsa de méritos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.V, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 8.V asigna el reconocimiento de 10 puntos para compulsa de méritos tras 2 años continuos de servicio registrado en el RDA."
+    },
+    {
+      "question": "[83] Conforme al Artículo 9.I del Reglamento, ¿quién emite la Declaratoria en Comisión para los docentes modulares y qué datos debe especificar fehacientemente? (Enfoque de evaluación 2)",
+      "options": [
+        "El Director Distrital de Educación, estableciendo específicamente los periodos de 50 días hábiles y las 4 Unidades Educativas de la zona",
+        "El Director de la Unidad Educativa de Primaria mediante nota simple",
+        "El Director Departamental de Educación mediante Resolución Administrativa quinquenal",
+        "El Ministro de Educación mediante Resolución Ministerial individual"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.I, Reglamento RM 1126/2022",
+      "explicacion": "El Director Distrital del cual dependen los ítems declara en comisión al docente detallando los 4 periodos de 50 días y las 4 U.E."
+    },
+    {
+      "question": "[84] Según el Artículo 9.II del Reglamento, ¿a qué instancia debe remitir la Dirección Distrital fotocopia legalizada de la Declaratoria en Comisión? (Enfoque de evaluación 2)",
+      "options": [
+        "A la o las Direcciones Departamentales de Educación de cuya jurisdicción dependan las Unidades Educativas",
+        "A la Policía Nacional y Fuerzas Armadas de la zona",
+        "Al Ministerio de Economía y Finanzas Públicas",
+        "A la Fiscalía General del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 9.II exige remitir fotocopia legalizada de la Declaratoria en Comisión a la DDE correspondiente para seguimiento y control."
+    },
+    {
+      "question": "[85] De acuerdo con el Artículo 10 del Reglamento, ¿dónde firman el reporte mensual los maestros itinerantes y a través de quién se remite a la Dirección Distrital y DDE? (Enfoque de evaluación 2)",
+      "options": [
+        "Firman en el Formulario de Parte Mensual de la U.E. de la cual dependen, siendo remitido por el Director de la U.E. a la Distrital y luego a la DDE",
+        "Firman digitalmente en la aplicación móvil de la DDE desde su teléfono personal",
+        "Firman en la Alcaldía municipal al finalizar cada trimestre",
+        "No requieren firmar ningún reporte mensual al estar en comisión"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 10 exige la firma en el Formulario de Parte Mensual de la U.E. de origen, remitido por su Director a la Distrital y DDE."
+    },
+    {
+      "question": "[86] Conforme al Artículo 11.I del Reglamento, ¿qué autoridad escolar amplía sus funciones de seguimiento sobre la o el maestro declarado en comisión en su sede? (Enfoque de evaluación 2)",
+      "options": [
+        "El Director de la Unidad Educativa de Educación Primaria Comunitaria Vocacional",
+        "El Alcalde Municipal del distrito rural",
+        "El Corregidor o Cacique de la comunidad originaria",
+        "El Subdirector de Educación Alternativa y Especial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 11.I señala que el Director de la U.E. de Primaria donde se encuentra en comisión el docente ampliará sus funciones de seguimiento."
+    },
+    {
+      "question": "[87] Según el Artículo 11.II del Reglamento, ¿cuál es la relación funcional y comunitaria de los maestros modulares durante su permanencia en la U.E. asignada? (Enfoque de evaluación 2)",
+      "options": [
+        "Desarrollan sus actividades en coordinación y dependencia de la Dirección de la U.E. donde están en comisión y participan de todas las actividades conjuntas de la comunidad",
+        "Trabajan de forma totalmente aislada sin contacto con el personal docente local",
+        "Dependen administrativamente del Corregidor local y no del Director de Primaria",
+        "Tienen prohibido participar en reuniones o actividades socioproductivas del colegio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 11.II establece que actúan bajo dependencia y coordinación del Director de la U.E. receptora y se integran a la comunidad educativa."
+    },
+    {
+      "question": "[88] De acuerdo con el Artículo 12.I y II del Reglamento, ¿quién es el responsable de supervisar, apoyar y realizar seguimiento al desarrollo curricular y administrativo de la modalidad modular? (Enfoque de evaluación 2)",
+      "options": [
+        "El Director Distrital de Educación de la jurisdicción (junto a los Directores de U.E.)",
+        "El Director General de Asuntos Jurídicos del Ministerio",
+        "El Gobernador del Departamento mediante la secretaría de desarrollo humano",
+        "El Comité de Vigilancia del Municipio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.I y II, Reglamento RM 1126/2022",
+      "explicacion": "El Director Distrital es responsable de supervisar, apoyar y dar seguimiento curricular/administrativo y de gestión de personal (RDA, bajas, etc.)."
+    },
+    {
+      "question": "[89] Conforme al Artículo 12.III del Reglamento, cuando la organización de la modalidad involucra a más de un Distrito Educativo, ¿qué acción deben realizar las autoridades? (Enfoque de evaluación 2)",
+      "options": [
+        "Los Directores Distritales involucrados deben coordinar acciones para garantizar el funcionamiento adecuado de la Modalidad",
+        "Se cancela la rotación y cada distrito contrata a sus propios docentes",
+        "Se transfiere el caso a la justicia ordinaria para dirimir competencias",
+        "Se suspenden las clases en los distritos secundarios afectados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.III, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 12.III dispone que cuando abarque más de un Distrito, los Directores Distritales involucrados deben coordinar directamente el funcionamiento."
+    },
+    {
+      "question": "[90] Según el Artículo 13.I del Reglamento, respecto a las zonas de trabajo, ¿pueden las 4 Unidades Educativas de una zona pertenecer a distintos distritos, municipios o departamentos? (Enfoque de evaluación 2)",
+      "options": [
+        "Sí, pueden pertenecer a más de un Distrito Educativo, Municipio o Departamento, debiendo estar relativamente próximas para facilitar la rotación",
+        "No, está estrictamente prohibido que pertenezcan a municipios distintos",
+        "Únicamente pueden pertenecer al mismo núcleo escolar urbano",
+        "Solo se permite si corresponden a un mismo cantón judicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 13.I aclara que las 4 U.E. pueden pertenecer a más de un Distrito, Municipio o Departamento, a condición de estar próximas para la rotación."
+    },
+    {
+      "question": "[91] Conforme al Artículo 13.III del Reglamento, al finalizar el periodo de 50 días hábiles en una U.E., ¿de cuántos días dispone el maestro para entregar documentación e inventario y desplazarse a la siguiente comunidad? (Enfoque de evaluación 2)",
+      "options": [
+        "Dispone de cinco (5) días hábiles",
+        "Dispone de diez (10) días hábiles",
+        "Dispone de un (1) día calendario",
+        "Dispone de quince (15) días hábiles"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.III, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 13.III otorga un plazo de 5 días hábiles al finalizar el módulo para entregar documentación e inventario y trasladarse a la siguiente U.E."
+    },
+    {
+      "question": "[92] De acuerdo con el Artículo 15 del Reglamento, ¿cómo está distribuido el calendario de trabajo de 200 días hábiles y qué instancia lo emite? (Enfoque de evaluación 2)",
+      "options": [
+        "Distribuidos en 4 periodos de 50 días hábiles cada uno, emitido por el Viceministerio de Educación Regular",
+        "Distribuidos en 3 trimestres de 66 días, emitido por la DDE",
+        "Distribuidos en 2 semestres de 100 días, emitido por la Dirección Distrital",
+        "Distribuidos en 10 módulos de 20 días, emitido por la UGP-SEP"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 15 fija 200 días hábiles distribuidos en 4 periodos de 50 días hábiles, bajo el calendario emitido por el Viceministerio de Educación Regular."
+    },
+    {
+      "question": "[93] Según el Artículo 16 del Reglamento, ¿quiénes son los responsables directos de la inscripción de los estudiantes al inicio de la gestión escolar? (Enfoque de evaluación 2)",
+      "options": [
+        "La Directora o Director de la Unidad Educativa de Primaria Comunitaria Vocacional en coordinación con el maestro del Campo correspondiente",
+        "El Secretario de Desarrollo Humano del Municipio junto al Control Social",
+        "El Director Departamental de Educación en persona",
+        "El Presidente de la Junta Nacional de Padres de Familia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 16 asigna la responsabilidad de inscripción al Director de la U.E. de Primaria en coordinación con el docente modular del Campo."
+    },
+    {
+      "question": "[94] Conforme al Artículo 17.I del Reglamento, ¿qué documentos se deben presentar para la inscripción regular de los estudiantes? (Enfoque de evaluación 2)",
+      "options": [
+        "La Libreta Escolar de la última gestión cursada y un documento personal (Certificado de Nacimiento, C.I., Libreta Militar u otro)",
+        "Exclusivamente el pasaporte diplomático o visa de estudiante",
+        "Título en provisión nacional y certificado de antecedentes judiciales",
+        "Fe de bautismo firmada por el obispo de la diócesis"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 17.I exige la libreta escolar previa y cualquier documento de identidad personal."
+    },
+    {
+      "question": "[95] En caso de inexistencia de documentos personales al momento de la inscripción (Art. 17.II), ¿cuál es el plazo fijado en el Acta de Compromiso para regularizar los papeles y quiénes deben coadyuvar? (Enfoque de evaluación 2)",
+      "options": [
+        "Plazo de 120 días; coadyuvan DDE, Dirección Distrital, Director de U.E., Maestro Modular y autoridades locales",
+        "Plazo de 30 días; coadyuva únicamente el apoderado legal",
+        "Plazo de 365 días; coadyuva el Tribunal Electoral",
+        "Plazo de 10 días hábiles sin prorroga"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 17.II establece 120 días de plazo bajo Acta de Compromiso, involucrando a autoridades educativas y locales para gestionar la documentación."
+    },
+    {
+      "question": "[96] De acuerdo con el Artículo 17.III del Reglamento, ¿quiénes deben gestionar el cumplimiento de los requisitos para la obtención del Diploma de Bachiller de los estudiantes de la modalidad modular? (Enfoque de evaluación 2)",
+      "options": [
+        "La DDE, Dirección Distrital, Director de U.E., Maestra/o de la modalidad y autoridades locales",
+        "El Ministerio de Relaciones Exteriores exclusivamente",
+        "Los propios estudiantes de forma individual sin apoyo institucional",
+        "Las agencias privadas de tramitación universitaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.III, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 17.III compromete la gestión conjunta de autoridades educativas (DDE, Distrital, U.E., docentes) y locales para el Diploma de Bachiller."
+    },
+    {
+      "question": "[97] Según el Artículo 18.II del Reglamento, en poblaciones donde NO exista Centro de Educación Alternativa (CEA), ¿qué medida excepcional se aplica a estudiantes mayores de 18 años? (Enfoque de evaluación 2)",
+      "options": [
+        "Se permitirá de forma excepcional el registro de los mismos en la Modalidad de Atención Modular Multigrado de Secundaria",
+        "Se les prohíbe rotundamente el acceso a la educación pública",
+        "Se les obliga a trasladarse a pie a la capital de departamento",
+        "Se los inscribe automáticamente en institutos militares de frontera"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 18.II permite excepcionalmente inscribir a mayores de 18 años en la modalidad modular secundaria si no hay un CEA en la población."
+    },
+    {
+      "question": "[98] Conforme al Artículo 20 del Reglamento, ¿quién genera el Registro Único de Estudiantes (RUDE) cuando el estudiante carece de él? (Enfoque de evaluación 2)",
+      "options": [
+        "La Maestra o Maestro de la Modalidad Modular Multigrado conjuntamente el Director de la U.E. de Primaria correspondiente",
+        "El funcionario del SERECI en la capital de municipio",
+        "El propio estudiante mediante formulario web en línea",
+        "El Técnico de Sistemas de la Dirección Departamental de Educación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 20 asigna la generación del RUDE al maestro modular junto al Director de la U.E. de Primaria."
+    },
+    {
+      "question": "[99] Según el Artículo 21.I y II del Reglamento, ¿quién realiza el reporte en el SIE del Inicio y Cierre de Gestión y cómo se procede si solo hay un Director Encargado? (Enfoque de evaluación 2)",
+      "options": [
+        "Lo realiza el Director de la U.E. de la que depende; si es Director Encargado, coordina con el maestro modular y la Dirección de Núcleo o U.E. matriz",
+        "Lo realiza el Secretario del Sindicato de Maestros de la zona",
+        "Lo realiza la DDE desde su sede sin consultar a la unidad educativa",
+        "Lo realiza el Alcalde Municipal durante el desfile patrio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.I y II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 21 norma que el reporte SIE lo hace el Director titular o, si es encargado, coordinando con el docente modular y la Dirección de Núcleo."
+    },
+    {
+      "question": "[100] De acuerdo con el Artículo 22 del Reglamento, ¿qué trámite deben realizar los Directores de U.E. de Primaria o de Núcleo ante la DDE para consolidar la oferta modular de Secundaria? (Enfoque de evaluación 2)",
+      "options": [
+        "Las gestiones para la emisión de la Resolución Administrativa de ampliación del nivel de Educación Secundaria Comunitaria Productiva",
+        "La solicitud de personería jurídica municipal como U.E. privada",
+        "La tramitación de un préstamo bancario institucional con garantía estatal",
+        "La firma de un convenio de privatización curricular"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 22 dispone que se debe tramitar ante la DDE la Resolución Administrativa de ampliación del nivel Secundario."
+    },
+    {
+      "question": "[101] Según el Artículo 23 del Reglamento, ¿cuáles son las cuatro (4) Áreas de Saberes y Conocimientos que integran el Campo 'COSMOS Y PENSAMIENTO'? (Enfoque de evaluación 2)",
+      "options": [
+        "Cosmovisiones, Filosofía y Psicología / Valores, Espiritualidad y Religiones / Educación Musical / Artes Plásticas y Visuales",
+        "Comunicación y Lenguajes / Ciencias Sociales / Lengua Extranjera / Lengua Originaria",
+        "Biología-Geografía / Física-Química / Educación Física / Salud",
+        "Matemática / Técnica Tecnológica General / Computación / Robótica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Reglamento RM 1126/2022",
+      "explicacion": "El cuadro del Art. 23 estructura Cosmos y Pensamiento con Cosmovisiones/Filosofía/Psicología, Valores/Espiritualidad/Religiones, Ed. Musical y Artes Plásticas."
+    },
+    {
+      "question": "[102] Conforme al Artículo 23 del Reglamento, ¿qué áreas del conocimiento componen el Campo 'COMUNIDAD Y SOCIEDAD' en la estructura curricular modular? (Enfoque de evaluación 2)",
+      "options": [
+        "Comunicación y Lenguajes / Ciencias Sociales / Lengua extranjera",
+        "Matemática / Técnica Tecnológica General",
+        "Física-Química / Biología-Geografía / Educación Física",
+        "Filosofía / Religión / Artes Plásticas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Reglamento RM 1126/2022",
+      "explicacion": "Comunidad y Sociedad comprende Comunicación y Lenguajes, Ciencias Sociales y Lengua extranjera."
+    },
+    {
+      "question": "[103] Según el Artículo 23 del Reglamento, ¿qué áreas del conocimiento componen el Campo 'VIDA TIERRA TERRITORIO'? (Enfoque de evaluación 2)",
+      "options": [
+        "Biología - Geografía / Física - Química / Educación Física y Deportes",
+        "Cosmovisiones / Filosofía / Artes Plásticas",
+        "Matemática / Técnica Tecnológica",
+        "Comunicación / Lengua Extranjera / Ciencias Sociales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Reglamento RM 1126/2022",
+      "explicacion": "Vida Tierra Territorio integra Biología-Geografía, Física-Química y Educación Física y Deportes."
+    },
+    {
+      "question": "[104] De acuerdo con el Artículo 23 del Reglamento, ¿qué áreas integran el Campo 'CIENCIA, TECNOLOGÍA Y PRODUCCIÓN'? (Enfoque de evaluación 2)",
+      "options": [
+        "Matemática / Técnica Tecnológica General",
+        "Ciencias Sociales / Filosofía",
+        "Educación Musical / Lengua Extranjera",
+        "Biología - Geografía / Psicología"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, Reglamento RM 1126/2022",
+      "explicacion": "Ciencia, Tecnología y Producción integra las áreas de Matemática y Técnica Tecnológica General."
+    },
+    {
+      "question": "[105] Conforme al Artículo 24.I y II del Reglamento, ¿cuál es el rol exclusivo del personal designado por el Ministerio de Educación para el seguimiento en los distritos modulares? (Enfoque de evaluación 2)",
+      "options": [
+        "Rol exclusivo de apoyo y seguimiento pedagógico, brindando orientaciones para la concreción de elementos curriculares y el PSP",
+        "Rol sancionador y de procesamiento sumario a los docentes",
+        "Rol de fiscalización presupuestaria de las obras municipales",
+        "Rol de toma de exámenes directos de graduación a los alumnos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24.I y II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 24.II aclara que su rol es exclusivamente de apoyo y seguimiento pedagógico para articular el currículo con el PSP."
+    },
+    {
+      "question": "[106] Según el Artículo 25 del Reglamento, ¿cómo se realiza la evaluación y calificación del desarrollo curricular en la modalidad modular? (Enfoque de evaluación 2)",
+      "options": [
+        "El desarrollo curricular es integral por Campo; la evaluación y calificación se asigna por áreas y es única para todos y cada uno de los periodos correspondientes",
+        "Se califica de forma global con una sola nota para todas las materias del año",
+        "Se evalúa semanalmente mediante exámenes estandarizados enviados desde La Paz",
+        "La nota es asignada libremente por las autoridades originarias de la comunidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 25 señala que la enseñanza es integral por Campo pero la evaluación/calificación se desglosa y asigna por áreas de forma única por periodo."
+    },
+    {
+      "question": "[107] De acuerdo con el Artículo 26.V del Reglamento, ¿a la valoración de qué dimensiones del desarrollo humano debe estar orientada la Autoevaluación del estudiante? (Enfoque de evaluación 2)",
+      "options": [
+        "A la valoración de las dimensiones del Ser y Decidir (de forma paralela a la evaluación final del periodo)",
+        "Exclusivamente a la dimensión del Saber (conocimiento memorístico)",
+        "A la dimensión del Hacer únicamente (destrezas físicas)",
+        "A la medición del coeficiente intelectual cuantitativo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26.V, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 26.V establece que la autoevaluación se orienta a la valoración cualitativa y cuantitativa de las dimensiones del Ser y Decidir."
+    },
+    {
+      "question": "[108] Conforme al Artículo 27.I y II del Reglamento, ¿cuándo se realiza la Evaluación Comunitaria y dónde deben registrarse sus aspectos más relevantes? (Enfoque de evaluación 2)",
+      "options": [
+        "Se realiza al finalizar el periodo establecido (con maestros, padres y autoridades en diálogo intercultural) y se registra en el Cuaderno Pedagógico",
+        "Se realiza al inicio del año y se registra en la libreta militar del estudiante",
+        "Se realiza cada fin de semana y se archiva en la Alcaldía municipal",
+        "Se realiza únicamente en caso de reprobación masiva de alumnos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27.I y II, Reglamento RM 1126/2022",
+      "explicacion": "La Evaluación Comunitaria reúne a maestros, padres y comunidad al concluir los 50 días de módulo, asentando acuerdos en el Cuaderno Pedagógico."
+    },
+    {
+      "question": "[109] Según el Artículo 28.I y II del Reglamento, al rotar a otra U.E., ¿cómo entrega el maestro las calificaciones y qué debe hacer el Director receptor? (Enfoque de evaluación 2)",
+      "options": [
+        "Entrega en medio magnético e impreso firmando Acta de entrega; el Director las registra en las libretas electrónicas y archiva copia",
+        "Entrega verbalmente en reunión de consejo de profesores sin firmar ningún documento",
+        "Envía las notas por correo postal directamente a los padres de familia",
+        "Retiene las notas en su poder hasta que concluyan los dos años de rotación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28.I y II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 28 dispone la entrega formal en formato impreso y digital con Acta de entrega, para su cargado por el Director al sistema de libretas electrónicas."
+    },
+    {
+      "question": "[110] De acuerdo con el Artículo 29 del Reglamento, ¿qué libreta escolar se utiliza en la Modalidad Modular Multigrado de Secundaria? (Enfoque de evaluación 2)",
+      "options": [
+        "La Libreta Escolar Electrónica del Subsistema de Educación Regular, con vigencia y validez en todo el territorio nacional",
+        "Una libreta especial de cartón emitida por el Municipio",
+        "Un certificado de notas provisional sin valor legal fuera del distrito",
+        "La libreta de calificaciones del Subsistema de Educación Alternativa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 29 aclara que se utiliza la misma Libreta Escolar Electrónica del Subsistema Regular con plena validez nacional."
+    },
+    {
+      "question": "[111] Conforme al Artículo 30 del Reglamento (Promoción y Transferencia), ¿cuál es la regla estricta de transferencia para un estudiante durante la gestión escolar? (Enfoque de evaluación 2)",
+      "options": [
+        "Mientras no termine la gestión escolar, no puede transferirse a ninguna otra U.E., salvo que sea en la misma Modalidad Modular y con los mismos campos desarrollados",
+        "Puede transferirse libremente a cualquier colegio urbano en cualquier momento del mes",
+        "Tiene prohibido cambiarse de colegio incluso si concluye los 4 módulos del año",
+        "Puede transferirse a institutos universitarios sin haber terminado la secundaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 30 exige concluir los 4 módulos para cambiar de U.E. regular, prohibiendo transferencias a mitad de año salvo entre U.E. modulares con idénticos campos avanzados."
+    },
+    {
+      "question": "[112] Según el Artículo 31 del Reglamento, ¿cuáles son los Mecanismos de Apoyo y Seguimiento que el maestro puede aplicar para garantizar la calidad educativa? (Enfoque de evaluación 2)",
+      "options": [
+        "Tutorías individuales y colectivas, adaptaciones curriculares, evaluación comunitaria en el periodo y eventos de reforzamiento",
+        "Exámenes de eliminación directa y expulsión de alumnos atrasados",
+        "Cobro de clases particulares obligatorias los días domingos",
+        "Asignación de tareas pesadas de trabajo agrícola como castigo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 31 faculta el uso de tutorías, adaptaciones curriculares, reforzamiento y evaluación comunitaria continua para apoyar el aprendizaje."
+    },
+    {
+      "question": "[113] De acuerdo con el Artículo 32.II y IV del Reglamento, ¿cómo se distribuyen las 6 horas pedagógicas diarias entre el turno mañana y el turno tarde? (Enfoque de evaluación 2)",
+      "options": [
+        "Cuatro (4) sesiones en el turno mañana y dos (2) sesiones en el turno tarde (de 45 minutos cada una)",
+        "Tres (3) sesiones en la mañana y tres (3) sesiones en la tarde",
+        "Seis (6) sesiones continuas en el turno de la noche",
+        "Cinco (5) sesiones en la mañana y una (1) sesión en la tarde"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.II y IV, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 32.IV especifica que se desarrollan 4 sesiones por la mañana y 2 sesiones por la tarde, completando las 6 horas pedagógicas diarias."
+    },
+    {
+      "question": "[114] Conforme al cuadro del Artículo 32.III del Reglamento, ¿qué actividad pedagógica corresponde a las Sesiones 1 y 2 del turno de la mañana? (Enfoque de evaluación 2)",
+      "options": [
+        "Organización y desarrollo del proceso educativo",
+        "Descanso de medio día y almuerzo",
+        "Plenarias y conclusiones del desarrollo educativo",
+        "Cierre y evaluación de la jornada con tareas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.III, Reglamento RM 1126/2022",
+      "explicacion": "El cuadro del Art. 32.III establece que las Sesiones 1 y 2 se dedican a la organización y desarrollo del proceso educativo."
+    },
+    {
+      "question": "[115] Según el cuadro del Artículo 32.III del Reglamento, ¿qué actividades se desarrollan en las Sesiones 5 y 6 del turno de la tarde? (Enfoque de evaluación 2)",
+      "options": [
+        "Sesión 5: Plenarias y conclusiones del desarrollo educativo; Sesión 6: Cierre y evaluación de la jornada (socialización y tareas)",
+        "Sesiones 5 y 6: Recreo largo y actividades deportivas únicamente",
+        "Sesiones 5 y 6: Exámenes teóricos escritos exclusivamente",
+        "Sesión 5: Almuerzo comunitario; Sesión 6: Aseo del establecimiento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.III, Reglamento RM 1126/2022",
+      "explicacion": "Las Sesiones 5 y 6 corresponden a las plenarias/conclusiones y al cierre/evaluación de la jornada escolar respectivamente."
+    },
+    {
+      "question": "[116] De acuerdo con el Artículo 33 del Reglamento, ¿cuál es el procedimiento e instancias requeridas para la REUBICACIÓN del punto de atención de una U.E. modular? (Enfoque de evaluación 2)",
+      "options": [
+        "Procederá previo informe emitido por la Dirección Distrital Educativa y aprobado por la Subdirección de Educación Regular",
+        "Por simple decisión verbal del maestro itinerante sin consultar a nadie",
+        "Mediante voto resolutivo de la junta vecinal urbana",
+        "Por orden directa del comandante militar de la guarnición"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 33 exige un informe previo emitido por la Dirección Distrital y aprobado formalmente por la Subdirección de Educación Regular."
+    },
+    {
+      "question": "[117] Conforme al Artículo 33.c del Reglamento, ¿cuál es la causal por CANTIDAD DE ESTUDIANTES que exige solicitar el traslado de la modalidad modular a otra población? (Enfoque de evaluación 2)",
+      "options": [
+        "Cuando las U.E. de Atención Modular Multigrado tuvieran MÁS DE 10 ESTUDIANTES por año de escolaridad",
+        "Cuando la unidad educativa cuente con exactamente 50 estudiantes en total",
+        "Cuando la unidad educativa tenga menos de 2 estudiantes en toda la escuela",
+        "Cuando el número de estudiantes sea mayor a 100 por aula"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33.c, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 33.c establece que si la U.E. llega a tener más de 10 estudiantes por año de escolaridad, se debe solicitar el traslado a otra población de menor densidad (pasando a modalidad regular tradicional)."
+    },
+    {
+      "question": "[118] Según el Artículo 33.a y b del Reglamento, ¿en qué otras dos situaciones procede la reubicación del módulo a otra población? (Enfoque de evaluación 2)",
+      "options": [
+        "a) Cuando la U.E. ya no cuente con estudiantes que lo requieran; b) Cuando las U.E. se encuentren en zonas urbanas y existan medios de transporte accesibles",
+        "a) Cuando los maestros soliciten permuta a la capital; b) Cuando se construya un coliseo cerrado",
+        "a) Cuando el clima sea muy lluvioso; b) Cuando falten textos escolares",
+        "a) Por discrepancias políticas locales; b) Por cambio de director distrital"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33.a y b, Reglamento RM 1126/2022",
+      "explicacion": "Las causales a y b contemplan la falta de estudiantes necesitados o la conversión de la zona en área urbana con transporte accesible."
+    },
+    {
+      "question": "[119] Conforme a la Disposición Transitoria Segunda del Reglamento, ¿qué instancia realiza la actualización automática de los Códigos de Cargo de la Modalidad Modular Multigrado? (Enfoque de evaluación 2)",
+      "options": [
+        "La Unidad de Gestión de Personal del SEP (UGP-SEP) en coordinación con la Dirección General de Educación Secundaria",
+        "El Ministerio de Trabajo, Empleo y Previsión Social",
+        "La Dirección Departamental de Autonomías",
+        "El Instituto Nacional de Estadística (INE)"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Segunda, Reglamento RM 1126/2022",
+      "explicacion": "La Transitoria Segunda encarga a la UGP-SEP la actualización automática de Códigos de Cargo junto a la DGES."
+    },
+    {
+      "question": "[120] De acuerdo con la Disposición Transitoria Tercera del Reglamento, ¿cómo se regularizan los ítems que no se encontraban en el techo presupuestario para la gestión 2023? (Enfoque de evaluación 2)",
+      "options": [
+        "Se regularizarán los ítems en el distrito y Departamento en el que se esté trabajando con dicha modalidad, proceso que reemplazará por ítems de nueva creación",
+        "Se recortará el 20% del salario a todos los maestros del país",
+        "Se clausurará la modalidad modular en todos los distritos del departamento",
+        "Se exigirá el pago retroactivo de salarios a los padres de familia"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Tercera, Reglamento RM 1126/2022",
+      "explicacion": "La Transitoria Tercera prevé la regularización presupuestaria de ítems en los distritos de trabajo mediante reemplazo por ítems de nueva creación."
+    },
+    {
+      "question": "[121] Según la Disposición Transitoria Cuarta del Reglamento, ¿qué beneficio especial en equipamiento tecnológico se otorga con prioridad y por única vez a los maestros modulares? (Enfoque de evaluación 2)",
+      "options": [
+        "Prioridad para el beneficio de la dotación de computadoras, por única vez, mientras se encuentren ejerciendo funciones en la modalidad",
+        "Dotación de teléfonos satelitales con internet ilimitado de por vida",
+        "Entrega de motocicletas 0 km para sus desplazamientos",
+        "Dotación de paneles solares para sus domicilios privados"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Cuarta, Reglamento RM 1126/2022",
+      "explicacion": "La Transitoria Cuarta asigna prioridad por única vez en la dotación de computadoras a los docentes en ejercicio activo en la modalidad modular."
+    },
+    {
+      "question": "[122] En conclusión, la Resolución Ministerial N° 1126/2022 de 13 de diciembre de 2022 constituye una norma estratégica fundamental en Bolivia porque: (Enfoque de evaluación 2)",
+      "options": [
+        "Garantiza el derecho a la Educación Secundaria obligatoria y gratuita en poblaciones alejadas, de frontera y difícil acceso, mediante una gestión curricular e institucional modular itinerante de alta pertinencia",
+        "Elimina el nivel de educación secundaria en el área rural boliviana",
+        "Sustituye a los maestros del Escalafón por voluntarios internacionales",
+        "Obliga a los estudiantes rurales a abandonar sus comunidades para estudiar en las ciudades"
+      ],
+      "answer": 0,
+      "fuente": "Consolidado R.M. N° 1126/2022",
+      "explicacion": "La R.M. 1126/2022 reglamenta la atención modular multigrado garantizando la continuidad y obligatoriedad de Secundaria en zonas vulnerables."
+    },
+    {
+      "question": "[123] ¿Cuál es el objeto principal del Reglamento aprobado mediante la R.M. N° 1126/2022 conforme a su Artículo 1? (Enfoque de evaluación 3)",
+      "options": [
+        "Normar la gestión curricular e institucional de la Modalidad de Atención Modular Multigrado en Educación Secundaria Comunitaria Productiva del Subsistema de Educación Regular, bajo dependencia de una U.E. de Primaria",
+        "Establecer el nuevo escalafón docente para colegios privados del área urbana",
+        "Reglamentar la transferencia de infraestructuras educativas a los municipios autónomos",
+        "Crear los Centros de Educación Alternativa en zonas de frontera con carácter autárquico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 1 establece que el objeto es normar la gestión curricular e institucional de la Modalidad de Atención Modular Multigrado en Secundaria Regular, bajo dependencia de una U.E. de Primaria."
+    },
+    {
+      "question": "[124] De acuerdo con el Artículo 1 del Reglamento de la R.M. N° 1126/2022, ¿de qué tipo de unidad educativa depende institucionalmente la Modalidad de Atención Modular Multigrado de Secundaria? (Enfoque de evaluación 3)",
+      "options": [
+        "De una Unidad Educativa de Educación Primaria Comunitaria Vocacional",
+        "De un Instituto Técnico Superior Departamental",
+        "Directamente de la Dirección Departamental de Educación sin intermediación",
+        "De un Centro de Educación Alternativa y Especial de la provincia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 1 señala expresamente que la modalidad modular multigrado de Secundaria se desarrolla bajo la dependencia de una U.E. de Primaria Comunitaria Vocacional."
+    },
+    {
+      "question": "[125] Según el Artículo 3 del Reglamento (Alcance), ¿a qué poblaciones específicas está destinada la Modalidad de Atención Modular Multigrado de Secundaria? (Enfoque de evaluación 3)",
+      "options": [
+        "Poblaciones que carecen de unidades educativas del nivel Secundario, con baja densidad estudiantil en fronteras, riberas de río, liberadoras y zonas de difícil acceso",
+        "Ciudades capitales con sobrepoblación estudiantil e infraestructura saturada",
+        "Exclusivamente a estudiantes de colegios privados nocturnos del área urbana",
+        "Poblaciones urbanas con más de 500 estudiantes por año de escolaridad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 3 establece que atiende a poblaciones sin U.E. secundarias, con baja densidad estudiantil en fronteras, riberas de río, liberadoras y zonas de difícil acceso."
+    },
+    {
+      "question": "[126] Conforme al Artículo 4 del Reglamento, ¿cuál de las siguientes afirmaciones expresa un OBJETIVO de la Modalidad Modular Multigrado de Secundaria? (Enfoque de evaluación 3)",
+      "options": [
+        "Brindar condiciones adecuadas para garantizar la obligatoriedad de la Educación Secundaria Comunitaria Productiva en poblaciones de frontera, riberas de río, liberadoras y zonas de difícil acceso",
+        "Privatizar la educación secundaria rural mediante cobro de matrículas comunitarias",
+        "Sustituir a los maestros titulados por egresados de bachillerato sin formación pedagógica",
+        "Eliminar la enseñanza de las áreas de ciencias exactas en zonas alejadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.b, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 4.b señala que uno de los objetivos es brindar condiciones para garantizar la obligatoriedad de Secundaria en zonas vulnerables y de difícil acceso."
+    },
+    {
+      "question": "[127] En el marco del Artículo 2 (Marco Legal) del Reglamento aprobado por la R.M. N° 1126/2022, ¿cuál de las siguientes normas reglamentarias de evaluación se menciona expresamente? (Enfoque de evaluación 3)",
+      "options": [
+        "Resolución Ministerial N° 0473/2021 de 20 de agosto de 2021",
+        "Resolución Ministerial N° 0141/2016 de 11 de abril de 2016",
+        "Decreto Supremo N° 29894 de 07 de febrero de 2009",
+        "Ley N° 1178 de 20 de julio de 1990"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2.d, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 2.d cita expresamente la R.M. N° 0473/2021 que aprueba el Reglamento de Evaluación del Desarrollo Curricular."
+    },
+    {
+      "question": "[128] Según el Artículo 5.I del Reglamento, ¿de qué manera se desarrolla el trabajo de las maestras y maestros en la Modalidad de Atención Modular Multigrado? (Enfoque de evaluación 3)",
+      "options": [
+        "De manera 'Itinerante' en una zona de intervención con cuatro (4) unidades educativas mediante rotación por periodos de 50 días hábiles",
+        "De forma sedentaria permanente en una sola unidad educativa durante los 200 días del año",
+        "Mediante clases virtuales síncronas desde las capitales de departamento",
+        "Por periodos trimestrales de 90 días en tres colegios urbanos de convenio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 5.I establece que el trabajo es 'Itinerante' en una zona de 4 U.E. mediante rotación por periodos de 50 días hábiles."
+    },
+    {
+      "question": "[129] Conforme al Artículo 5.I y II, ¿cuántas Unidades Educativas integran una zona de intervención y en cuántos periodos de 50 días hábiles se cumplen los 4 Campos de Saberes en una gestión? (Enfoque de evaluación 3)",
+      "options": [
+        "Una zona consta de 4 Unidades Educativas y se cumplen los 4 Campos en 4 periodos de 50 días hábiles (200 días hábiles)",
+        "Una zona consta de 2 Unidades Educativas y se cumplen en 2 periodos de 100 días hábiles",
+        "Una zona consta de 6 Unidades Educativas y se cumplen en 3 periodos de 60 días hábiles",
+        "Una zona consta de 5 Unidades Educativas y se cumplen en 5 periodos de 40 días hábiles"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I y II, Reglamento RM 1126/2022",
+      "explicacion": "Cada zona consta de 4 U.E. atendidas por 4 maestros (uno por Campo), rotando en 4 periodos de 50 días hábiles para completar los 4 Campos en los 200 días escolares."
+    },
+    {
+      "question": "[130] De acuerdo con el Artículo 6 del Reglamento, ¿cómo se define la 'Modalidad Multigrado' en Educación Secundaria Comunitaria Productiva? (Enfoque de evaluación 3)",
+      "options": [
+        "La maestra o maestro trabaja con uno o más años de escolaridad, continuos o discontinuos, de manera simultánea",
+        "El maestro imparte clases exclusivamente a un solo año de escolaridad en aulas individuales",
+        "Se agrupa a los estudiantes por edades biológicas sin tomar en cuenta su avance curricular",
+        "Los estudiantes de distintos años cursan la materia en turnos nocturnos separados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 6 define la modalidad multigrado señalando que el maestro trabaja con uno o más años de escolaridad, continuos o discontinuos, de manera simultánea."
+    },
+    {
+      "question": "[131] Según el Artículo 7.I del Reglamento, ¿qué instancia realiza la selección de maestras y maestros cursantes del Diplomado 'Formación de Maestras/os de Educación Secundaria bajo la estrategia modular'? (Enfoque de evaluación 3)",
+      "options": [
+        "La Dirección General de Educación Secundaria",
+        "La Junta Escolar de Padres de Familia",
+        "El Gobierno Autónomo Municipal correspondiente",
+        "La Federación Departamental de Maestros Rurales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.I indica que la Dirección General de Educación Secundaria (DGES) selecciona a los docentes cursantes del diplomado mediante evaluación integral."
+    },
+    {
+      "question": "[132] Conforme al cuadro del Artículo 7.II del Reglamento, ¿qué especialidad de formación docente corresponde al Campo de Saberes y Conocimientos 'COMUNIDAD Y SOCIEDAD'? (Enfoque de evaluación 3)",
+      "options": [
+        "Comunicación y Lenguajes / Ciencias Sociales",
+        "Cosmovisiones, Filosofía y Psicología / Valores, Espiritualidad y Religiones",
+        "Física-Química / Biología-Geografía",
+        "Matemática / Técnica Tecnológica General"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Reglamento RM 1126/2022",
+      "explicacion": "El cuadro del Art. 7.II asigna las especialidades de Comunicación y Lenguajes y Ciencias Sociales al Campo Comunidad y Sociedad."
+    },
+    {
+      "question": "[133] Según el cuadro del Artículo 7.II del Reglamento, ¿a qué Campo de Saberes y Conocimientos corresponde la maestra o maestro con especialidad en 'FÍSICA-QUÍMICA' o 'BIOLOGÍA-GEOGRAFÍA'? (Enfoque de evaluación 3)",
+      "options": [
+        "Vida Tierra Territorio",
+        "Ciencia, Tecnología y Producción",
+        "Cosmos y Pensamiento",
+        "Comunidad y Sociedad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.II establece que la formación en Física-Química y Biología-Geografía corresponde al Campo Vida Tierra Territorio."
+    },
+    {
+      "question": "[134] De acuerdo con el Artículo 7.II, ¿qué especialidades de formación docente integran el Campo 'COSMOS Y PENSAMIENTO'? (Enfoque de evaluación 3)",
+      "options": [
+        "Cosmovisiones, Filosofía y Psicología / Valores, Espiritualidad y Religiones",
+        "Comunicación y Lenguajes / Ciencias Sociales",
+        "Matemática / Técnica Tecnológica General",
+        "Física-Química / Biología-Geografía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Reglamento RM 1126/2022",
+      "explicacion": "Cosmos y Pensamiento comprende las especialidades de Cosmovisiones, Filosofía y Psicología y Valores, Espiritualidad y Religiones."
+    },
+    {
+      "question": "[135] Según el Artículo 7.II, ¿qué especialidades docentes integran el Campo 'CIENCIA, TECNOLOGÍA Y PRODUCCIÓN'? (Enfoque de evaluación 3)",
+      "options": [
+        "Matemática / Técnica Tecnológica General (Técnica Vocacional, Taller General, Tecnología y Conocimiento Práctico)",
+        "Biología-Geografía / Educación Física y Deportes",
+        "Comunicación y Lenguajes / Lengua Extranjera",
+        "Artes Plásticas y Visuales / Educación Musical"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.II, Reglamento RM 1126/2022",
+      "explicacion": "Ciencia, Tecnología y Producción integra las especialidades de Matemática y Técnica Tecnológica General."
+    },
+    {
+      "question": "[136] Conforme al Artículo 7.III del Reglamento, ¿cuántos documentos debe adjuntar la Dirección Distrital Educativa para la designación y posesión del maestro modular? (Enfoque de evaluación 3)",
+      "options": [
+        "Cinco (5) documentos: Informe de evaluación integral de DGES, Memorándum, Declaratoria en Comisión, Duplicado del RDA y Ficha de Compulsa (si corresponde)",
+        "Dos (2) documentos: Certificado de nacimiento y fotocopia de C.I.",
+        "Tres (3) documentos: Título en provisión nacional, certificado médico y récord policial",
+        "Un (1) documento: Acta de asamblea comunitaria de aprobación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.III, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.III enumera los 5 requisitos documentales obligatorios para la posesión y elaboración de planillas."
+    },
+    {
+      "question": "[137] En caso de no existir maestras y maestros cursantes del diplomado, ¿cuál es el procedimiento por etapas establecido en el Artículo 7.V del Reglamento? (Enfoque de evaluación 3)",
+      "options": [
+        "1ª convocatoria para docentes con pertinencia; 2ª instancia flexibilización a todas las áreas de Regular; y si persiste acefalía, invitación directa (debiendo el designado inscribirse y cursar el Diplomado)",
+        "Designación inmediata de personas particulares sin título pedagógico ni obligación de estudio",
+        "Cierre definitivo de la unidad educativa y traslado de los estudiantes a la capital",
+        "Contratación de profesores jubilados exentos de cualquier tipo de capacitación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.V, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.V norma el procedimiento de prelación: 1ª convocatoria con pertinencia, 2ª flexibilización a otras áreas de Regular, e invitación directa con compromiso obligatorio de cursar el diplomado."
+    },
+    {
+      "question": "[138] De acuerdo con el Artículo 7.VI del Reglamento, ¿qué sanción se aplica al personal modular seleccionado, designado o que abandone funciones dentro del periodo obligatorio de dos (2) años? (Enfoque de evaluación 3)",
+      "options": [
+        "No podrá participar en otros procesos de selección y designación durante toda la gestión educativa en la que abandone funciones",
+        "Inhabilitación de por vida para ejercer la docencia en Bolivia",
+        "Multa equivalente a tres sueldos mensuales depositados en la DDE",
+        "Descenso automático a la última categoría del Escalafón"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.VI, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 7.VI dispone que quien abandone funciones dentro de los 2 años obligatorios no podrá participar en otros procesos durante toda la gestión en que abandone."
+    },
+    {
+      "question": "[139] Conforme al Artículo 8.I del Reglamento, ¿cuál es la carga horaria asignada a los ítems de la Modalidad Modular Multigrado y cuántas horas pedagógicas diarias se deben cumplir? (Enfoque de evaluación 3)",
+      "options": [
+        "Asignados con una carga horaria de 120 horas, cumpliendo seis (6) horas pedagógicas de 45 minutos diarias durante la semana",
+        "Carga horaria de 80 horas con cuatro (4) horas pedagógicas diarias",
+        "Carga horaria de 160 horas con ocho (8) horas pedagógicas diarias",
+        "Carga horaria de 100 horas con cinco (5) horas pedagógicas diarias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 8.I fija que los ítems tienen 120 horas de carga horaria, cumpliendo 6 horas pedagógicas diarias de 45 minutos."
+    },
+    {
+      "question": "[140] Según el Artículo 8.I del Reglamento, si el maestro no cumple obligatoriamente con el calendario de 200 días hábiles, ¿cómo se compensan las jornadas faltantes? (Enfoque de evaluación 3)",
+      "options": [
+        "Podrá ampliarse a los fines de semana con el desarrollo de actividades socioproductivas",
+        "Se le descuenta el 50% de su sueldo en la planilla del mes siguiente",
+        "Se dictan clases nocturnas de 2 horas adicionales todos los días",
+        "Se transfieren las horas faltantes a la gestión escolar del año subsiguiente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 8.I prevé que ante el no cumplimiento de los 200 días hábiles, se podrá ampliar a los fines de semana con actividades socioproductivas."
+    },
+    {
+      "question": "[141] De acuerdo con el Artículo 8.II del Reglamento, ¿qué beneficio económico adicional perciben los ítems registrados en Unidades Educativas de la modalidad modular? (Enfoque de evaluación 3)",
+      "options": [
+        "Goce de Bono de Frontera o Bono Zona",
+        "Subsidio de vivienda en capitales de departamento",
+        "Bono de transporte aéreo mensual",
+        "Bono por sobreproducción agrícola"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 8.II establece expresamente el goce de Bono de Frontera o Bono Zona según el registro de la U.E."
+    },
+    {
+      "question": "[142] Conforme al Artículo 8.III y IV del Reglamento, ¿cuántos años de servicio en el SEP se reconocen al maestro por haber desempeñado funciones durante dos (2) años continuos en la modalidad modular multigrado en unidades con Bono Zona o en Frontera? (Enfoque de evaluación 3)",
+      "options": [
+        "Reconocimiento de dos (2) años de servicio en el SEP (actualizado automáticamente en el RDA)",
+        "Reconocimiento de un (1) año de servicio adicional únicamente",
+        "Reconocimiento de cuatro (4) años de servicio en el Escalafón",
+        "Sin ningún tipo de reconocimiento de tiempo de servicio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.III y IV, Reglamento RM 1126/2022",
+      "explicacion": "Los parágrafos III y IV del Art. 8 otorgan el reconocimiento de 2 años de servicio en el SEP por 2 años continuos de trabajo en la modalidad en U.E. con Bono Zona o Frontera."
+    },
+    {
+      "question": "[143] Según el Artículo 8.V del Reglamento, ¿cuántos puntos para compulsa de méritos se reconocen al docente por prestar servicio profesional durante dos años continuos en esta modalidad (registrado en RDA)? (Enfoque de evaluación 3)",
+      "options": [
+        "Reconocimiento de 10 puntos para compulsa de méritos",
+        "Reconocimiento de 5 puntos para compulsa de méritos",
+        "Reconocimiento de 20 puntos para compulsa de méritos",
+        "Reconocimiento de 15 puntos para compulsa de méritos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.V, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 8.V asigna el reconocimiento de 10 puntos para compulsa de méritos tras 2 años continuos de servicio registrado en el RDA."
+    },
+    {
+      "question": "[144] Conforme al Artículo 9.I del Reglamento, ¿quién emite la Declaratoria en Comisión para los docentes modulares y qué datos debe especificar fehacientemente? (Enfoque de evaluación 3)",
+      "options": [
+        "El Director Distrital de Educación, estableciendo específicamente los periodos de 50 días hábiles y las 4 Unidades Educativas de la zona",
+        "El Director de la Unidad Educativa de Primaria mediante nota simple",
+        "El Director Departamental de Educación mediante Resolución Administrativa quinquenal",
+        "El Ministro de Educación mediante Resolución Ministerial individual"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.I, Reglamento RM 1126/2022",
+      "explicacion": "El Director Distrital del cual dependen los ítems declara en comisión al docente detallando los 4 periodos de 50 días y las 4 U.E."
+    },
+    {
+      "question": "[145] Según el Artículo 9.II del Reglamento, ¿a qué instancia debe remitir la Dirección Distrital fotocopia legalizada de la Declaratoria en Comisión? (Enfoque de evaluación 3)",
+      "options": [
+        "A la o las Direcciones Departamentales de Educación de cuya jurisdicción dependan las Unidades Educativas",
+        "A la Policía Nacional y Fuerzas Armadas de la zona",
+        "Al Ministerio de Economía y Finanzas Públicas",
+        "A la Fiscalía General del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 9.II exige remitir fotocopia legalizada de la Declaratoria en Comisión a la DDE correspondiente para seguimiento y control."
+    },
+    {
+      "question": "[146] De acuerdo con el Artículo 10 del Reglamento, ¿dónde firman el reporte mensual los maestros itinerantes y a través de quién se remite a la Dirección Distrital y DDE? (Enfoque de evaluación 3)",
+      "options": [
+        "Firman en el Formulario de Parte Mensual de la U.E. de la cual dependen, siendo remitido por el Director de la U.E. a la Distrital y luego a la DDE",
+        "Firman digitalmente en la aplicación móvil de la DDE desde su teléfono personal",
+        "Firman en la Alcaldía municipal al finalizar cada trimestre",
+        "No requieren firmar ningún reporte mensual al estar en comisión"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 10 exige la firma en el Formulario de Parte Mensual de la U.E. de origen, remitido por su Director a la Distrital y DDE."
+    },
+    {
+      "question": "[147] Conforme al Artículo 11.I del Reglamento, ¿qué autoridad escolar amplía sus funciones de seguimiento sobre la o el maestro declarado en comisión en su sede? (Enfoque de evaluación 3)",
+      "options": [
+        "El Director de la Unidad Educativa de Educación Primaria Comunitaria Vocacional",
+        "El Alcalde Municipal del distrito rural",
+        "El Corregidor o Cacique de la comunidad originaria",
+        "El Subdirector de Educación Alternativa y Especial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11.I, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 11.I señala que el Director de la U.E. de Primaria donde se encuentra en comisión el docente ampliará sus funciones de seguimiento."
+    },
+    {
+      "question": "[148] Según el Artículo 11.II del Reglamento, ¿cuál es la relación funcional y comunitaria de los maestros modulares durante su permanencia en la U.E. asignada? (Enfoque de evaluación 3)",
+      "options": [
+        "Desarrollan sus actividades en coordinación y dependencia de la Dirección de la U.E. donde están en comisión y participan de todas las actividades conjuntas de la comunidad",
+        "Trabajan de forma totalmente aislada sin contacto con el personal docente local",
+        "Dependen administrativamente del Corregidor local y no del Director de Primaria",
+        "Tienen prohibido participar en reuniones o actividades socioproductivas del colegio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11.II, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 11.II establece que actúan bajo dependencia y coordinación del Director de la U.E. receptora y se integran a la comunidad educativa."
+    },
+    {
+      "question": "[149] De acuerdo con el Artículo 12.I y II del Reglamento, ¿quién es el responsable de supervisar, apoyar y realizar seguimiento al desarrollo curricular y administrativo de la modalidad modular? (Enfoque de evaluación 3)",
+      "options": [
+        "El Director Distrital de Educación de la jurisdicción (junto a los Directores de U.E.)",
+        "El Director General de Asuntos Jurídicos del Ministerio",
+        "El Gobernador del Departamento mediante la secretaría de desarrollo humano",
+        "El Comité de Vigilancia del Municipio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.I y II, Reglamento RM 1126/2022",
+      "explicacion": "El Director Distrital es responsable de supervisar, apoyar y dar seguimiento curricular/administrativo y de gestión de personal (RDA, bajas, etc.)."
+    },
+    {
+      "question": "[150] Conforme al Artículo 12.III del Reglamento, cuando la organización de la modalidad involucra a más de un Distrito Educativo, ¿qué acción deben realizar las autoridades? (Enfoque de evaluación 3)",
+      "options": [
+        "Los Directores Distritales involucrados deben coordinar acciones para garantizar el funcionamiento adecuado de la Modalidad",
+        "Se cancela la rotación y cada distrito contrata a sus propios docentes",
+        "Se transfiere el caso a la justicia ordinaria para dirimir competencias",
+        "Se suspenden las clases en los distritos secundarios afectados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.III, Reglamento RM 1126/2022",
+      "explicacion": "El Art. 12.III dispone que cuando abarque más de un Distrito, los Directores Distritales involucrados deben coordinar directamente el funcionamiento."
+    }
+  ]
+}

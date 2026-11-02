@@ -1,0 +1,26 @@
+{
+  "bibliografia": {
+    "id": "ne42_rm_0904_2023_manual_funciones_ifa_cca",
+    "nombre": "R.M. N° 0904/2023 Manual de Organización y Funciones del personal directivo, docente y administrativo de los Institutos de Formación Artística y Centros de Capacitación Artística",
+    "detalle": "2023",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Rector Formación Artística",
+      "Director Académico Artístico",
+      "Director Administrativo Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "ne24_rm_0023_2024_apertura_modificacion_cierre_cee",
+    "nombre": "R.M. N° 0023/2024 Reglamento de Apertura, Modificación y Cierre de Centros de Educación Especial Fiscales y de Convenio",
+    "detalle": "10 de enero de 2024",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Alt. y Especial",
+      "Director de CEE"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

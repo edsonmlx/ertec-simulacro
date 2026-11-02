@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp49_ds_26237_2001_modificaciones_responsabilidad_funcion_publica",
+    "nombre": "Decreto Supremo N° 26237 Modificaciones al Reglamento de la Responsabilidad por la Función Pública",
+    "detalle": "29 de junio de 2001",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Asesor Legal"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

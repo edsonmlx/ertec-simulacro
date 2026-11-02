@@ -1,0 +1,28 @@
+{
+  "bibliografia": {
+    "id": "ne11_rm_0189_2023_evaluacion_desarrollo_curricular_institutos",
+    "nombre": "R.M. N° 0189/2023 Reglamento del Sistema de Evaluación del Desarrollo Curricular de los Institutos Técnicos y Tecnológicos",
+    "detalle": "7 de marzo de 2023",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Educ. Superior",
+      "Rector ITT",
+      "Director Académico ITT",
+      "Director Administrativo ITT"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

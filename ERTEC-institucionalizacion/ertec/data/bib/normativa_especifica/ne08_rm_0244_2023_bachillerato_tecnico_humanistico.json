@@ -1,0 +1,1827 @@
+{
+  "bibliografia": {
+    "id": "ne08_rm_0244_2023_bachillerato_tecnico_humanistico",
+    "nombre": "R.M. N° 0244/2023 Reglamento de Bachillerato Técnico Humanístico",
+    "detalle": "28 de marzo de 2023",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Regular",
+      "Director Distrital"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "[1] ¿Cuál es el objeto principal del Reglamento aprobado mediante la Resolución Ministerial N° 0244/2023?",
+      "options": [
+        "Normar la implementación y sostenibilidad del Bachillerato Técnico Humanístico (BTH) en unidades educativas de Secundaria del Subsistema Regular y centros del Subsistema de Educación Alternativa y Especial",
+        "Establecer el salario mínimo obligatorio para los docentes del área técnica en colegios privados",
+        "Reglamentar la transferencia de la propiedad de las escuelas técnicas a los Gobiernos Departamentales",
+        "Crear los institutos técnicos superiores universitarios en todas las capitales de provincia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, R.M. N° 0244/2023",
+      "explicacion": "El Artículo 1 establece que el objeto es normar la implementación y sostenibilidad del BTH en las unidades educativas de Educación Secundaria Comunitaria Productiva (Regular) y centros de educación alternativa (Alternativa y Especial)."
+    },
+    {
+      "question": "[2] De acuerdo con el Artículo 2 de la R.M. N° 0244/2023, ¿cuál es el ámbito de aplicación OBLIGATORIO de este reglamento?",
+      "options": [
+        "En unidades educativas de Secundaria fiscales, privadas y de convenio del Subsistema Regular, y centros de educación alternativa fiscales y de convenio del Subsistema de Educación Alternativa y Especial",
+        "Exclusivamente en unidades educativas fiscales de áreas rurales del territorio nacional",
+        "Únicamente en institutos técnicos superiores y universidades públicas plurinacionales",
+        "En todos los colegios privados de nivel primario y secundario sin excepción"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, R.M. N° 0244/2023",
+      "explicacion": "El Artículo 2 dispone la aplicación obligatoria en U.E. de Secundaria fiscales, privadas y de convenio (Regular) y CEA fiscales y de convenio (Alternativa y Especial)."
+    },
+    {
+      "question": "[3] Según el Artículo 4.I de la R.M. N° 0244/2023, ¿qué título obtienen los estudiantes al concluir la formación en el Bachillerato Técnico Humanístico en el Subsistema de Educación Regular?",
+      "options": [
+        "Título de Técnico Medio, que les permite continuar formación en Educación Superior, generar emprendimientos productivos y/o la inserción laboral",
+        "Diploma Académico de Licenciatura Técnica Industrial",
+        "Certificado de Capacitación Básica Acelerada",
+        "Título de Técnico Superior Universitario otorgado por el Comité Ejecutivo de la Universidad Boliviana"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.I, R.M. N° 0244/2023",
+      "explicacion": "El Art. 4.I indica que se obtiene el Título de Técnico Medio que permite continuar estudios superiores, emprender o insertarse laboralmente."
+    },
+    {
+      "question": "[4] Conforme al Artículo 5.I de la R.M. N° 0244/2023, ¿cuáles son los CUATRO enfoques que estructuran el BTH en el Subsistema de Educación Regular?",
+      "options": [
+        "Tecnológico, productivo, emprendimiento comunitario y socioambiental",
+        "Comercial, bancario, industrial y artesanal",
+        "Teórico, memorístico, competitivo e individualista",
+        "Científico, virtual, militar y agropecuario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I, R.M. N° 0244/2023",
+      "explicacion": "El Artículo 5.I define expresamente los cuatro enfoques: tecnológico, productivo, emprendimiento comunitario y socioambiental."
+    },
+    {
+      "question": "[5] Según el Artículo 5.II de la R.M. N° 0244/2023, ¿cuál de los siguientes NO es uno de los enfoques del BTH en el Subsistema de Educación Alternativa y Especial?",
+      "options": [
+        "Instrucción militar obligatoria y disciplina rígida de internado",
+        "Técnico tecnológico",
+        "Reconocimiento de saberes, conocimientos y experiencias",
+        "Educación a lo largo de la vida"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 5.II contempla técnico tecnológico, emprendimiento comunitario, reconocimiento de saberes, educación productiva territorial y educación a lo largo de la vida."
+    },
+    {
+      "question": "[6] Conforme al Artículo 6.I de la R.M. N° 0244/2023, los bachilleres con Título Técnico Medio que transiten a un Instituto Técnico o Tecnológico fiscal, de convenio o privado podrán inscribirse directamente a:",
+      "options": [
+        "Segundo Año en régimen anual o Tercer Semestre en régimen semestral",
+        "Primer Año en régimen anual o Primer Semestre en régimen semestral",
+        "Cuarto Año en régimen anual o Quinto Semestre en régimen semestral",
+        "Último año de licenciatura directamente sin cursar materias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.I, R.M. N° 0244/2023",
+      "explicacion": "El Artículo 6.I establece que los graduados con Título Técnico Medio transitan inscribiéndose al Segundo Año (anual) o Tercer Semestre (semestral)."
+    },
+    {
+      "question": "[7] De acuerdo con el Artículo 7 de la R.M. N° 0244/2023, ¿qué documento se descarga del Sistema de Información Educativa (SIE) para acreditar el cumplimiento de la carga horaria e iniciar el trámite del Título Técnico Medio?",
+      "options": [
+        "Certificado Único de Trámite del Título de Técnico Medio (CUT-TTM)",
+        "Libreta de Notas Trimestral Legalizada",
+        "Certificado de Buena Conducta y Asistencia",
+        "Padrón Biométrico Estudiantil de Formación Técnica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7, R.M. N° 0244/2023",
+      "explicacion": "El Artículo 7 señala que la unidad educativa descarga el Certificado Único de Trámite de Título de Técnico Medio CUT-TTM del SIE."
+    },
+    {
+      "question": "[8] Según el Artículo 8 de la R.M. N° 0244/2023, ¿cuándo y de qué manera se realiza la entrega del Título de Técnico Medio?",
+      "options": [
+        "En acto público, conjuntamente con el Diploma de Bachiller",
+        "Un año después de la graduación previa cancelación de timbres fiscales",
+        "De manera privada en la Dirección Departamental de Educación únicamente",
+        "Mediante correo certificado enviado al domicilio del estudiante"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, R.M. N° 0244/2023",
+      "explicacion": "El Artículo 8 establece que el Título Técnico Medio será entregado en acto público conjuntamente con el Diploma de Bachiller."
+    },
+    {
+      "question": "[9] Según el Artículo 10 de la R.M. N° 0244/2023, ¿entre qué instituciones se puede suscribir acuerdo para el uso compartido de infraestructura y equipamiento en el marco de la complementariedad?",
+      "options": [
+        "Entre Institutos Técnicos y Tecnológicos, Centros de Educación Alternativa y Unidades Educativas Técnico Humanísticas Plenas",
+        "Exclusivamente entre colegios privados internacionales y universidades extranjeras",
+        "Únicamente entre regimientos militares y centros penitenciarios juveniles",
+        "Entre empresas multinacionales de tecnología y academias privadas de idiomas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10, R.M. N° 0244/2023",
+      "explicacion": "El Artículo 10 faculta el uso compartido de infraestructura y equipamiento entre ITT, CEA y Unidades Educativas Plenas previa suscripción de convenios/acuerdos."
+    },
+    {
+      "question": "[10] Conforme al Artículo 11.II de la R.M. N° 0244/2023, ¿qué instancia subnacional es responsable de asignar partidas presupuestarias en su POA para dotar, financiar y garantizar infraestructura, equipamiento, insumos y mantenimiento para el BTH?",
+      "options": [
+        "Los Gobiernos Autónomos Municipales y/o Gobiernos Autónomos Indígena Originario Campesinos, en cumplimiento del Art. 80 de la Ley N° 070",
+        "Las Asambleas Legislativas Departamentales con fondos del IHD de gobernaciones",
+        "Las Juntas Vecinales y Comités Cívicos mediante cuotas extraordinarias",
+        "El Ministerio de Economía directamente a las cuentas personales de los directores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11.II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 11.II ratifica la obligación presupuestaria de los GAM y GAIOC en sus POA para infraestructura, equipamiento, insumos y mantenimiento de las U.E. Plenas y CEA."
+    },
+    {
+      "question": "[11] Según el Artículo 3 de la R.M. N° 0244/2023, ¿cuál es el sentido fundamental del Bachillerato Técnico Humanístico en el modelo económico boliviano?",
+      "options": [
+        "Contribuir a la transformación de la matriz productiva y la reactivación económica, con identidad cultural y soberanía científica y tecnológica",
+        "Fomentar la importación masiva de bienes manufacturados del extranjero",
+        "Sustituir la formación científica y humanística por adiestramiento puramente mecánico",
+        "Preparar mano de obra no cualificada para empresas agroexportadoras exclusivas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, R.M. N° 0244/2023",
+      "explicacion": "El Art. 3 señala que el BTH coadyuva a la transformación de la matriz productiva y reactivación económica con identidad cultural y soberanía científica y tecnológica."
+    },
+    {
+      "question": "[12] De acuerdo con el Artículo 9 de la R.M. N° 0244/2023, ¿cómo se regula el trámite de legalización y título supletorio del Título de Técnico Medio?",
+      "options": [
+        "De acuerdo a lo dispuesto en el 'Reglamento para la Impresión de Títulos de Técnico Medio de Educación Secundaria y Educación Alternativa'",
+        "Mediante decreto del Gobernador Departamental en audiencia pública",
+        "Por trámite ante Notaría de Fe Pública sin intervención del Ministerio de Educación",
+        "Con aprobación directa de la Asamblea Legislativa Plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9, R.M. N° 0244/2023",
+      "explicacion": "El Art. 9 remite el trámite de legalización y supletorio al Reglamento específico para la Impresión de Títulos de Técnico Medio."
+    },
+    {
+      "question": "[13] Conforme al Artículo 11.I de la R.M. N° 0244/2023, ¿quiénes son responsables de gestionar los recursos económicos para la sostenibilidad del BTH ante los Municipios o GAIOCs?",
+      "options": [
+        "Las directoras y directores distritales, directoras y directores de U.E. Plenas y Centros de Educación Alternativa, con apoyo de la comunidad educativa",
+        "Exclusivamente los presidentes de las promociones de estudiantes",
+        "Los diputados uninominales de la circunscripción electoral respectiva",
+        "Las empresas privadas contratadas para el suministro de materiales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11.I, R.M. N° 0244/2023",
+      "explicacion": "El Art. 11.I asigna la responsabilidad de gestión ante GAM/GAIOC a los Directores Distritales y Directores de U.E. Plenas y CEA."
+    },
+    {
+      "question": "[14] Según el Artículo 5.I.a de la R.M. N° 0244/2023, el enfoque 'Tecnológico' del BTH implica:",
+      "options": [
+        "Incentivar la investigación e innovación en la producción propia mediante el diálogo entre saberes locales/ancestrales y las ciencias modernas",
+        "Comprar maquinaria importada sin capacitación técnica para los docentes",
+        "Prohibir el uso de herramientas tradicionales o ancestrales de producción",
+        "Limitar la enseñanza al manejo básico de computadoras y redes sociales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I.a, R.M. N° 0244/2023",
+      "explicacion": "El Art. 5.I.a define el enfoque tecnológico como la investigación e innovación nacida de la convergencia de conocimientos locales ancestrales y ciencias modernas."
+    },
+    {
+      "question": "[15] Según el Artículo 5.I.d de la R.M. N° 0244/2023, el enfoque 'Socioambiental' se fundamenta en el principio de que:",
+      "options": [
+        "'La naturaleza puede vivir sin el ser humano, pero el ser humano no puede vivir sin la naturaleza'",
+        "El crecimiento económico justifica la deforestación y sobreexplotación ilimitada",
+        "La producción técnica no genera ningún impacto sobre los ecosistemas",
+        "Los recursos naturales deben privatizarse para garantizar su conservación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I.d, R.M. N° 0244/2023",
+      "explicacion": "El Art. 5.I.d explicita esta máxima ambiental orientada a la reducción de la contaminación y preservación de la Madre Tierra."
+    },
+    {
+      "question": "[16] En el marco del Artículo 10.c de la R.M. N° 0244/2023, para que estudiantes de una U.E. Plena desarrollen formación en otra U.E. Plena cercana se requiere:",
+      "options": [
+        "Acuerdo firmado entre directores de ambas U.E., con visto bueno de la Dirección Distrital, GAM/GAIOC y Dirección Departamental de Educación",
+        "Autorización verbal del consejo de profesores de la unidad receptora",
+        "Pago de un alquiler mensual por uso de talleres fijado por la Junta Escolar",
+        "Resolución Suprema emitida directamente por la Presidencia del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10.c, R.M. N° 0244/2023",
+      "explicacion": "El Art. 10.c exige acuerdo interinstitucional con V°B° del Director Distrital, Municipio/GAIOC y DDE."
+    },
+    {
+      "question": "[17] Según el Artículo 4.II de la R.M. N° 0244/2023, el BTH en el Subsistema de Educación Alternativa y Especial busca desarrollar una formación a partir de:",
+      "options": [
+        "Saberes, conocimientos y experiencias de las personas adquiridas en su práctica cotidiana en complementariedad con conocimientos pluriversales",
+        "Exámenes de admisión teóricos eliminatorios de nivel universitario",
+        "Currículos estandarizados extranjeros sin adaptación al contexto local",
+        "Cursos cortos exclusivamente teóricos de tres semanas de duración"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 4.II destaca la revalorización de conocimientos y experiencias previas cotidianas en armonía con conocimientos pluriversales."
+    },
+    {
+      "question": "[18] De acuerdo con los Vistos y Considerandos de la R.M. N° 0244/2023, ¿cuál de las siguientes Resoluciones Ministeriales queda ABROGADA expresamente?",
+      "options": [
+        "Resolución Ministerial N° 1263/2018 de 21 de diciembre de 2018",
+        "Resolución Ministerial N° 0001/2023 de 03 de enero de 2023",
+        "Resolución Ministerial N° 0182/2022 de 23 de marzo de 2022",
+        "Resolución Ministerial N° 0847/2019 de 2 de agosto de 2019"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2 Abrogatoria, R.M. N° 0244/2023",
+      "explicacion": "El Artículo 2 de la R.M. 0244/2023 abroga explícitamente la R.M. N° 1263/2018 de 21 de diciembre de 2018."
+    },
+    {
+      "question": "[19] Conforme al Artículo 5.I.c de la R.M. N° 0244/2023, el 'Emprendimiento comunitario' promueve:",
+      "options": [
+        "El espíritu emprendedor comunitario, cooperativas u organizaciones socioproductivas para transformar la realidad local con complementariedad",
+        "La competencia desleal entre estudiantes para acaparar mercados individuales",
+        "La eliminación de organizaciones sociales en la planificación productiva",
+        "El monopolio de producción a favor de la dirección de la unidad educativa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I.c, R.M. N° 0244/2023",
+      "explicacion": "El Art. 5.I.c impulsa la creación de entidades socioproductivas, cooperativas y asociaciones comunitarias para la reactivación económica."
+    },
+    {
+      "question": "[20] Según el Artículo 6.II de la R.M. N° 0244/2023, la transitabilidad de los graduados con Título Técnico Medio hacia el Sistema Universitario se desarrolla:",
+      "options": [
+        "Previa gestión y en el marco de los acuerdos establecidos entre autoridades educativas competentes",
+        "De manera automática a cualquier carrera universitaria sin requisito alguno",
+        "Prohibida de manera absoluta por tratarse de subsistemas diferentes",
+        "Mediante sorteo público administrado por la Conferencia Episcopal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 6.II establece que el tránsito al sistema universitario se efectúa previa gestión y acuerdos entre autoridades competentes."
+    },
+    {
+      "question": "[21] Según el Artículo 12 de la R.M. N° 0244/2023, ¿cuál es la diferencia fundamental en la clasificación entre Unidades Educativas Humanísticas y Unidades Educativas Técnico Humanísticas Plenas?",
+      "options": [
+        "Las Humanísticas desarrollan Técnica Tecnológica General solo en 1ro y 2do año, mientras que las Plenas desarrollan TT General de 1ro a 3ro y TT Especializada en 4to, 5to y 6to año",
+        "Las Humanísticas otorgan Título de Técnico Medio y las Plenas solo certificado de asistencia",
+        "Las Humanísticas no pertenecen al Subsistema Regular y las Plenas sí",
+        "Las Plenas no imparten asignaturas humanísticas y se dedican 100% al taller"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, R.M. N° 0244/2023",
+      "explicacion": "El Art. 12 define que las Humanísticas llevan TT General solo en 1º y 2º año, mientras que las Plenas implementan el BTH completo (TT General en 1º-3º y TT Especializada en 4º-6º)."
+    },
+    {
+      "question": "[22] Conforme al Artículo 14 de la R.M. N° 0244/2023, ¿cuál es la CARGA HORARIA TOTAL del área Técnica Tecnológica en las Unidades Educativas Técnico Humanísticas Plenas?",
+      "options": [
+        "1.920 horas (640 en Técnica Tecnológica General y 1.280 en Técnica Tecnológica Especializada)",
+        "1.000 horas (500 en TT General y 500 en TT Especializada)",
+        "2.400 horas (1.200 en TT General y 1.200 en TT Especializada)",
+        "800 horas totales distribuidas en los 6 años de escolaridad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, R.M. N° 0244/2023",
+      "explicacion": "El Art. 14 establece una carga horaria total de 1.920 horas: 640 horas para TT General y 1.280 horas para TT Especializada."
+    },
+    {
+      "question": "[23] De acuerdo al cuadro del Artículo 14 de la R.M. N° 0244/2023, ¿cuántas horas MENSUALES corresponden al área Técnica Tecnológica Especializada en 5to y 6to año de escolaridad de Secundaria?",
+      "options": [
+        "48 horas mensuales (480 horas anuales en cada año)",
+        "32 horas mensuales (320 horas anuales en cada año)",
+        "16 horas mensuales (160 horas anuales en cada año)",
+        "60 horas mensuales (600 horas anuales en cada año)"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, R.M. N° 0244/2023",
+      "explicacion": "El cuadro del Art. 14 especifica 48 horas mensuales (480 anuales) para 5to y 6to año en TT Especializada."
+    },
+    {
+      "question": "[24] De acuerdo al cuadro del Artículo 14 de la R.M. N° 0244/2023, ¿cuántas horas MENSUALES corresponden a Técnica Tecnológica General en 3er año de escolaridad de Secundaria?",
+      "options": [
+        "32 horas mensuales (320 horas anuales)",
+        "16 horas mensuales (160 horas anuales)",
+        "48 horas mensuales (480 horas anuales)",
+        "24 horas mensuales (240 horas anuales)"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, R.M. N° 0244/2023",
+      "explicacion": "En 3er año de Secundaria la carga horaria en TT General asciende a 32 horas mensuales (320 anuales)."
+    },
+    {
+      "question": "[25] Según el Artículo 15 de la R.M. N° 0244/2023, ¿cómo debe organizarse el horario de desarrollo curricular en Técnica Tecnológica Especializada (4to, 5to y 6to año) y TT General de 3er año?",
+      "options": [
+        "En horario alterno a la formación humanística, en bloques continuos con periodos de 40 minutos, evitando el horario mosaico",
+        "En horario nocturno únicamente los días sábados y domingos",
+        "Dentro de las mismas horas de matemática y física mediante horario mosaico intercalado",
+        "A libre elección del estudiante sin control de asistencia ni bloques continuos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, R.M. N° 0244/2023",
+      "explicacion": "El Art. 15 determina desarrollo en horario alterno con periodos de 40 minutos en bloques continuos para evitar la fragmentación."
+    },
+    {
+      "question": "[26] Conforme al Artículo 16 de la R.M. N° 0244/2023, ¿cuál es la proporción exacta entre formación práctica y teórica en Técnica Tecnológica Especializada?",
+      "options": [
+        "70% de carácter práctico (en talleres, laboratorios y áreas de producción) y 30% de formación teórica",
+        "50% práctico y 50% teórico",
+        "90% teórico en aula y 10% práctico en taller",
+        "100% práctico sin ningún contenido teórico pedagógico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, R.M. N° 0244/2023",
+      "explicacion": "El Art. 16 especifica que el 70% de la formación será práctica y el 30% teórica."
+    },
+    {
+      "question": "[27] Según el Artículo 17 de la R.M. N° 0244/2023, en la evaluación de Técnica Tecnológica Especializada se valorará y evidenciará prioritariamente la dimensión del:",
+      "options": [
+        "'Hacer', considerando el 'Perfil de salida' del profesional Técnico Medio",
+        "'Saber', mediante exámenes escritos memorísticos exclusivamente",
+        "'Ser', a través de pruebas de disciplina militar",
+        "'Decidir', según el voto de la junta de padres de familia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17, R.M. N° 0244/2023",
+      "explicacion": "El Art. 17 señala que por las características de la formación técnica se valorará y evidenciará el 'Hacer' considerando el perfil de salida."
+    },
+    {
+      "question": "[28] Según el Artículo 18 de la R.M. N° 0244/2023, ¿con qué periodicidad y propósito las U.E. Plenas, Direcciones Distritales y DDEs organizan ferias productivas y ruedas de negocios?",
+      "options": [
+        "Anualmente, con el propósito de difundir los resultados de los procesos formativos y la concreción curricular del BTH",
+        "Cada tres meses, con el fin de vender terrenos escolares a empresas privadas",
+        "Únicamente cada cinco años durante los aniversarios patrios",
+        "Mensualmente para recaudar fondos destinados a viajes de promoción privada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, R.M. N° 0244/2023",
+      "explicacion": "El Art. 18 obliga a organizar anualmente espacios de socialización (ferias productivas, ruedas de negocios) para difundir resultados."
+    },
+    {
+      "question": "[29] Según el Artículo 19 de la R.M. N° 0244/2023, la formación en el área de Técnica Tecnológica General y Especializada en U.E. Plenas tiene carácter:",
+      "options": [
+        "Obligatorio y promocional, por ser parte de la estructura curricular de Educación Secundaria",
+        "Optativo y voluntario, sin incidencia en la libreta escolar ni en la promoción de año",
+        "Extraescolar y recreativo, no computable para el promedio anual",
+        "Exclusivo para estudiantes con promedios superiores a 90 puntos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19, R.M. N° 0244/2023",
+      "explicacion": "El Art. 19 establece el carácter obligatorio y promocional del área Técnica Tecnológica."
+    },
+    {
+      "question": "[30] Conforme al Artículo 20.I y II de la R.M. N° 0244/2023, la asignación de carrera en el SIE es responsabilidad del Director/a de la U.E. Plena. Si existiera una asignación incorrecta en la gestión, ¿hasta cuándo y dónde debe subsanarse?",
+      "options": [
+        "Antes de la conclusión del Segundo Trimestre en la Dirección Departamental de Educación correspondiente",
+        "Hasta el último día de clases directamente en la Dirección Distrital",
+        "En cualquier momento del año previa solicitud verbal al Ministerio de Educación",
+        "No se puede subsanar bajo ninguna circunstancia perdiéndose el año escolar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 20.II dispone que la asignación incorrecta debe subsanarse antes de la conclusión del Segundo Trimestre en la DDE."
+    },
+    {
+      "question": "[31] De acuerdo con el Artículo 21.I de la R.M. N° 0244/2023, ¿dónde deben registrarse las calificaciones de Técnica Tecnológica General y Especializada?",
+      "options": [
+        "En la unidad educativa donde el o la estudiante desarrolla el proceso formativo (Taller, Núcleo o Módulo Tecnológico Productivo)",
+        "Exclusivamente en la Dirección Departamental de Educación en libros empastados",
+        "En la unidad educativa de origen aunque el taller esté en otro establecimiento",
+        "En la alcaldía municipal correspondiente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.I, R.M. N° 0244/2023",
+      "explicacion": "El Art. 21.I indica que las notas se registran en la U.E. donde se desarrolla el proceso formativo (Taller, Núcleo o Módulo)."
+    },
+    {
+      "question": "[32] Según el Artículo 21.III de la R.M. N° 0244/2023, la asignación de calificaciones 'ficticias o fraudulentas' a estudiantes que no hayan desarrollado la formación técnica dará lugar a:",
+      "options": [
+        "Responsabilidad administrativa para los infractores en apego a la normativa vigente",
+        "Una felicitación por escrito en la libreta escolar",
+        "La convalidación automática de la nota en el Ministerio",
+        "Un descuento salarial único de un boliviano"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.III, R.M. N° 0244/2023",
+      "explicacion": "El Art. 21.III prohíbe notas ficticias o fraudulentas bajo sanción de responsabilidad administrativa."
+    },
+    {
+      "question": "[33] En el área Técnica Tecnológica Especializada (4to, 5to y 6to año), la carga horaria ANUAL acumulada asciende a:",
+      "options": [
+        "1.280 horas (320 en 4to, 480 en 5to y 480 en 6to)",
+        "640 horas totales",
+        "2.000 horas anuales",
+        "160 horas por año"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, R.M. N° 0244/2023",
+      "explicacion": "Según el Art. 14, TT Especializada comprende 320 hrs en 4to, 480 hrs en 5to y 480 hrs en 6to, sumando 1.280 horas."
+    },
+    {
+      "question": "[34] En el área Técnica Tecnológica General (1ro, 2do y 3er año), la carga horaria ANUAL acumulada asciende a:",
+      "options": [
+        "640 horas (160 en 1ro, 160 en 2do y 320 en 3ro)",
+        "1.280 horas totales",
+        "300 horas por año",
+        "1.920 horas en total"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, R.M. N° 0244/2023",
+      "explicacion": "El cuadro del Art. 14 establece 160 hrs en 1ro, 160 hrs en 2do y 320 hrs en 3ro, acumulando 640 horas en TT General."
+    },
+    {
+      "question": "[35] Conforme al Artículo 13.I.a de la R.M. N° 0244/2023, ¿cuál es el objetivo central del espacio formativo de Técnica Tecnológica General (1ro a 3er año)?",
+      "options": [
+        "Desarrollar capacidades investigativas, reflexivas, productivas y emprendedoras como base para la posterior elección de una carrera especializada al concluir el 3er año",
+        "Especializar al estudiante en una sola profesión técnica definitiva desde el primer día de clases",
+        "Sustituir la enseñanza de lenguaje y sociales por práctica de taller mecánico",
+        "Evaluar la aptitud física del estudiante para trabajos de fuerza bruta"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.I.a, R.M. N° 0244/2023",
+      "explicacion": "El Art. 13.I.a determina que TT General es la base formativa broad-based para que en 3er año el estudiante opte por una carrera especializada."
+    },
+    {
+      "question": "[36] Según el Artículo 16.c de la R.M. N° 0244/2023, ¿cómo se articulan las áreas humanísticas con las carreras Técnica Tecnológica Especializadas?",
+      "options": [
+        "Las áreas humanísticas se orientan a fortalecer las carreras técnicas y sus conocimientos científicos se aplican a los procesos de producción",
+        "Las áreas humanísticas se eliminan para dar prioridad absoluta al trabajo de taller",
+        "Las áreas técnicas dictan los contenidos de historia y geografía sin relación con la producción",
+        "Se desarrollan de forma totalmente aislada sin ningún punto de contacto o integración"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16.c, R.M. N° 0244/2023",
+      "explicacion": "El Art. 16.c dispone la articulación e integración de Campos y Áreas de Saberes, aplicando los conocimientos humanísticos a la producción técnica."
+    },
+    {
+      "question": "[37] Según el Artículo 13.I.b de la R.M. N° 0244/2023, el espacio de Técnica Tecnológica Especializada se desarrolla en 4to, 5to y 6to año de escolaridad a partir de:",
+      "options": [
+        "Las necesidades, problemáticas, vocaciones y potencialidades productivas locales, regionales y territoriales",
+        "Manuales importados sin traducción ni adaptación local",
+        "La decisión arbitraria de los proveedores de maquinaria privada",
+        "Los programas vigentes en universidades extranjeras exclusivamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.I.b, R.M. N° 0244/2023",
+      "explicacion": "El Art. 13.I.b establece que TT Especializada responde a necesidades, vocaciones y potencialidades productivas del contexto territorial."
+    },
+    {
+      "question": "[38] De acuerdo con el Artículo 21.II de la R.M. N° 0244/2023, la omisión, modificación o alteración injustificada del registro de calificaciones del área técnica genera:",
+      "options": [
+        "Responsabilidad administrativa en apego a la normativa legal en vigencia",
+        "Anulación automática de todo el año escolar para el curso entero",
+        "Aumento de un punto a la nota final de todos los alumnos",
+        "Sanción pecuniaria cobrada por la Junta Escolar de Padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 21.II sanciona la omisión o alteración del registro de notas con responsabilidad administrativa."
+    },
+    {
+      "question": "[39] Según el Artículo 15 de la R.M. N° 0244/2023, la duración de cada período académico en la formación técnica es de:",
+      "options": [
+        "40 minutos, organizados en bloques continuos",
+        "60 minutos en horarios discontinuos",
+        "20 minutos bajo modalidad de clases relámpago",
+        "90 minutos sin descansos entre materias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, R.M. N° 0244/2023",
+      "explicacion": "El Art. 15 fija períodos de 40 minutos en bloque continuo."
+    },
+    {
+      "question": "[40] De acuerdo con el Artículo 12.a de la R.M. N° 0244/2023, en las Unidades Educativas Humanísticas, ¿en qué años de escolaridad se imparte la materia de Técnica Tecnológica General?",
+      "options": [
+        "Solo en 1ro y 2do año de escolaridad de Educación Secundaria",
+        "De 1ro a 6to año de escolaridad ininterrumpidamente",
+        "Solo en 5to y 6to año de escolaridad",
+        "En ningún año de escolaridad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.a, R.M. N° 0244/2023",
+      "explicacion": "El Art. 12.a especifica que las U.E. Humanísticas brindan formación humanística y TT General SOLO en 1ro y 2do año."
+    },
+    {
+      "question": "[41] Conforme al Artículo 18 de la R.M. N° 0244/2023, ¿cuál de los siguientes eventos forma parte de las actividades de concreción curricular para difundir los resultados del BTH?",
+      "options": [
+        "Ferias productivas y ruedas de negocios",
+        "Sorteos de lotería escolar anual",
+        "Desfiles de moda privada con cobro de entrada",
+        "Campañas de propaganda política partidaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, R.M. N° 0244/2023",
+      "explicacion": "El Art. 18 cita explícitamente ferias productivas y ruedas de negocios como espacios de socialización de la concreción curricular."
+    },
+    {
+      "question": "[42] Según la estructura curricular del BTH en Educación Regular (Art. 14), ¿cuántas horas ANUALES se imparten en 4to año de Secundaria en Técnica Tecnológica Especializada?",
+      "options": [
+        "320 horas anuales (32 horas mensuales)",
+        "480 horas anuales (48 horas mensuales)",
+        "160 horas anuales (16 horas mensuales)",
+        "640 horas anuales (64 horas mensuales)"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, R.M. N° 0244/2023",
+      "explicacion": "En 4to año corresponden 32 horas mensuales, lo que equivale a 320 horas anuales."
+    },
+    {
+      "question": "[43] Según la estructura curricular del BTH en Educación Regular (Art. 14), ¿cuántas horas ANUALES corresponden a 1ro y 2do año de Secundaria en Técnica Tecnológica General?",
+      "options": [
+        "160 horas anuales en cada año (16 horas mensuales)",
+        "320 horas anuales en cada año (32 horas mensuales)",
+        "480 horas anuales en cada año (48 horas mensuales)",
+        "100 horas anuales en cada año"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, R.M. N° 0244/2023",
+      "explicacion": "Tanto en 1ro como en 2do año la carga horaria es de 16 horas mensuales, totalizando 160 horas anuales por año."
+    },
+    {
+      "question": "[44] Conforme al Artículo 20.I de la R.M. N° 0244/2023, la asignación de la carrera técnica en el SIE a los estudiantes de 4to, 5to y 6to año es responsabilidad de:",
+      "options": [
+        "La directora o director de la unidad educativa Técnico Humanística Plena",
+        "El Presidente de la Junta de Padres de Familia",
+        "El Asesor de Curso de 6to de Secundaria",
+        "El Director Departamental de Educación personalmente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.I, R.M. N° 0244/2023",
+      "explicacion": "El Art. 20.I asigna esta responsabilidad de forma exclusiva a la directora o director de la U.E. Plena."
+    },
+    {
+      "question": "[45] En el marco del Artículo 16.a de la R.M. N° 0244/2023, las prácticas pedagógicas en las U.E. Plenas deben desarrollarse en:",
+      "options": [
+        "Talleres, laboratorios, salas especializadas, áreas y espacios de producción",
+        "Aulas teóricas tradicionales sin ningún equipamiento técnico",
+        "Instalaciones prestadas de colegios privados previo cobro de alquiler",
+        "Domicilios particulares de los estudiantes sin supervisión docente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16.a, R.M. N° 0244/2023",
+      "explicacion": "El Art. 16.a manda que el 70% práctico se ejecute en talleres, laboratorios, salas especializadas y espacios de producción."
+    },
+    {
+      "question": "[46] Según el Artículo 22.1 de la R.M. N° 0244/2023, un 'Taller Tecnológico Productivo' es la U.E. Plena que:",
+      "options": [
+        "Cuenta con infraestructura, equipamiento propio e ítems de TT General y Especializada, atendiendo únicamente a sus propios estudiantes",
+        "Atiende a estudiantes de diez colegios aledaños sin tener infraestructura ni ítems propios",
+        "No imparte formación humanística y funciona como centro privado de capacitación",
+        "Funciona en un local alquilado atendiendo a universitarios de último año"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.1, R.M. N° 0244/2023",
+      "explicacion": "El Art. 22.1 define el Taller Tecnológico Productivo como la U.E. Plena con infraestructura, equipamiento e ítems propios que atiende únicamente a sus estudiantes (Rótulo: PLENA, Complemento: Taller)."
+    },
+    {
+      "question": "[47] Conforme al Artículo 22.2 de la R.M. N° 0244/2023, un 'Taller Tecnológico Productivo Compartido' se caracteriza por:",
+      "options": [
+        "Ser dos o más U.E. Plenas cercanas de la misma Distrital con carreras distintas que intercambian estudiantes según oferta y capacidad",
+        "Un acuerdo comercial entre un colegio fiscal y una universidad privada para vender productos",
+        "Una U.E. que presta sus talleres a colegios de otros departamentos de manera virtual",
+        "Un taller mecánico municipal abierto al público general sin vínculo escolar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.2, R.M. N° 0244/2023",
+      "explicacion": "El Art. 22.2 define el Taller Compartido como 2 o más U.E. Plenas cercanas con carreras distintas que intercambian alumnos (Rótulo: PLENA, Complemento: Taller Compartido)."
+    },
+    {
+      "question": "[48] Según el Artículo 22.3 de la R.M. N° 0244/2023, un 'Núcleo Tecnológico Productivo' es la U.E. Plena que:",
+      "options": [
+        "Cuenta con infraestructura, equipamiento e ítems propios, y atiende a sus estudiantes y a estudiantes de U.E. Asociadas aledañas de la misma Distrital",
+        "Funciona sin director y es administrada por un comité vecinal externo",
+        "Ofrece únicamente carreras teóricas sin talleres ni laboratorios",
+        "Pertenece al Subsistema de Educación Superior Universitaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.3, R.M. N° 0244/2023",
+      "explicacion": "El Art. 22.3 define el Núcleo como la U.E. Plena que atiende a sus estudiantes y a U.E. Asociadas aledañas sin infraestructura/equipamiento (Rótulo: NÚCLEO-BTH)."
+    },
+    {
+      "question": "[49] Conforme al Artículo 22.4 de la R.M. N° 0244/2023, un 'Módulo Tecnológico Productivo' se diferencia de las demás estructuras porque:",
+      "options": [
+        "Fue constituido específicamente para el BTH con más de 3 carreras, no imparte formación humanística ni tiene estudiantes registrados propios, atendiendo a U.E. Asociadas",
+        "Solo atiende a estudiantes de nivel inicial y primaria comunitaria vocacional",
+        "Es un taller móvil instalado sobre camiones para zonas rurales sin director",
+        "Imparte formación de posgrado universitario para docentes jubilados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.4, R.M. N° 0244/2023",
+      "explicacion": "El Art. 22.4 especifica que el Módulo tiene más de 3 carreras, no desarrolla formación humanística ni tiene estudiantes propios registrados (Rótulo: MÓDULO-BTH)."
+    },
+    {
+      "question": "[50] Según el Artículo 22.5 de la R.M. N° 0244/2023, una 'Unidad Educativa Asociada' es aquella que:",
+      "options": [
+        "No cuenta con equipamiento, infraestructura e ítems de TT Especializada, y se asocia a un Taller, Núcleo o Módulo para adscribirse al BTH",
+        "Tiene diez talleres equipados pero rechaza pertenecer al sistema de titulación",
+        "Es una universidad privada que otorga títulos de licenciatura a colegios",
+        "Funciona fuera del territorio nacional bajo convenio consular"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.5, R.M. N° 0244/2023",
+      "explicacion": "El Art. 22.5 define la U.E. Asociada como la que se vincula a un Taller, Núcleo o Módulo para cursar la formación técnica (adquiere rótulo PLENA al asociarse)."
+    },
+    {
+      "question": "[51] Según el Artículo 22.3 y 22.4 de la R.M. N° 0244/2023, con qué periodicidad debe reunirse el Directorio de un Núcleo o Módulo Tecnológico Productivo para desarrollar evaluaciones:",
+      "options": [
+        "Reuniones de evaluación Trimestrales",
+        "Reuniones diarias al finalizar la jornada",
+        "Reuniones únicamente quinquenales",
+        "Una sola reunión al inicio de cada década"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.3 y 22.4, R.M. N° 0244/2023",
+      "explicacion": "El reglamento establece expresamente que el Directorio del Núcleo y del Módulo desarrollará reuniones de evaluación Trimestrales."
+    },
+    {
+      "question": "[52] Conforme al Artículo 24 de la R.M. N° 0244/2023, el Reglamento Interno de uso de infraestructura, equipamiento e insumos de la formación técnica debe ser elaborado por la comunidad y aprobado por:",
+      "options": [
+        "La Dirección Distrital Educativa y remitido a la Dirección Departamental de Educación",
+        "La junta vecinal del barrio previo pago de timbres",
+        "El Ministerio de Trabajo, Empleo y Previsión Social",
+        "Una empresa de auditoría privada externa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24, R.M. N° 0244/2023",
+      "explicacion": "El Art. 24 manda que el Reglamento Interno de uso sea aprobado por la Dirección Distrital y remitido a la DDE."
+    },
+    {
+      "question": "[53] De acuerdo con el Artículo 25 de la R.M. N° 0244/2023, ¿cuándo se realiza la entrega del INVENTARIO del equipamiento e insumos a los maestros responsables de carrera?",
+      "options": [
+        "De forma anual, al inicio de la gestión escolar, y su devolución/entrega al concluir la gestión",
+        "Cada mes durante la reunión de consejo técnico",
+        "Únicamente al momento de la jubilación del director",
+        "Cada tres años mediante acta notariada obligatoria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25, R.M. N° 0244/2023",
+      "explicacion": "El Art. 25 determina la entrega formal del inventario al inicio de gestión a los docentes de carrera y su devolución al concluir el año escolar."
+    },
+    {
+      "question": "[54] Según el Artículo 28.I y II de la R.M. N° 0244/2023, los recursos económicos generados por concepto de iniciativas productivas y prestación de servicios deben ser invertidos en:",
+      "options": [
+        "Mejoramiento de infraestructura, equipamiento e insumos para el autosostenimiento del BTH, con rendición de cuentas en asamblea antes de la clausura escolar",
+        "Sueldos extra y bonos mensuales para los directores y profesores",
+        "Fiestas de fin de año y viajes de turismo para el plantel docente",
+        "Depósitos en cuentas bancarias privadas a nombre del presidente de la Junta Escolar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28.II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 28.II exige rendir cuentas en asamblea antes de la clausura e invertir los fondos generados en infraestructura, equipamiento e insumos del BTH."
+    },
+    {
+      "question": "[55] Conforme al Artículo 26.a y b de la R.M. N° 0244/2023, las alianzas estratégicas y convenios de cooperación con entidades públicas, privadas y ONG se orientan a viabilizar:",
+      "options": [
+        "Dotación y mantenimiento de infraestructura, equipamiento, insumos, capacitación y transferencia de conocimientos",
+        "La venta de las instalaciones de las escuelas públicas a fondos de inversión",
+        "La contratación de profesores sin título pedagógico ni registro en el RDA",
+        "La exoneración total de impuestos para empresas privadas sin contraparte educativa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26, R.M. N° 0244/2023",
+      "explicacion": "El Art. 26 busca alianzas para infraestructura, equipamiento, insumos, capacitación y transferencia tecnológica."
+    },
+    {
+      "question": "[56] Según el Artículo 27 de la R.M. N° 0244/2023, para articular el proceso formativo a sectores productivos, las U.E. pueden coordinar:",
+      "options": [
+        "Cursos de orientación vocacional, visitas de estudio guiadas y ferias productivas con entidades del sector estatal, privado o de convenio",
+        "La contratación de estudiantes como trabajadores fabriles nocturnos sin salario",
+        "El reemplazo de las clases escolares por trabajo agrícola no remunerado de tiempo completo",
+        "La cesión de las libretas de notas a agencias de empleo privadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27, R.M. N° 0244/2023",
+      "explicacion": "El Art. 27 autoriza vinculación formativa mediante orientación vocacional, visitas guiadas, ferias y prácticas formativas."
+    },
+    {
+      "question": "[57] Conforme al Artículo 30 de la R.M. N° 0244/2023, la convalidación y homologación de carreras afines por traslado de estudiantes se realiza según:",
+      "options": [
+        "La Tabla de Afinidad de Carreras Técnica Tecnológica Especializadas contemplada en el Anexo Nro. 2 del Reglamento",
+        "El criterio personal e inapelable del regente de la unidad educativa",
+        "Un examen de admisión oral administrado por la junta vecinal",
+        "El promedio de calificaciones obtenido en la materia de religión"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, R.M. N° 0244/2023",
+      "explicacion": "El Art. 30 remite expresamente al Anexo 2 'Tabla de Afinidad de Carreras' para convalidaciones y homologaciones."
+    },
+    {
+      "question": "[58] En la tabla del Artículo 22 de la R.M. N° 0244/2023, ¿cuál es el DENOMINATIVO EN SISTEMA para un Módulo Tecnológico Productivo?",
+      "options": [
+        "Rótulo: MÓDULO - BTH",
+        "Rótulo: PLENA, Complemento: Taller",
+        "Rótulo: NÚCLEO - BTH",
+        "Rótulo: ASOCIADA - BTH"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22 Tabla, R.M. N° 0244/2023",
+      "explicacion": "La tabla del Art. 22 indica que el Módulo se registra en el SIE con el rótulo MÓDULO - BTH."
+    },
+    {
+      "question": "[59] En la tabla del Artículo 22 de la R.M. N° 0244/2023, ¿cuál es el DENOMINATIVO EN SISTEMA para un Taller Tecnológico Productivo Compartido?",
+      "options": [
+        "Rótulo: PLENA, Complemento: Taller Compartido",
+        "Rótulo: COMPARTIDO - BTH",
+        "Rótulo: NÚCLEO - BTH",
+        "Rótulo: MÓDULO - BTH"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22 Tabla, R.M. N° 0244/2023",
+      "explicacion": "La tabla del Art. 22 fija para Taller Compartido el rótulo PLENA con el complemento Taller Compartido."
+    },
+    {
+      "question": "[60] De acuerdo con el Artículo 23 de la R.M. N° 0244/2023, la formación en el BTH es considerada un derecho de los estudiantes que implica:",
+      "options": [
+        "Deberes de los mismos estudiantes y responsabilidad de toda la comunidad educativa",
+        "Exoneración de toda responsabilidad o deber académico para los alumnos",
+        "Obligación exclusiva de los docentes sin participación de los padres",
+        "Un servicio comercial pagado mediante pensiones mensuales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23, R.M. N° 0244/2023",
+      "explicacion": "El Art. 23 señala que el BTH es un derecho que conlleva deberes estudiantiles y responsabilidad compartida de la comunidad educativa."
+    },
+    {
+      "question": "[61] Según el Artículo 22.4 de la R.M. N° 0244/2023, el Módulo Tecnológico Productivo cuenta para su administración con:",
+      "options": [
+        "Una directora o director institucionalizado",
+        "Un consejo estudiantil sin presencia de autoridades",
+        "Un regente interino contratado por horas",
+        "El alcalde municipal de forma directa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.4, R.M. N° 0244/2023",
+      "explicacion": "El Art. 22.4 especifica que para su administración el Módulo contará con una directora o director institucionalizado."
+    },
+    {
+      "question": "[62] Conforme al Artículo 25 de la R.M. N° 0244/2023, el incumplimiento de la entrega o devolución formal del inventario de equipamiento e insumos generará:",
+      "options": [
+        "Responsabilidades administrativas para maestras, maestros, directoras y directores",
+        "El decomiso del salario anual de los estudiantes",
+        "La clausura inmediata de la unidad educativa por tres años",
+        "La anulación del título de bachiller de la promoción"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25, R.M. N° 0244/2023",
+      "explicacion": "El Art. 25 determina responsabilidad administrativa ante el incumplimiento del trámite de inventario."
+    },
+    {
+      "question": "[63] Según el Artículo 22.3 de la R.M. N° 0244/2023, la administración de un Núcleo Tecnológico Productivo estará bajo la responsabilidad de:",
+      "options": [
+        "El director de la unidad educativa donde se encuentra la infraestructura del Núcleo, en conjunto con el Directorio",
+        "El estudiante con el promedio más alto de la promoción",
+        "Un consultor privado contratado por la junta vecinal",
+        "El Director Departamental de Educación en persona"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.3, R.M. N° 0244/2023",
+      "explicacion": "El Art. 22.3 establece que la administración del Núcleo recae en el director de la U.E. sede, constituyéndose además el Directorio con las U.E. Asociadas."
+    },
+    {
+      "question": "[64] De acuerdo con el Artículo 24 de la R.M. N° 0244/2023, si una U.E. Plena implementa residencia estudiantil (internado), las normas de uso de infraestructura técnica deben especificarse en:",
+      "options": [
+        "El Reglamento de Convivencia Armónica y Pacífica de la unidad educativa",
+        "Un contrato privado firmado ante Juez de Partido en lo Civil",
+        "El libro de actas de la junta escolar exclusivamente",
+        "Una Resolución Ministerial emitida por el Ministerio de Gobierno"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24, R.M. N° 0244/2023",
+      "explicacion": "El Art. 24 indica que en U.E. con internado se especificará el uso de infraestructura técnica en el Reglamento de Convivencia Armónica y Pacífica."
+    },
+    {
+      "question": "[65] Conforme al Artículo 29 de la R.M. N° 0244/2023, las modalidades de graduación del Bachillerato Técnico Humanístico se desarrollan de acuerdo a:",
+      "options": [
+        "Lo establecido en reglamentación específica",
+        "El sorteo aleatorio de temas en el examen final",
+        "La sola asistencia al 50% de las clases teóricas",
+        "Un pago en efectivo entregado a la comisión de evaluación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29, R.M. N° 0244/2023",
+      "explicacion": "El Art. 29 remite la graduación del BTH a lo dispuesto en la reglamentación específica aprobada para el efecto."
+    },
+    {
+      "question": "[66] Según el Artículo 32.III, 33.III, 34.III y 36.III de la R.M. N° 0244/2023, ¿cuál es el PLAZO EXACTO en el que la Dirección de la U.E. debe iniciar el trámite de constitución o asociación BTH?",
+      "options": [
+        "Del 1 al 30 de septiembre de cada gestión escolar",
+        "Del 1 al 31 de marzo de cada gestión escolar",
+        "Del 1 al 15 de enero durante las inscripciones escolares",
+        "En cualquier fecha del año sin restricción de calendario"
+      ],
+      "answer": 0,
+      "fuente": "Artículos 32.III, 33.III, 34.III, R.M. N° 0244/2023",
+      "explicacion": "El reglamento fija del 1 al 30 de septiembre el periodo perentorio para que la U.E. inicie el trámite en sistema y físico."
+    },
+    {
+      "question": "[67] Conforme al Artículo 32.IV de la R.M. N° 0244/2023, ¿cuál es el plazo y responsabilidad de la Dirección Distrital Educativa en el trámite de constitución BTH?",
+      "options": [
+        "Verificar el cumplimiento de requisitos e inspeccionar 'in situ' del 1 al 31 de octubre, generando el Formulario N° 5",
+        "Emitir la Resolución Ministerial de aprobación del 1 al 15 de diciembre",
+        "Archivar las solicitudes sin realizar ninguna inspección técnica",
+        "Cobrar una tasa de tramitación del 1 al 10 de noviembre"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.IV, R.M. N° 0244/2023",
+      "explicacion": "La Dirección Distrital verifica e inspecciona 'in situ' del 1 al 31 de octubre, generando el Formulario 5."
+    },
+    {
+      "question": "[68] Según el Artículo 32.V de la R.M. N° 0244/2023, ¿cuál es el plazo y facultad de la Dirección Departamental de Educación (DDE) en la constitución de U.E. Plenas?",
+      "options": [
+        "Verificar el cumplimiento del 1 al 30 de noviembre y emitir la Resolución Administrativa que aprueba la constitución y autoriza el BTH",
+        "Realizar los exámenes de graduación de los estudiantes en el mes de agosto",
+        "Aprobar el trámite del 1 al 10 de enero de la gestión en curso",
+        "Derivar el trámite a la Asamblea Departamental para promulgación de ley"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.V, R.M. N° 0244/2023",
+      "explicacion": "La DDE verifica del 1 al 30 de noviembre y emite la Resolución Administrativa de constitución y autorización BTH."
+    },
+    {
+      "question": "[69] Conforme al Artículo 41 de la R.M. N° 0244/2023, ¿con qué TEMPORALIDAD deben desarrollarse los procesos de constitución de U.E. Plenas y trámites conexos?",
+      "options": [
+        "Una gestión antes de la implementación de la formación Técnica Tecnológica en el marco del BTH",
+        "En el mismo mes en que se inician las clases del nuevo año escolar",
+        "Dos años después de haber egresado la primera promoción",
+        "En forma simultánea a la entrega de los títulos de bachiller"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, R.M. N° 0244/2023",
+      "explicacion": "El Art. 41 establece que los trámites se desarrollan por sistema y en físico UNA GESTIÓN ANTES de la implementación."
+    },
+    {
+      "question": "[70] Según el Artículo 42 de la R.M. N° 0244/2023, ¿a partir de qué año de escolaridad únicamente implementarán el BTH las U.E. Plenas autorizadas por R.A. y con rótulo 'PLENA' en el SIE?",
+      "options": [
+        "A partir del 3er año de Educación Secundaria Comunitaria Productiva",
+        "Desde el 1er año de Primaria Comunitaria Vocacional",
+        "Únicamente en el 6to año de Secundaria durante el último trimestre",
+        "Desde el nivel Inicial en familia comunitaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 42, R.M. N° 0244/2023",
+      "explicacion": "El Art. 42 dictamina que únicamente implementarán el BTH a partir del 3er año de Secundaria las U.E. autorizadas con R.A. y rótulo 'PLENA' en el SIE."
+    },
+    {
+      "question": "[71] Según el Artículo 44 de la R.M. N° 0244/2023, toda información registrada en el Sistema de Información Educativa (SIE) respecto a trámites BTH tiene carácter de:",
+      "options": [
+        "Declaración Jurada, debiendo guardar estricta coherencia con la documentación física",
+        "Sugerencia informal sin valor legal",
+        "Documento borrador sujeto a cambios arbitrarios sin sanción",
+        "Archivo confidencial secreto inaccesible para las autoridades"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 44, R.M. N° 0244/2023",
+      "explicacion": "El Art. 44 fija que la información del SIE tiene carácter de Declaración Jurada y debe ser coherente con el expediente físico."
+    },
+    {
+      "question": "[72] En el procedimiento de constitución de un Taller Tecnológico Productivo (Art. 32.III), ¿cuál es el FORMULARIO N° 1 generado al iniciar el trámite?",
+      "options": [
+        "FORMULARIO N° 1: 'INICIO DE TRÁMITE'",
+        "FORMULARIO N° 1: 'INSPECCIÓN Y VERIFICACIÓN DISTRITAL'",
+        "FORMULARIO N° 1: 'APROBACIÓN DE RESOLUCIÓN DEPARTAMENTAL'",
+        "FORMULARIO N° 1: 'ELIMINACIÓN Y CESE DE CARRERA'"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.III.b, R.M. N° 0244/2023",
+      "explicacion": "El Formulario 1 corresponde a 'INICIO DE TRÁMITE' registrado en función del proyecto."
+    },
+    {
+      "question": "[73] En el procedimiento de constitución BTH (Art. 32.III), ¿qué certificados acreditan el compromiso de SOSTENIBILIDAD (Formulario N° 4) según el tipo de dependencia de la U.E.?",
+      "options": [
+        "Certificado de Compromiso Municipal de Sostenimiento (fiscales y convenio) o Certificado de Compromiso de Sostenibilidad emitido por la administración (privadas)",
+        "Póliza de seguro bancario contratada en el extranjero",
+        "Garantía hipotecaria otorgada por los profesores de aula",
+        "Declaración jurada de no tener deudas de agua o luz"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.III.e, R.M. N° 0244/2023",
+      "explicacion": "El Formulario 4 exige el Certificado de Compromiso Municipal de Sostenimiento (públicas/convenio) o de la administración (privadas)."
+    },
+    {
+      "question": "[74] Conforme al Artículo 35 de la R.M. N° 0244/2023, ¿cuál de los siguientes NO es un trámite conexo contemplado en la norma?",
+      "options": [
+        "Acreditación de universidades privadas como colegios secundarios",
+        "Asociación a una unidad educativa Técnico Humanística Plena",
+        "Adición de carrera en una unidad educativa Plena ya constituida",
+        "Eliminación gradual de carrera"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35, R.M. N° 0244/2023",
+      "explicacion": "El Art. 35 enumera asociación, adición de carrera, adición por taller compartido, eliminación de carrera y modificación de RUE."
+    },
+    {
+      "question": "[75] Según el Artículo 39.I y II de la R.M. N° 0244/2023, el procedimiento de ELIMINACIÓN DE CARRERA exige:",
+      "options": [
+        "Proyección de cese gradual garantizando que los estudiantes en curso concluyan su formación hasta obtener el Título de Técnico Medio, y proyección de reordenamiento de ítems",
+        "La expulsión inmediata de los estudiantes inscritos en la carrera a eliminar",
+        "La quema del equipamiento técnico obsoleto sin inventario",
+        "La sustitución automática por clases de gimnasia deportiva"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39.I y III.a, R.M. N° 0244/2023",
+      "explicacion": "El Art. 39 exige cese gradual respetando el derecho de los alumnos en curso a concluir su carrera y reordenando gradualmente los ítems."
+    },
+    {
+      "question": "[76] En el trámite de Eliminación de Carrera (Art. 39.III.b), ¿qué formulario específico debe generarse?",
+      "options": [
+        "FORMULARIO N° 7: 'ELIMINACIÓN DE CARRERA'",
+        "FORMULARIO N° 2: 'CONDICIONES DE INFRAESTRUCTURA'",
+        "FORMULARIO N° 10: 'LICENCIA DE FUNCIONAMIENTO'",
+        "FORMULARIO N° 4: 'SOSTENIBILIDAD MUNICIPAL'"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39.III.b, R.M. N° 0244/2023",
+      "explicacion": "El Art. 39.III.b indica la generación del FORMULARIO N° 7 'ELIMINACIÓN DE CARRERA'."
+    },
+    {
+      "question": "[77] Conforme al Artículo 40.I de la R.M. N° 0244/2023, cuando una U.E. Plena realiza la modificación o actualización de RUE por desglose, la R.A. debe:",
+      "options": [
+        "Mantener el Código SIE para la unidad educativa que permanezca con Educación Secundaria Comunitaria Productiva como nivel autorizado",
+        "Generar un código SIE totalmente nuevo borrando todo el historial",
+        "Clausurar el nivel secundario de manera permanente",
+        "Asignar el código SIE a una escuela primaria vecina"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40.I, R.M. N° 0244/2023",
+      "explicacion": "El Art. 40.I exige mantener el código SIE en la U.E. que conserve el nivel Secundario autorizado."
+    },
+    {
+      "question": "[78] Según el Artículo 40.II de la R.M. N° 0244/2023, en el trámite de actualización de RUE por cierre por fusión entre una U.E. Humanística y una U.E. Plena, la R.A. debe mantener el Código SIE de:",
+      "options": [
+        "La unidad educativa Técnico Humanística Plena",
+        "La unidad educativa Humanística",
+        "Un código aleatorio creado por el municipio",
+        "El código SIE del instituto técnico superior más cercano"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40.II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 40.II establece que la R.A. de fusión mantendrá el código SIE de la U.E. Técnico Humanística Plena."
+    },
+    {
+      "question": "[79] Según el Artículo 43 de la R.M. N° 0244/2023, las U.E. Plenas desarrollarán la formación en el BTH únicamente en las carreras que:",
+      "options": [
+        "Tienen autorizadas explícitamente a través del Sistema de Información Educativa (SIE)",
+        "Decida el centro de estudiantes a mitad de año",
+        "Impartan colegios privados de la competencia",
+        "Solicite verbalmente cualquier grupo de diez alumnos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 43, R.M. N° 0244/2023",
+      "explicacion": "El Art. 43 restringe la enseñanza únicamente a las carreras autorizadas e ingresadas en el SIE, bajo sanción de responsabilidad administrativa."
+    },
+    {
+      "question": "[80] Conforme al Artículo 37.III.a de la R.M. N° 0244/2023, el trámite de ADICIÓN DE CARRERA en una U.E. Plena debe ser iniciado por la Dirección del establecimiento previa elaboración de:",
+      "options": [
+        "Proyecto de Adición de Carrera Técnica Tecnológica Especializada previo diagnóstico socioeconómico del contexto",
+        "Solicitud escrita del sindicato de choferes locales",
+        "Declaración de quiebra de la unidad educativa",
+        "Contrato comercial de franquicia internacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37.III.a, R.M. N° 0244/2023",
+      "explicacion": "El Art. 37.III.a exige elaborar el Proyecto de Adición de Carrera sustentado en diagnóstico socioeconómico."
+    },
+    {
+      "question": "[81] En los trámites de constitución o adición BTH, ¿qué sistema de información del Ministerio se utiliza para verificar la carga horaria e ítems solicitados (Formulario SICH)?",
+      "options": [
+        "Sistema de Información de Carga Horaria — SICH",
+        "Sistema de Registro Civil — SERECI",
+        "Sistema de Contabilidad Integrada — SIGEP",
+        "Sistema de Recaudación Tributaria — SIN"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.III.f, R.M. N° 0244/2023",
+      "explicacion": "El reglamento cita explícitamente el Formulario de Requerimiento del Sistema de Información de Carga Horaria (SICH)."
+    },
+    {
+      "question": "[82] Según el Artículo 32.IV.e de la R.M. N° 0244/2023, si en la inspección distrital se constata el INCUMPLIMIENTO de requisitos para constituirse en U.E. Plena, ¿qué determina la Dirección Distrital?",
+      "options": [
+        "La conclusión del trámite, no pudiendo iniciarse ningún nuevo trámite hasta la siguiente gestión educativa",
+        "El otorgamiento de una prórroga de diez años sin condiciones",
+        "La clausura definitiva de la escuela primaria",
+        "El traspaso del edificio a una empresa privada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.IV.e, R.M. N° 0244/2023",
+      "explicacion": "Ante incumplimiento, la Distrital concluye el trámite y la U.E. no puede iniciar nuevo trámite hasta la siguiente gestión."
+    },
+    {
+      "question": "[83] De acuerdo con el Anexo Nro. 3 citado en los Artículos 32, 33 y 34 de la R.M. N° 0244/2023, los proyectos de constitución BTH deben estructurarse conforme a:",
+      "options": [
+        "La 'Estructura del Proyecto de Constitución de Unidad Educativa Técnico Humanística Plena'",
+        "Las normas de redacción periodística de prensa escrita",
+        "El formato de tesis doctoral universitaria internacional",
+        "Las guías de contabilidad de empresas comerciales privadas"
+      ],
+      "answer": 0,
+      "fuente": "Anexo Nro. 3, R.M. N° 0244/2023",
+      "explicacion": "El reglamento indica que el proyecto debe ajustarse estrictamente a la guía del Anexo 3."
+    },
+    {
+      "question": "[84] Conforme al Artículo 38.I de la R.M. N° 0244/2023, para constituir un Taller Tecnológico Productivo Compartido entre dos U.E. Plenas, se requiere que ambas pertenezcan a:",
+      "options": [
+        "La misma Dirección Distrital Educativa",
+        "Distintos departamentos del país obligatoriamente",
+        "Diferentes subsistemas educativos de formación militar",
+        "Países limítrofes diferentes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 38.I, R.M. N° 0244/2023",
+      "explicacion": "El Art. 38.I exige que las U.E. que conforman el Taller Compartido pertenezcan a la misma Dirección Distrital Educativa."
+    },
+    {
+      "question": "[85] Según el Artículo 39.V.c de la R.M. N° 0244/2023, al aprobarse la eliminación definitiva de una carrera por la DDE, en el SIE se registrara inicialmente la carrera con el rótulo:",
+      "options": [
+        "'EN PROCESO DE ELIMINACIÓN', hasta su cierre definitivo en la gestión correspondiente",
+        "'CLAUSURADA CON MULTA'",
+        "'TRANSFERIDA A PRIVADOS'",
+        "'CARRERA SECRETA'"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39.V.c, R.M. N° 0244/2023",
+      "explicacion": "El Art. 39.V.c indica que en el SIE la carrera se registrará como 'EN PROCESO DE ELIMINACIÓN' para resguardar a los alumnos en curso."
+    },
+    {
+      "question": "[86] Según el Artículo 36.I y II.2 de la R.M. N° 0244/2023, para que una U.E. se asocie a un Taller, Núcleo o Módulo debe presentar el Proyecto de Asociación y:",
+      "options": [
+        "Acuerdo de asociación refrendado entre la o el director de la U.E. solicitante y la autoridad/Directorio del Taller, Núcleo o Módulo receptor",
+        "Un pago en efectivo no reembolsable",
+        "La cesión de los títulos de propiedad del terreno escolar",
+        "Una fianza bancaria emitida por un banco privado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36.II.2, R.M. N° 0244/2023",
+      "explicacion": "El Art. 36.II.2 exige la presentación del acuerdo de asociación refrendado por las autoridades directivas correspondientes."
+    },
+    {
+      "question": "[87] Conforme al Artículo 40.III de la R.M. N° 0244/2023, cuando dos o más U.E. Plenas realizan modificación de RUE por cierre por fusión, la unidad educativa que permanezca con 'estado abierta':",
+      "options": [
+        "Realizará el trámite de adición de la carrera o carreras de la unidad educativa que quede en 'estado cerrada'",
+        "Perderá todas sus carreras técnicas automáticamente",
+        "Dará de baja a todo el personal docente de la especialidad",
+        "Cambiará su dependencia a colegio de convenio o privado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40.III, R.M. N° 0244/2023",
+      "explicacion": "El Art. 40.III determina que la U.E. abierta absorberá y adicionará las carreras de la U.E. que se cierra por fusión."
+    },
+    {
+      "question": "[88] En el procedimiento de verificación distrital (Art. 32.IV.d), ¿qué formulario genera la Dirección Distrital tras la inspección 'in situ'?",
+      "options": [
+        "FORMULARIO N° 5: 'INSPECCIÓN Y VERIFICACIÓN DE REQUISITOS Y CONDICIONES - DIRECCIÓN DISTRITAL EDUCATIVA'",
+        "FORMULARIO N° 6: 'INSPECCIÓN Y VERIFICACIÓN DE REQUISITOS - DIRECCIÓN DEPARTAMENTAL DE EDUCACIÓN'",
+        "FORMULARIO N° 1: 'INICIO DE TRÁMITE'",
+        "FORMULARIO N° 7: 'ELIMINACIÓN DE CARRERA'"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.IV.d, R.M. N° 0244/2023",
+      "explicacion": "La inspección distrital genera formalmente el Formulario N° 5."
+    },
+    {
+      "question": "[89] En el procedimiento de aprobación departamental (Art. 32.V.d), ¿qué formulario genera la DDE tras la verificación final?",
+      "options": [
+        "FORMULARIO N° 6: 'INSPECCIÓN Y VERIFICACIÓN DE REQUISITOS Y CONDICIONES - DIRECCIÓN DEPARTAMENTAL DE EDUCACIÓN'",
+        "FORMULARIO N° 5: 'INSPECCIÓN Y VERIFICACIÓN DISTRITAL'",
+        "FORMULARIO N° 2: 'CONDICIONES DE INFRAESTRUCTURA'",
+        "FORMULARIO N° 9: 'ELIMINACIÓN DE CARRERA DDE'"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.V.d, R.M. N° 0244/2023",
+      "explicacion": "La verificación y aprobación por parte de la DDE genera el Formulario N° 6."
+    },
+    {
+      "question": "[90] De acuerdo con el Artículo 36.V.d de la R.M. N° 0244/2023, al asociar a un Taller Tecnológico Productivo una unidad educativa sin infraestructura, equipamiento ni ítems, esta primera se constituirá en el SIE en:",
+      "options": [
+        "Núcleo Tecnológico Productivo",
+        "Módulo Tecnológico Productivo",
+        "Taller Tecnológico Productivo Compartido",
+        "Unidad Educativa Humanística Simple"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36.V.d (pág. 29), R.M. N° 0244/2023",
+      "explicacion": "El reglamento establece que al asociarse una U.E. sin taller a un Taller existente, la U.E. receptora se transforma administrativamente en Núcleo Tecnológico Productivo."
+    },
+    {
+      "question": "[91] Según el Artículo 46 de la R.M. N° 0244/2023, las y los maestros que desempeñen funciones en Técnica Tecnológica Especializada en el Subsistema Regular deben cumplir indefectiblemente con:",
+      "options": [
+        "Pertinencia académica respecto a la carrera ofertada por la unidad educativa",
+        "Título de maestría en administración de empresas privadas",
+        "Diez años de residencia fija en el municipio de la escuela",
+        "Afiliación obligatoria al comité cívico departamental"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46, R.M. N° 0244/2023",
+      "explicacion": "El Art. 46 exige pertinencia académica de la especialidad docente con la carrera ofertada."
+    },
+    {
+      "question": "[92] Conforme al Artículo 47.I y II de la R.M. N° 0244/2023, ¿cómo se designa a las autoridades directivas y docentes de áreas técnicas en U.E. Plenas, Talleres, Núcleos y Módulos?",
+      "options": [
+        "Directores por Proceso de Institucionalización; docentes según reglamentación específica registrándose con código específico de TT General o Especializada en el Sistema de Gestión de Personal",
+        "Designación directa a dedo por el alcalde municipal sin convocatoria",
+        "Por herencia familiar directa del cargo directivo",
+        "Mediante votación directa y secreta de los estudiantes de 1ro de Secundaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 47.I y II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 47 establece institucionalización para directores y registro con código específico de especialidad para docentes."
+    },
+    {
+      "question": "[93] Según el Artículo 50.1.a de la R.M. N° 0244/2023, si un estudiante se traslada en gestión vigente de una U.E. Humanística a una U.E. Plena hasta el 2do Trimestre en 3er año de Secundaria:",
+      "options": [
+        "Será nivelado en Técnica Tecnológica General",
+        "Repite el año de escolaridad automáticamente",
+        "Ingresa directo a 6to de secundaria en una especialidad",
+        "Pierde el derecho a matricularse en el sistema fiscal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50.1.a, R.M. N° 0244/2023",
+      "explicacion": "El Art. 50.1.a dispone que en 3er año de Secundaria el alumno trasladado será nivelado en Técnica Tecnológica General."
+    },
+    {
+      "question": "[94] Conforme al Artículo 50.1.c de la R.M. N° 0244/2023, si un estudiante se traslada en gestión vigente en 5to año de Secundaria de una U.E. Humanística a una U.E. Plena que oferta una carrera DIFERENTE a su formación previa:",
+      "options": [
+        "Culminará sólo la formación humanística, firmando los padres un Acta de Aceptación, sin asignación de carrera técnica en el SIE",
+        "Se le regalarán las notas de la carrera técnica para que se gradué",
+        "Será retrocedido a 1ro de secundaria en el taller",
+        "Rendirá un examen único oral de 5 minutos para graduarse como Técnico Medio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50.1.c, R.M. N° 0244/2023",
+      "explicacion": "El Art. 50.1.c indica que si en 5to año la carrera es diferente, solo culmina formación humanística (no procede nivelación íntegra de carrera técnica diferente en 5to)."
+    },
+    {
+      "question": "[95] Según el Artículo 50.1.d y 50.2.c de la R.M. N° 0244/2023, en 6to año de escolaridad de Secundaria, ¿qué REGLA EXPRESA rige respecto al criterio de carrera afín en traslados?",
+      "options": [
+        "En 6to año de escolaridad NO será aplicable el criterio y procedimiento de carrera afín; si la U.E. oferta diferente carrera, el estudiante culminará sólo la formación humanística",
+        "En 6to año se convalidan de forma automática todas las carreras aunque no tengan ninguna afinidad",
+        "Se permite cambiar libremente de carrera técnica a tres semanas del bachillerato",
+        "El estudiante debe pagar una multa a la DDE para que se le apruebe la carrera afín"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50.1.d y 50.2.c, R.M. N° 0244/2023",
+      "explicacion": "El reglamento enfatiza que en 6to de Secundaria no aplica el procedimiento de carrera afín si difiere la oferta."
+    },
+    {
+      "question": "[96] De acuerdo con el Artículo 50.4.d de la R.M. N° 0244/2023, respecto a la nivelación de carreras técnicas en traslados de gestión diferente:",
+      "options": [
+        "No se desarrollará la nivelación de una gestión íntegra (completa) de formación en una carrera de Técnica Tecnológica Especializada en ningún año de escolaridad",
+        "Se permite nivelar 3 años completos de especialidad técnica en un solo fin de semana",
+        "Los directores pueden inventar notas de cursos pasados mediante resolución interna",
+        "Se cobra una matrícula especial por nivelar años completos atrasados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50.4.d, R.M. N° 0244/2023",
+      "explicacion": "El Art. 50.4.d prohíbe taxativamente nivelar gestiones íntegras/completas de formación técnica especializada."
+    },
+    {
+      "question": "[97] Conforme al Artículo 52.a de la R.M. N° 0244/2023, el Programa de Nivelación técnica ante traslados viables tendrá un período de duración MÍNIMO de:",
+      "options": [
+        "Un Trimestre, en horario que no interfiera con los horarios de formación humanística",
+        "Una semana intensiva de clases virtuales",
+        "Tres años calendario consecutivos",
+        "Un solo día sábado por la mañana"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52.a, R.M. N° 0244/2023",
+      "explicacion": "El Art. 52.a establece que el programa de nivelación durará mínimo un Trimestre en horario alterno."
+    },
+    {
+      "question": "[98] Según el Artículo 54.III.c de la R.M. N° 0244/2023, ¿hasta cuándo la DDE aprueba y consolida el trámite de registro de calificaciones de nivelación en el SIE?",
+      "options": [
+        "Hasta el Segundo Trimestre de cada gestión escolar, pasada la fecha el módulo será inhabilitado",
+        "Hasta el último día del año siguiente",
+        "En cualquier momento del quinquenio posterior",
+        "Solo durante las vacaciones de invierno"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54.III.c, R.M. N° 0244/2023",
+      "explicacion": "El Art. 54.III.c fija el Segundo Trimestre como plazo límite para consolidar nivelaciones en el SIE."
+    },
+    {
+      "question": "[99] Según el Artículo 56.a y d de la R.M. N° 0244/2023, el Programa de fortalecimiento de conocimientos teórico-prácticos para casos de carrera afín dura mínimo un Trimestre y se caracteriza porque:",
+      "options": [
+        "A su conclusión se presenta un informe de desarrollo pero NO se registrará ninguna calificación en el Sistema de Información Educativa",
+        "Otorga una nota adicional de 100 puntos en todas las materias humanísticas",
+        "Exige la presentación de un examen de grado ante jurado notariado",
+        "Se cobra una mensualidad especial al estudiante"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 56.d, R.M. N° 0244/2023",
+      "explicacion": "El Art. 56.d aclara que este fortalecimiento concluye con informe pedagógico pero NO registra notas nuevas en el SIE."
+    },
+    {
+      "question": "[100] Conforme al Artículo 57.a de la R.M. N° 0244/2023, los estudios realizados en el extranjero correspondientes a 1ro y 2do de Secundaria serán homologados mediante trámite para acreditar información en:",
+      "options": [
+        "Técnica Tecnológica General",
+        "Técnica Tecnológica Especializada de Técnico Medio",
+        "Licenciatura en Ciencias de la Educación",
+        "Maestría en Gestión Escolar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 57.a, R.M. N° 0244/2023",
+      "explicacion": "El Art. 57.a señala que 1ro y 2do de Secundaria del exterior se homologan como Técnica Tecnológica General."
+    },
+    {
+      "question": "[101] Según el Artículo 57.b de la R.M. N° 0244/2023, los estudios realizados en el extranjero correspondientes a 3ro, 4to, 5to y 6to de Secundaria se consideran a efectos del BTH como procedentes de:",
+      "options": [
+        "Una unidad educativa Humanística",
+        "Una unidad educativa Técnico Humanística Plena",
+        "Un centro de educación militar superior",
+        "Un instituto tecnológico acreditado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 57.b, R.M. N° 0244/2023",
+      "explicacion": "El Art. 57.b establece que la formación de 3ro a 6to de Secundaria realizada en el exterior se asimila a formación en U.E. Humanística."
+    },
+    {
+      "question": "[102] De acuerdo con el Artículo 58.I y II de la R.M. N° 0244/2023, para solicitar la SUSPENSIÓN EXCEPCIONAL en la formación Técnica Tecnológica Especializada, el estudiante debe presentar:",
+      "options": [
+        "Certificado médico, psicológico o psicopedagógico que evidencie la imposibilidad de desarrollar la formación técnica especializada",
+        "Una carta notariada declarando desinterés personal por el trabajo manual",
+        "Solicitud del sindicato de transporte público local",
+        "Certificado de escasos recursos económicos firmado por la alcaldía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 58.II.3, R.M. N° 0244/2023",
+      "explicacion": "El Art. 58.II.3 exige respaldar la suspensión con certificado médico, psicológico o psicopedagógico oficial."
+    },
+    {
+      "question": "[103] Conforme al Artículo 58.III.d de la R.M. N° 0244/2023, el trámite de Suspensión Excepcional en el SIE debe ser aprobado por la DDE (Subdirección Regular):",
+      "options": [
+        "Antes del operativo de registro de calificaciones del Primer Trimestre de cada gestión escolar",
+        "A la conclusión del año escolar durante la entrega de libretas",
+        "En cualquier momento del periodo de vacaciones de fin de año",
+        "Tres años después de haber abandonado el taller"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 58.III.d, R.M. N° 0244/2023",
+      "explicacion": "El Art. 58.III.d fija que la suspensión excepcional debe procesarse antes del cierre de notas del Primer Trimestre."
+    },
+    {
+      "question": "[104] Según el Artículo 61 de la R.M. N° 0244/2023, la autorización e incorporación de NUEVAS CARRERAS en el BTH se aprueba mediante:",
+      "options": [
+        "Resolución Ministerial emitida por el Ministerio de Educación, previa presentación de proyecto por la DDE una gestión antes de su implementación",
+        "Resolución de la Junta Escolar del barrio",
+        "Instructivo interno del regente del establecimiento",
+        "Ordenanza del Concejo Municipal de la capital"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 61, R.M. N° 0244/2023",
+      "explicacion": "El Art. 61 reserva la aprobación de nuevas carreras al Ministerio de Educación mediante Resolución Ministerial una gestión antes."
+    },
+    {
+      "question": "[105] Conforme al Artículo 63 de la R.M. N° 0244/2023, ¿con qué periodicidad el Ministerio de Educación instruye la 'Evaluación Periódica de implementación y sostenibilidad del BTH'?",
+      "options": [
+        "Cada trienio (cada 3 años)",
+        "Anualmente todos los meses de noviembre",
+        "Cada diez años coincidiendo con el censo de población",
+        "Cada 6 meses al finalizar cada semestre"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 63, R.M. N° 0244/2023",
+      "explicacion": "El Art. 63 establece que la evaluación periódica de la implementación del BTH se desarrollará CADA TRIENIO."
+    },
+    {
+      "question": "[106] De acuerdo con el Artículo 65 de la R.M. N° 0244/2023, en ciudades capitales e intermedias con varias U.E. Plenas, las Distritales y Municipios deben propiciar prioritariamente la constitución de:",
+      "options": [
+        "Núcleos y Módulos Tecnológicos Productivos, para optimizar la inversión en infraestructura, equipamiento e ítems",
+        "Talleres aislados en cada aula sin comunicación entre sí",
+        "Colegios privados con cobro de pensiones altas",
+        "Academias nocturnas de capacitación sin título oficial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 65, R.M. N° 0244/2023",
+      "explicacion": "El Art. 65 prioriza la creación de Núcleos y Módulos en zonas urbanas pobladas para economías de escala e inversión eficiente."
+    },
+    {
+      "question": "[107] Según el Artículo 60 de la R.M. N° 0244/2023, ¿dónde se encuentra la lista oficial de carreras Técnica Tecnológica Especializadas autorizadas para Educación Regular?",
+      "options": [
+        "En el Anexo Nro. 1 'Carreras Técnica Tecnológica Especializadas del Bachillerato Técnico Humanístico - Subsistema de Educación Regular'",
+        "En la página web de la Dirección de Tránsito",
+        "En el código de comercio de la República",
+        "En la ley de presupuesto general del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 60, R.M. N° 0244/2023",
+      "explicacion": "El Art. 60 indica que las carreras autorizadas figuran en el Anexo 1 del Reglamento, prohibiéndose carreras no autorizadas."
+    },
+    {
+      "question": "[108] Conforme al Artículo 62 de la R.M. N° 0244/2023, todas las carreras ofertadas en el BTH tienen carácter:",
+      "options": [
+        "Productivo, orientando sus procesos a potenciar las unidades productivas del contexto",
+        "Meramente teórico e intelectual sin contacto con la realidad",
+        "Militar y de defensa nacional en fronteras",
+        "Comercial financiero especulativo exclusivamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 62, R.M. N° 0244/2023",
+      "explicacion": "El Art. 62 ratifica el carácter productivo vinculante de todas las carreras BTH."
+    },
+    {
+      "question": "[109] Según el Artículo 64 de la R.M. N° 0244/2023, la actualización y formación continua de los docentes del área técnica en ejercicio es:",
+      "options": [
+        "De carácter continuo, estableciéndose programas específicos para TT General y Especializada",
+        "Voluntaria y prohibida durante días de semana",
+        "Requerida únicamente para docentes sin título bachiller",
+        "Administrada por empresas de capacitación extranjeras privadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 64, R.M. N° 0244/2023",
+      "explicacion": "El Art. 64 manda establecer programas de actualización y formación continua para docentes de TT General y Especializada."
+    },
+    {
+      "question": "[110] En el marco del Artículo 59.I y II de la R.M. N° 0244/2023, el acompañamiento y seguimiento a la implementación del BTH en las U.E. Plenas es función de:",
+      "options": [
+        "Las Direcciones Departamentales de Educación (Subdirección Regular) y las Direcciones Distritales Educativas de forma periódica",
+        "Las juntas de vecinos sin participación del Ministerio",
+        "Auditores privados internacionales contratados al efecto",
+        "Los propios estudiantes de 6to de Secundaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 59, R.M. N° 0244/2023",
+      "explicacion": "El Art. 59 atribuye el acompañamiento y verificación periódica a las DDE (Subdirección Regular) y Direcciones Distritales."
+    },
+    {
+      "question": "[111] De acuerdo al Artículo 51.I y II de la R.M. N° 0244/2023, ante la solicitud de traslado de un estudiante, la o el Director de la U.E. de origen y de destino deben elaborar:",
+      "options": [
+        "Un Acta de Constancia informando a los padres sobre los criterios de traslados y nivelaciones",
+        "Un pagaré en garantía de cumplimiento de asistencia",
+        "Un contrato laboral de prestación de servicios",
+        "Un informe confidencial enviado a la Policía Nacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 51, R.M. N° 0244/2023",
+      "explicacion": "El Art. 51 exige informar formalmente a los padres sobre criterios de traslados/nivelaciones y suscribir el Acta de Constancia."
+    },
+    {
+      "question": "[112] Conforme al Artículo 52.b de la R.M. N° 0244/2023, para la ejecución del Programa de Nivelación, la Dirección de la U.E. designará al docente responsable mediante:",
+      "options": [
+        "Memorándum correspondiente",
+        "Contrato firmado ante Notario de Fe Pública",
+        "Votación en consejo estudiantil",
+        "Resolución de la asamblea de padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 52.b, R.M. N° 0244/2023",
+      "explicacion": "El Art. 52.b exige designar al maestro de nivelación mediante memorándum formal."
+    },
+    {
+      "question": "[113] Según el Artículo 53.I y II de la R.M. N° 0244/2023, las calificaciones de nivelación en gestión vigente se registran en el SIE en el operativo de notas del trimestre correspondiente y deben ingresarse:",
+      "options": [
+        "Antes de la conclusión de la gestión escolar correspondiente",
+        "Tres años después de haber egresado del colegio",
+        "Solo cuando el estudiante pague la tasa de nivelación",
+        "Durante el periodo de inscripciones del año siguiente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 53.II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 53.II señala que las notas de nivelación en gestión vigente deben registrarse en el SIE antes de concluir la gestión escolar."
+    },
+    {
+      "question": "[114] De acuerdo con el Artículo 54.III.d de la R.M. N° 0244/2023, a la conclusión del proceso de nivelación en gestión diferente, la U.E. generará e incorporará en el Libro Centralizador el:",
+      "options": [
+        "Boletín Centralizador Anual de Nivelación — BTH",
+        "Certificado de Conducta Moral y Disciplina",
+        "Título de Bachiller Humanístico Provisorio",
+        "Formulario de Egreso Técnico Universitario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 54.III.d, R.M. N° 0244/2023",
+      "explicacion": "El Art. 54.III.d dispone la impresión e incorporación del 'Boletín Centralizador Anual de Nivelación - BTH' en el Libro Centralizador."
+    },
+    {
+      "question": "[115] Según el Artículo 55 de la R.M. N° 0244/2023, las nivelaciones de gestión diferente registradas fuera del tiempo establecido (gestión inmediata al año que se nivela):",
+      "options": [
+        "NO serán válidas a efectos del Certificado Único de Trámite – Título Técnico Medio CUT-TTM",
+        "Tienen doble valor para el promedio final del bachillerato",
+        "Son convalidadas automáticamente por el Ministerio sin revisión",
+        "Generan un premio económico para la escuela"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 55, R.M. N° 0244/2023",
+      "explicacion": "El Art. 55 advierte que las nivelaciones registradas fuera de plazo perentorio carecerán de validez para la emisión del Título Técnico Medio."
+    },
+    {
+      "question": "[116] En el marco del Artículo 58.III.b de la R.M. N° 0244/2023, el trámite de suspensión excepcional de formación técnica es registrado en primera instancia en el sistema por:",
+      "options": [
+        "La directora o director de la unidad educativa Técnico Humanística Plena",
+        "El médico expedidor del certificado de salud",
+        "El regente del establecimiento en su cuaderno de notas",
+        "El presidente de la Junta Departamental de Padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 58.III.b, R.M. N° 0244/2023",
+      "explicacion": "El Art. 58.III.b establece que la o el director de la U.E. Plena valora los requisitos y registra la solicitud en el sistema para remitir informe a la Distrital."
+    },
+    {
+      "question": "[117] Conforme al Artículo 63 de la R.M. N° 0244/2023, si la Evaluación Periódica Trienal determina inviabilidad o insostenibilidad de una carrera técnica, la DDE dispondrá:",
+      "options": [
+        "El proceso gradual de cese de implementación de la carrera o del BTH en la unidad educativa",
+        "La destitución del alcalde municipal del territorio",
+        "El remate público de los bienes de la escuela en subasta",
+        "La conversión de la escuela en cárcel de menores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 63, R.M. N° 0244/2023",
+      "explicacion": "El Art. 63 indica que la evaluación trienal puede determinar el cese gradual de una carrera o del BTH en casos justificados de insostenibilidad."
+    },
+    {
+      "question": "[118] Según el Artículo 50.3.a de la R.M. N° 0244/2023, si un estudiante de U.E. Plena se traslada en gestión vigente a una U.E. Humanística en cualquier año de escolaridad:",
+      "options": [
+        "Culminará sus estudios en la gestión vigente sólo en las áreas humanísticas",
+        "Debe abandonar los estudios y perder el año escolar",
+        "Se le obliga a asistir sádados y domingos a un taller privado",
+        "Conserva el título técnico aunque no curse materias técnicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50.3.a, R.M. N° 0244/2023",
+      "explicacion": "El Art. 50.3.a aclara que el traslado a U.E. Humanística implica culminar la gestión estudiando solo áreas humanísticas."
+    },
+    {
+      "question": "[119] Conforme al Artículo 48.I y II de la R.M. N° 0244/2023, la formación inicial de docentes en especialidades técnicas BTH en las ESFM se priorizará en base a:",
+      "options": [
+        "Un estudio integral de factibilidad de necesidades, vocaciones productivas territoriales y demanda de ítems en los distritos",
+        "Solicitudes informales de agencias de empleo privadas",
+        "Criterios de antigüedad exclusiva del personal administrativo de las ESFM",
+        "Decisión unilateral de las universidades privadas circunvecinas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 48.II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 48.II determina que la oferta técnica en las ESFM se planifica según estudio de factibilidad y requerimientos de ítems en distritos."
+    },
+    {
+      "question": "[120] Según el Artículo 45 de la R.M. N° 0244/2023, ¿cuál de los siguientes docentes está habilitado para impartir 'Técnica Tecnológica General' en Educación Regular?",
+      "options": [
+        "Maestras/os con Diplomado en Educación Productiva: Formación Técnica Tecnológica General o formación complementaria PROFOCOM en la especialidad",
+        "Docentes de nivel inicial sin formación técnica ni PROFOCOM",
+        "Instructores militares de premilitar sin título pedagógico",
+        "Estudiantes de secundaria con los mejores promedios del curso"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 45.f, R.M. N° 0244/2023",
+      "explicacion": "El Art. 45 faculta expresamente a maestros con Diplomado en Educación Productiva o especialidad PROFOCOM para impartir TT General."
+    },
+    {
+      "question": "[121] Según el Artículo 67 de la R.M. N° 0244/2023, el Bachillerato Técnico Humanístico en el Ámbito de Educación Alternativa está destinado a:",
+      "options": [
+        "La población de Personas Jóvenes y Adultas mayores de 15 años",
+        "Niños en edad escolar de 6 a 11 años exclusivamente",
+        "Estudiantes universitarios de tercer ciclo únicamente",
+        "Adultos mayores de 80 años en asilos de ancianos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 67, R.M. N° 0244/2023",
+      "explicacion": "El Artículo 67 establece expresamente que el BTH en Educación Alternativa atiende a personas jóvenes y adultas mayores de 15 años."
+    },
+    {
+      "question": "[122] Conforme al Artículo 70.I de la R.M. N° 0244/2023, ¿cuál es la CARGA HORARIA TOTAL del BTH en los Centros de Educación Alternativa (CEA)?",
+      "options": [
+        "2.000 horas de formación Técnica Tecnológica y Productiva, organizadas en 4 semestres bajo un régimen de estudio modular",
+        "1.000 horas totales organizadas en un solo año",
+        "3.500 horas distribuidas en 8 semestres académicos",
+        "500 horas lectivas en modalidad de talleres de fin de semana"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 70.I, R.M. N° 0244/2023",
+      "explicacion": "El Art. 70.I fija una carga horaria de 2.000 horas divididas en 4 semestres modulares (500 horas por semestre)."
+    },
+    {
+      "question": "[123] De acuerdo con la Malla Curricular BTH EPJA (Art. 70.I), ¿cuáles son las CUATRO ETAPAS y niveles de certificación en los 4 semestres de formación?",
+      "options": [
+        "1er Semestre: Técnico Básico; 2do Semestre: Técnico Auxiliar; 3er Semestre: Técnico Medio I; 4to Semestre: Técnico Medio II",
+        "1er Semestre: Inicial; 2do Semestre: Medio; 3er Semestre: Avanzado; 4to Semestre: Licenciatura",
+        "1er Semestre: Auxiliar I; 2do Semestre: Auxiliar II; 3er Semestre: Técnico I; 4to Semestre: Técnico II",
+        "No existen etapas y la formación se otorga en un examen único al final"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 70.I Malla Curricular, R.M. N° 0244/2023",
+      "explicacion": "La Malla BTH EPJA contempla: 1er Semestre (Técnico Básico), 2do Semestre (Técnico Auxiliar), 3er Semestre (Técnico Medio I) y 4to Semestre (Técnico Medio II)."
+    },
+    {
+      "question": "[124] Según el Artículo 70.I de la R.M. N° 0244/2023, ¿cuántos MÓDULOS en total comprende la Malla Curricular BTH en Educación Alternativa y cuántas horas tiene cada módulo?",
+      "options": [
+        "20 módulos en total (5 módulos por semestre), con una carga horaria de 100 horas cada uno",
+        "10 módulos en total de 200 horas cada uno",
+        "40 módulos en total de 50 horas cada uno",
+        "4 módulos únicos de 500 horas por semestre"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 70.I Malla Curricular, R.M. N° 0244/2023",
+      "explicacion": "La Malla BTH EPJA estructura 20 módulos de 100 horas cada uno (5 módulos por semestre = 500 hrs/semestre, total 2.000 hrs)."
+    },
+    {
+      "question": "[125] Conforme al Artículo 72 de la R.M. N° 0244/2023, ¿cuál es la CARGA HORARIA MENSUAL que deben cumplir los facilitadores en el BTH de Educación Alternativa?",
+      "options": [
+        "100 horas/mes (5 horas diarias, 25 horas semanales, 500 horas semestrales)",
+        "50 horas/mes en horario discontinuo",
+        "200 horas/mes dictadas únicamente en horario nocturno",
+        "30 horas/mes por contrato eventual por producto"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 72, R.M. N° 0244/2023",
+      "explicacion": "El Art. 72 fija para facilitadores en EPJA 100 horas/mes (5 hrs/día, 25 hrs/semana, 500 hrs/semestre)."
+    },
+    {
+      "question": "[126] Según el Artículo 71.II y 72 de la R.M. N° 0244/2023, la duración de cada período de clase en Educación Alternativa para el BTH es de:",
+      "options": [
+        "40 minutos",
+        "60 minutos",
+        "30 minutos",
+        "90 minutos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 71.II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 71.II especifica que los períodos para Educación Humanística y Técnica en Alternativa son de 40 minutos."
+    },
+    {
+      "question": "[127] Conforme al Artículo 75.IV y V de la R.M. N° 0244/2023, en el trámite de constitución/acreditación de un CEA con BTH, ¿qué plazos rigen para la verificación Distrital y la aprobación de la DDE?",
+      "options": [
+        "Dirección Distrital verifica en máx. 10 días hábiles; DDE aprueba en máx. 15 días hábiles; Unidad Jurídica de DDE emite R.A. en 72 horas",
+        "Distrital en 30 días; DDE en 60 días; Jurídica en un mes",
+        "Distrital en 24 horas; DDE en 48 horas; Jurídica en 5 minutos",
+        "Sin plazo fijo pudiendo tardar varios años sin resolución"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 75.IV, V.d, R.M. N° 0244/2023",
+      "explicacion": "El Art. 75 establece: Distrital verifica en 10 días hábiles, DDE aprueba en 15 días hábiles y Asuntos Jurídicos de la DDE emite R.A. en 72 horas."
+    },
+    {
+      "question": "[128] Según el Artículo 76 de la R.M. N° 0244/2023, los Centros de Educación Alternativa deben presentar la documentación requerida para la autorización del BTH con una antelación de:",
+      "options": [
+        "Un semestre para su implementación",
+        "Tres años de anticipación",
+        "Un día antes del inicio de clases",
+        "Dos gestiones escolares completas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 76, R.M. N° 0244/2023",
+      "explicacion": "El Art. 76 dispone que los CEA presentarán trámites BTH con antelación de un semestre a su implementación."
+    },
+    {
+      "question": "[129] De acuerdo con el Artículo 77.IV de la R.M. N° 0244/2023, ¿cada cuánto tiempo el Ministerio de Educación instruye la 'Evaluación Periódica de implementación del BTH' en Educación Alternativa?",
+      "options": [
+        "Cada trienio (cada 3 años)",
+        "Cada semestre académico",
+        "Cada mes durante el consejo técnico",
+        "Cada cinco años únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 77.IV, R.M. N° 0244/2023",
+      "explicacion": "El Art. 77.IV determina que en Educación Alternativa la evaluación periódica se desarrollará CADA TRIENIO."
+    },
+    {
+      "question": "[130] Conforme al Artículo 75.II.7 de la R.M. N° 0244/2023, los Centros de Educación Alternativa que soliciten constituirse con BTH pueden identificar un número MÁXIMO de:",
+      "options": [
+        "Hasta un máximo de tres (3) carreras, considerando la relación facilitador-participante",
+        "Hasta diez carreras sin límite",
+        "Únicamente una sola carrera obligatoria",
+        "Tantas carreras como alumnos inscritos existan"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 75.II.7, R.M. N° 0244/2023",
+      "explicacion": "El Art. 75.II.7 limita a un máximo de 3 carreras identificadas para la implementación del BTH en CEAs."
+    },
+    {
+      "question": "[131] Según el Artículo 83.II de la R.M. N° 0244/2023, en Educación Alternativa un participante puede optar por una formación técnica paralela siempre y cuando:",
+      "options": [
+        "Sea en horario alterno a la formación BTH y NO sea en la misma carrera",
+        "Pague doble matrícula comercial al CEA",
+        "Tenga autorización notariada de su empleador privado",
+        "Sea en la misma carrera en el mismo horario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 83.II, R.M. N° 0244/2023",
+      "explicacion": "El Art. 83.II permite inscripción técnica paralela en horario alterno siempre que sea en diferente carrera."
+    },
+    {
+      "question": "[132] De acuerdo con el Artículo 84.f de la R.M. N° 0244/2023, cuando un estudiante proviene de una U.E. Plena (Regular) a un CEA con la MISMA CARRERA técnica:",
+      "options": [
+        "Sus calificaciones deben ser homologadas en los niveles de saberes humanísticos y técnicos de EPJA, registrándose en el SIE para otorgación del Título Técnico Medio",
+        "Debe iniciar desde cero en el 1er semestre de Técnico Básico",
+        "Perderá todas sus notas de secundaria regular",
+        "Rendir un examen de nivelación de 100 preguntas obligatorias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 84.f, R.M. N° 0244/2023",
+      "explicacion": "El Art. 84.f exige homologar notas humanísticas y técnicas cuando el alumno proviene del Subsistema Regular con la misma carrera."
+    },
+    {
+      "question": "[133] Conforme al Artículo 85.I y III de la R.M. N° 0244/2023, los estudiantes que inicien el BTH en el Centro Plurinacional de Educación Alternativa a Distancia (CEPEAD) en el extranjero:",
+      "options": [
+        "Pueden continuar su formación a distancia o retornar al país e incorporarse en un CEA de su elección",
+        "Pierden todo derecho de estudio al cruzar la frontera",
+        "Deben convalidar sus notas pagando en dólares en la Embajada",
+        "Solo pueden estudiar carreras militares a distancia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 85.I, III, R.M. N° 0244/2023",
+      "explicacion": "El Art. 85 garantiza la continuidad educativa a través del CEPEAD para migrantes bolivianos y su articulación al retornar al país."
+    },
+    {
+      "question": "[134] Según el Artículo 70.III de la R.M. N° 0244/2023, de manera excepcional se podrá cumplir la carga horaria acumulativa en días intensivos en CEAs que funcionan como:",
+      "options": [
+        "Internados, contextos de encierro (penitenciarías) o Unidades Militares, previa autorización Distrital y Departamental",
+        "Colegios privados con estudiantes de clase alta",
+        "Academias de baile y gastronomía de fin de semana",
+        "Escuelas primarias nocturnas urbanas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 70.III, R.M. N° 0244/2023",
+      "explicacion": "El Art. 70.III autoriza horarios intensivos acumulativos para internados, recintos penitenciarios y cuarteles militares."
+    },
+    {
+      "question": "[135] En la Disposición Transitoria Tercera de la R.M. N° 0244/2023, ¿cuál de los siguientes cambios de DENOMINATIVO de carrera se establece para Educación Secundaria?",
+      "options": [
+        "'CONTABILIDAD' se modifica a 'CONTADURÍA GENERAL'",
+        "'CONTABILIDAD' se modifica a 'FINANZAS BANCARIAS'",
+        "'CONTABILIDAD' se elimina definitivamente",
+        "'CONTABILIDAD' se cambia a 'AUDITORÍA PÚBLICA'"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Tercera.a, R.M. N° 0244/2023",
+      "explicacion": "La Transitoria Tercera.a establece que la carrera de 'CONTABILIDAD' modifica su denominación a 'CONTADURÍA GENERAL'."
+    },
+    {
+      "question": "[136] En la Disposición Transitoria Tercera de la R.M. N° 0244/2023, la carrera de 'SECRETARIADO' modifica su denominación a:",
+      "options": [
+        "'SECRETARIADO EJECUTIVO'",
+        "'ASISTENCIA DE DIRECCIÓN'",
+        "'RECEPCIÓN Y PROTOCOLO'",
+        "'OFICINÁTICA DIGITAL'"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Tercera.b, R.M. N° 0244/2023",
+      "explicacion": "La Transitoria Tercera.b ajusta el denominativo de 'SECRETARIADO' a 'SECRETARIADO EJECUTIVO'."
+    },
+    {
+      "question": "[137] En la Disposición Transitoria Tercera de la R.M. N° 0244/2023, la carrera de 'ELECTRICIDAD' modifica su denominación a:",
+      "options": [
+        "'ELECTRICIDAD INDUSTRIAL'",
+        "'ELECTRÓNICA DIGITAL'",
+        "'ELECTROMECÁNICA AUTOMOTRIZ'",
+        "'REDES ELÉCTRICAS DOMICILIARIAS'"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Tercera.c, R.M. N° 0244/2023",
+      "explicacion": "La Transitoria Tercera.c modifica 'ELECTRICIDAD' por 'ELECTRICIDAD INDUSTRIAL'."
+    },
+    {
+      "question": "[138] En la Disposición Transitoria Tercera de la R.M. N° 0244/2023, la carrera de 'ADMINISTRACIÓN' modifica su denominación a:",
+      "options": [
+        "'ADMINISTRACIÓN DE EMPRESAS'",
+        "'GESTIÓN PÚBLICA MUNICIPAL'",
+        "'ADMINISTRACIÓN HOSPITALARIA'",
+        "'MERCADOTECNIA Y VENTAS'"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Tercera.d, R.M. N° 0244/2023",
+      "explicacion": "La Transitoria Tercera.d modifica 'ADMINISTRACIÓN' a 'ADMINISTRACIÓN DE EMPRESAS'."
+    },
+    {
+      "question": "[139] En la Disposición Transitoria Tercera de la R.M. N° 0244/2023, la carrera de 'SALUD Y PRIMEROS AUXILIOS' modifica su denominación a:",
+      "options": [
+        "'SALUD PÚBLICA'",
+        "'ENFERMERÍA AUXILIAR'",
+        "'PARAMÉDICO MUNICIPAL'",
+        "'MEDICINA COMUNITARIA'"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Tercera.f, R.M. N° 0244/2023",
+      "explicacion": "La Transitoria Tercera.f actualiza la denominación a 'SALUD PÚBLICA'."
+    },
+    {
+      "question": "[140] En la Disposición Transitoria Tercera de la R.M. N° 0244/2023, la carrera de 'DANZA MODERNA' modifica su denominación a:",
+      "options": [
+        "'DANZA FOLKLÓRICA'",
+        "'DANZA CLÁSICA DE BALLET'",
+        "'TEATRO Y EXPRESIÓN CORPORAL'",
+        "'COREOGRAFÍA URBANA'"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Tercera.g, R.M. N° 0244/2023",
+      "explicacion": "La Transitoria Tercera.g modifica 'DANZA MODERNA' a 'DANZA FOLKLÓRICA'."
+    },
+    {
+      "question": "[141] En la Disposición Transitoria Tercera.i, j, k de la R.M. N° 0244/2023, ¿cuáles son las TRES CARRERAS cuyo CIERRE DEFINITIVO se determina por no implementarse en ninguna unidad educativa?",
+      "options": [
+        "'LENGUAS ORIGINARIAS', 'INSTALACIONES DE GAS DOMICILIARIO' y 'RESTAURACIÓN Y CONSERVACIÓN PATRIMONIAL'",
+        "'SISTEMAS INFORMÁTICOS', 'MECÁNICA AUTOMOTRIZ' y 'GASTRONOMÍA'",
+        "'AGROPECUARIA', 'CARPINTERÍA' y 'CORTE Y CONFECCIÓN'",
+        "'TURISMO', 'BELLEZA INTEGRAL' y 'ROBÓTICA'"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Tercera.i, j, k, R.M. N° 0244/2023",
+      "explicacion": "La norma determina el cierre definitivo de Lenguas Originarias, Instalaciones de Gas Domiciliario y Restauración y Conservación Patrimonial al no estar implementadas."
+    },
+    {
+      "question": "[142] Según la Disposición Transitoria Quinta de Educación Alternativa, los cincuenta y siete (57) CEAs autorizados en anexo debieron realizar en el primer semestre de 2023:",
+      "options": [
+        "Un diagnóstico preliminar para ratificar un máximo de 3 carreras y solicitar la actualización de su Resolución Administrativa",
+        "La clausura inmediata de todas sus aulas técnicas",
+        "El cobro de matriculación extraordinaria en dólares",
+        "El cambio de dependencia a colegios militares privados"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Quinta EPJA, R.M. N° 0244/2023",
+      "explicacion": "La Transitoria Quinta EPJA otorgó el primer semestre de 2023 para que los 57 CEAs ratifiquen máximo 3 carreras y actualicen su R.A."
+    },
+    {
+      "question": "[143] Conforme a la Disposición Transitoria Quinta de Educación Regular, los Módulos Tecnológicos Productivos de El Alto, Cochabamba y Santa Cruz (R.M. 0847/2019) funcionarán bajo administración de:",
+      "options": [
+        "El Subsistema de Educación Regular, de acuerdo a normativa vigente",
+        "El Ministerio de Defensa Nacional",
+        "Empresas privadas de telecomunicaciones",
+        "Las universidades privadas locales"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Quinta Regular, R.M. N° 0244/2023",
+      "explicacion": "La Transitoria Quinta ratifica que los Módulos BTH de El Alto, Cochabamba y Santa Cruz funcionan bajo administración del Subsistema Regular."
+    },
+    {
+      "question": "[144] De acuerdo con el Artículo 70.VI de la R.M. N° 0244/2023, el proceso formativo del BTH en Educación Alternativa debe realizarse presencialmente, pudiendo optar semipresencialmente de forma excepcional SOLO en:",
+      "options": [
+        "Educación Humanística de Personas Jóvenes y Adultas, previa autorización Distrital con V°B° de la Subdirección de Alternativa",
+        "Taller práctico de soldadura y torneado de alta precisión",
+        "Todas las materias técnicas especializadas de forma permanente",
+        "Ningún caso, estando prohibida la modalidad semipresencial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 70.VI, R.M. N° 0244/2023",
+      "explicacion": "El Art. 70.VI aclara que la formación técnica es presencial, pudiendo ser semipresencial de forma excepcional únicamente la rama Humanística."
+    },
+    {
+      "question": "[145] Según el Artículo 78.I y III de la R.M. N° 0244/2023, los recursos económicos generados por iniciativas productivas en los CEAs deben rendirse en asamblea:",
+      "options": [
+        "Antes de la finalización de cada semestre",
+        "Cada tres años durante las elecciones municipales",
+        "Únicamente al momento del cierre definitivo del CEA",
+        "A fin de año directamente ante la Gobernación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 78.III, R.M. N° 0244/2023",
+      "explicacion": "El Art. 78.III obliga a rendir cuentas de ingresos por iniciativas productivas antes de la finalización de cada semestre."
+    },
+    {
+      "question": "[146] Conforme al Artículo 81 de la R.M. N° 0244/2023, los Centros de Educación Alternativa pueden vincular sus procesos formativos con:",
+      "options": [
+        "Unidades, centros y complejos productivos, industriales, de servicio, salud y deporte",
+        "Partidos políticos en campaña electoral exclusiva",
+        "Bancos de inversión extranjera privada sin sede nacional",
+        "Juegos de azar y casinos comerciales legalizados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 81, R.M. N° 0244/2023",
+      "explicacion": "El Art. 81 fomenta la articulación de los CEAs con complejos productivos, industriales, de servicios y salud."
+    },
+    {
+      "question": "[147] Según el Artículo 82 de la R.M. N° 0244/2023, los facilitadores del área técnica en Educación Alternativa deben contar con pertinencia académica. ¿Quiénes pueden ser designados?",
+      "options": [
+        "Maestros de TT Especializada o maestros del área humanística con formación complementaria PROFOCOM en la especialidad técnica",
+        "Personas sin título profesional ni formación técnica secundaria",
+        "Estudiantes matriculados en el primer semestre del CEA",
+        "Cualquier ciudadano extranjero sin documentos legalizados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 82, R.M. N° 0244/2023",
+      "explicacion": "El Art. 82 detalla los perfiles docentes con pertinencia técnica o formación PROFOCOM en la especialidad."
+    },
+    {
+      "question": "[148] Según la Disposición Final Única de la R.M. N° 0244/2023, los aspectos no previstos y contemplados en el Reglamento serán regulados mediante:",
+      "options": [
+        "Instructivos emitidos por el Viceministerio de Educación Regular y Viceministerio de Educación Alternativa y Especial, aprobados por la MAE",
+        "Resoluciones de la Junta Vecinal de Padres de Familia",
+        "Leyes dictadas por concejos municipales urbanos",
+        "Fedictos notariales emitidos por abogados privados"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Única, R.M. N° 0244/2023",
+      "explicacion": "La Disposición Final Única reserva la regulación de imprevistos a Instructivos viceministeriales aprobados por el Ministro (MAE)."
+    },
+    {
+      "question": "[149] En el marco del Plan de Regularización 2023 (Disp. Transitoria Primera.1.f), en las carreras de Producción Industrial, Transformación y Mecánica, ¿cuál es el número mínimo de estudiantes por carrera considerado de forma excepcional?",
+      "options": [
+        "Mínimo 25 estudiantes por carrera en el área urbana y 20 estudiantes en el área rural",
+        "Mínimo 50 estudiantes en área urbana y 40 en área rural",
+        "Mínimo 10 estudiantes en área urbana y 5 en área rural",
+        "Mínimo 100 estudiantes en todos los casos"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Primera.1.f, R.M. N° 0244/2023",
+      "explicacion": "El Plan de Regularización fijó excepcionalmente un mínimo de 25 alumnos (urbano) y 20 (rural) para carreras industriales y mecánicas."
+    },
+    {
+      "question": "[150] En conclusión, la Resolución Ministerial N° 0244/2023 constituye la norma rectora fundamental del Bachillerato Técnico Humanístico en Bolivia porque:",
+      "options": [
+        "Garantiza la formación integral, cualificada y con titulación de Técnico Medio articulada a la reactivación económica, matriz productiva y transitabilidad a la Educación Superior",
+        "Elimina la enseñanza de materias científicas y humanísticas en todo el país",
+        "Sustituye la gestión estatal por la privatización total de las escuelas técnicas",
+        "Prohíbe a los estudiantes continuar estudios en la universidad"
+      ],
+      "answer": 0,
+      "fuente": "Consolidado R.M. N° 0244/2023",
+      "explicacion": "La R.M. 0244/2023 consolida la implementación, sostenibilidad, titulación de Técnico Medio y transitabilidad del BTH en Regular y Alternativa."
+    }
+  ]
+}

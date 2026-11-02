@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp59_rm_0684_2019_manual_procesos_manejo_de_bienes",
+    "nombre": "R.M. N° 0684 Manual de Procesos del Subsistema de Manejo de Bienes",
+    "detalle": "13 de diciembre de 2019",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Téc. Bienes y Servicios"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "ne31_resolucion_biministerial_001_2023_recursos_humanos_salud",
+    "nombre": "Resolución Biministerial N° 001/2023 Reglamento especial para instituciones que forman recursos humanos técnicos en salud",
+    "detalle": "2023",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Educ. Superior"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

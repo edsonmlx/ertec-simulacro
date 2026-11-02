@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "tp38_rm_0288_2026_re_sap_administracion_de_personal",
+    "nombre": "R.M. N° 0288 Reglamento Específico del Sistema de Administración de Personal (RE-SAP) del Ministerio de Educación",
+    "detalle": "6 de julio de 2026",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Dir. Administrativo Financiero ESFM",
+      "Téc. Bienes y Servicios"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

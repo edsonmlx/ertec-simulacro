@@ -1,0 +1,26 @@
+{
+  "bibliografia": {
+    "id": "ne46_rm_0859_2023_modalidades_graduacion_ifa_ebi",
+    "nombre": "R.M. N° 0859/2023 Reglamento de Modalidades de Graduación de Institutos de Formación Artística y Escuelas Bolivianas Interculturales",
+    "detalle": "2023",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Rector Formación Artística",
+      "Director Académico Artístico",
+      "Director Administrativo Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

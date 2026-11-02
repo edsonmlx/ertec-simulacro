@@ -1,0 +1,30 @@
+{
+  "bibliografia": {
+    "id": "ne32_rm_001_2026_subsistema_superior_formacion_profesional",
+    "nombre": "R.M. N° 001/2026 del Subsistema de Educación Superior de Formación Profesional",
+    "detalle": "2026",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Educ. Superior",
+      "Rector ITT",
+      "Director Académico ITT",
+      "Director Administrativo ITT",
+      "Rector Formación Artística",
+      "Director Académico Artístico",
+      "Director Administrativo Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

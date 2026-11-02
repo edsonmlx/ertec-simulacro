@@ -1,0 +1,29 @@
+{
+  "bibliografia": {
+    "id": "ne41_rm_2942_2017_convivencia_estudiantil_institutos",
+    "nombre": "R.M. N° 2942/2017 Reglamento de Convivencia Estudiantil y Procedimientos disciplinarios de los Institutos Técnicos Tecnológicos",
+    "detalle": "2017",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Rector ITT",
+      "Director Académico ITT",
+      "Director Administrativo ITT",
+      "Rector Formación Artística",
+      "Director Académico Artístico",
+      "Director Administrativo Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

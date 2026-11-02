@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp68_arteaga_2000_procesos_tecnicos_para_bibliotecas",
+    "nombre": "Manual de procesos técnicos para bibliotecas",
+    "detalle": "Arteaga, F. (2000). Agaetra",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Téc. Biblioteca"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

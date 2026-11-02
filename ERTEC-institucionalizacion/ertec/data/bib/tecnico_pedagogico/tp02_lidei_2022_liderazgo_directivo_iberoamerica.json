@@ -1,0 +1,1832 @@
+{
+  "bibliografia": {
+    "id": "tp02_lidei_2022_liderazgo_directivo_iberoamerica",
+    "nombre": "LIDEI 2022: Liderazgo Directivo en Iberoamérica",
+    "detalle": "OEI (2023)",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Regular",
+      "Subdirector Alt. y Especial",
+      "Subdirector Educ. Superior",
+      "Director Distrital",
+      "Director de U.E.",
+      "Director de CEA",
+      "Director de CEE"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Bajo la supervisión de qué instituciones fue elaborado el estudio LIDEI 2022 (Liderazgo Directivo en Iberoamérica)?",
+      "options": [
+        "La Dirección General de Educación y Formación Profesional de la OEI y el Instituto Nacional de Evaluación Educativa (INEE) del Ministerio de Educación y Formación Profesional de España",
+        "La UNESCO y la Comisión Económica para América Latina y el Caribe (CEPAL)",
+        "El Banco Interamericano de Desarrollo (BID) y la Oficina Internacional de Educación (OIE)",
+        "El Consejo Iberoamericano de Acreditación de la Educación Superior y la OEA"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 2, LIDEI 2022",
+      "explicacion": "El estudio fue elaborado bajo la supervisión de la Dirección General de Educación de la OEI y del INEE del Ministerio de Educación de España."
+    },
+    {
+      "question": "¿Quiénes son los autores principales responsables de la realización del informe LIDEI 2022?",
+      "options": [
+        "José Augusto Pacheco y Consuelo Vélaz-de-Medrano Ureta",
+        "Michael Fullan y Andy Hargreaves",
+        "James Spillane y Richard Elmore",
+        "Denise Vaillant y Antonio Bolívar"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 2, LIDEI 2022",
+      "explicacion": "El estudio fue realizado por José Augusto Pacheco y Consuelo Vélaz-de-Medrano Ureta."
+    },
+    {
+      "question": "¿En qué fecha fue publicado oficialmente el informe LIDEI 2022 y cuál es su código ISBN?",
+      "options": [
+        "Mayo de 2023, ISBN: 978-84-86025-24-3",
+        "Noviembre de 2021, ISBN: 978-84-70001-12-0",
+        "Diciembre de 2020, ISBN: 978-92-3-100412-2",
+        "Enero de 2022, ISBN: 978-84-86025-00-1"
+      ],
+      "answer": 0,
+      "fuente": "Página de créditos, Pág. 2, LIDEI 2022",
+      "explicacion": "Fue publicado en mayo de 2023 con ISBN: 978-84-86025-24-3."
+    },
+    {
+      "question": "Dentro del Programa Presupuesto 2021/2022 y 2022/2023 de la OEI, ¿cuáles fueron definidos como focos estratégicos indispensables para una educación de calidad e inclusiva?",
+      "options": [
+        "La gobernanza de la educación y la mejora del liderazgo escolar",
+        "La privatización de la gestión educativa y el arancelamiento universitario",
+        "La estandarización de pruebas escritas internacionales y la eliminación de la supervisión",
+        "La descentralización fiscal absoluta y la supresión de los ministerios centrales"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 7, LIDEI 2022",
+      "explicacion": "La OEI puso en el foco estratégico la gobernanza de la educación y la mejora del liderazgo escolar."
+    },
+    {
+      "question": "Según Cuenca (2020), citado en la Introducción del LIDEI 2022, ¿cómo se define esencialmente la 'gobernanza de los sistemas educativos'?",
+      "options": [
+        "Como la investigación sobre el ejercicio del poder entre los actores de una comunidad educativa ampliada (profesorado, alumnado, familias, personal no docente, empresas e instituciones)",
+        "Como el control burocrático estricto ejercido exclusivamente por el Ministerio de Educación Central",
+        "Como la transferencia de responsabilidades financieras a las juntas escolares locales sin presupuesto",
+        "Como la regulación del salario docente mediante la oferta y la demanda del mercado privado"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 7, LIDEI 2022",
+      "explicacion": "Se define como la investigación sobre el ejercicio del poder entre los actores de una comunidad educativa ampliada."
+    },
+    {
+      "question": "¿Cuáles son los dos objetivos principales que formula la OEI (2021) en relación con el liderazgo educativo?",
+      "options": [
+        "Fortalecer el liderazgo escolar y la función directiva como herramientas centrales de calidad, y promover la innovación en políticas públicas de liderazgo",
+        "Incrementar la carga horaria administrativa de los directores y reducir los salarios docentes",
+        "Reemplazar la dirección pedagógica por administradores de empresas privados y eliminar las juntas de padres",
+        "Descentralizar la formación docente inicial a institutos no acreditados y privatizar la supervisión"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 8, LIDEI 2022",
+      "explicacion": "Los objetivos son fortalecer el liderazgo escolar y la función directiva, y promover la innovación en políticas públicas asociadas."
+    },
+    {
+      "question": "¿Cuál fue la secuencia cronológica de los tres informes estratégicos publicados por la OEI sobre el liderazgo directivo?",
+      "options": [
+        "Miradas (2017) -> Liderazgo directivo: dimensiones de la normativa (2020) -> LIDEI (2022)",
+        "LIDEI (2017) -> Miradas (2020) -> Liderazgo directivo (2022)",
+        "Liderazgo directivo (2015) -> LIDEI (2018) -> Miradas (2023)",
+        "Miradas (2020) -> LIDEI (2021) -> Liderazgo directivo (2023)"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 8, LIDEI 2022",
+      "explicacion": "La secuencia comprende Miradas (2017), el estudio normativo (2020) y finalmente LIDEI 2022."
+    },
+    {
+      "question": "¿Cómo se estructura la organización interna del informe LIDEI 2022?",
+      "options": [
+        "4 Capítulos (Modelo conceptual, Estudio de casos, Diseño/Pilotaje/Resultados, Análisis sintético/Prospectiva) y 1 Anexo con el Cuestionario",
+        "2 Capítulos teóricos y 5 Anexos regionales por país",
+        "6 Capítulos estadísticos de evaluación cuantitativa sin marco conceptual",
+        "3 Capítulos exclusivos sobre legislación comparada europea"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 8-9, LIDEI 2022",
+      "explicacion": "Se divide en 4 capítulos temáticos estructurados y un anexo que contiene el cuestionario aplicado."
+    },
+    {
+      "question": "Según Fullan (2016), citado en el Capítulo 1, ¿cuáles son los 7 aspectos de la escuela afectados por el futuro digital?",
+      "options": [
+        "Visión y objetivos, recursos, pedagogía ejemplar, datos, ciudadanía digital, proliferación del liderazgo y aprendizaje ilimitado",
+        "Infraestructura física, conectividad satelital, salario directivo, presupuesto comunal, transporte, comedor y uniformes",
+        "Matrícula obligatoria, inspección fiscal, libros impresos, exámenes memorísticos, sanciones, diplomas y horarios fijados",
+        "Tecnología informática, software contable, redes sociales, educación privada, comercio digital, marketing y publicidad"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 11, LIDEI 2022",
+      "explicacion": "Fullan identifica: visión y objetivos, recursos, pedagogía ejemplar, datos, ciudadanía digital, proliferación del liderazgo y aprendizaje ilimitado."
+    },
+    {
+      "question": "En la era digital, Fullan (2016) señala que el ejercicio del liderazgo exige cualidades relacionadas con tres rasgos principales. ¿Cuáles son?",
+      "options": [
+        "Disciplina fanática, aprender de los buenos datos y paranoia productiva (más la resiliencia)",
+        "Autoritarismo vertical, fiscalización sancionadora y aislamiento individual",
+        "Burocracia administrativa, centralización financiera y obediencia ciega",
+        "Flexibilidad ilimitada, omisión de metas y delegación total sin supervisión"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 11, LIDEI 2022",
+      "explicacion": "Identifica: disciplina fanática, aprender de los buenos datos, y paranoia productiva, añadiendo la resiliencia ante crisis."
+    },
+    {
+      "question": "En la caracterización de la gestión escolar según la OEI (2017), ¿cuántos e indicadores principales se definen para un liderazgo activo, integrado y contextualizado?",
+      "options": [
+        "6 indicadores: Comprensión del contexto, liderazgo efectivo/toma de decisiones, comunicación, trabajo en equipo, reflexión sobre la práctica y gestión de la innovación",
+        "3 indicadores: Cumplimiento de horario, control presupuestario y aplicación de sanciones",
+        "10 indicadores: Todos enfocados en la contabilidad financiera y el archivo documental",
+        "4 indicadores: Exclusivamente orientados a la evaluación estandarizada de estudiantes"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 12, LIDEI 2022",
+      "explicacion": "Son 6 indicadores: comprensión del contexto, liderazgo efectivo, comunicación, trabajo en equipo, reflexión y gestión de la innovación."
+    },
+    {
+      "question": "Según Uribe (2005) y OEI (2020), ¿cuál es la diferencia conceptual clave entre 'gestión' y 'liderazgo'?",
+      "options": [
+        "El liderazgo se define como un conjunto de actitudes, conocimientos, habilidades y competencias que permiten cumplir responsabilidades, resolver conflictos y gestionar innovaciones para la mejora",
+        "La gestión es una actividad pedagógica mientras que el liderazgo es un trámite meramente administrativo",
+        "El liderazgo es un cargo normativo obligatorio y la gestión es una actividad voluntaria e informal",
+        "No existe ninguna diferencia conceptual, ambos términos se usan como sinónimos idénticos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 12, LIDEI 2022",
+      "explicacion": "El liderazgo abarca actitudes, conocimientos, habilidades y competencias para la resolución de conflictos y gestión de innovaciones hacia la mejora."
+    },
+    {
+      "question": "¿Cuáles son las 5 dimensiones que integra el modelo de análisis de la gestión escolar presentado por la OEI (2017)?",
+      "options": [
+        "Política educativa; organización administrativa financiera u operativa; gestión curricular o técnica pedagógica; gestión de la convivencia escolar o social; competencias conductuales de liderazgo",
+        "Liderazgo ético; liderazgo político; liderazgo gremial; liderazgo sindical; liderazgo contable",
+        "Gestión de personal; gestión edilicia; gestión de transporte; gestión de comedores; gestión de eventos",
+        "Evaluación de impacto; fiscalización coactiva; acreditación universitaria; auditoría externa; control presupuestario"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 12, LIDEI 2022",
+      "explicacion": "Las 5 dimensiones son: política educativa, organización administrativa/financiera, gestión curricular, gestión de convivencia y competencias conductuales."
+    },
+    {
+      "question": "El modelo de liderazgo propuesto por la OEI (2020) se fundamenta en la integración de dos modelos dominantes. ¿Cuáles son?",
+      "options": [
+        "El liderazgo pedagógico (centrado en enseñanza, aprendizaje y rendimiento) y el liderazgo de transformación (visión sistémica e integrada de los procesos)",
+        "El liderazgo burocrático y el liderazgo autoritario tradicional",
+        "El liderazgo carismático individual y el liderazgo laissez-faire o pasivo",
+        "El liderazgo transaccional comercial y el liderazgo administrativo contable"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 12, LIDEI 2022",
+      "explicacion": "Se basa en la combinación del liderazgo pedagógico y el liderazgo transformacional."
+    },
+    {
+      "question": "Para maximizar el impacto del liderazgo escolar, Fullan (2016) enuncia tres claves esenciales. ¿Cuáles son?",
+      "options": [
+        "Aprender a liderar; actuar en la escuela y el sistema mirando hacia fuera para mejorar dentro; y convertirse en un agente de cambio",
+        "Memorizar la normativa; sancionar las faltas docentes; e incrementar el cobro de cuotas",
+        "Delegar toda responsabilidad; aislar la escuela del entorno; y mantener la rutina sin cambios",
+        "Ejercer el poder de forma autocrática; evitar reuniones; e ignorar los datos de evaluación"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 12, LIDEI 2022",
+      "explicacion": "Las 3 claves de Fullan son: aprender a liderar, actuar en el sistema mirando fuera para mejorar dentro, y ser agente de cambio."
+    },
+    {
+      "question": "Según Spillane (2006), ¿a qué se refiere la posición central del 'liderazgo distribuido' en las prácticas escolares?",
+      "options": [
+        "A las actividades y dinámicas educativas diseñadas de manera compartida por los miembros de la comunidad para promover la motivación y la reflexión continua",
+        "A la división formal de sueldos entre los miembros de la junta administrativa del municipio",
+        "A la asignación exclusiva de tareas de limpieza y conserjería entre los profesores de aula",
+        "A la rotación obligatoria diaria del cargo de director entre todos los maestros del establecimiento"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 13, LIDEI 2022",
+      "explicacion": "Refiere a actividades compartidas por la comunidad para fomentar la motivación y la reflexión sobre la práctica."
+    },
+    {
+      "question": "Según la OEI (2020), ¿por qué el modelo de liderazgo escolar es simultáneamente distribuido, pedagógico e inclusivo?",
+      "options": [
+        "Es distribuido en su concepción teórica, pedagógico en su dimensión de aprendizaje (capital profesional) e inclusivo en sus propósitos personales y sociales",
+        "Es distribuido porque reparte los gastos, pedagógico porque vende libros e inclusivo porque no cobra matrícula",
+        "Es distribuido por mandato judicial, pedagógico por usar computadoras e inclusivo por exigencia del sindicato",
+        "Es distribuido entre ministerios, pedagógico en la secundaria e inclusivo solo en la educación inicial"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 13, LIDEI 2022",
+      "explicacion": "Es distribuido teóricamente, pedagógico en el aprendizaje (capital profesional) e inclusivo en sus metas humanas y sociales."
+    },
+    {
+      "question": "En el marco del liderazgo distribuido, ¿cómo se entiende el concepto de 'agencia' del profesorado?",
+      "options": [
+        "Como la acción educativa consciente y transformadora del profesorado, central para sostener un modelo de desarrollo profesional y liderazgo compartido",
+        "Como la contratación de agencias privadas externas para la elaboración de exámenes escolares",
+        "Como la subordinación estricta del maestro a las órdenes escritas del inspector distrital",
+        "Como la representación sindical exclusiva ante los tribunales administrativos del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 14, LIDEI 2022",
+      "explicacion": "La agencia es la acción educativa del profesorado como pilar central del desarrollo profesional y liderazgo distribuido."
+    },
+    {
+      "question": "De acuerdo con el informe, ¿cuáles son los tres niveles de mecanismos de regulación que cruzan la práctica del liderazgo escolar?",
+      "options": [
+        "Regulación conceptual a nivel transnacional, regulación política a nivel nacional y regulación contextual a nivel del establecimiento",
+        "Regulación penal, regulación civil y regulación laboral sancionatoria",
+        "Regulación municipal, regulación provincial y regulación de la junta de vecinos",
+        "Regulación bancaria, regulación tributaria y regulación comercial corporativa"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 13-14, LIDEI 2022",
+      "explicacion": "Cruzan los niveles: conceptual transnacional, político nacional y contextual de cada centro."
+    },
+    {
+      "question": "En relación con los modelos de liderazgo y los resultados de los estudiantes, ¿qué diferencia sustancial plantea el liderazgo distribuido en su esencia pedagógica e inclusiva (Laborinho et al., 2020)?",
+      "options": [
+        "Valora más a las personas y su aprendizaje integral que la mera eficacia cuantitativa de los resultados de pruebas",
+        "Ignora por completo el éxito escolar de los alumnos para concentrarse en la contabilidad edilicia",
+        "Prioriza los rankings de rendimiento académico estandarizado por encima del bienestar socioemocional",
+        "Sustituye las calificaciones por incentivos económicos directos a las familias"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 14, LIDEI 2022",
+      "explicacion": "El liderazgo distribuido valora más a las personas y su proceso de aprendizaje que la mera eficacia cuantitativa de resultados."
+    },
+    {
+      "question": "¿Qué papel asigna Eurydice y TALIS 2018 a la figura del director o directora escolar en los países de Europa respecto a la evaluación docente?",
+      "options": [
+        "Es el principal referente en casi todos los países regulados para el proceso de evaluación docente, sea de forma aislada o con otros evaluadores",
+        "Tiene prohibición expresa de observar clases o evaluar la práctica pedagógica",
+        "Su función se limita a certificar la asistencia física sin emitir juicios de desempeño",
+        "La evaluación docente es potestad exclusiva de los sindicatos de profesores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 15, LIDEI 2022",
+      "explicacion": "Se destaca como el principal referente en casi todos los países donde se regula la evaluación docente."
+    },
+    {
+      "question": "Según Reimers (2021), citado en el Capítulo 1, ¿qué efecto tuvo la pandemia de COVID-19 en los sistemas educativos de América Latina?",
+      "options": [
+        "Inició la quinta ola de transformación de los sistemas educativos, incrementando las brechas de oportunidad educativa entre distintas clases sociales",
+        "Eliminó completamente la brecha digital en todas las escuelas rurales de la región",
+        "Sustituyó definitivamente la enseñanza presencial por la inteligencia artificial automatizada",
+        "Igualó los resultados de aprendizaje entre los sectores más ricos y más vulnerables"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 16, LIDEI 2022",
+      "explicacion": "Reimers sostiene que inició la quinta ola de transformación incrementando las brechas de oportunidad educativa."
+    },
+    {
+      "question": "En Chile, según el estudio de Vaillant (2015) presentado en el Capítulo 2, ¿de qué depende principalmente que los líderes escolares puedan esmerarse en su función?",
+      "options": [
+        "De desempeñarse en el contexto apropiado, siendo valorados socialmente y contando con posibilidades de desarrollo profesional y apoyo a su gestión",
+        "De contar con un título universitario expedido en el extranjero",
+        "De pertenecer a un partido político con representación en el parlamento",
+        "De disponer de un presupuesto privado independiente sin fiscalización estatal"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 19, LIDEI 2022",
+      "explicacion": "Depende de un contexto apropiado, valoración social y oportunidades de desarrollo profesional y apoyo."
+    },
+    {
+      "question": "¿Cuál es el referente conceptual publicado por el Ministerio de Educación de Chile (MINEDUC, 2015) para consolidar el rol directivo?",
+      "options": [
+        "El Marco para la Buena Dirección y el Liderazgo Escolar",
+        "El Estatuto de la Función Pública Docente",
+        "El Código de Convivencia y Disciplina Escolar",
+        "La Ley Orgánica Constitucional de Enseñanza"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 20, LIDEI 2022",
+      "explicacion": "El documento oficial es el 'Marco para la Buena Dirección y el Liderazgo Escolar'."
+    },
+    {
+      "question": "¿Cómo define el liderazgo el Marco para la Buena Dirección y el Liderazgo Escolar de Chile (MINEDUC, 2015; Leithwood et al., 2006)?",
+      "options": [
+        "Como la labor de movilizar e influenciar a otros para articular y lograr los objetivos y metas compartidas",
+        "Como el ejercicio exclusivo del poder disciplinario otorgado por la ley al director",
+        "Como la fiscalización contable de los gastos operativos de la unidad educativa",
+        "Como la firma de diplomas y certificados al finalizar el año lectivo"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 21, LIDEI 2022",
+      "explicacion": "Se define como la labor de movilizar e influenciar a otros para articular y lograr metas compartidas."
+    },
+    {
+      "question": "¿Cuántas y cuáles son las dimensiones de prácticas que agrupa el Marco para la Buena Dirección de Chile?",
+      "options": [
+        "5 dimensiones: Visión estratégica compartida; Capacidades profesionales; Procesos de enseñanza-aprendizaje; Convivencia y participación; Desarrollo y gestión del establecimiento",
+        "3 dimensiones: Administración; Finanzas; Disciplina",
+        "4 dimensiones: Política; Economía; Religión; Deporte",
+        "6 dimensiones: Evaluación; Infraestructura; Transporte; Alimentación; Salud; Seguridad"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 21-22, LIDEI 2022",
+      "explicacion": "Las 5 dimensiones abarcan visión estratégica, capacidades profesionales, enseñanza-aprendizaje, convivencia/participación y gestión del establecimiento."
+    },
+    {
+      "question": "En Portugal, ¿cuáles son los tres objetivos principales del modelo de gestión democrática de las escuelas públicas (Decreto-Lei n.º 75/2008)?",
+      "options": [
+        "Fortalecer la participación de las familias/comunidades; fortalecer el liderazgo de las escuelas; y fortalecer la autonomía instrumental del centro",
+        "Centralizar las contrataciones; eliminar los consejos escolares; y privatizar la gestión de aulas",
+        "Suprimir las asociaciones de padres; estandarizar los exámenes; y cobrar matrículas de inscripción",
+        "Reducir las horas de clase; eliminar el apoyo pedagógico; y militarizar la disciplina"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 22-23, LIDEI 2022",
+      "explicacion": "Los 3 objetivos son: fortalecer participación comunitaria, fortalecer liderazgo escolar y fortalecer la autonomía instrumental."
+    },
+    {
+      "question": "En la Evaluación Externa de Escuelas de Portugal (Abrantes et al., 2018), ¿cuál es uno de los cuatro dominios evaluados junto con Autoevaluación, Prestación de Servicios y Resultados?",
+      "options": [
+        "Liderazgo y Gestión",
+        "Auditoría Impositiva",
+        "Inspección Judicial",
+        "Rendimiento Bursátil"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 23, LIDEI 2022",
+      "explicacion": "El dominio evaluado es 'Liderazgo y Gestión'."
+    },
+    {
+      "question": "¿Cuáles son los 3 campos de análisis en los que se divide el dominio de Liderazgo y Gestión en la evaluación externa portuguesa?",
+      "options": [
+        "Visión y estrategia; Liderazgo; Gestión",
+        "Contabilidad; Personal; Mantenimiento",
+        "Planificación; Sanción; Ejecución",
+        "Política; Economía; Relaciones Exteriores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 24, LIDEI 2022",
+      "explicacion": "Los 3 campos de análisis son: Visión y estrategia, Liderazgo, y Gestión."
+    },
+    {
+      "question": "En España, la reestructuración del modelo de liderazgo escolar busca pasar de un modelo burocrático-administrativista a:",
+      "options": [
+        "Una dirección pedagógica encaminada a la mejora de los aprendizajes y resultados, fortaleciendo el liderazgo distribuido, inclusivo y pedagógico (Bolívar, 2018)",
+        "Un sistema de inspección policial de aulas y sanción de profesores",
+        "Un modelo de libre mercado donde los directores compiten comercialmente por alumnos",
+        "Una administración pasiva centrada únicamente en el llenado de planillas estadísticas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 26-27, LIDEI 2022",
+      "explicacion": "El cambio busca pasar del modelo burocrático a una dirección pedagógica centrada en aprendizajes y resultados."
+    },
+    {
+      "question": "¿Cuáles son las 4 dimensiones que identifican los estándares de liderazgo de Columbia Británica (Canadá - BCPVPA 2019)?",
+      "options": [
+        "Liderazgo ético, liderazgo instructivo, liderazgo relacional y liderazgo organizativo",
+        "Liderazgo político, liderazgo financiero, liderazgo sindical y liderazgo legal",
+        "Liderazgo autocrático, liderazgo burocrático, liderazgo técnico y liderazgo punitivo",
+        "Liderazgo centralizado, liderazgo estatal, liderazgo provincial y liderazgo municipal"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 27, LIDEI 2022",
+      "explicacion": "Las 4 dimensiones son: liderazgo ético, instructivo, relacional y organizativo."
+    },
+    {
+      "question": "En España, la ley educativa LOMLOE (2020) reestablece el equilibrio de competencias en el gobierno de los centros entre la dirección y qué órgano colegiado?",
+      "options": [
+        "El Consejo Escolar",
+        "El Tribunal Contencioso Administrativo",
+        "El Sindicato de Profesores de Secundaria",
+        "La Junta de Alcaldes Departamentales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 28, LIDEI 2022",
+      "explicacion": "Reestablece el equilibrio de competencias entre la dirección y el Consejo Escolar."
+    },
+    {
+      "question": "¿Cuál es el marco legal que rige la gestión democrática de la educación en Brasil?",
+      "options": [
+        "La Constitución de 1988 y la Ley de Directrices y Bases de la Educación Nacional (Ley N° 9.394/1996)",
+        "El Estatuto Docente de 1957",
+        "El Decreto de Descentralización de 2010",
+        "La Ley Orgánica de Inspección Escolar de 1975"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 25, LIDEI 2022",
+      "explicacion": "Se fundamenta en la Constitución de 1988 y la LDB Ley N° 9.394 de 1996."
+    },
+    {
+      "question": "¿Cuántos directores y directoras en total participaron en el pilotaje del cuestionario LIDEI 2022 analizado en el Capítulo 3?",
+      "options": [
+        "77 directores y directoras (Argentina 26, Chile 15, España 36)",
+        "500 directores representativos de 10 países",
+        "1.000 directores seleccionados al azar",
+        "25 directores exclusivos de zonas rurales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 32-33, LIDEI 2022",
+      "explicacion": "Participaron 77 directores en total: 36 de España, 26 de Argentina y 15 de Chile."
+    },
+    {
+      "question": "El informe LIDEI 2022 aclara explícitamente una limitación metodológica fundamental respecto a la muestra incidental del piloto. ¿Cuál es?",
+      "options": [
+        "La muestra no es representativa del conjunto de directores ni del conjunto de centros a nivel nacional, pero permite identificar tendencias y formular hipótesis",
+        "Las respuestas fueron redactadas por alumnos de primaria en lugar de directores",
+        "Los datos fueron tomados de publicaciones de hace 50 años sin actualizar",
+        "El cuestionario solo contenía preguntas abiertas sin posibilidad de cuantificación"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 32 y 40, LIDEI 2022",
+      "explicacion": "Se enfatiza que la muestra es incidental y no representativa, pero permite identificar tendencias valiosas."
+    },
+    {
+      "question": "¿Cuáles son tres aspectos que quedaron infrarrepresentados en la muestra incidental del estudio piloto LIDEI 2022?",
+      "options": [
+        "Las mujeres directoras, los centros educativos privados y los centros pequeños/rurales",
+        "Los directores hombres, las escuelas públicas urbanas y los centros de más de 1.000 alumnos",
+        "Los institutos técnicos, las universidades privadas y los colegios nocturnos",
+        "Los inspectores educativos, los ministores de educación y los alcaldes"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 40, LIDEI 2022",
+      "explicacion": "Quedaron infrarrepresentadas las mujeres directoras, los centros privados y los centros pequeños/rurales."
+    },
+    {
+      "question": "En la muestra del piloto de España, ¿qué porcentaje de los directores encuestados pertenecían al género masculino frente al femenino?",
+      "options": [
+        "67% hombres y 33% mujeres (contrastando con la realidad nacional donde el 67,2% son mujeres)",
+        "90% mujeres y 10% hombres",
+        "50% hombres y 50% mujeres de manera perfecta",
+        "100% mujeres en todos los niveles"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 33 y 40, LIDEI 2022",
+      "explicacion": "En la muestra de España el 67% eran hombres y 33% mujeres, situación invertida a la realidad del país."
+    },
+    {
+      "question": "En Chile, ¿cuál fue la distribución por género de los directores participantes en el pilotaje LIDEI 2022?",
+      "options": [
+        "60% mujeres y 40% hombres",
+        "80% hombres y 20% mujeres",
+        "30% mujeres y 70% hombres",
+        "100% hombres"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 33, LIDEI 2022",
+      "explicacion": "En Chile el 60% fueron mujeres y 40% hombres."
+    },
+    {
+      "question": "En Argentina, ¿cuál fue la distribución por género en la muestra piloto?",
+      "options": [
+        "62% hombres y 38% mujeres",
+        "20% hombres y 80% mujeres",
+        "50% hombres y 50% mujeres",
+        "5% hombres y 95% mujeres"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 33, LIDEI 2022",
+      "explicacion": "En Argentina participó un 62% de hombres y un 38% de mujeres."
+    },
+    {
+      "question": "Respecto a la edad de los directores encuestados en España, ¿cuál fue la característica predominante?",
+      "options": [
+        "La mitad (50%) tenía entre 50 y 59 años, y un 8% tenía 60 o más años",
+        "El 90% tenía menos de 30 años de edad",
+        "Todos los directores eran menores de 40 años",
+        "El 100% superaba los 65 años de edad"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 34, LIDEI 2022",
+      "explicacion": "La mitad tenía entre 50 y 59 años y un 8% tenía 60 o más años."
+    },
+    {
+      "question": "En Argentina, ¿qué porcentaje de los directores participantes en la encuesta llevaba menos de 6 años en el puesto de dirección?",
+      "options": [
+        "El 57% de los directores",
+        "El 10% de los directores",
+        "El 95% de los directores",
+        "El 0% de los directores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 35, LIDEI 2022",
+      "explicacion": "El 57% llevaba menos de 6 años en el puesto, siendo la experiencia más repetida de 3 a 5 años."
+    },
+    {
+      "question": "En Chile, ¿qué porcentaje de directores encuestados tenía más de 15 años de experiencia en el cargo de dirección?",
+      "options": [
+        "El 27% de los directores",
+        "El 2% de los directores",
+        "El 85% de los directores",
+        "El 0% de los directores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 35, LIDEI 2022",
+      "explicacion": "En Chile el 27% llevaba más de 15 años en el puesto."
+    },
+    {
+      "question": "Según los datos del estudio TALIS (2018) citados en el informe, ¿cuántos años de experiencia en educación declaran tener en promedio los directores antes de acceder a la dirección?",
+      "options": [
+        "Declaran tener en media 23 años de experiencia en educación, los 7 últimos en el cargo de dirección",
+        "Declaran tener solo 2 años de experiencia docente previa",
+        "Declaran no haber ejercido jamás como docentes de aula",
+        "Declaran 40 años de docencia previa exclusiva en educación inicial"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 35-36, LIDEI 2022",
+      "explicacion": "TALIS 2018 refleja que en promedio declaran 23 años de experiencia en educación y los últimos 7 en dirección."
+    },
+    {
+      "question": "En cuanto a la titularidad de los centros en la muestra de Chile, ¿qué porcentaje correspondía a centros públicos frente a privados?",
+      "options": [
+        "80% públicos y 20% privados (mientras que en la realidad chilena el 63% de la oferta es privada)",
+        "10% públicos y 90% privados",
+        "50% públicos y 50% privados",
+        "0% públicos y 100% privados"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 37, LIDEI 2022",
+      "explicacion": "El 80% eran públicos y 20% privados en la muestra, contrastando con el 63% privado del sistema nacional."
+    },
+    {
+      "question": "En Argentina, ¿cómo se distribuyó la muestra de directores según la titularidad del centro público/privado?",
+      "options": [
+        "50% de centros públicos y 50% de centros privados",
+        "100% de centros públicos únicamente",
+        "10% de centros públicos y 90% privados",
+        "80% de centros públicos y 20% privados"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 37, LIDEI 2022",
+      "explicacion": "En Argentina provienen al 50% de centros públicos y privados."
+    },
+    {
+      "question": "En España, ¿qué porcentaje de los directores de la muestra pertenecía a centros ubicados en localidades rurales (menos de 3.000 habitantes)?",
+      "options": [
+        "El 11% de los directores",
+        "El 50% de los directores",
+        "El 80% de los directores",
+        "El 0% absoluto"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 37, LIDEI 2022",
+      "explicacion": "El 11% pertenecía a centros rurales de menos de 3.000 habitantes."
+    },
+    {
+      "question": "¿Qué porcentaje de directores de centros de menos de 100 alumnos participó en la muestra de España del pilotaje LIDEI 2022?",
+      "options": [
+        "0% de directores (ningún director pertenecía a un centro de menos de 100 alumnos)",
+        "25% de los directores",
+        "75% de los directores",
+        "100% de los directores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 38 y 40, LIDEI 2022",
+      "explicacion": "Ningún director encuestado en España pertenecía a un centro de menos de 100 alumnos."
+    },
+    {
+      "question": "¿Qué país de la muestra presentó la ratio promedio más elevada de estudiantes por profesor?",
+      "options": [
+        "Chile con 14,9 estudiantes por profesor",
+        "Argentina con 7,6 estudiantes por profesor",
+        "España con 10,1 estudiantes por profesor",
+        "Uruguay con 25,0 estudiantes por profesor"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 38-39, LIDEI 2022",
+      "explicacion": "Chile presentó la ratio más elevada con 14,9 estudiantes por profesor, seguido de España (10,1) y Argentina (7,6)."
+    },
+    {
+      "question": "En la muestra de Chile, ¿a qué valor máximo llegó la ratio estudiantes/profesor en centros grandes de entre 1.000 y 2.000 alumnos?",
+      "options": [
+        "Alcanzó 19,9 estudiantes por profesor",
+        "Alcanzó 5,0 estudiantes por profesor",
+        "Alcanzó 35,0 estudiantes por profesor",
+        "Alcanzó 8,8 estudiantes por profesor"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 39, LIDEI 2022",
+      "explicacion": "En centros de 1.000 a 2.000 alumnos en Chile la ratio alcanzó 19,9 estudiantes por profesor."
+    },
+    {
+      "question": "En Argentina, ¿cuál fue la ratio promedio de estudiantes por profesor en centros pequeños de menos de 100 alumnos?",
+      "options": [
+        "3,7 estudiantes por profesor",
+        "15,2 estudiantes por profesor",
+        "22,0 estudiantes por profesor",
+        "0,5 estudiantes por profesor"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 38-39, LIDEI 2022",
+      "explicacion": "Muestra el valor más bajo de 3,7 estudiantes por profesor."
+    },
+    {
+      "question": "Al autoevaluar su conocimiento sobre la normativa de su país relativa a los directores escolares, ¿qué porcentaje de directores chilenos manifestó conocerla 'bien' o 'muy bien'?",
+      "options": [
+        "100% de los directores (53% bien y 47% muy bien)",
+        "Solo el 15% de los directores",
+        "El 50% desconoce la normativa",
+        "El 30% la conoce nada o en absoluto"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 41, LIDEI 2022",
+      "explicacion": "En Chile el 100% manifestó conocer la normativa bien (53%) o muy bien (47%)."
+    },
+    {
+      "question": "En Argentina y España, ¿qué porcentaje de directores manifestó conocer la normativa de su país 'bien' o 'muy bien'?",
+      "options": [
+        "Más del 85% en Argentina y más del 83% en España",
+        "Menos del 20% en ambos países",
+        "Exactamente el 10% en Argentina y 90% en España",
+        "El 0% en ambos países"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 41, LIDEI 2022",
+      "explicacion": "En Argentina más del 85% y en España más del 83% manifestaron conocer la normativa bien o muy bien."
+    },
+    {
+      "question": "En la Dimensión 1, ¿cuál fue el aspecto normativo en el que los directores de los tres países se sintieron MÁS reforzados por parte de la legislación?",
+      "options": [
+        "Impulsar prácticas que fomentan la equidad, la integración, el respeto y la valoración de la dignidad de los individuos (96% Argentina, 100% Chile, 94% España)",
+        "Incrementar los salarios de la junta administrativa",
+        "Sancionar económicamente a las familias con atrasos",
+        "Reducir las horas de clase en invierno"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 42-43, LIDEI 2022",
+      "explicacion": "Fomentar la equidad, integración y respeto por los más desfavorecidos obtuvo entre 94% y 100% de respaldo."
+    },
+    {
+      "question": "En España, ¿cuál fue el aspecto de la Dimensión 1 donde los directores mostraron menor acuerdo con la flexibilidad que les otorga la normativa?",
+      "options": [
+        "La posibilidad de adaptar las funciones del director al tipo de centro (69%) y rediseñar roles para que el profesorado asuma liderazgo (72%)",
+        "Impulsar proyectos pedagógicos comunes",
+        "Promover la colaboración con las familias",
+        "Fomentar la equidad social"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 42, LIDEI 2022",
+      "explicacion": "España es el país con percepción más estricta en adaptar funciones (69%) y rediseñar roles (72%)."
+    },
+    {
+      "question": "En la subdimensión 1.1.2 sobre salarios equiparables a puestos con nivel de responsabilidad similar, ¿cuál fue la opinión mayoritaria de los directores en Argentina y España?",
+      "options": [
+        "El 72% en Argentina y el 75% en España opinan que su salario es 'muy poco' equiparable",
+        "El 90% opina que su salario es excesivamente alto y superior a cualquier ejecutivo",
+        "El 100% está totalmente conforme con su remuneración",
+        "El 50% afirma que no cobra salario alguno"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 43, LIDEI 2022",
+      "explicacion": "Hay un mayoritario desacuerdo: 72% en Argentina y 75% en España estiman que su salario es muy poco equiparable."
+    },
+    {
+      "question": "Según los datos del informe Education at a Glance 2021 (OCDE) citados en el estudio, ¿cómo se ubica el salario máximo de los directores de secundaria en Chile y España respecto al promedio OCDE?",
+      "options": [
+        "En Chile el salario máximo supera los 100.000 USD PPA y en España se sitúa cerca de 90.000 USD PPA, alineados con los promedios de la OCDE",
+        "En ambos países el salario máximo es de 1.000 USD anuales",
+        "En España el salario es tres veces superior al de la OCDE",
+        "No existen datos salariales para Chile y España"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 44, LIDEI 2022",
+      "explicacion": "El gráfico 11.2 muestra comparativas donde el salario máximo supera 100k en Chile y bordea 90k en España."
+    },
+    {
+      "question": "En el informe TALIS 2018, ¿qué porcentaje de los directores de España manifestó estar 'de acuerdo' o 'bastante de acuerdo' con la afirmación de estar satisfechos con su salario?",
+      "options": [
+        "El 42,1% de los directores",
+        "El 95,0% de los directores",
+        "El 5,0% de los directores",
+        "El 0% de los directores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 45, LIDEI 2022",
+      "explicacion": "TALIS 2018 indica que el 42,1% declara estar satisfecho con su salario."
+    },
+    {
+      "question": "Respecto a la cuantificación del tiempo de trabajo en la normativa básica de los países, ¿cuál es la única tarea cuya dedicación horaria está formalmente cuantificada en la norma de España?",
+      "options": [
+        "La docencia directa con el alumnado",
+        "La gestión administrativa y contable",
+        "La atención a reuniones de padres de familia",
+        "La resolución de conflictos entre profesores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 46, LIDEI 2022",
+      "explicacion": "La normativa española sólo cuantifica la docencia directa con el alumnado; el resto de tareas no se cuantifican en la norma básica."
+    },
+    {
+      "question": "En la distribución semanal de horas declaradas por los directores, ¿cuáles son las dos tareas que absorben la mayor cantidad de tiempo en los tres países?",
+      "options": [
+        "La gestión administrativa / tratamiento de información y el liderazgo pedagógico",
+        "La docencia directa y la educación física",
+        "Las reuniones sindicales y el mantenimiento del edificio",
+        "El transporte escolar y los comedores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 46, LIDEI 2022",
+      "explicacion": "Las tareas que requieren más tiempo son la gestión administrativa (hasta 13,7h) y el liderazgo pedagógico (hasta 13,9h)."
+    },
+    {
+      "question": "En Chile, ¿cuántas horas promedio a la semana declaran dedicar los directores al liderazgo pedagógico y a la gestión administrativa?",
+      "options": [
+        "13,9 horas a liderazgo pedagógico y 13,7 horas a gestión administrativa",
+        "1 hora a liderazgo pedagógico y 40 horas a gestión administrativa",
+        "25 horas a docencia directa y 0 horas a administración",
+        "5 horas a liderazgo pedagógico y 5 horas a administración"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 46, LIDEI 2022",
+      "explicacion": "En Chile dedican 13,9h a liderazgo pedagógico y 13,7h a gestión administrativa."
+    },
+    {
+      "question": "¿Cuál es el total de horas de trabajo semanal promedio declarado por el conjunto de directores de los tres países?",
+      "options": [
+        "Entre 40 y 42 horas de trabajo a la semana",
+        "Exactamente 20 horas a la semana",
+        "80 horas semanales obligatorias",
+        "15 horas semanales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 49 y 88, LIDEI 2022",
+      "explicacion": "Los directores de los tres países indican dedicar entre 40 y 42 horas semanales en total."
+    },
+    {
+      "question": "En el proceso de selección de directores en Argentina, ¿cuál fue el aspecto más valorado según el 69% de los encuestados?",
+      "options": [
+        "Los años de experiencia previo",
+        "La superación de un examen escrito nacional",
+        "La presentación de un proyecto escolar de centro",
+        "El nombramiento directo por el sindicato"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 50-51, LIDEI 2022",
+      "explicacion": "En Argentina el aspecto más valorado son los años de experiencia (69%)."
+    },
+    {
+      "question": "En Chile, ¿cuál fue el aspecto del candidato a director valorado por el 93% de los encuestados en el proceso de selección?",
+      "options": [
+        "Las habilidades personales de liderazgo",
+        "El título de doctorado en economía",
+        "La aprobación de un examen de oposición",
+        "La antigüedad exclusiva en el mismo colegio"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 50-51, LIDEI 2022",
+      "explicacion": "El 93% en Chile estima que se valoran las habilidades personales de liderazgo."
+    },
+    {
+      "question": "En España, ¿cuál fue el aspecto principal valorado en el proceso de selección de directores según el 67% de los encuestados?",
+      "options": [
+        "La presentación de un proyecto de dirección / proyecto escolar",
+        "La realización de una entrevista psicológica privada",
+        "Un examen de memorización legislativa",
+        "El voto directo de los alumnos de primaria"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 50-51, LIDEI 2022",
+      "explicacion": "El aspecto más valorado en España es el proyecto de dirección (67%)."
+    },
+    {
+      "question": "¿Qué porcentaje de directores declaró haber sido nombrado de forma 'forzosa' por la Administración educativa en España, Chile y Argentina?",
+      "options": [
+        "14% en España, 13% en Chile y 8% en Argentina",
+        "50% en los tres países",
+        "0% en todos los países",
+        "90% en Argentina y 0% en España"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 50-51, LIDEI 2022",
+      "explicacion": "Se registró un nombramiento forzoso del 14% en España, 13% en Chile y 8% en Argentina."
+    },
+    {
+      "question": "A juicio de los directores, ¿qué porcentaje en Argentina (54%), Chile (67%) y España (53%) opina sobre los programas de formación propuestos por la Administración?",
+      "options": [
+        "Están de acuerdo o totalmente de acuerdo en que se ajustan al modelo de liderazgo pedagógico, inclusivo y distribuido",
+        "Opinan que están totalmente desfasados y no sirven en absoluto",
+        "Exigen la cancelación de toda actividad formativa",
+        "Consideran que solo deben dictarse en formato presencial en el extranjero"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 52, LIDEI 2022",
+      "explicacion": "Más del 50% opina que la oferta formativa sí se ajusta al modelo de liderazgo pedagógico, inclusivo y distribuido."
+    },
+    {
+      "question": "En relación con la diferenciación de la formación según la experiencia en el cargo, ¿qué opinan los directores de España (72%) y Argentina (70%)?",
+      "options": [
+        "Opinan que la formación ofrecida NO está diferenciada en función de la experiencia en la función directiva",
+        "Afirman que existe un programa diferenciado por cada año de antigüedad",
+        "Exigen que la formación sea idéntica para docentes y directores",
+        "Sostienen que los directores con experiencia no necesitan formarse jamás"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 53, LIDEI 2022",
+      "explicacion": "El 72% en España y 70% en Argentina sostienen que la formación no está diferenciada según la experiencia."
+    },
+    {
+      "question": "¿Qué porcentaje de directores en España, Argentina y Chile manifiesta que la Administración realiza un acompañamiento (mentoría) a directores noveles?",
+      "options": [
+        "Solo el 14% en España, 19% en Argentina y 33% en Chile",
+        "El 100% en los tres países",
+        "El 85% en España y 0% en Chile",
+        "El 90% en Argentina"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 53-54, LIDEI 2022",
+      "explicacion": "La incidencia de programas de mentoría es baja: 14% España, 19% Argentina y 33% Chile."
+    },
+    {
+      "question": "¿Qué porcentaje de directores declara NO haber recibido ningún tipo de formación de actualización una vez nombrados en el cargo?",
+      "options": [
+        "50% en Argentina, 33% en Chile y 25% en España",
+        "0% en todos los países",
+        "100% en España",
+        "90% en Chile"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 55, LIDEI 2022",
+      "explicacion": "Un 50% de argentinos, 33% de chilenos y 25% de españoles declaran no haber recibido formación de actualización tras su nombramiento."
+    },
+    {
+      "question": "En cuanto a la existencia de incentivos salariales asociados a la realización de formación continua, ¿cuál es la percepción general de los directores?",
+      "options": [
+        "La opinión general es que no existen incentivos salariales a la formación (solo el 21% en Chile, 8% en Argentina y 6% en España afirma que existen)",
+        "Todos reciben un aumento del 50% por cada curso",
+        "La formación es pagada con un bono mensual automático en dólares",
+        "Existen incentivos obligatorios aprobados por el Banco Mundial"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 55-56, LIDEI 2022",
+      "explicacion": "La percepción es de escasez de incentivos salariales por formación (6% a 21%)."
+    },
+    {
+      "question": "¿Qué porcentaje de directores entiende que en su centro existe un proceso de evaluación del desempeño directivo?",
+      "options": [
+        "64% en España, 42% en Argentina y 33% en Chile",
+        "100% en Chile y 0% en España",
+        "90% en Argentina y 10% en España",
+        "0% en los tres países"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 56, LIDEI 2022",
+      "explicacion": "El 64% en España, 42% en Argentina y 33% en Chile afirma que existe evaluación de desempeño."
+    },
+    {
+      "question": "Al evaluar el desempeño directivo, ¿cuál es el factor MÁS utilizado según la declaración de los directores?",
+      "options": [
+        "La consecución de objetivos del Plan Anual de Centro / Plan de Dirección (100% Chile, 87% España, 55% Argentina)",
+        "El número de sanciones aplicadas a profesores",
+        "La asistencia física del director a desfiles cívicos",
+        "El cobro oportuno de alquileres del kiosco escolar"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 57-58, LIDEI 2022",
+      "explicacion": "El factor más evaluado es la consecución de objetivos del Plan de Centro (100% Chile, 87% España, 55% Argentina)."
+    },
+    {
+      "question": "En Chile, ¿qué otro factor tiene un peso muy elevado (80% de mención) en la evaluación del desempeño del director?",
+      "options": [
+        "Los resultados de los alumnos del centro (rendimiento interno y calificaciones en pruebas nacionales)",
+        "La cantidad de profesores despedidos",
+        "La infraestructura de la cancha deportiva",
+        "La antigüedad en años del edificio escolar"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 57-58, LIDEI 2022",
+      "explicacion": "En Chile el 80% señala los resultados internos y externos de los alumnos como factor evaluado."
+    },
+    {
+      "question": "En la Dimensión 2 sobre Autonomía, ¿en qué aspecto el 80% a 83% de los directores de los tres países coincide en señalar que tiene bastante o mucha autonomía?",
+      "options": [
+        "Flexibilizar su horario para dedicarlo a las distintas tareas de dirección pedagógica",
+        "Aumentar el sueldo de los profesores sin consultar al ministerio",
+        "Cambiar los libros de texto nacionales por manuales extranjeros",
+        "Expulsar alumnos sin proceso previo"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 58-59, LIDEI 2022",
+      "explicacion": "Coinciden ampliamente (~80-83%) en tener autonomía para flexibilizar su horario de trabajo."
+    },
+    {
+      "question": "En la selección y renovación de la plantilla docente, ¿cuál es el porcentaje de directores que estima tener bastante o mucha autonomía en España?",
+      "options": [
+        "Solo el 14% de los directores",
+        "El 95% de los directores",
+        "El 53% de los directores",
+        "El 100% de los directores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 59, LIDEI 2022",
+      "explicacion": "Solo el 14% en España estima tener autonomía en selección/renovación de plantilla, frente al 53% en Chile y 31% en Argentina."
+    },
+    {
+      "question": "En relación con la autonomía para liderar modificaciones del desarrollo curricular adaptadas al contexto, ¿cuál es el país con mayor porcentaje de apoyo entre sus directores?",
+      "options": [
+        "Argentina con el 73%, seguido de Chile con 67% y España con 36%",
+        "España con el 99%",
+        "Chile con el 10%",
+        "Argentina con el 0%"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 60-61, LIDEI 2022",
+      "explicacion": "Argentina muestra el mayor porcentaje de autonomía en desarrollo curricular (73%), seguido de Chile (67%) y España (36%)."
+    },
+    {
+      "question": "En la autonomía para decidir sobre estrategias, metodologías y recursos pedagógicos vinculados a la equidad e inclusión, ¿qué porcentaje de directores manifiesta tener entre bastante y mucha autonomía?",
+      "options": [
+        "93% en Chile, 77% en Argentina y 74% en España",
+        "10% en Chile, 20% en Argentina y 30% en España",
+        "0% en los tres países",
+        "100% en España y 0% en Chile"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 62, LIDEI 2022",
+      "explicacion": "Existe amplia autonomía metodológica: 93% en Chile, 77% en Argentina y 74% en España."
+    },
+    {
+      "question": "Respecto a la definición y gestión del presupuesto del centro, ¿cuál es la diferencia marcada entre España y Argentina?",
+      "options": [
+        "En España el 86% manifiesta tener autonomía presupuestaria, mientras que en Argentina solo el 27% la expresa",
+        "En Argentina el 100% maneja fondos discrecionales y en España el 0%",
+        "En ambos países la autonomía presupuestaria es del 50%",
+        "Ningún país otorga presupuesto a los centros"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 63, LIDEI 2022",
+      "explicacion": "En España el 86% siente autonomía para gestionar su presupuesto asignado, frente al 27% en Argentina y 40% en Chile."
+    },
+    {
+      "question": "En la resolución de conflictos escolares entre profesorado, familias y alumnado, ¿qué porcentaje de autonomía expresan los directores?",
+      "options": [
+        "100% en Chile, 97% en España y 92% en Argentina",
+        "10% en los tres países",
+        "50% en Chile y 0% en España",
+        "0% en Argentina"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 64, LIDEI 2022",
+      "explicacion": "Expresan una autonomía casi total para resolver conflictos escolares (92% a 100%)."
+    },
+    {
+      "question": "Al consultar sobre la resolución de conflictos LABORALES provocados por el incumplimiento de funciones del personal, ¿qué porcentaje de directores en España estima tener autonomía?",
+      "options": [
+        "Solo el 34% de los directores (frente al 80% en Chile y 58% en Argentina)",
+        "El 100% de los directores",
+        "El 90% de los directores",
+        "El 0% en Chile"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 64-65, LIDEI 2022",
+      "explicacion": "En España baja al 34% la autonomía para resolver conflictos laborales, pues suelen derivarse a la Administración."
+    },
+    {
+      "question": "En la Dimensión 3 sobre Liderazgo Distribuido (analizada en centros >100 alumnos), ¿qué porcentaje de directores afirma permitir la distribución del liderazgo en su centro?",
+      "options": [
+        "100% en Chile, 92% en España y 91% en Argentina",
+        "10% en los tres países",
+        "50% en Argentina y 0% en Chile",
+        "0% en todos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 68-69, LIDEI 2022",
+      "explicacion": "Más del 90% en los tres países afirma propiciar la distribución del liderazgo en su centro."
+    },
+    {
+      "question": "¿Qué porcentaje de directores opina que las acciones promovidas por la dirección se encuentran mediatizadas por lo impuesto desde la Administración educativa?",
+      "options": [
+        "92% en España, 88% en Argentina y 80% en Chile",
+        "10% en España y 0% en Chile",
+        "50% en los tres países",
+        "0% en todos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 67, LIDEI 2022",
+      "explicacion": "La gran mayoría (80% a 92%) reconoce que sus acciones están mediatizadas por las líneas impuestas por la Administración."
+    },
+    {
+      "question": "¿Qué porcentaje de directores en Argentina se siente respaldado por la Administración educativa a la hora de tomar decisiones y ejercer la autonomía?",
+      "options": [
+        "Solo el 38% de los directores (frente al 73% en Chile y 60% en España)",
+        "El 100% de los directores",
+        "El 85% de los directores",
+        "El 0% en Chile"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 67, LIDEI 2022",
+      "explicacion": "En Argentina solo el 38% se siente respaldado por la Administración, frente a un mayor respaldo en Chile (73%) y España (60%)."
+    },
+    {
+      "question": "¿Qué porcentaje de directores considera que la complejidad y larga duración de los procesos administrativos debilitan su autonomía de decisión?",
+      "options": [
+        "96% en Argentina, 87% en Chile y 74% en España",
+        "10% en Argentina y 0% en España",
+        "50% en los tres países",
+        "0% en todos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 67-68, LIDEI 2022",
+      "explicacion": "Un abrumador porcentaje (74% a 96%) señala la burocracia lenta como un gran escollo para la autonomía."
+    },
+    {
+      "question": "En la sección 'Educar en Tiempos de Emergencia' (COVID-19), ¿cuál fue señalado por alrededor del 90% de los directores como el GRAN CAMBIO en el funcionamiento de los centros?",
+      "options": [
+        "La utilización de tecnologías digitales para el aprendizaje a distancia",
+        "La eliminación definitiva de los exámenes de graduación",
+        "El aumento de las vacaciones estivales a 6 meses",
+        "La privatización inmediata de la educación pública"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 74-75, LIDEI 2022",
+      "explicacion": "Alrededor del 90% (94% España, 87% Chile, 85% Argentina) señala el uso de tecnologías digitales como el gran cambio."
+    },
+    {
+      "question": "Desde la perspectiva de los directores, ¿qué porcentaje en España expresó que el profesorado se adaptó fácilmente a las nuevas formas de enseñanza a distancia?",
+      "options": [
+        "El 89% de los directores en España (frente al 60% en Chile y Argentina)",
+        "El 10% en España",
+        "El 100% en Argentina y 0% en España",
+        "El 5% en los tres países"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 75, LIDEI 2022",
+      "explicacion": "En España el 89% percibió una adaptación sencilla del profesorado, frente al 60% en Argentina y Chile."
+    },
+    {
+      "question": "En cuanto a las consecuencias negativas de la pandemia, ¿qué porcentaje de directores en España destacó el incremento del trabajo burocrático de los docentes?",
+      "options": [
+        "El 81% de los directores (73% en Chile y 65% en Argentina)",
+        "El 5% en España",
+        "El 0% en los tres países",
+        "El 50% en Argentina únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 75, LIDEI 2022",
+      "explicacion": "El 81% en España, 73% en Chile y 65% en Argentina destacaron el aumento del trabajo burocrático docente."
+    },
+    {
+      "question": "Respecto a la pérdida de aprendizaje acumulada en los estudiantes por el cierre de escuelas, ¿qué porcentaje de directores la observó en Chile?",
+      "options": [
+        "El 87% de los directores (69% en Argentina y 51% en España)",
+        "El 10% en Chile",
+        "El 0% en los tres países",
+        "El 100% en España y 0% en Chile"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 76, LIDEI 2022",
+      "explicacion": "En Chile el 87% observó pérdida de aprendizaje, en Argentina el 69% y en España el 51% (donde operó PROA+)."
+    },
+    {
+      "question": "¿Qué porcentaje de directores en Argentina declaró que el alumnado se sentía 'cansado' de la situación de pandemia y enseñanza a distancia?",
+      "options": [
+        "El 100% de los directores (91% en España y 87% en Chile)",
+        "El 10% de los directores",
+        "El 50% de los directores",
+        "El 0% de los directores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 76-77, LIDEI 2022",
+      "explicacion": "El 100% en Argentina, 91% en España y 87% en Chile observaron cansancio generalizado en los alumnos."
+    },
+    {
+      "question": "Destacablemente durante la emergencia, ¿qué porcentaje de directores en Argentina (85%), Chile (80%) y España (63%) afirmó que el acompañamiento emocional era más importante que los contenidos?",
+      "options": [
+        "Afirmaron que el acompañamiento emocional de los estudiantes era más importante que la enseñanza de contenidos",
+        "Afirmaron que el rendimiento en matemáticas era lo único relevante",
+        "Exigieron eliminar el apoyo psicopedagógico",
+        "Sostuvieron que el bienestar emocional no concierne a la escuela"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 77-78, LIDEI 2022",
+      "explicacion": "La gran mayoría coincidió en dar prioridad al acompañamiento emocional sobre los contenidos académicos."
+    },
+    {
+      "question": "¿Qué porcentaje de directores en Argentina y Chile indicó que se le añadieron más responsabilidades, nuevas funciones y tareas de supervisión sanitaria en la pandemia?",
+      "options": [
+        "El 100% de los directores de Argentina y Chile (y 97% en España)",
+        "El 20% en Argentina",
+        "El 0% en los tres países",
+        "El 50% en España"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 78-79, LIDEI 2022",
+      "explicacion": "El 100% en Argentina y Chile y 97% en España señalaron la adición de nuevas funciones y tareas sanitarias."
+    },
+    {
+      "question": "En Argentina, ¿cuál fue la demanda PRINCIPAL solicitada por el 92% de los directores para desarrollar un liderazgo pedagógico, inclusivo y distribuido?",
+      "options": [
+        "Un programa de formación pedagógica y de liderazgo educativo",
+        "Un aumento del 300% del sueldo sin evaluación",
+        "La militarización de la disciplina escolar",
+        "La reducción de las vacaciones de los estudiantes"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 80-81, LIDEI 2022",
+      "explicacion": "El 92% en Argentina demandó prioritariamente un programa de formación pedagógica y de liderazgo."
+    },
+    {
+      "question": "En Chile, ¿cuáles fueron las tres demandas principales que empataron con el 67% de preferencia entre los directores?",
+      "options": [
+        "Un programa de formación pedagógica/liderazgo; autonomía en la gestión de RRHH; y tiempos/espacios para el trabajo colaborativo",
+        "Compra de vehículos; viajes al exterior; y supresión de exámenes",
+        "Aumento de inspectores; uniformes obligatorios; y cierres de locales",
+        "Privatización; cobro de aranceles; y eliminación de la gratuidad"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 80-81, LIDEI 2022",
+      "explicacion": "En Chile empataron con 67%: formación en liderazgo, autonomía en RRHH y tiempos/espacios de trabajo colaborativo."
+    },
+    {
+      "question": "En España, ¿cuál fue la demanda MÁS VOTADA (83%) por los directores para favorecer su liderazgo?",
+      "options": [
+        "Autonomía del director o directora en la gestión de los recursos humanos de los centros",
+        "Aumento del tiempo dedicado a burocracia administrativa",
+        "Eliminación del Consejo Escolar",
+        "Centralización total de la selección de textos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 80-81, LIDEI 2022",
+      "explicacion": "La principal demanda en España fue mayor autonomía en la gestión de recursos humanos (83%)."
+    },
+    {
+      "question": "A pesar de todos los obstáculos, demandas no reconocidas y sobrecarga en pandemia, ¿qué porcentaje de directores en Chile, Argentina y España afirmó que VOLVERÍA A SER DIRECTOR/A?",
+      "options": [
+        "100% en Chile, 92% en Argentina y 81% en España",
+        "0% en todos los países",
+        "10% en Chile y 90% en España",
+        "50% en los tres países"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 82, LIDEI 2022",
+      "explicacion": "Destaca la alta motivación vocacional: 100% en Chile, 92% en Argentina y 81% en España volverían a ser directores."
+    },
+    {
+      "question": "En Argentina, ¿por qué solo el 8% de los directores considera que existe un 'complemento salarial asociado al cargo'?",
+      "options": [
+        "Porque en Argentina el director es una categoría salarial propia con su sueldo establecido, no un mero complemento al salario de profesor",
+        "Porque los directores en Argentina trabajan de forma 100% ad honorem sin sueldo",
+        "Porque la ley prohíbe pagar a los directores de escuelas públicas",
+        "Porque el sueldo es pagado mediante vales de alimentación únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 70-71, LIDEI 2022",
+      "explicacion": "En Argentina la dirección es una categoría propia con parámetros aparte del profesor, no un complemento."
+    },
+    {
+      "question": "Respecto a la remuneración económica asociada a una valoración POSITIVA del desempeño, ¿qué porcentaje de directores en Chile afirmó que existía?",
+      "options": [
+        "El 40% de los directores en Chile (frente al 9% en España y 0% en Argentina)",
+        "El 100% en Argentina",
+        "El 90% en España",
+        "El 0% en todos los países"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 71, LIDEI 2022",
+      "explicacion": "En Chile el 40% afirma la existencia de remuneración ligada al desempeño, frente al 9% en España y 0% en Argentina."
+    },
+    {
+      "question": "En España, ¿por qué el 78% de los directores estimó que se le abrían más posibilidades para acceder a puestos de inspección o supervisión educativa?",
+      "options": [
+        "Porque la legislación establece un concurso-oposición donde los años de experiencia como director tienen un baremo de puntos superior a los de profesor",
+        "Porque los directores son nombrados inspectores de forma automática al cumplir 50 años",
+        "Porque la inspección es un cargo hereditario entre familias de directores",
+        "Porque se requiere firma del Ministerio para exonerar el examen"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 72-73, LIDEI 2022",
+      "explicacion": "En España el baremo del concurso-oposición para inspección valora más los años como director que como profesor."
+    },
+    {
+      "question": "¿Qué porcentaje de directores en Chile afirmó haber sido consultado sobre sus propuestas formativas por parte de la Administración?",
+      "options": [
+        "El 57% de los directores en Chile (frente al 38% en Argentina y 25% en España)",
+        "El 0% en Chile",
+        "El 100% en España",
+        "El 90% en Argentina"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 72-73, LIDEI 2022",
+      "explicacion": "El 57% en Chile declara haber sido consultado sobre ofertas de formación, frente al 38% en Argentina y 25% en España."
+    },
+    {
+      "question": "En cuanto a incentivos NO salariales (acceso prioritario a formación o proyectos de investigación), ¿qué porcentaje de directores afirmó su existencia en Chile y Argentina/España?",
+      "options": [
+        "64% en Chile, 44% en Argentina y 44% en España",
+        "0% en los tres países",
+        "100% en España y 0% en Chile",
+        "90% en Argentina"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 72-73, LIDEI 2022",
+      "explicacion": "El 64% en Chile y 44% en Argentina y España corroboraron la existencia de incentivos no salariales."
+    },
+    {
+      "question": "En el Capítulo 4 (Análisis Sintético y Prospectiva), ¿cuál es la dimensión emergente que se añade con fuerza al modelo de liderazgo pedagógico, inclusivo y distribuido tras la experiencia de la pandemia?",
+      "options": [
+        "El liderazgo contextualizado",
+        "El liderazgo represivo",
+        "El liderazgo corporativo bursátil",
+        "El liderazgo militarizado"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 93, LIDEI 2022",
+      "explicacion": "La pandemia evidenció la necesidad de añadir con fuerza la dimensión del 'liderazgo contextualizado'."
+    },
+    {
+      "question": "En el resumen de resultados del estudio sobre la normativa (OEI-INEE, 2019) presentado en el Capítulo 4, ¿cuál fue la coincidencia unánime de los países sobre la cuantificación del tiempo?",
+      "options": [
+        "Coinciden en que la normativa NO cuantifica el tiempo de trabajo dedicado a gestión administrativa, liderazgo, interacción comunitaria ni convivencia",
+        "Coinciden en que la ley especifica el tiempo en minutos para cada reunión pedagógica",
+        "Coinciden en dedicar el 90% del tiempo a la docencia directa obligatoria",
+        "Coinciden en fiscalizar con reloj biométrico ministerial cada tarea"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 87, LIDEI 2022",
+      "explicacion": "Todos coinciden en que la norma básica no cuantifica la distribución horaria por tareas directivas."
+    },
+    {
+      "question": "En las reflexiones del Capítulo 4, ¿por qué los desajustes entre la normativa vigente y los rasgos del modelo de liderazgo son considerados 'esperables'?",
+      "options": [
+        "Porque el modelo de liderazgo pedagógico, inclusivo y distribuido constituye un horizonte de trabajo ambicioso para la inmensa mayoría de Administraciones educativas",
+        "Porque las leyes fueron redactadas con la intención de perjudicar a las escuelas públicas",
+        "Porque los directores se niegan a cumplir las leyes aprobadas",
+        "Porque los países carecen de constitución escrita"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 86 y 95, LIDEI 2022",
+      "explicacion": "Se explican como esperables dado que el modelo es un horizonte de trabajo ambicioso en desarrollo."
+    },
+    {
+      "question": "En la síntesis de divergencias entre la Administración y los directores en el Capítulo 4, ¿qué ejemplo ilustra la discrepancia sobre la participación comunitaria?",
+      "options": [
+        "En un país la Administración valoró en 1 sobre 6 la promoción normativa de la participación, mientras que el 85% de sus directores afirmó que la norma sí se lo permite",
+        "La Administración sostiene que los padres deben votar el sueldo del director",
+        "Los directores afirman que está prohibido hablar con los alumnos",
+        "La Administración exige que las familias dicten las clases de secundaria"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 94-95, LIDEI 2022",
+      "explicacion": "Refleja que la Administración valoraba en 1/6 la norma mientras el 85% de directores sentía tener esa posibilidad."
+    },
+    {
+      "question": "En la prospectiva del Capítulo 4, ¿cuál es la recomendación respecto a la profesionalización de la función directiva?",
+      "options": [
+        "Debe apoyarse en una mejor definición del perfil de competencias del puesto, con incentivos profesionales y salariales, y perspectiva de desarrollo profesional",
+        "Debe eliminarse la dirección escolar y reemplazarse por algoritmos informáticos",
+        "Debe privatizarse la selección mediante subastas al mejor postor",
+        "Debe suprimirse todo tipo de evaluación de desempeño"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 94 y 96, LIDEI 2022",
+      "explicacion": "Recomienda apoyar la profesionalización en perfiles de competencia claros, incentivos y perspectivas de desarrollo."
+    },
+    {
+      "question": "En las demandas finales recopiladas en el Capítulo 4, ¿por qué la autonomía en la gestión de recursos humanos es considerada una 'clave esencial' por los directores?",
+      "options": [
+        "Porque permite promocionar a los mejores profesores, crear plantillas estables y alinear comunidades docentes en un proyecto de futuro sin depender de la rotación anual",
+        "Porque permite despedir profesores sin causa justificada ni indemnización",
+        "Porque permite contratar familiares sin título pedagógico",
+        "Porque elimina la necesidad de contar con un proyecto educativo de centro"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 81 y 95, LIDEI 2022",
+      "explicacion": "Es clave para crear plantillas estables y alinear al equipo docente en un proyecto de futuro a largo plazo."
+    },
+    {
+      "question": "En la conclusión ética y política final del estudio LIDEI 2022, ¿cuál es el mensaje dirigido a las Administraciones educativas iberoamericanas?",
+      "options": [
+        "Es necesario valorar y acompañar el trabajo de los directores, ofrecerles confianza, escuchar sus demandas y reconocer su contribución al desarrollo educativo",
+        "Es necesario reducir el presupuesto escolar e incrementar las tareas burocráticas",
+        "Es conveniente reemplazar a los directores cada 6 meses de forma aleatoria",
+        "Se debe sancionar penalmente a las escuelas que atiendan a alumnos desfavorecidos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 82 y 96, LIDEI 2022",
+      "explicacion": "Concluye instando a valorar, acompañar y depositar confianza en los directores cubriendo sus necesidades para un liderazgo de calidad."
+    },
+    {
+      "question": "Según la aclaración metodológica del Anexo (Cuestionario del Director), cuando en el instrumento se emplean términos en genérico como 'alumno, profesor, director, tutor, padres', ¿cómo deben entenderse?",
+      "options": [
+        "Deben entenderse en sentido genérico incluyendo explícitamente a alumnas/alumnos, profesoras/profesores, directoras/directores, tutoras/tutores, madres/padres",
+        "Se refieren exclusivamente a hombres adultos varones",
+        "Son conceptos jurídicos que excluyen a las familias",
+        "Son nombres de fantasía sin validez legal"
+      ],
+      "answer": 0,
+      "fuente": "Anexo, Pág. 205, LIDEI 2022",
+      "explicacion": "El texto aclara expresamente el sentido genérico inclusivo para ambos géneros."
+    },
+    {
+      "question": "En la estructura del Anexo Cuestionario, ¿cuántos apartados o secciones componen el instrumento completo administrado a los directores?",
+      "options": [
+        "8 apartados (Información del director, del centro, Acceso/Formación, Responsabilidades/Normativa, Autonomía, Liderazgo distribuido, Emergencia COVID, y Atractivo de la función)",
+        "2 apartados exclusivamente",
+        "15 apartados contables",
+        "20 secciones sobre historia europea"
+      ],
+      "answer": 0,
+      "fuente": "Anexo, Pág. 203, LIDEI 2022",
+      "explicacion": "El cuestionario está estructurado en 8 apartados claramente diferenciados."
+    },
+    {
+      "question": "En la sección VII del Cuestionario del Anexo ('Educar en Tiempos de Emergencia'), ¿qué aspecto socioemocional se analiza tras la reapertura de los centros?",
+      "options": [
+        "La gestión del estado de ánimo y la salud mental/emocional en la comunidad educativa",
+        "El control del índice de masa corporal de los alumnos",
+        "La prueba de velocidad de carrera de 100 metros",
+        "El nivel de ingresos monetarios de los tutores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 32 y Anexo, Pág. 229, LIDEI 2022",
+      "explicacion": "Se analiza la gestión del estado de ánimo y la salud mental y emocional."
+    },
+    {
+      "question": "En la sección V del Cuestionario (Autonomía), ¿cuál de los siguientes ítems explora la capacidad de decisión sobre la oferta curricular?",
+      "options": [
+        "Definir y orientar la oferta educativa del centro y liderar modificaciones del desarrollo curricular",
+        "Fijar el precio de las pensiones escolares",
+        "Cambiar el calendario de feriados nacionales",
+        "Vender libros de texto privados"
+      ],
+      "answer": 0,
+      "fuente": "Anexo, Pág. 221-222, LIDEI 2022",
+      "explicacion": "Explora la autonomía para definir la oferta educativa y liderar modificaciones del desarrollo curricular."
+    },
+    {
+      "question": "En el apartado VI del Cuestionario (Liderazgo Distribuido), ¿qué pregunta específica se formula EXCLUSIVAMENTE a los directores de centros con MENOS de 100 estudiantes?",
+      "options": [
+        "Si trabaja con equipos directivos de zona o distrito y forma parte de órganos de coordinación que contribuyan al proyecto educativo de la zona",
+        "Si dispone de un helicóptero escolar",
+        "Si contrata a 50 vicedirectores",
+        "Si cobra entradas para las obras de teatro"
+      ],
+      "answer": 0,
+      "fuente": "Anexo, Pág. 228, LIDEI 2022",
+      "explicacion": "Pregunta por el trabajo con equipos directivos de zona o distrito y la participación en órganos de coordinación zonal."
+    },
+    {
+      "question": "En la pregunta 32 del Cuestionario del Anexo, ¿cuáles de los siguientes órganos asociativos se mencionan como participantes en la consulta y toma de decisiones?",
+      "options": [
+        "Consejo Escolar, Asociación de padres/madres, Consejo de estudiantes, Claustro de profesores, Equipo de dirección, Equipos de nivel/materia y Equipo de orientación",
+        "Junta militar, Tribunal fiscal y Cámara de comercio",
+        "Consejo de accionistas privados únicamente",
+        "Asamblea general de alcaldes comunales"
+      ],
+      "answer": 0,
+      "fuente": "Anexo, Pág. 226, LIDEI 2022",
+      "explicacion": "Enumera el Consejo Escolar, AMPAs, Consejo de estudiantes, Claustro, Equipo directivo, Equipos de nivel y de orientación."
+    },
+    {
+      "question": "En la sección VIII del Cuestionario (Atractivo de la dirección escolar), ¿cuál de los siguientes aspectos explora la profesionalización?",
+      "options": [
+        "Si el proceso de selección es objetivo, si los salarios son equiparables a puestos similares y si existe un complemento salarial asociado al cargo o al desempeño",
+        "Si se regalan automóviles a los directores al jubilarse",
+        "Si se exime al director de pagar impuestos nacionales",
+        "Si la dirección es un título nobiliario hereditario"
+      ],
+      "answer": 0,
+      "fuente": "Anexo, Pág. 234-235, LIDEI 2022",
+      "explicacion": "Explora la objetividad del proceso de selección, la equiparación salarial y los complementos por cargo o desempeño."
+    },
+    {
+      "question": "En el Cuestionario del Anexo (Pregunta 43), ¿cuántas opciones como MÁXIMO podía elegir un director al marcar los aspectos considerados necesarios para desarrollar un liderazgo pedagógico, inclusivo y distribuido?",
+      "options": [
+        "Máximo 4 opciones",
+        "Ilimitadas opciones",
+        "Solo 1 opción obligatoria",
+        "Exactamente 10 opciones"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 80 y Anexo, Pág. 235, LIDEI 2022",
+      "explicacion": "El instrumento especificaba expresamente que solo se podían elegir máximo 4 opciones."
+    },
+    {
+      "question": "Según el Capítulo 1 (Pág. 11), ¿qué autores señalan que las tecnologías digitales dirigidas a modelos de eficiencia provocan dinámicas de conectividad, dataficación y digitalización masiva de datos?",
+      "options": [
+        "Couldry y Mejías (2019)",
+        "Piaget y Vygotsky (1930)",
+        "Skinner y Watson (1950)",
+        "Freire y Illich (1970)"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 11, LIDEI 2022",
+      "explicacion": "Se cita expresamente el estudio de Couldry y Mejías (2019)."
+    },
+    {
+      "question": "Según Tian (2016), citado en el Capítulo 1, ¿cómo se denomina el modelo de liderazgo escolar basado en el concepto de poder vinculado al contexto sociocultural marcado por la diversidad?",
+      "options": [
+        "Modelo de dualidad recurso-agencia",
+        "Modelo de control autocrático",
+        "Modelo de inspección centralizada",
+        "Modelo de gestión empresarial privada"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 13, LIDEI 2022",
+      "explicacion": "Tian (2016) lo denomina modelo de dualidad recurso-agencia."
+    },
+    {
+      "question": "Según Imants y Van der Wal (2020), en el Capítulo 1, ¿qué elementos vincula el concepto de agencia en el liderazgo escolar?",
+      "options": [
+        "Vincula la acción individual por un lado, y la reforma y los resultados por el otro, en la dualidad estructura-acción",
+        "Vincula el salario del profesor con el número de faltas del alumno",
+        "Vincula el horario escolar con el tráfico vehicular urbano",
+        "Vincula las cuotas de padres con el mantenimiento del edificio"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 13, LIDEI 2022",
+      "explicacion": "Vincula la acción individual con la reforma y los resultados en la dualidad estructura-acción."
+    },
+    {
+      "question": "Según Rizvi y Lingard (2013) y Gleeson et al. (2020), citados en la Pág. 13, ¿qué significa actuar en un mundo 'glocalizado' para el liderazgo escolar?",
+      "options": [
+        "Ser una persona o grupo dispuesto y capaz de pensar globalmente y actuar localmente",
+        "Actuar exclusivamente dentro de los límites del aula escolar sin mirar la comunidad",
+        "Depender de órdenes judiciales internacionales para dictar clases",
+        "Sustituir el currículo local por un manual extranjero único"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 13, LIDEI 2022",
+      "explicacion": "Glocalizado implica ser capaz de pensar globalmente y actuar localmente."
+    },
+    {
+      "question": "Según Ferreira (2003) y Conrad (2019), en el Capítulo 1, ¿en qué marco social se entiende el modelo de liderazgo pedagógico, inclusivo y distribuido?",
+      "options": [
+        "En una sociedad más humanizada por la justicia social, cuyos supuestos se referencian con el concepto de agente de cambio y atención a la diversidad",
+        "En una economía de mercado competitivo donde sobreviven las escuelas más ricas",
+        "En un sistema de castas donde se segrega a los alumnos según su ingreso",
+        "En una administración burocrática sin participación ciudadana"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 14, LIDEI 2022",
+      "explicacion": "Se fundamenta en una sociedad más humanizada por la justicia social y atención a la diversidad."
+    },
+    {
+      "question": "Según Hargreaves y Fink (2007), citados en el Capítulo 1 (Pág. 12), ¿cuál es uno de los principios enunciados para una gestión escolar exitosa y sostenible?",
+      "options": [
+        "Crear culturas profesionales fuertes y amplias, y desarrollar una reserva de talento de liderazgo para que la sucesión no dependa excesivamente de determinadas personas",
+        "Centralizar todo el poder en el director para que nadie más tome decisiones",
+        "Rotar al personal docente cada semana para evitar la empatía con los alumnos",
+        "Eliminar los planes de formación continua para ahorrar recursos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 12, LIDEI 2022",
+      "explicacion": "Sostienen la necesidad de crear culturas profesionales fuertes y reserva de talento para la sucesión de liderazgo."
+    },
+    {
+      "question": "Según el informe de la OCDE 'Liderazgo para el Aprendizaje' (OCDE, 2013; Vaillant, 2015), ¿cómo deben resignificar los sistemas educativos el aprendizaje?",
+      "options": [
+        "A partir de un enfoque centrado en el estudiante y en los aprendizajes que ocurren tanto dentro como fuera de la escuela, con mediación de directores y docentes",
+        "Centrándose únicamente en la memorización de textos para exámenes escritos",
+        "Prohibiendo todo aprendizaje que no ocurra dentro del aula presencial",
+        "Sustituyendo al docente por guías de autoestudio impresas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 20, LIDEI 2022",
+      "explicacion": "Se propone un enfoque centrado en el estudiante y en aprendizajes dentro y fuera de la escuela."
+    },
+    {
+      "question": "En el Marco para la Buena Dirección de Chile (MINEDUC, 2015), ¿a qué remite el concepto de 'conocimientos profesionales' de los directivos?",
+      "options": [
+        "Al conjunto de saberes y conocimientos adquiridos en procesos formales de educación y complementados por la experiencia profesional",
+        "Al conocimiento exclusivo del Código Penal y Leyes de Trabajo",
+        "A la memorización de las planillas de sueldos del ministerio",
+        "A la posesión de un título técnico en contabilidad comercial"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 22, LIDEI 2022",
+      "explicacion": "Remite al conjunto de saberes formales complementados por la experiencia profesional."
+    },
+    {
+      "question": "En la legislación de España (Ley Orgánica 5/1980 y Ley Orgánica 3/2020 LOMLOE), ¿cuál fue el espíritu constitucional expresado para la autonomía escolar?",
+      "options": [
+        "La autonomía escolar era una forma de realizar la participación democrática, donde todas las partes de la comunidad educativa debían estar representadas en la toma de decisiones",
+        "La autonomía era la facultad de cobrar colegiaturas en escuelas públicas",
+        "La autonomía significaba la desvinculación total del sistema nacional de salud",
+        "La autonomía prohibía la inspección de las autoridades estatales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 25, LIDEI 2022",
+      "explicacion": "La autonomía se concibe como realización de la participación democrática representada en el centro."
+    },
+    {
+      "question": "Según Berkovich y Benoliel (2020), citados en el Capítulo 2, los modelos de liderazgo escolar abarcan aspectos de origen político y moral. ¿Qué implican los aspectos morales?",
+      "options": [
+        "Centrar la gestión y el trabajo escolar en valores definidos y consensuados, considerando decisiones tomadas en situaciones de emergencia o crisis",
+        "Imponer la religión oficial de forma obligatoria a todos los alumnos",
+        "Sancionar con expulsión a quienes opinen diferente al director",
+        "Fiscalizar las creencias privadas del personal docente"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 20, LIDEI 2022",
+      "explicacion": "Implican centrar el trabajo escolar en valores consensuados y ética en situaciones de emergencia."
+    },
+    {
+      "question": "En Portugal, según Barroso (2013) y Abrantes et al. (2018), ¿cómo se entiende el liderazgo escolar en relación con la evaluación externa?",
+      "options": [
+        "El liderazgo escolar no es solo una realidad normativa o contextual, sino también una práctica evaluada formalmente dentro del dominio Liderazgo y Gestión",
+        "El liderazgo está exento de cualquier tipo de evaluación pública",
+        "La evaluación externa se limita a revisar la pintura de las paredes",
+        "El liderazgo solo es evaluado por encuestas telefónicas informales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 23, LIDEI 2022",
+      "explicacion": "El liderazgo es una práctica evaluada dentro de un dominio específico de la evaluación externa de escuelas."
+    },
+    {
+      "question": "En el pilotaje del estudio LIDEI 2022, ¿de qué provincia de Argentina procedían específicamente varios de los directores participantes?",
+      "options": [
+        "De la provincia de Neuquén",
+        "De la provincia de Tierra del Fuego",
+        "De la provincia de Jujuy exclusivamente",
+        "De las Islas Malvinas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 33, LIDEI 2022",
+      "explicacion": "En Argentina participaron directores de la provincia de Neuquén entre otros."
+    },
+    {
+      "question": "En Chile, ¿de qué provincias procedían voluntariamente los directores que rellenaron la encuesta piloto LIDEI 2022?",
+      "options": [
+        "De Quillota-Petorca, San Antonio, San Felipe-Los Andes y Valparaíso-Isla de Pascua",
+        "De Antofagasta y Atacama exclusivamente",
+        "De Santiago Centro únicamente",
+        "De Magallanes y de la Antártica Chilena"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 33, LIDEI 2022",
+      "explicacion": "Procedían de Quillota-Petorca, San Antonio, San Felipe-Los Andes y Valparaíso-Isla de Pascua."
+    },
+    {
+      "question": "En España, ¿cuáles comunidades autónomas enviaron datos de sus directores para participar en el estudio piloto a través del Grupo de Trabajo de Evaluación Educativa en julio de 2021?",
+      "options": [
+        "Aragón, Cantabria, Castilla y León, Castilla-La Mancha, Cataluña y Navarra",
+        "Andalucía y Madrid únicamente",
+        "Galicia y Canarias exclusivamente",
+        "Baleares y La Rioja"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 33, LIDEI 2022",
+      "explicacion": "Enviaron datos: Aragón, Cantabria, Castilla y León, Castilla-La Mancha, Cataluña y Navarra."
+    },
+    {
+      "question": "Según los datos del Anuario 2019 del Ministerio de Educación de Argentina citados en el informe, ¿qué porcentaje de los estudiantes está matriculado en centros públicos?",
+      "options": [
+        "El 81% de los estudiantes (respecto al 18% restante en centros privados)",
+        "El 10% en públicos y 90% en privados",
+        "El 50% en públicos y 50% en privados",
+        "El 100% en públicos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 37, LIDEI 2022",
+      "explicacion": "El 81% estudia en centros públicos y el 18% en privados en Argentina."
+    },
+    {
+      "question": "En Chile, según datos oficiales citados en el estudio, ¿cómo se distribuye la oferta educativa del sistema escolar nacional?",
+      "options": [
+        "54% particular subvencionada, 9% particular pagada y 36% sector público",
+        "100% pública municipal",
+        "90% estatal y 10% comunitaria",
+        "50% religiosa y 50% militar"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 37, LIDEI 2022",
+      "explicacion": "La oferta real en Chile es 54% particular subvencionada, 9% particular pagada y 36% pública."
+    },
+    {
+      "question": "Según el censo de 2017 citado para Chile en el informe, ¿qué porcentaje de la población total habita en áreas urbanas y rurales?",
+      "options": [
+        "87,8% en áreas urbanas y 12,2% en zonas rurales",
+        "50% urbana y 50% rural",
+        "10% urbana y 90% rural",
+        "100% urbana"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 37, LIDEI 2022",
+      "explicacion": "El censo 2017 refleja 87,8% urbano y 12,2% rural."
+    },
+    {
+      "question": "En España, ¿cuántos Centros Rurales Agrupados (CRA) existían en el curso 2018-2019 y qué porcentaje del total de centros representaban?",
+      "options": [
+        "Exisían 718 CRA, representando el 2,5% del total de centros educativos",
+        "Existían 10.000 CRA representando el 50%",
+        "Existían 5 CRA representando el 0,01%",
+        "No existía ningún centro rural"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 37, LIDEI 2022",
+      "explicacion": "Existían 718 CRA representando el 2,5% del total de centros en España."
+    },
+    {
+      "question": "En el análisis de la muestra de Argentina por tamaño de centro, ¿qué porcentaje de directores pertenecía a centros pequeños de menos de 100 alumnos y grandes de más de 1.000?",
+      "options": [
+        "19% a centros pequeños de menos de 100 alumnos y 8% a centros de más de 1.000 alumnos",
+        "80% a centros pequeños y 0% a grandes",
+        "0% a pequeños y 90% a grandes",
+        "50% a pequeños y 50% a grandes"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 38, LIDEI 2022",
+      "explicacion": "En Argentina el 19% pertenecía a centros <100 alumnos y 8% a centros >1.000 alumnos."
+    },
+    {
+      "question": "En Chile, ¿qué porcentaje de directores pertenecía a centros grandes de más de 2.000 estudiantes en la muestra del piloto?",
+      "options": [
+        "El 13% de los directores",
+        "El 90% de los directores",
+        "El 0% de los directores",
+        "El 50% de los directores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 38, LIDEI 2022",
+      "explicacion": "En Chile un 13% pertenecía a centros grandes de más de 2.000 alumnos."
+    },
+    {
+      "question": "Respecto al salario relativo del profesorado de secundaria (Education at a Glance 2021), ¿cuál era la relación entre el salario real docente y los ingresos de trabajadores con educación terciaria en Chile?",
+      "options": [
+        "0,99 para mujeres y 0,68 para hombres",
+        "2,50 para mujeres y 3,00 para hombres",
+        "1,50 en ambos casos",
+        "0,10 para mujeres y 0,10 para hombres"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 44, LIDEI 2022",
+      "explicacion": "El gráfico 11.3 muestra 0,99 para mujeres y 0,68 para hombres en Chile."
+    },
+    {
+      "question": "Al analizar la autonomía para definir el contenido de la documentación que regula la convivencia escolar, ¿qué porcentaje de directores en España declaró tener entre bastante y mucha autonomía?",
+      "options": [
+        "El 75% de los directores (73% en Chile y 54% en Argentina)",
+        "El 10% en España",
+        "El 0% en los tres países",
+        "El 100% en Argentina"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 64, LIDEI 2022",
+      "explicacion": "En España el 75% siente autonomía para adaptar la documentación de convivencia."
+    },
+    {
+      "question": "En la Dimensión 3 (Liderazgo distribuido), ¿qué porcentaje de directores en Chile afirmó tener en cuenta las opiniones de los órganos de participación al decidir medidas para el proyecto educativo?",
+      "options": [
+        "El 100% de los directores (97% en España y 91% en Argentina)",
+        "El 10% en Chile",
+        "El 50% en los tres países",
+        "El 0% en España"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 69, LIDEI 2022",
+      "explicacion": "El 100% de chilenos, 97% de españoles y 91% de argentinos afirmaron tener en cuenta a los órganos de participación."
+    },
+    {
+      "question": "¿Qué porcentaje de directores en los tres países declaró propiciar espacios de diálogo para que los órganos asociativos participen en el proyecto educativo?",
+      "options": [
+        "91% en Argentina, 100% en Chile y 94% en España",
+        "10% en todos los países",
+        "0% en Chile y 100% en Argentina",
+        "50% en España"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 69-70, LIDEI 2022",
+      "explicacion": "El 91% en Argentina, 100% en Chile y 94% en España afirman poner en práctica estos espacios."
+    },
+    {
+      "question": "En la sección 'Educar en Tiempos de Emergencia', ¿qué porcentaje de directores en España observó que las familias tomaron un papel MÁS ACTIVO en la actividad escolar durante la pandemia?",
+      "options": [
+        "El 72% de los directores (53% en Chile y 48% en Argentina)",
+        "El 5% en España",
+        "El 100% en Argentina y 0% en Chile",
+        "El 0% en todos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 74-75, LIDEI 2022",
+      "explicacion": "En España el 72% percibió un papel más activo de las familias, frente al 53% en Chile y 48% en Argentina."
+    },
+    {
+      "question": "¿Qué programa específico se menciona en el informe como creado en España para la recuperación de los aprendizajes tras la pandemia?",
+      "options": [
+        "El programa PROA+",
+        "El plan FONDOS COVID",
+        "El subsidio VOUCHER EDUCATIVO",
+        "El programa ESCUELA ABIERTA"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 76, LIDEI 2022",
+      "explicacion": "Se menciona expresamente el programa PROA+ implementado en España."
+    },
+    {
+      "question": "Respecto a la comunicación entre familias y la dirección/profesorado durante la pandemia, ¿cuál fue la constatación del estudio?",
+      "options": [
+        "Para alrededor de la mitad de los directores de los tres países mejoró la comunicación de las familias con el profesorado y la dirección",
+        "La comunicación se interrumpió de forma absoluta en el 100% de los casos",
+        "Las familias demandaron penalmente a todos los directores",
+        "No hubo ningún cambio en la comunicación"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 77, LIDEI 2022",
+      "explicacion": "Se destaca como aspecto positivo que para cerca de la mitad mejoró la comunicación familia-escuela."
+    },
+    {
+      "question": "¿Qué porcentaje de directores en Argentina (96%), España (97%) y Chile (80%) afirmó que la dirección priorizó la atención al alumnado desfavorecido con medidas de inclusión en pandemia?",
+      "options": [
+        "Priorizó la atención al alumnado desfavorecido propiciando medidas de inclusión",
+        "Priorizó el cobro de morosidades de pensiones",
+        "Suspendió el apoyo a los alumnos con necesidades especiales",
+        "Expulsó a los alumnos sin conexión a internet"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 78, LIDEI 2022",
+      "explicacion": "La inmensa mayoría priorizó la atención e inclusión de los alumnos más desfavorecidos."
+    },
+    {
+      "question": "En cuanto a la dotación de recursos informáticos por la Administración en pandemia, ¿qué medidas destacan los directores?",
+      "options": [
+        "Disposición de más ordenadores para el alumnado en la mayoría de centros y mejora de las plataformas educativas virtuales",
+        "Venta obligatoria de computadoras a las familias",
+        "Prohibición del uso de computadoras en primaria",
+        "Cierre de las plataformas informáticas estatales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 78, LIDEI 2022",
+      "explicacion": "Se destaca la disposición de más ordenadores y mejora de plataformas virtuales."
+    },
+    {
+      "question": "En España, ¿qué porcentaje de centros dispuso de partidas económicas extraordinarias y mejoras de instalaciones durante la emergencia sanitaria?",
+      "options": [
+        "Partidas económicas en el 50% de los centros y mejora de instalaciones en el 31%",
+        "100% de centros con nuevas instalaciones",
+        "0% de presupuesto en todos los centros",
+        "Partidas económicas sólo para escuelas privadas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 78, LIDEI 2022",
+      "explicacion": "Se dispusieron partidas económicas en el 50% de centros y mejoras edilicias en el 31% en España."
+    },
+    {
+      "question": "En la pregunta sobre demandas del Capítulo 3, ¿qué porcentaje de directores en Argentina (65%), Chile (67%) y España (50%) solicitó 'tiempos y espacios que propicien el trabajo colaborativo'?",
+      "options": [
+        "Formó parte de las principales demandas en los tres países para hacer posible el liderazgo distribuido",
+        "Fue la demanda menos votada con 0%",
+        "Fue rechazada por considerarse una pérdida de tiempo",
+        "Solo fue solicitada por centros privados"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 80-81, LIDEI 2022",
+      "explicacion": "Fue una demanda central y común en los tres países para el trabajo colaborativo."
+    },
+    {
+      "question": "En las conclusiones del Capítulo 4, ¿qué se señala sobre la relación entre el tamaño de centro y el incentivo normativo del liderazgo distribuido (OEI-INEE, 2019)?",
+      "options": [
+        "La normativa incentiva en mayor medida actuaciones de liderazgo distribuido en los centros grandes (>100 alumnos) que en los centros pequeños (<100 alumnos)",
+        "La normativa prohíbe el liderazgo distribuido en escuelas grandes",
+        "Los centros pequeños tienen 10 veces más órganos de coordinación que los grandes",
+        "No existe diferencia alguna según el tamaño de centro"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 86, LIDEI 2022",
+      "explicacion": "Las normas prevén más figuras de liderazgo distribuido y órganos de coordinación en centros grandes que en pequeños."
+    },
+    {
+      "question": "¿Cuál es la valoración que la mayoría de Administraciones educativas realiza en el estudio OEI-INEE (2019) sobre el grado de ajuste de su normativa al modelo de liderazgo pedagógico?",
+      "options": [
+        "Realizan una valoración 'intermedia', lo que deja un importante margen para la mejora en políticas públicas",
+        "Valoran su normativa con un 100% perfecto e insuperable",
+        "Declaran que su normativa abomina del liderazgo pedagógico",
+        "Afirman no tener ninguna normativa sobre educación"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 86 y 94, LIDEI 2022",
+      "explicacion": "La valoración mayoritaria de la normativa es 'intermedia', lo que deja un amplio margen para la mejora."
+    },
+    {
+      "question": "En la propuesta de prospectiva del Capítulo 4, ¿por qué es necesario afinar la herramienta de recogida de información en futuros estudios?",
+      "options": [
+        "Para aumentar su fiabilidad, garantizar la claridad de los indicadores y resolver algunas divergencias detectadas entre las respuestas de Administraciones y directores",
+        "Para eliminar la participación de los directores en las encuestas",
+        "Para sustituir los cuestionarios por entrevistas secretas",
+        "Para publicar el informe exclusivamente en idioma inglés"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 95, LIDEI 2022",
+      "explicacion": "Aconseja afinar la herramienta para aumentar fiabilidad y resolver divergencias de apreciación."
+    },
+    {
+      "question": "En la conclusión final y síntesis de todo el informe LIDEI 2022, ¿cuál es la convicción principal expresada respecto a los directores y directoras escolares de Iberoamérica?",
+      "options": [
+        "Son líderes motivados para incorporar a la comunidad en un proyecto común, cuyo trabajo requiere ser valorado, acompañado y respaldado con confianza y recursos por las Administraciones",
+        "Son funcionarios pasivos que rechazan la innovación pedagógica",
+        "Son administradores que prefieren la burocracia antes que el acompañamiento emocional",
+        "Son empleados eventuales que deben ser reemplazados anualmente"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 82 y Capítulo 4, Pág. 96, LIDEI 2022",
+      "explicacion": "Concluye reafirmando que los directores son líderes motivados que necesitan valoración, acompañamiento y confianza de las Administraciones."
+    }
+  ]
+}

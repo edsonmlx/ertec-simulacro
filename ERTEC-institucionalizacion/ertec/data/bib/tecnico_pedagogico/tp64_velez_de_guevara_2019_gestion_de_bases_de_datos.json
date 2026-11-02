@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp64_velez_de_guevara_2019_gestion_de_bases_de_datos",
+    "nombre": "Gestión de bases de datos",
+    "detalle": "Vélez de Guevara, L. (2019). Departamento de Informática",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Téc. Sistemas y Soporte"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

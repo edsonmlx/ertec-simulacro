@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp69_ley_1493_2022_presupuesto_general_del_estado",
+    "nombre": "Ley N° 1493 Ley del Presupuesto General del Estado",
+    "detalle": "17 de diciembre de 2022",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Téc. Cajero"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

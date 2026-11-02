@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp37_rs_222957_2005_normas_basicas_contabilidad_integrada",
+    "nombre": "Resolución Suprema N° 222957 Normas Básicas del Sistema de Contabilidad Integrada",
+    "detalle": "4 de marzo de 2005",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Dir. Administrativo Financiero ESFM"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

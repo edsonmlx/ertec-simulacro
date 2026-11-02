@@ -1,0 +1,26 @@
+{
+  "bibliografia": {
+    "id": "tp36_ds_0181_2009_normas_basicas_sistema_bienes_y_servicios",
+    "nombre": "Decreto Supremo N° 0181 Normas Básicas del Sistema de Administración de Bienes y Servicios",
+    "detalle": "28 de junio de 2009",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Dir. Administrativo Financiero ESFM",
+      "Téc. Presupuesto y Contabilidad",
+      "Téc. Bienes y Servicios"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

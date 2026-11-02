@@ -1,0 +1,26 @@
+{
+  "bibliografia": {
+    "id": "ne43_rm_0037_2024_aranceles_ifa",
+    "nombre": "R.M. N° 0037/2024 Reglamento específico del régimen de aranceles para Instituciones de Formación Artística",
+    "detalle": "2024",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Rector Formación Artística",
+      "Director Académico Artístico",
+      "Director Administrativo Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

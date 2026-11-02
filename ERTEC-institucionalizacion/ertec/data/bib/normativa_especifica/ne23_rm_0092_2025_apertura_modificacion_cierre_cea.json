@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "ne23_rm_0092_2025_apertura_modificacion_cierre_cea",
+    "nombre": "R.M. N° 0092/2025 Reglamento de Apertura, Modificación y Cierre de Centros de Educación Alternativa, Centros de Educación Permanente No Escolarizada y Centros de Educación Alternativa Integrados",
+    "detalle": "Febrero de 2025",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Alt. y Especial",
+      "Director de CEA"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

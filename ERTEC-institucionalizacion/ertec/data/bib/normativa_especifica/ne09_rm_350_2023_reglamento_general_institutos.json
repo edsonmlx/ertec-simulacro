@@ -1,0 +1,28 @@
+{
+  "bibliografia": {
+    "id": "ne09_rm_350_2023_reglamento_general_institutos",
+    "nombre": "R.M. N° 350/2023 Reglamento General de Institutos Técnicos y Tecnológicos de Carácter Fiscal, de Convenio y Privado",
+    "detalle": "16 de mayo de 2023",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Educ. Superior",
+      "Rector ITT",
+      "Director Académico ITT",
+      "Director Administrativo ITT"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

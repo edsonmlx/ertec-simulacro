@@ -1,0 +1,26 @@
+{
+  "bibliografia": {
+    "id": "ne45_rm_0031_2024_evaluacion_formacion_superior_artistica",
+    "nombre": "R.M. N° 0031/2024 Reglamento del Sistema de Evaluación del Desarrollo Curricular de la Formación Superior Artística",
+    "detalle": "2024",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Rector Formación Artística",
+      "Director Académico Artístico",
+      "Director Administrativo Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

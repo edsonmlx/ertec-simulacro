@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "ne25_rm_0718_2025_maestros_itinerantes_multigrado",
+    "nombre": "R.M. N° 0718/2025 Reglamento para la Implementación de Maestros Itinerantes en Atención Multigrado (Primaria y Secundaria de Personas Jóvenes y Adultas)",
+    "detalle": "10 de octubre de 2025",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Alt. y Especial",
+      "Director de CEA"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

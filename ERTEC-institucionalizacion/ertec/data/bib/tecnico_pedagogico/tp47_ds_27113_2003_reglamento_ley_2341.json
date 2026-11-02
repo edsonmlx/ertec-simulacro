@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp47_ds_27113_2003_reglamento_ley_2341",
+    "nombre": "Decreto Supremo N° 27113 Reglamento a la Ley N° 2341 de Procedimiento Administrativo",
+    "detalle": "23 de julio de 2003",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Asesor Legal"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

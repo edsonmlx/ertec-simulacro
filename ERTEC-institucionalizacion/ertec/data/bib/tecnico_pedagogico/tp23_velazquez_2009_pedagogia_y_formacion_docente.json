@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp23_velazquez_2009_pedagogia_y_formacion_docente",
+    "nombre": "Pedagogía y formación docente",
+    "detalle": "Velázquez de Bustamante, M. E., Díaz Mendoza, F. y de León Cruz, A. (2009). CECC/SICA",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director Académico ESFM"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

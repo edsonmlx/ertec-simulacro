@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp55_rm_789_2023_reglamento_interno_archivo_gestion_documental",
+    "nombre": "R.M. N° 789 Reglamento Interno de Archivo y Gestión Documental",
+    "detalle": "15 de septiembre de 2023",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Téc. Sistemas y Kárdex"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

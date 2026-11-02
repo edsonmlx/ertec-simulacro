@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp22_amadio_opertti_tedesco_2015_curriculo_horizonte_2030",
+    "nombre": "El currículo en los debates y en las reformas educativas al horizonte 2030: Para una agenda curricular del siglo XXI",
+    "detalle": "Amadio, M., Opertti, R. y Tedesco, J. C. (2015). UNESCO-IBE",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director Académico ESFM"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

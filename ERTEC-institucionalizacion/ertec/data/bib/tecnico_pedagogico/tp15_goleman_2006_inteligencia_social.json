@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "tp15_goleman_2006_inteligencia_social",
+    "nombre": "Inteligencia Social: La nueva ciencia de las relaciones humanas",
+    "detalle": "Goleman, D. (2006)",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director Administrativo ITT",
+      "Director Administrativo Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "tp40_rm_0289_2026_re_sci_contabilidad_integrada",
+    "nombre": "R.M. N° 0289 Reglamento Específico del Sistema de Contabilidad Integrada (RE-SCI) del Ministerio de Educación",
+    "detalle": "6 de julio de 2026",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Dir. Administrativo Financiero ESFM",
+      "Téc. Presupuesto y Contabilidad"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp57_ds_1233_2012_declaracion_jurada_bienes_y_rentas",
+    "nombre": "Decreto Supremo N° 1233 Declaración Jurada de Bienes y Rentas",
+    "detalle": "16 de mayo de 2012",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Téc. Bienes y Servicios"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

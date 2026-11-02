@@ -1,0 +1,28 @@
+{
+  "bibliografia": {
+    "id": "ne10_rm_1027_2023_reglamento_general_cca_ifa",
+    "nombre": "R.M. N° 1027/2023 Reglamento General de Centros de Capacitación Artística e Institutos de Formación Artística",
+    "detalle": "13 de noviembre de 2023",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Educ. Superior",
+      "Rector Formación Artística",
+      "Director Académico Artístico",
+      "Director Administrativo Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

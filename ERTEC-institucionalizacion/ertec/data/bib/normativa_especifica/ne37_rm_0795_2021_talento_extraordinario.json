@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "ne37_rm_0795_2021_talento_extraordinario",
+    "nombre": "Reglamento del Programa de Atención Integral a Estudiantes con Talento Extraordinario (R.M. N° 0795/2021)",
+    "detalle": "8 de diciembre de 2021",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director de CEE"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

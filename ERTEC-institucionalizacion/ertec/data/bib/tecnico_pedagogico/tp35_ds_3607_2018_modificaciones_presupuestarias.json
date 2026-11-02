@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "tp35_ds_3607_2018_modificaciones_presupuestarias",
+    "nombre": "Decreto Supremo N° 3607 Reglamento de Modificaciones Presupuestarias",
+    "detalle": "27 de junio de 2018",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Dir. Administrativo Financiero ESFM",
+      "Téc. Cajero"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

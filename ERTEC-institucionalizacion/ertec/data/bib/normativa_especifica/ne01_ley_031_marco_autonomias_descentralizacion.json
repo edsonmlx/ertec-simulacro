@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "ne01_ley_031_marco_autonomias_descentralizacion",
+    "nombre": "Ley N° 031 Marco de Autonomías y Descentralización \"Andrés Ibáñez\"",
+    "detalle": "19 de julio de 2010",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director Departamental"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

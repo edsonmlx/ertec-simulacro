@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "tp13_catalano_2004_diseno_curricular_competencia_laboral",
+    "nombre": "Diseño Curricular basado en normas de competencia laboral: Conceptos y orientaciones metodológicas",
+    "detalle": "Catalano, A. M., Avolio de Cols, S. y Sladogma, M. G. (2004). BID",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director Académico ITT",
+      "Director Académico Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

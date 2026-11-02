@@ -1,0 +1,115 @@
+{
+  "bibliografia": {
+    "id": "tp45_ley_1768_codigo_penal",
+    "nombre": "Ley N° 1768 Código Penal",
+    "detalle": "10 de marzo de 1997",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Asesor Legal"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Cuál es la pena máxima por el delito de 'Violación de infante, niña, niño o adolescente' en Bolivia?",
+      "options": [
+        "15 a 20 años",
+        "20 a 25 años (hasta 30 años sin indulto con agravantes)",
+        "10 años fijos"
+      ],
+      "answer": 1,
+      "fuente": "Código Penal Boliviano"
+    },
+    {
+      "question": "¿Qué define al 'Abuso Sexual' en el Código Penal boliviano frente a la violación?",
+      "options": [
+        "Actos sexuales no constitutivos de penetración o acceso carnal",
+        "Actos que siempre implican penetración con objetos",
+        "Delitos que solo ocurren entre adultos"
+      ],
+      "answer": 0,
+      "fuente": "Código Penal Boliviano"
+    },
+    {
+      "question": "¿Qué agravante suma 5 años a la pena de violación según el Art. 310 del Código Penal?",
+      "options": [
+        "Que el autor esté encargado de la educación de la víctima",
+        "Que el hecho ocurra en un día festivo",
+        "Que el agresor no tenga antecedentes penales previos"
+      ],
+      "answer": 0,
+      "fuente": "Código Penal Boliviano"
+    },
+    {
+      "question": "¿Qué sanción penal establece el Código Penal para el 'Acoso Sexual' cometido por un servidor público?",
+      "options": [
+        "4 a 8 años fijos",
+        "Será destituido de su cargo y la pena será agravada en un tercio",
+        "10 años de presidio sin derecho a indulto"
+      ],
+      "answer": 1,
+      "fuente": "Código Penal Boliviano"
+    },
+    {
+      "question": "¿Cuál es la pena máxima por el delito de 'Estupro' (víctima 14-17 años)?",
+      "options": [
+        "3 años",
+        "6 años de privación de libertad",
+        "10 años"
+      ],
+      "answer": 1,
+      "fuente": "Código Penal Boliviano"
+    },
+    {
+      "question": "¿Qué agravante de pena existe para el delito de 'Pornografía' si la víctima es niña, niño o adolescente?",
+      "options": [
+        "Se duplica la pena base",
+        "La pena privativa de libertad se agrava en un tercio",
+        "5 años adicionales de presidio"
+      ],
+      "answer": 1,
+      "fuente": "Código Penal Boliviano"
+    },
+    {
+      "question": "¿Qué sanción tiene el delito de 'Violación' (general) según el Código Penal boliviano?",
+      "options": [
+        "5 a 10 años",
+        "15 a 20 años de privación de libertad",
+        "20 a 25 años fijos"
+      ],
+      "answer": 1,
+      "fuente": "Código Penal Boliviano"
+    },
+    {
+      "question": "¿Cuál es la sanción por el delito de 'Pornografía' si el autor vende material pornográfico?",
+      "options": [
+        "5 a 8 años",
+        "10 a 15 años de pena privativa de libertad",
+        "Multa y clausura de negocio solamente"
+      ],
+      "answer": 1,
+      "fuente": "Código Penal Boliviano"
+    },
+    {
+      "question": "¿Qué agrava la pena de violación con 5 años adicionales?",
+      "options": [
+        "Si ocurre de noche",
+        "Si el autor estuviere encargado de la educación de la víctima",
+        "Si el agresor es mayor de 40 años"
+      ],
+      "answer": 1,
+      "fuente": "Código Penal Boliviano"
+    }
+  ]
+}

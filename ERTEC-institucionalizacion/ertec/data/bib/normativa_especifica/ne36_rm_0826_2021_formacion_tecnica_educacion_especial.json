@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "ne36_rm_0826_2021_formacion_tecnica_educacion_especial",
+    "nombre": "Reglamento para la Formación Técnica Tecnológica Productiva del ámbito de Educación Especial (R.M. N° 0826/2021)",
+    "detalle": "26 de diciembre de 2021",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director de CEE"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

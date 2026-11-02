@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp42_ley_254_codigo_procesal_constitucional",
+    "nombre": "Ley N° 254 Código Procesal Constitucional",
+    "detalle": "5 de julio de 2012",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Asesor Legal"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

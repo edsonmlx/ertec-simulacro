@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "ne35_rm_0183_2024_evaluacion_procesos_formativos_epja",
+    "nombre": "R.M. N° 0183/2024 Reglamento de Evaluación de Procesos Formativos del Área de Educación de Personas Jóvenes y Adultas (EPJA)",
+    "detalle": "11 de marzo de 2024",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director de CEA"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

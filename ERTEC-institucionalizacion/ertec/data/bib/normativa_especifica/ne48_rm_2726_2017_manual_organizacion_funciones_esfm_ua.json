@@ -1,0 +1,33 @@
+{
+  "bibliografia": {
+    "id": "ne48_rm_2726_2017_manual_organizacion_funciones_esfm_ua",
+    "nombre": "R.M. N° 2726/2017 Manual de Organización de Funciones de las ESFM/UA",
+    "detalle": "20 de octubre de 2017",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Dir. Administrativo Financiero ESFM",
+      "Asesor Legal",
+      "Téc. Sistemas y Kárdex",
+      "Téc. Presupuesto y Contabilidad",
+      "Téc. Bienes y Servicios",
+      "Téc. Salud Preventiva",
+      "Téc. Sistemas y Soporte",
+      "Téc. Biblioteca",
+      "Téc. Cajero",
+      "Secretaria/o"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

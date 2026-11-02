@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "tp39_rm_0224_2026_re_soa_organizacion_administrativa",
+    "nombre": "R.M. N° 0224 Reglamento Específico del Sistema de Organización Administrativa (RE-SOA) del Ministerio de Educación",
+    "detalle": "25 de mayo de 2026",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Dir. Administrativo Financiero ESFM",
+      "Téc. Presupuesto y Contabilidad"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

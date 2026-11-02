@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp28_de_souza_minayo_2007_investigacion_social",
+    "nombre": "Investigación social: Teoría, método y creatividad",
+    "detalle": "De Souza Minayo, M. C. (Ed.) (2007). Lugar Editorial",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Coordinador IEPC-PEC"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

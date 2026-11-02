@@ -1,0 +1,55 @@
+{
+  "bibliografia": {
+    "id": "tp51_ds_1320_2012_modifica_ds_1302",
+    "nombre": "Decreto Supremo N° 1320 Modifica el Decreto Supremo N° 1302",
+    "detalle": "8 de agosto de 2012",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Asesor Legal"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Qué establece el Decreto Supremo 1320 respecto a personal imputado por violencia sexual?",
+      "options": [
+        "Será trasladado a otra unidad educativa mientras dure la investigación",
+        "Será suspendido de sus funciones sin goce de haberes mientras dure el proceso penal",
+        "Recibirá una amonestación verbal y continuará en aula bajo vigilancia"
+      ],
+      "answer": 1,
+      "fuente": "DS 1320 - Violencia Sexual"
+    },
+    {
+      "question": "¿Qué medida se aplica a un personal imputado formalmente por violencia sexual según el DS 1320 (variante 2)?",
+      "options": [
+        "Suspensión de funciones sin goce de haberes mientras dure el proceso penal",
+        "Traslado a una oficina administrativa con el mismo sueldo",
+        "Una multa de 5 días de haber"
+      ],
+      "answer": 0,
+      "fuente": "DS 1320 - Violencia Sexual"
+    },
+    {
+      "question": "¿Qué medida de seguridad establece el D.S. 1320 ante una imputación formal por delitos de agresión sexual?",
+      "options": [
+        "Cambio de unidad educativa de forma preventiva",
+        "Suspensión de funciones sin goce de haberes mientras dure el proceso penal",
+        "Amonestación escrita y supervisión constante por la dirección"
+      ],
+      "answer": 1,
+      "fuente": "DS 1320 - Violencia Sexual"
+    }
+  ]
+}

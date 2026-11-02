@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "tp20_carrasco_ruiz_2023_cultura_organizacional_docente",
+    "nombre": "Cultura organizacional y desempeño profesional docente en la educación superior",
+    "detalle": "Carrasco Ruiz, R. E., Aucca Marín, J., et al. (2023). Editorial CLAEC",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director General ESFM",
+      "Coordinador de UA"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

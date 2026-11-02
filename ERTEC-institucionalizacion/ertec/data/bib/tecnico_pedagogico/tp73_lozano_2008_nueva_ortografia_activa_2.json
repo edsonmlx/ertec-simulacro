@@ -1,0 +1,24 @@
+{
+  "bibliografia": {
+    "id": "tp73_lozano_2008_nueva_ortografia_activa_2",
+    "nombre": "Nueva ortografía activa 2",
+    "detalle": "Lozano, L. (2008). Nueva Editorial Lucero S.A.",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Secretaria/o"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

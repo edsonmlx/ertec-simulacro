@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "ne20_rm_531_2023_y_rm_1115_2023_certificacion_competencias",
+    "nombre": "R.M. N° 531/2023 y modificatoria R.M. N° 1115/2023 Reglamento para la certificación de competencias en el ámbito de Educación Alternativa",
+    "detalle": "27 de junio de 2023 · 6 de diciembre de 2023",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Alt. y Especial",
+      "Director de CEA"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}

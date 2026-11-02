@@ -1,0 +1,1829 @@
+{
+  "bibliografia": {
+    "id": "tp03_reimaginar_juntos_nuestros_futuros",
+    "nombre": "Reimaginar juntos nuestros futuros: un nuevo contrato social para la educación",
+    "detalle": "UNESCO (2022)",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Regular",
+      "Subdirector Alt. y Especial",
+      "Subdirector Educ. Superior",
+      "Director Distrital"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Quién presidió la Comisión Internacional sobre los Futuros de la Educación creada por la UNESCO en 2019?",
+      "options": [
+        "S.E. Sahle-Work Zewde, Presidenta de la República Democrática Federal de Etiopía",
+        "Audrey Azoulay, Directora General de la UNESCO",
+        "António Nóvoa, Embajador de Portugal ante la UNESCO",
+        "Stefania Giannini, Subdirectora General de Educación de la UNESCO"
+      ],
+      "answer": 0,
+      "fuente": "Prefacio, Pág. vii",
+      "explicacion": "La Comisión Internacional fue presidida por la Presidenta de Etiopía, Sahle-Work Zewde."
+    },
+    {
+      "question": "¿Cuáles son los dos informes mundiales emblemáticos precedentes que la UNESCO encargó antes del informe de 2021/2022?",
+      "options": [
+        "El Informe Faure (1972: 'Aprender a ser') y el Informe Delors (1996: 'La educación encierra un tesoro')",
+        "El Informe Jomtien (1990) y el Informe Dakar (2000)",
+        "El Informe PISA (2000) y el Informe Incheon (2015)",
+        "El Informe Coombs (1968) y el Informe Freire (1970)"
+      ],
+      "answer": 0,
+      "fuente": "Prefacio, Pág. v",
+      "explicacion": "Audrey Azoulay menciona expresamente los informes de la Comisión Faure (1972) y la Comisión Delors (1996)."
+    },
+    {
+      "question": "Según el informe, ¿cuáles son los DOS PRINCIPIOS FUNDAMENTALES sobre los que se debe erigir el nuevo contrato social para la educación?",
+      "options": [
+        "Garantizar el derecho a una educación de calidad a lo largo de toda la vida y reforzar la educación como proyecto público y bien común",
+        "Incrementar la competitividad económica individual y privatizar los servicios de formación técnica",
+        "Estandarizar las pruebas cognitivas mundiales y digitalizar de forma obligatoria todas las aulas escolares",
+        "Sustituir el rol de los Estados por corporaciones tecnológicas y descentralizar los presupuestos públicos"
+      ],
+      "answer": 0,
+      "fuente": "Resumen, Pág. 2",
+      "explicacion": "El nuevo contrato social debe regirse por: 1) Garantizar el derecho a la educación de calidad a lo largo de toda la vida, y 2) Reforzar la educación como proyecto público y bien común."
+    },
+    {
+      "question": "¿Cuáles son las TRES PREGUNTAS ESENCIALES que el informe propone formular sobre la educación de cara al horizonte 2050?",
+      "options": [
+        "¿Qué debemos seguir haciendo? ¿Qué debemos dejar de hacer? ¿Qué debemos reinventar completamente?",
+        "¿Cuánto cuesta la educación? ¿Quién debe pagarla? ¿Cómo se reduce el gasto público?",
+        "¿Qué tecnologías comprar? ¿Qué materias eliminar? ¿Cómo aumentar los exámenes estandarizados?",
+        "¿Cómo competir con la IA? ¿Cómo acortar la escolaridad? ¿Cómo evaluar a los docentes cuantitativamente?"
+      ],
+      "answer": 0,
+      "fuente": "Resumen, Pág. 2",
+      "explicacion": "El informe plantea tres preguntas vertebradoras: ¿Qué debemos seguir haciendo? ¿Qué debemos dejar de hacer? y ¿Qué debemos reinventar completamente?"
+    },
+    {
+      "question": "De acuerdo con el informe, ¿cómo se define en esencia un 'contrato social para la educación'?",
+      "options": [
+        "Como un acuerdo implícito entre los miembros de una sociedad para cooperar en pro de un beneficio común, reflejando normas, principios y compromisos que estructuran los sistemas educativos",
+        "Como un contrato laboral o mercantil vinculante firmado por los docentes y los ministerios de educación",
+        "Como una ley nacional de financiamiento exclusivo a empresas tecnológicas privadas",
+        "Como una carta de derechos de los consumidores de servicios escolares privados"
+      ],
+      "answer": 0,
+      "fuente": "Resumen, Pág. 2",
+      "explicacion": "El contrato social es un acuerdo sociocultural sobre las finalidades públicas de la educación y sus principios organizativos."
+    },
+    {
+      "question": "En el marco del informe de la UNESCO, el 'conocimiento común' (o saber común) se conceptualiza como:",
+      "options": [
+        "Los recursos de conocimiento colectivo acumulados por la humanidad a lo largo de generaciones, que son inagotables, deben ser abiertos y pertenecen a todos",
+        "Un conjunto cerrado de contenidos académicos dictados exclusivamente por las universidades occidentales",
+        "Información privada protegida por patentes comerciales no modificables por los ciudadanos",
+        "Una base de datos algorítmica propiedad de las grandes plataformas digitales globales"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 12",
+      "explicacion": "El saber común es el patrimonio colectivo inagotable de la humanidad al que todas las personas tienen derecho a acceder y contribuir."
+    },
+    {
+      "question": "¿Cuáles son los tres criterios que definen el carácter intrínsecamente 'público' de la educación según la UNESCO?",
+      "options": [
+        "Se imparte en un espacio público, promueve intereses públicos y es responsable ante todos",
+        "Es financiada al 100% por impuestos, está administrada por sindicatos y prohíbe el uso de internet",
+        "Es gratuita, no requiere evaluaciones y entrega títulos universitarios automáticos",
+        "Es estatal, obligatoria hasta la universidad y exenta de control social"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 14",
+      "explicacion": "El informe especifica que la educación es pública cuando: 1) se imparte en un espacio público, 2) promueve intereses públicos y 3) es responsable ante todos."
+    },
+    {
+      "question": "A diferencia del contrato social educativo del siglo XX, el nuevo contrato social busca:",
+      "options": [
+        "Unir a la humanidad en torno a esfuerzos colectivos para reparar las injusticias del pasado y dar forma a futuros sostenibles, pacíficos e interdependientes",
+        "Acelerar el consumo individualista y la competencia entre países por recursos naturales",
+        "Reemplazar la educación presencial por software instructivo automatizado no regulado",
+        "Eliminar las humanidades y concentrar el 100% del currículo en habilidades comerciales inmediatas"
+      ],
+      "answer": 0,
+      "fuente": "Resumen, Pág. 2",
+      "explicacion": "El nuevo contrato social supera la visión utilitarista del siglo XX enfocándose en la justicia social, económica y ecológica compartida."
+    },
+    {
+      "question": "¿En qué consiste el 'doble reto' al que se enfrenta la educación mundial en la actualidad?",
+      "options": [
+        "Cumplir la promesa de garantizar el derecho a una educación de calidad para todos y aprovechar el potencial transformador de la educación para un futuro colectivo sostenible",
+        "Reducir los sueldos docentes e incrementar la cantidad de alumnos por aula",
+        "Sustituir las escuelas físicas por plataformas privadas y cobrar matrículas universitarias",
+        "Aumentar las exportaciones industriales y recortar el presupuesto de investigación"
+      ],
+      "answer": 0,
+      "fuente": "Resumen, Pág. 1",
+      "explicacion": "El doble reto es: 1) saldar las deudas históricas de exclusión y 2) transformar la educación para asegurar la sostenibilidad del planeta."
+    },
+    {
+      "question": "El informe advierte que continuar por la trayectoria actual sin cambios profundos en la educación nos encamina hacia:",
+      "options": [
+        "Un futuro insostenible caracterizado por el deterioro climático, desigualdades extremas, erosión democrática y riesgos tecnológicos descontrolados",
+        "Un equilibrio económico perfecto mediante la autorregulación de los mercados libres",
+        "La erradicación automática de la pobreza gracias a la automatización industrial",
+        "La paz mundial garantizada por el uso masivo de redes sociales comerciales"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Págs. 8-10",
+      "explicacion": "Continuar 'como si nada pasara' conduce al precipicio ecológico, social y democrático; por ello es urgente cambiar de rumbo."
+    },
+    {
+      "question": "Según el informe, el derecho a la educación debe ampliarse de su concepción tradicional hacia:",
+      "options": [
+        "El derecho a una educación de calidad a lo largo de toda la vida, abarcando el derecho a la información, la cultura, la ciencia y la conectividad",
+        "El derecho exclusivo a recibir vales escolares para colegios privados de élite",
+        "La obligación de trabajar en la economía informal sin formación técnica",
+        "La capacitación exclusiva en habilidades digitales básicas de consumo"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 12",
+      "explicacion": "El derecho a la educación se reconceptualiza como un derecho permanente y continuo que engloba la cultura, la información y el patrimonio científico."
+    },
+    {
+      "question": "¿Qué papel asigna el informe a las generaciones jóvenes y a los niños respecto al cambio educativo y climático?",
+      "options": [
+        "Son líderes activos e interlocutores clave que reclaman acciones urgentes, transforman sus comunidades y ensayan futuros sostenibles",
+        "Son receptores pasivos que deben limitarse a escuchar y acatar las decisiones de los adultos",
+        "Son una carga económica que dificulta la eficiencia presupuestaria de los Estados",
+        "Son consumidores digitales cuya única función es generar datos para las empresas tecnológicas"
+      ],
+      "answer": 0,
+      "fuente": "Resumen, Pág. 3",
+      "explicacion": "El informe destaca el liderazgo ético de los jóvenes (ej. movimientos climáticos) y exige su participación plena en la toma de decisiones."
+    },
+    {
+      "question": "Respecto al concepto de 'bien común', el informe subraya que la educación es un bien común porque:",
+      "options": [
+        "Es una forma de bienestar compartido que se elige y se logra conjuntamente, viviendo y gobernando la educación en común",
+        "Es un servicio comercial cuya tarifa está regulada por la oferta y la demanda",
+        "Es un bien estatal que prohíbe la participación de la sociedad civil y las familias",
+        "Es una propiedad individual acumulable en un currículum vitae profesional"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 13",
+      "explicacion": "La educación como bien común se caracteriza por ser una creación colectiva que fortalece la humanidad compartida."
+    },
+    {
+      "question": "¿Qué significa la afirmación del informe de que 'la educación no se agota en la escolarización'?",
+      "options": [
+        "Que el aprendizaje significativo ocurre a lo largo de toda la vida y en una multiplicidad de espacios sociales, culturales, virtuales y naturales",
+        "Que las escuelas deben cerrarse para dar paso exclusivamente al aprendizaje en el hogar",
+        "Que la educación formal no tiene ningún valor en la sociedad contemporánea",
+        "Que los diplomas escolares deben ser reemplazados por certificaciones de redes sociales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Págs. 109-112",
+      "explicacion": "Si bien se protege el valor único de la escuela, se reconoce que la educación abarca el trabajo, la cultura, la biósfera y la vida cívica."
+    },
+    {
+      "question": "Según el informe, la 'justicia reparadora' en la educación implica:",
+      "options": [
+        "Afrontar y corregir las exclusiones, despojos y silenciamientos históricos sufridos por grupos marginados, pueblos indígenas y mujeres",
+        "Sancionar económicamente a los estudiantes que reprueban exámenes estandarizados",
+        "Exigir el pago de indemnizaciones monetarias por parte de las escuelas públicas a las empresas privadas",
+        "Eliminar la enseñanza de la historia para no recordar los conflictos del pasado"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 57",
+      "explicacion": "La justicia reparadora busca sanar heridas históricas de discriminación, racismo, colonialismo y patriarcado mediante el currículo y la pedagogía."
+    },
+    {
+      "question": "¿Cuál es la postura del informe respecto a la relación entre los derechos de propiedad intelectual y el conocimiento público?",
+      "options": [
+        "Se deben proteger los derechos morales de los autores, pero garantizando el acceso libre, abierto y gratuito al patrimonio de conocimiento común",
+        "Se debe privatizar todo el conocimiento científico para incentivar el lucro empresarial",
+        "Se deben eliminar los derechos de autor de todos los artistas e investigadores sin compensación",
+        "Se debe prohibir la difusión de investigaciones científicas en internet"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 13",
+      "explicacion": "El informe aboga por conciliar la protección de los creadores con el acceso libre y sin barreras al saber común."
+    },
+    {
+      "question": "¿Cómo describe el informe la crisis de valores contemporánea que afecta a la sociedad y la educación?",
+      "options": [
+        "Evidenciada en el aumento de la polarización, la intolerancia, el discurso de odio, las noticias falsas y la normalización de la violencia",
+        "Causada exclusivamente por la falta de exámenes estandarizados en las escuelas primarias",
+        "Provocada por el exceso de financiamiento público otorgado a la educación infantil",
+        "Derivada del abandono de los modelos económicos del siglo XIX"
+      ],
+      "answer": 0,
+      "fuente": "Introducción, Pág. 9",
+      "explicacion": "La crisis de valores se manifiesta en la erosión del discurso cívico, la desinformación masiva y el auge de autoritarismos excluyentes."
+    },
+    {
+      "question": "El principio de 'subsidiariedad' en la gobernanza y cooperación educativa internacional significa que:",
+      "options": [
+        "Las decisiones y acciones deben tomarse lo más cerca posible del nivel local y nacional, apoyando las capacidades internas sin imposiciones descendentes",
+        "Los organismos internacionales deben dictar los currículos nacionales de forma obligatoria",
+        "Las escuelas locales deben depender directamente de la financiación de bancos extranjeros",
+        "Los ministerios de educación deben ser reemplazados por agencias de la ONU"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 9, Pág. 144",
+      "explicacion": "La subsidiariedad respeta la autonomía local y nacional, usando la cooperación internacional para fortalecer capacidades."
+    },
+    {
+      "question": "¿Qué representa la metáfora del 'retorno a la vida silvestre' (*rewilding*) aplicada al currículo y la educación?",
+      "options": [
+        "Reconectar profundamente a los estudiantes con el mundo natural y la biósfera como espacio educativo recíproco y no antropocéntrico",
+        "Abandonar las ciudades e impartir clases únicamente en bosques sin tecnología",
+        "Fomentar la conducta indisciplinada y el desorden dentro de las aulas de clase",
+        "Sustituir las matemáticas y las ciencias por cursos de supervivencia selvática"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 69",
+      "explicacion": "Se refiere a desmontar la arrogancia antropocéntrica y reintegrar al ser humano como parte consciente y respetuosa de la biósfera."
+    },
+    {
+      "question": "En síntesis, ¿cuál es el propósito último del informe 'Reimaginar juntos nuestros futuros'?",
+      "options": [
+        "Servir de catalizador para un diálogo social global y una acción colectiva que transforme la educación para edificar un futuro justo, equitativo y sostenible",
+        "Proporcionar una receta rígida y un manual de instrucciones obligatorio de aplicación inmediata en 190 países",
+        "Justificar el recorte de personal docente mediante la automatización de la enseñanza por inteligencia artificial",
+        "Establecer un ranking mundial de las mejores escuelas privadas de los países ricos"
+      ],
+      "answer": 0,
+      "fuente": "Resumen, Pág. 4",
+      "explicacion": "El informe es una agenda abierta para la conversación pública y la cocreación de políticas educativas en cada contexto local y mundial."
+    },
+    {
+      "question": "Según los datos estadísticos del Capítulo 1, ¿cuál ha sido la evolución de la asistencia escolar global desde 1948 hasta 2020?",
+      "options": [
+        "Pasó de un 45% de escolarización (sobre 2.400 millones de hab.) a más del 95% (sobre 8.000 millones de hab.)",
+        "Se ha mantenido estancada en un 50% debido a las guerras y pandemias",
+        "Disminuyó del 80% en 1948 al 60% en 2020 por la falta de inversión estatal",
+        "Alcanzó el 100% de cobertura universal en todos los países de renta baja desde el año 2010"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 20",
+      "explicacion": "El informe destaca la espectacular expansión cuantitativa de la escolaridad, aunque advierte sobre la persistencia de graves desigualdades cualitativas."
+    },
+    {
+      "question": "¿Qué tendencia crítica se observa en la proporción de profesores de educación primaria cualificados a nivel mundial en las últimas dos décadas?",
+      "options": [
+        "Un preocupante retroceso; por ejemplo, en África subsahariana la tasa cayó del 85% en 2000 a cerca del 65% en 2020",
+        "Un incremento constante que alcanza el 100% en todos los continentes",
+        "Una estabilidad absoluta sin variaciones respecto al año 1990",
+        "Un aumento masivo exclusivamente en los países de ingresos más bajos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 22",
+      "explicacion": "El informe alerta sobre el declive de la proporción de docentes con cualificación mínima."
+    },
+    {
+      "question": "De acuerdo con los datos del Instituto de Estadística de la UNESCO citados en el Capítulo 1, ¿cuántos niños y adolescentes continúan sin estar escolarizados en el mundo?",
+      "options": [
+        "Aproximadamente 250 millones de niños",
+        "Exactamente 10 millones de niños",
+        "Más de 1.000 millones de niños",
+        "Menos de 1 millón de niños"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 20",
+      "explicacion": "250 millones de niños no asisten a la escuela actualmente."
+    },
+    {
+      "question": "¿Cuál es la situación de las tasas de alfabetización de adultos en los países de renta baja según el Capítulo 1?",
+      "options": [
+        "Apenas superan el 55%, y más de dos de cada cinco mujeres de esos países no saben leer ni escribir",
+        "Alcanzan el 98% gracias a los programas digitales automatizados",
+        "Son idénticas a las de los países de renta alta",
+        "Han superado el 90% en la población femenina rural"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 20",
+      "explicacion": "El analfabetismo adulto persiste gravemente en los países pobres, afectando desproporcionadamente a las mujeres."
+    },
+    {
+      "question": "En relación con los jóvenes que no estudian, no trabajan ni reciben formación (NINI/NEET), la OIT señala que a nivel mundial:",
+      "options": [
+        "Más de uno de cada cinco jóvenes de 16 a 24 años está en esta situación, y dos tercios de ellos son mujeres jóvenes",
+        "Solo afecta al 1% de la población juvenil urbana masculina",
+        "Esta cifra se ha reducido a cero en América Latina y África",
+        "Afecta principalmente a hombres universitarios de países ricos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 22",
+      "explicacion": "Más del 20% de los jóvenes están excluidos del estudio y del trabajo formal."
+    },
+    {
+      "question": "¿Qué impacto tiene la pobreza en la exclusión educativa según el análisis de interceptación de factores del Capítulo 1?",
+      "options": [
+        "Es un factor determinante y agravante que intensifica la marginación producida por el género, la discapacidad, la ubicación rural o el origen étnico",
+        "Es un problema secundario que no influye en el rendimiento escolar si hay computadoras",
+        "Ha sido erradicada por completo de los sistemas educativos de renta media",
+        "Solo afecta a los estudiantes de secundaria alta en áreas urbanas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 24",
+      "explicacion": "La pobreza actúa como un multiplicador de la desigualdad."
+    },
+    {
+      "question": "Respecto a los estudiantes indígenas y de minorías étnicas, el informe señala que la educación formal históricamente ha fallado porque:",
+      "options": [
+        "Ha ignorado sus saberes ancestrales, impuesto la asimilación cultural y evaluado en lenguas que no son sus lenguas maternas",
+        "Les ha otorgado demasiados recursos financieros en comparación con las áreas urbanas",
+        "Ha prohibido el ingreso de niños indígenas a las escuelas primarias",
+        "Ha obligado a todos los docentes a hablar exclusivamente lenguas originarias"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 26",
+      "explicacion": "El currículo hegemónico ha provocado alienación y abandono escolar."
+    },
+    {
+      "question": "Según las proyecciones científicas citadas en el Capítulo 2 ('Un planeta en peligro'), si no se mitiga el cambio climático, para 2070:",
+      "options": [
+        "Hasta un tercio de la población mundial podría vivir en zonas consideradas inadecuadas para la vida humana debido al calor extremo",
+        "El nivel del mar bajará dos metros permitiendo la expansión agrícola",
+        "Las temperaturas globales se estabilizarán automáticamente sin intervención humana",
+        "Todas las escuelas del mundo tendrán aire acondicionado solar gratuito"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 30",
+      "explicacion": "Las proyecciones advierten que 1/3 de la humanidad sufrirá condiciones inasumibles."
+    },
+    {
+      "question": "El informe señala una incómoda paradoja en la relación entre el nivel educativo y la crisis ecológica actual:",
+      "options": [
+        "Los países y las personas con mayores niveles de educación formal son los que consumen más recursos y más aceleran el cambio climático",
+        "Las personas analfabetas son las responsables del 90% de las emisiones de gases de efecto invernadero",
+        "A mayor nivel de escolarización en el siglo XX, menor ha sido la huella de carbono individual",
+        "Los países de renta baja son los que más recursos naturales consumen per cápita"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 31",
+      "explicacion": "El modelo educativo del siglo XX asoció el éxito al consumo destructivo."
+    },
+    {
+      "question": "En el ámbito de la transformación digital (Capítulo 2), la 'brecha digital' se manifiesta de manera doble como:",
+      "options": [
+        "Desigualdad en el acceso físico a dispositivos/conectividad y desigualdad en las competencias necesarias para aprovechar la tecnología de forma crítica y colectiva",
+        "Falta de interés de los jóvenes por jugar con dispositivos electrónicos",
+        "Exceso de computadoras en las escuelas rurales de los países pobres",
+        "Prohibición gubernamental de usar teléfonos móviles en las universidades"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 37",
+      "explicacion": "La brecha digital comprende acceso e inclusión cultural y crítica."
+    },
+    {
+      "question": "¿Qué riesgo ético y político identifica el informe respecto a las plataformas digitales privadas y los algoritmos de IA en la educación?",
+      "options": [
+        "Pueden ejercer el 'imperialismo de plataforma', restringir la privacidad mediante la extracción masiva de datos y someter la educación a lógicas comerciales",
+        "Hacen que la educación sea 100% gratuita y pública sin ningún costo para los Estados",
+        "Eliminan automáticamente todo tipo de prejuicios raciales y de género de los libros de texto",
+        "Garantizan que no exista ningún tipo de control o vigilancia sobre estudiantes y profesores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Págs. 38-39",
+      "explicacion": "Las plataformas privadas lucrativas amenazan el bien común al priorizar la extracción de datos."
+    },
+    {
+      "question": "En cuanto al desarrollo de la neurociencia y la neuroplasticidad (Capítulo 2), el informe concluye que:",
+      "options": [
+        "El cerebro es capaz de aprender y 'reconectarse' a cualquier edad, desmintiendo que el aprendizaje ocurra solo en los primeros años",
+        "El cerebro humano deja de aprender de forma definitiva a los 12 años de edad",
+        "La lectura en pantallas ha destruido por completo la capacidad cerebral de razonamiento matemático",
+        "Los fármacos neuroquímicos deben reemplazar las lecciones de los profesores en el aula"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Págs. 39-40",
+      "explicacion": "La neuroplasticidad demuestra que el aprendizaje es continuo a lo largo de toda la vida."
+    },
+    {
+      "question": "Respecto a la lectura digital e impresa, la recomendación neurocientífica y pedagógica del informe es:",
+      "options": [
+        "No elegir entre lectura digital o impresa, sino exponer a los alumnos a ambas culturas de lectura (lineal e hipertextual/tabular) de forma complementaria",
+        "Prohibir los libros impresos y utilizar únicamente pantallas digitales desde el preescolar",
+        "Prohibir los dispositivos digitales en las escuelas para retornar a la imprenta del siglo XIX",
+        "Eliminar la enseñanza de la lectura en primaria para enfocar todo en el reconocimiento de voz"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 40",
+      "explicacion": "Los textos impresos y digitales son complementarios."
+    },
+    {
+      "question": "En el análisis del retroceso democrático (Capítulo 2), el informe contrapone dos tendencias opuestas en la sociedad actual:",
+      "options": [
+        "El auge del autoritarismo, populismo excluyente y desinformación frente al florecimiento del activismo ciudadano y movimientos sociales por la justicia",
+        "El aumento de la confianza en los políticos profesionales frente a la apatía total de los jóvenes",
+        "La desaparición del racismo frente al aumento de los partidos de izquierda",
+        "El cierre total de las fronteras frente al libre tránsito absoluto de migrantes"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Págs. 40-41",
+      "explicacion": "Existe un vigoroso activismo social que revitaliza la democracia."
+    },
+    {
+      "question": "Respecto al futuro del trabajo (Capítulo 2) y el informe de la OIT (2019), la UNESCO enfatiza que la educación por sí sola:",
+      "options": [
+        "No puede resolver el desempleo estructural ni crear puestos de trabajo si no se acompañan de políticas macroeconómicas, industriales y laborales adecuadas",
+        "Garantiza empleo automático con altos sueldos a todos los graduados universitarios",
+        "Debe eliminarse ya que el trabajo formal desaparecerá por completo en 2030",
+        "Debe convertirse en una mera agencia de colocación de mano de obra barata para empresas multinacionales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 43",
+      "explicacion": "La formación del lado de la oferta no genera empleo sin políticas productivas."
+    },
+    {
+      "question": "¿Qué fenómeno social negativo genera la sobreeducación de la población cuando no existen empleos dignos y acordes a sus competencias?",
+      "options": [
+        "Descontento, frustración social, agitación y potencial desencadenamiento de conflictos políticos y civiles",
+        "Un incremento automático del Producto Interno Bruto del 10% anual",
+        "La erradicación de los movimientos de protesta cívica",
+        "El retorno masivo de la población a la agricultura de subsistencia"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 43",
+      "explicacion": "El desajuste entre altas aspiraciones y mercados precarios causa agitación social."
+    },
+    {
+      "question": "El concepto de 'economía de los cuidados' resaltado en el informe abarca:",
+      "options": [
+        "El trabajo esencial (no remunerado o infravalorado) de atención a niños, ancianos, enfermos, hogar y sostenimiento de la vida, realizado mayoritariamente por mujeres",
+        "El sector financiero de seguros de salud privados para personas de renta alta",
+        "La fabricación de robots médicos mediante inteligencia artificial",
+        "El comercio internacional de productos farmacéuticos de consumo masivo"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 44",
+      "explicacion": "Se debe revalorizar el trabajo de cuidados como pilar económico."
+    },
+    {
+      "question": "¿Qué son los 'jornaleros digitales' en el contexto de la transformación del mercado laboral analizado en el Capítulo 2?",
+      "options": [
+        "Trabajadores de la economía de plataformas (*gig economy*) que sufren precarización, inestabilidad e inestabilidad similar a las prácticas laborales del siglo XIX",
+        "Docentes que enseñan computación en escuelas rurales durante la noche",
+        "Ingenieros de sistemas con altos salarios en empresas multinacionales de software",
+        "Estudiantes que realizan tareas escolares en bibliotecas virtuales públicas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 42",
+      "explicacion": "La economía de plataformas genera nuevas formas de precarización laboral."
+    },
+    {
+      "question": "En la transición hacia economías verdes, la función de los sistemas educativos respecto a las competencias laborales debe ser:",
+      "options": [
+        "Dotar a los estudiantes de 'competencias ecológicas' y convertir las propias escuelas en entornos de aprendizaje sostenibles y neutros en carbono",
+        "Enseñar técnicas de extracción acelerada de petróleo y minería a cielo abierto",
+        "Eliminar las carreras técnicas e industriales para promover el desempleo voluntario",
+        "Capacitar únicamente a los ingenieros de los países desarrollados del Norte"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Págs. 43-44",
+      "explicacion": "La educación debe formar para la sostenibilidad y empleos verdes."
+    },
+    {
+      "question": "¿Cuál es el peligro de evaluar los resultados educativos basándose exclusivamente en certificaciones o credenciales fijas?",
+      "options": [
+        "Que los diplomas se conviertan en meros sustitutos comerciales perdiendo de vista los procesos e interacciones sociales reales que constituyen el núcleo de la educación",
+        "Que los estudiantes estudien demasiado y descuiden su salud física",
+        "Que las empresas dejen de contratar personas con títulos profesionales",
+        "Que las universidades públicas se queden sin estudiantes matriculados"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 44",
+      "explicacion": "Reducir la educación al mero diploma desvirtúa su función formadora."
+    },
+    {
+      "question": "¿Cuál es la posición del informe sobre la participación de los actores no estatales en la educación?",
+      "options": [
+        "Es una expresión de la demanda de voz y responsabilidad pública, siempre que estén regulados por el Estado para salvaguardar los derechos humanos y la no discriminación",
+        "Debe prohibirse por completo para que solo el gobierno administre las escuelas",
+        "Debe sustituir por completo la intervención de los ministerios de educación",
+        "Debe limitarse exclusivamente a la donación de dinero sin opinar sobre el currículo"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Pág. 115",
+      "explicacion": "La participación no estatal puede enriquecer la equidad, siempre que el Estado regule."
+    },
+    {
+      "question": "En el Capítulo 1, ¿qué factor se señala como el principal responsable del abandono escolar temprano?",
+      "options": [
+        "La calidad insuficiente de la enseñanza y la falta de apoyo e idoneidad profesional docente",
+        "El desinterés innato de los niños por aprender cosas nuevas",
+        "El exceso de horas de lectura de libros impresos en la escuela",
+        "La falta de computadoras personales de última generación en cada aula"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 21",
+      "explicacion": "La baja calidad de la enseñanza y condiciones inadecuadas docentes provocan abandono."
+    },
+    {
+      "question": "Respecto a las personas con discapacidad (Capítulo 1), la exclusión educativa se debe a:",
+      "options": [
+        "Una combinación de barreras físicas, actitudinales, pedagógicas y falta de ajustes razonables en las escuelas",
+        "Una incapacidad biológica absoluta para aprender conceptos abstractos",
+        "La prohibición legal expresa de su ingreso a los centros educativos formales",
+        "La falta de interés de sus familias por inscribirlos en el sistema escolar"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 1, Pág. 26",
+      "explicacion": "Las barreras del entorno causan la exclusión de personas con discapacidad."
+    },
+    {
+      "question": "¿Qué impacto tuvo la pandemia de COVID-19 en la escolarización mundial según los datos del informe?",
+      "options": [
+        "Cerró los centros educativos a 1.600 millones de niños y jóvenes, agravando drásticamente las desigualdades existentes",
+        "No tuvo ningún impacto relevante en los países en desarrollo",
+        "Permitió que el 100% de los niños pobres accediera a educación virtual de alta calidad",
+        "Provocó el cierre definitivo de todas las universidades públicas del mundo"
+      ],
+      "answer": 0,
+      "fuente": "Prefacio, Pág. v",
+      "explicacion": "1.600 millones de estudiantes sufrieron el cierre escolar."
+    },
+    {
+      "question": "En relación con el 'calor extremo' derivado del cambio climático (Capítulo 2), las investigaciones demuestran que:",
+      "options": [
+        "El aumento de las temperaturas repercute directamente de forma negativa en la cognición y el rendimiento del aprendizaje",
+        "El calor mejora la memoria a corto plazo de los estudiantes de secundaria",
+        "Las escuelas del Sur Global cuentan con la mejor infraestructura para mitigar las altas temperaturas",
+        "El calor solo afecta a los profesores pero no a los alumnos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 31",
+      "explicacion": "Las temperaturas extremas atentan contra la salud y el aprendizaje."
+    },
+    {
+      "question": "¿Qué son las 'noticias falsas' (*fake news*) y cómo deben combatirse según el Capítulo 2?",
+      "options": [
+        "Herramientas de manipulación magnificadas por plataformas digitales que deben combatirse con conocimiento científico, humanista y pensamiento crítico",
+        "Errores inofensivos de imprenta que se corrigen automáticamente con software",
+        "Manifestaciones legítimas de libertad de expresión que no deben ser cuestionadas en la escuela",
+        "Contenidos creados por los docentes para evaluar la atención de los estudiantes"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 41",
+      "explicacion": "La desinformación busca polarizar; la educación responde con rigor científico y ético."
+    },
+    {
+      "question": "Respecto a la Inteligencia Artificial (IA) y el reconocimiento facial en el ámbito escolar, el informe alerta que:",
+      "options": [
+        "Pueden reducir la privacidad humana a límites inconcebibles y convertirse en herramientas de control y vigilancia represiva",
+        "Son tecnologías inofensivas que garantizan la felicidad de los estudiantes",
+        "Han sido declaradas ilegales por la UNESCO en todos los países miembros",
+        "Son el único método eficaz para enseñar matemáticas en primaria"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Pág. 93",
+      "explicacion": "El seguimiento biométrico en la escuela entraña graves riesgos para la privacidad."
+    },
+    {
+      "question": "En el Capítulo 3, la 'diferenciación pedagógica' se distingue de la 'hiperpersonalización algorítmica' porque:",
+      "options": [
+        "La diferenciación atiende a las necesidades individuales DENTRO de un espacio social común, mientras la hiperpersonalización aísla al alumno",
+        "La diferenciación se hace con computadoras y la hiperpersonalización con libros de texto",
+        "Ambas son idénticas y significan lo mismo en la práctica docente",
+        "La diferenciación prohíbe la atención a las diferencias individuales de los alumnos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 56",
+      "explicacion": "Atender la diversidad en grupo fortalece la inclusión; aislar al estudiante destruye la comunidad."
+    },
+    {
+      "question": "¿Qué papel desempeñan las bibliotecas, museos y centros comunitarios en las pedagogías cooperativas?",
+      "options": [
+        "Son entornos informales y no formales de aprendizaje que enriquecen los conocimientos comunes y la experiencia escolar",
+        "Son lugares obsoletos que deben ser cerrados para ahorrar presupuestos municipales",
+        "Son instituciones destinadas exclusivamente a investigadores universitarios jubilados",
+        "Son espacios de castigo para los estudiantes indisciplinados"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 60",
+      "explicacion": "Los espacios culturales comunitarios son aliados indispensables del aprendizaje."
+    },
+    {
+      "question": "En relación con la educación física y los deportes (Capítulo 4), el informe sostiene que:",
+      "options": [
+        "Debe ser inclusiva y centrada en la salud y el bienestar de TODOS los alumnos, evitando la dependencia excesiva de la competición excluyente",
+        "Debe reservarse únicamente para los atletas con mayor rendimiento para ganar medallas",
+        "Debe eliminarse del currículo escolar por carecer de contenido cognitivo",
+        "Debe convertirse en una materia teórica dictada mediante exámenes escritos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 71",
+      "explicacion": "La educación física inclusiva enseña el disfrute del movimiento y la cooperación."
+    },
+    {
+      "question": "En el Capítulo 3, la pedagogía se concibe esencialmente como:",
+      "options": [
+        "Un encuentro relacional entre profesores, alumnos y conocimientos en el que todos se transforman dentro de un mundo compartido",
+        "Una técnica de adoctrinamiento unidireccional del docente hacia el alumno",
+        "Un algoritmo de instrucción individualizada programado en una computadora",
+        "Un conjunto de reglas de disciplina y castigo corporal para mantener el orden"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 53",
+      "explicacion": "La pedagogía es la dinamización del triángulo pedagógico en un compromiso de cuidado del mundo."
+    },
+    {
+      "question": "¿Qué principio debe regir la evaluación pedagógica en un nuevo contrato social para la educación según el Capítulo 3?",
+      "options": [
+        "Ser una evaluación formativa con sentido pedagógico que apoye el crecimiento y aprendizaje del alumno, limitando las pruebas competitivas de alto nivel",
+        "Ser un mecanismo punitivo para clasificar a los alumnos entre ganadores y perdedores desde la primera infancia",
+        "Ser administrada semanalmente por empresas privadas mediante exámenes estandarizados digitales",
+        "Eliminar por completo cualquier observación o retroalimentación sobre el trabajo del estudiante"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Págs. 57-58",
+      "explicacion": "La evaluación debe servir al aprendizaje auténtico y no a la competencia destructiva."
+    },
+    {
+      "question": "El 'aprendizaje basado en proyectos y problemas' promueve la solidaridad porque:",
+      "options": [
+        "Exige a los alumnos trascender límites disciplinarios, trabajar en equipo y abordar retos reales de su comunidad con empatía y humildad",
+        "Fomenta que cada estudiante trabaje de forma aislada sin hablar con sus compañeros",
+        "Premia al estudiante que termina más rápido mediante incentivos económicos",
+        "Sustituye a los profesores por manuales de autoayuda individual"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 54",
+      "explicacion": "Los proyectos cooperativos unan a los estudiantes en torno a metas comunes."
+    },
+    {
+      "question": "Respecto a la hiperpersonalización del aprendizaje mediante software de Inteligencia Artificial, el informe advierte que:",
+      "options": [
+        "Puede descontextualizar al alumno y aislarlo de las relaciones e interacciones públicas e interpersonales de la comunidad escolar",
+        "Es la única forma garantizada de lograr la equidad educativa universal",
+        "Debe reemplazar inmediatamente la presencia de los docentes en las aulas",
+        "Elimina de forma definitiva la brecha digital entre países ricos y pobres"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 56",
+      "explicacion": "La IA descontextualizada priva al estudiante del aprendizaje social colaborativo."
+    },
+    {
+      "question": "En la educación de la primera infancia (Capítulo 3), el 'juego' se interpreta pedagógicamente como:",
+      "options": [
+        "Una actividad con un objetivo muy serio: entenderse a uno mismo, explorar el mundo y construir las bases de la interdependencia y la empatía",
+        "Un pasatiempo frívolo que debe eliminarse para enseñar matemáticas formales desde el nacimiento",
+        "Una pérdida de tiempo provocada por la falta de disciplina docente",
+        "Un ejercicio exclusivamente físico sin ningún impacto en el desarrollo cognitivo"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 59",
+      "explicacion": "El juego en la infancia es la forma natural de investigación y desarrollo socioemocional."
+    },
+    {
+      "question": "¿Qué distorsión de género crítica señala el informe respecto al personal docente de la primera infancia a nivel mundial?",
+      "options": [
+        "Los hombres representan en promedio menos del 2% de los educadores infantiles, transmitiendo el mensaje implícito de que el cuidado no es responsabilidad masculina",
+        "Las mujeres están excluidas de la enseñanza infantil en el 90% de los países",
+        "Existe un 50% exacto de paridad entre hombres y mujeres en guarderías públicas",
+        "Los hombres ocupan el 100% de los cargos de educadores de párvulos en América Latina"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 60",
+      "explicacion": "Hace falta involucrar a hombres en el cuidado temprano para romper estereotipos."
+    },
+    {
+      "question": "Para liberar el potencial de adolescentes y jóvenes (Capítulo 3), los modelos educativos de secundaria deben:",
+      "options": [
+        "Salvar la brecha entre teoría y práctica, involucrar a los jóvenes en la justicia social y superar las narrativas que los etiquetan como 'problemáticos'",
+        "Aumentar la disciplina militarizada y restringir su libertad de expresión",
+        "Obligarlos a memorizar libros de texto sin espacio para el debate cívico",
+        "Segregar a los estudiantes según su nivel de ingresos familiares"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Págs. 61-62",
+      "explicacion": "La secundaria debe canalizar la energía e idealismo juvenil hacia la acción cívica."
+    },
+    {
+      "question": "En el Capítulo 4 ('Los planes de estudio y los conocimientos comunes'), ¿qué se entiende por 'justicia epistémica'?",
+      "options": [
+        "El reconocimiento y la inclusión equitativa de las diversas formas de conocer, comprender y sentir de todos los pueblos y culturas, superando el dominio hegemónico monocultural",
+        "El juzgamiento penal de los autores de libros de texto falsificados",
+        "La aplicación estricta del método científico occidental como único saber válido",
+        "La privatización del conocimiento producido en las universidades públicas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 67",
+      "explicacion": "La justicia epistémica exige descolonizar el currículo e incorporar saberes indígenas y marginados."
+    },
+    {
+      "question": "¿Cómo debe abordar el currículo la crisis climática y ecológica según el Capítulo 4?",
+      "options": [
+        "Fomentando un aprendizaje ecológico e interdisciplinario que desmantele la arrogancia del excepcionalismo humano y enseñe a vivir en armonía con un planeta dañado",
+        "Enseñando que la naturaleza es un objeto infinito de explotación económica para el consumo humano",
+        "Reduciendo la educación ambiental a una lección teórica anual de biología",
+        "Prohibiendo a los estudiantes participar en protestas o movimientos ecológicos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Págs. 68-69",
+      "explicacion": "El currículo debe integrar una comprensión ecológica profunda."
+    },
+    {
+      "question": "De acuerdo con el Capítulo 4, la educación sobre el cambio climático debe adoptar un enfoque de género e intersectorial porque:",
+      "options": [
+        "Las mujeres, las niñas y las comunidades más pobres de los países en desarrollo sufren los peores efectos del cambio climático sin ser las principales responsables",
+        "Los hombres de los países ricos son las únicas víctimas del calentamiento global",
+        "Las mujeres son las únicas responsables del consumo excesivo de plásticos en el mundo",
+        "El cambio climático afecta por igual y de forma idéntica a todas las personas del planeta"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 68",
+      "explicacion": "La justicia ecológica es inseparable de la justicia social y de género."
+    },
+    {
+      "question": "En relación con la desinformación y las 'noticias falsas' (*fake news*), el currículo debe promover:",
+      "options": [
+        "Una sólida alfabetización científica, digital y humanista que capacite para el discernimiento, la corroboración de fuentes y la búsqueda sincera de la verdad",
+        "La censura estatal absoluta de todos los medios de comunicación independientes",
+        "El rechazo total a la ciencia y la aceptación del relativismo extremo donde todo es opinión",
+        "El uso obligatorio de una sola red social administrada por el gobierno"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Págs. 74-75",
+      "explicacion": "El rigor científico y la ética son los antídotos contra las noticias falsas."
+    },
+    {
+      "question": "Respecto a la diversidad lingüística, el Capítulo 4 aboga por una transición desde el monolingüismo hacia:",
+      "options": [
+        "El plurilingüismo, garantizando la enseñanza de calidad en la lengua materna de los alumnos (incluidas lenguas indígenas y de señas) y el aprendizaje de otros idiomas",
+        "La imposición del inglés como única lengua oficial de enseñanza en todas las escuelas del mundo",
+        "La prohibición de enseñar idiomas extranjeros en las escuelas públicas",
+        "La eliminación de las lenguas indígenas para acelerar la homogenización nacional"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Págs. 72-73",
+      "explicacion": "El plurilingüismo respeta la identidad cultural y mejora los aprendizajes."
+    },
+    {
+      "question": "¿Cómo deben conceptualizarse las matemáticas en un currículo renovado según el Capítulo 4?",
+      "options": [
+        "Como un logro humano universal presente en todas las culturas (etnomatemáticas) que ayuda a entender patrones, analizar la realidad y resolver problemas complejos",
+        "Como una disciplina puramente abstracta inventada en Europa que no tiene aplicación práctica en la vida diaria",
+        "Como un filtro de selección diseñado para reprobar al 50% de los estudiantes de primaria",
+        "Como una herramienta exclusiva para el cálculo de ganancias en el sector bancario"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Págs. 73-74",
+      "explicacion": "Las matemáticas pertenecen a toda la humanidad; etnomatemáticas democratiza su aprendizaje."
+    },
+    {
+      "question": "En el Capítulo 4, las 'humanidades' (historia, literatura, filosofía, artes) se consideran esenciales para el futuro porque:",
+      "options": [
+        "Fomentan el pensamiento crítico, la empatía, la imaginación ética, la alfabetización sobre el futuro y el fortalecimiento de la democracia",
+        "Permiten memorizar fechas de batallas militares para aprobar exámenes estandarizados",
+        "Son asignaturas secundarias que deben sustituirse por programación informática",
+        "Garantizan el incremento inmediato del salario de los trabajadores técnicos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Págs. 74-75",
+      "explicacion": "Las humanidades humanizan la tecnología y fortalecen la responsabilidad cívica."
+    },
+    {
+      "question": "¿Qué abarca la 'alfabetización digital crítica' promovida en el Capítulo 4?",
+      "options": [
+        "La capacidad de comprender la economía política de la tecnología, analizar sesgos algorítmicos, proteger la privacidad y dirigir la tecnología hacia el bien común",
+        "Aprender a teclear rápido y jugar videojuegos comerciales en el aula",
+        "Aceptar sin cuestionamiento todos los términos de servicio de las grandes empresas tecnológicas",
+        "Sustituir a los profesores humanos por tutores virtuales automatizados"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Págs. 75-76",
+      "explicacion": "La alfabetización digital crítica enseña a cuestionar el poder digital y los algoritmos."
+    },
+    {
+      "question": "En la educación para los derechos humanos y la equidad de género (Capítulo 4), se exige que los varones:",
+      "options": [
+        "Aprendan desde una edad temprana a ser defensores activos de la igualdad de género y desaprendan los roles de género opresivos y privilegios sutiles",
+        "Asuman el control de las decisiones en los consejos escolares de aula",
+        "Se eximan de realizar tareas de limpieza o cuidado en el hogar y en la escuela",
+        "Reciban formación militar obligatoria para proteger a sus compañeras"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Págs. 77-78",
+      "explicacion": "Desmontar el patriarcado exige educar a niños y hombres en la corresponsabilidad del cuidado."
+    },
+    {
+      "question": "En el Capítulo 5 ('El trabajo transformador de los docentes'), se rechaza la imagen del profesor como 'un profesional solitario en un aula cerrada' para redefinirlo como:",
+      "options": [
+        "Una profesión colaborativa que trabaja en equipos multidisciplinarios, reflexiona sobre su práctica y genera nuevo conocimiento pedagógico",
+        "Un técnico ejecutor que sigue ciegamente las instrucciones impresas en los libros de texto corporativos",
+        "Un vigilante disciplinario cuya única tarea es mantener a los alumnos en silencio",
+        "Un empleado eventual sustituible por sistemas de inteligencia artificial"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Págs. 85-87",
+      "explicacion": "La enseñanza del siglo XXI es un esfuerzo de equipo y una profesión colaborativa."
+    },
+    {
+      "question": "¿Cuál es el rol de los docentes en la investigación educativa según el Capítulo 5?",
+      "options": [
+        "Son investigadores de su propia práctica y productores de conocimiento pedagógico profesional mediante la investigación-acción y la reflexión colaborativa",
+        "Son meros objetos de estudio pasivos observados por los científicos universitarios",
+        "Tienen prohibido escribir o publicar artículos sobre su experiencia de aula",
+        "Deben limitar su trabajo a aplicar las teorías elaboradas por consultores extranjeros"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Págs. 87-88",
+      "explicacion": "Los profesores son autores intelectuales de la transformación educativa."
+    },
+    {
+      "question": "Según las estimaciones del Capítulo 5, ¿cuántos nuevos profesores de primaria y secundaria necesitará contratar el mundo para 2030 para cumplir el ODS 4?",
+      "options": [
+        "Cerca de 70 millones de nuevos profesores (la mayor parte en África subsahariana)",
+        "Exactamente 1 millón de profesores",
+        "Menos de 100.000 profesores a nivel mundial",
+        "Ninguno, debido a la sustitución total de docentes por IA"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Pág. 89",
+      "explicacion": "Atraer y retener a 70 millones de docentes cualificados es una prioridad pública urgente."
+    },
+    {
+      "question": "¿Qué etapa en la carrera del docente se identifica en el Capítulo 5 como 'la más decisiva y paradójicamente la más descuidada'?",
+      "options": [
+        "El periodo de iniciación profesional y los primeros años de docencia (donde se registran los mayores índices de abandono si no hay mentoría)",
+        "El día de la jubilación tras 30 años de servicio",
+        "El momento de rendir el examen de ingreso a la universidad",
+        "Las vacaciones de fin de año lectivo"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Pág. 91",
+      "explicacion": "Los docentes principiantes necesitan estructuras de acogida y mentoría."
+    },
+    {
+      "question": "En cuanto a las condiciones de trabajo de los docentes (Capítulo 5), la 'solidaridad pública' exige:",
+      "options": [
+        "Garantizar salarios dignos, seguridad en el empleo, reducción del tamaño de las clases, apoyo institucional y disminuir la carga burocrática e hipervigilancia",
+        "Aumentar el número de alumnos por aula a 60 y congelar los sueldos durante 10 años",
+        "Sustituir los contratos fijos por contratos temporales por horas sin beneficios sociales",
+        "Exigir que los profesores financien con su sueldo los materiales escolares de los niños"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Págs. 92-93",
+      "explicacion": "Valorar la docencia implica ofrecer condiciones laborales justas y dignas."
+    },
+    {
+      "question": "Respecto a la autonomía profesional de los docentes, el informe advierte contra las tendencias recientes de:",
+      "options": [
+        "Mecanismos de hipercontrol gerencial, pruebas de alta presión vinculadas a la evaluación salarial y vigilancia biométrica/algorítmica que socavan su criterio profesional",
+        "Otorgar demasiada libertad a los profesores para diseñar sus clases",
+        "Permitir que los profesores se reúnan a planificar de forma colaborativa durante su jornada laboral",
+        "Fomentar que los docentes escriban sus propios libros de texto"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Pág. 93",
+      "explicacion": "Se requiere un marco de confianza, apoyo e independencia profesional para el docente."
+    },
+    {
+      "question": "¿Qué función deben cumplir las universidades respecto a la profesión docente según el Capítulo 5?",
+      "options": [
+        "Establecer asociaciones continuas con las escuelas para la formación inicial y continua, creando 'parques educativos' de investigación compartida",
+        "Desvincularse por completo de la formación de profesores de educación básica",
+        "Cobrar tarifas elevadas por los cursos de capacitación obligatorios",
+        "Limitarse a criticar el rendimiento de los maestros de primaria sin ofrecer apoyo"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Págs. 93-94",
+      "explicacion": "Las universidades deben trabajar mano a mano con las escuelas en un diálogo continuo."
+    },
+    {
+      "question": "En el Capítulo 6 ('Proteger y transformar las escuelas'), se afirma categóricamente que:",
+      "options": [
+        "Si la escuela no existiera, tendríamos que inventarla; es un espacio-tiempo público irremplazable para el encuentro social, la equidad y el cuidado",
+        "Las escuelas físicas son obsoletas y deben ser cerradas antes del año 2030",
+        "Las escuelas son exclusivamente empresas comerciales destinadas a generar ganancias",
+        "Las escuelas deben ser sustituidas por centros de entrenamiento militar para jóvenes"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 6, Pág. 99",
+      "explicacion": "La escuela es una de las instituciones más valiosas de la humanidad."
+    },
+    {
+      "question": "¿Cuál es el origen etimológico de la palabra 'escuela' recordado en el Capítulo 6 y qué significado de fondo rescata?",
+      "options": [
+        "Proviene del griego *skholè*, que significa 'tiempo libre u ocio' dedicado al estudio y la conversación intergeneracional",
+        "Proviene del latín *scuta*, que significa 'escudo o protección militar'",
+        "Proviene del hebreo *sekel*, que significa 'fábrica o taller de trabajo'",
+        "Proviene del arameo *escola*, que significa 'examen estandarizado'"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 6, Pág. 100",
+      "explicacion": "La *skholè* representa liberar un tiempo especial para dedicarse a la comunidad y al saber."
+    },
+    {
+      "question": "¿Qué lección fundamental dejó el cierre masivo de escuelas durante la pandemia de COVID-19 según el Capítulo 6?",
+      "options": [
+        "Que las aulas virtuales en casa son un sustituto muy limitado y que la presencia física y social de la escuela es insustituible para el bienestar y el aprendizaje",
+        "Que las escuelas físicas son innecesarias porque todos los niños aprenden mejor solos en una computadora",
+        "Que los docentes no se necesitaron para el aprendizaje a distancia",
+        "Que los niños pobres no sufrieron ningún impacto negativo por el encierro"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 6, Págs. 99 y 103",
+      "explicacion": "La pandemia demostró la inestimable función social e intelectual de la escuela presencial."
+    },
+    {
+      "question": "Para transformar la arquitectura y la organización escolar (Capítulo 6), el informe propone reemplazar el modelo de 'filas de pupitres e inmovilidad' por:",
+      "options": [
+        "Espacios flexibles y abiertos (tipo 'gran biblioteca') que fomenten el trabajo en equipo, la investigación, la diversidad de agrupamientos y el movimiento",
+        "Celdas individuales aisladas con pantallas digitales y audífonos canceladores de ruido",
+        "Patios gigantescos sin aulas ni libros de texto",
+        "Aulas masivas de 100 estudiantes dirigidas por megáfonos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 6, Págs. 100-102",
+      "explicacion": "El espacio escolar debe rediseñarse para facilitar la cooperación y exploración."
+    },
+    {
+      "question": "Respecto a los programas de aprendizaje automático e IA en el aula, el Capítulo 6 advierte que su principal limitación es que:",
+      "options": [
+        "Solo pueden proyectar el futuro mirando los datos del pasado, perpetuando estereotipos y limitando la capacidad del alumno para reinventarse",
+        "Consumen demasiada energía eléctrica y dañan la vista de los niños",
+        "Son demasiado baratos y hacen que las escuelas pierdan dinero",
+        "Enseñan idiomas extranjeros demasiado rápido a los estudiantes de primaria"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 6, Pág. 104",
+      "explicacion": "Los algoritmos predicen en base al pasado; la escuela humana es la puerta de la reinvención."
+    },
+    {
+      "question": "¿Qué significa convertir las escuelas en 'escuelas verdes' de cara al horizonte 2050 (Capítulo 6)?",
+      "options": [
+        "Diseñar infraestructuras neutras en carbono y capacitar a los estudiantes para liderar la sostenibilidad ambiental en sus comunidades",
+        "Pintar las paredes de las aulas de color verde y plantar césped artificial en los patios",
+        "Prohibir el uso de papel en todos los trámites administrativos del gobierno",
+        "Vender productos ecológicos producidos por las empresas patrocinadoras de la escuela"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 6, Pág. 101",
+      "explicacion": "La escuela debe modelar la sostenibilidad ecológica y la neutralidad de carbono."
+    },
+    {
+      "question": "En el Capítulo 7 ('La educación en diferentes tiempos y espacios'), la metáfora de la *Cité éducative* (Ciudad educadora) del Informe Faure (1972) se utiliza para:",
+      "options": [
+        "Conconcebir de forma holística la riqueza de todos los espacios sociales (cultura, trabajo, ciudad, medios, naturaleza) que ofrecen oportunidades de aprendizaje",
+        "Exigir que todas las escuelas rurales se trasladen a las grandes capitales urbanas",
+        "Privatizar los parques y museos públicos para convertirlos en colegios de pago",
+        "Construir muros alrededor de las ciudades para impedir la migración rural"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Pág. 111",
+      "explicacion": "La 'ciudad educadora' alude a la interconexión de todos los espacios y tiempos sociales."
+    },
+    {
+      "question": "El informe advierte contra la extensión desmedida del 'formato escolar' rígido a la educación de adultos y a la primera infancia, defendiendo en su lugar:",
+      "options": [
+        "Respetar las características propias de cada etapa, usando la andragogía emancipadora para adultos y el juego e interdependencia afectiva en la infancia",
+        "Imponer exámenes de reprobación a los bebés de 2 años de edad",
+        "Tratar a los adultos en los centros de alfabetización exactamente como si fueran niños de primaria",
+        "Eliminar las escuelas nocturnas para adultos y reemplazarlas por programas militares"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Pág. 112",
+      "explicacion": "La educación de adultos debe ser emancipadora y la infantil basada en el juego."
+    },
+    {
+      "question": "¿Qué importante riesgo identifica el informe respecto a la dependencia estatal de infraestructuras digitales privadas (como Google Classroom o Google Scholar)?",
+      "options": [
+        "Son infraestructuras frágiles cuyo acceso depende del interés comercial de una corporación privada, pudiendo cerrar o cambiar sus reglas en cualquier momento",
+        "Son plataformas propiedad de la UNESCO que garantizan el acceso público para siempre",
+        "Consumen el 50% del presupuesto de los ministerios de educación de todos los países",
+        "Impiden que los estudiantes busquen información en libros impresos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Pág. 116",
+      "explicacion": "Confiar la educación pública a plataformas lucrativas genera precariedad e incertidumbre."
+    },
+    {
+      "question": "En relación con la extracción de datos y la vigilancia masiva en los entornos educativos digitales (Capítulo 7), el informe exige:",
+      "options": [
+        "Establecer una ética de transparencia, anonimizar obligatoriamente los datos de alumnos y docentes y proteger el derecho humano a la privacidad",
+        "Vender los datos de rendimiento estudiantil a las empresas de publicidad para financiar las escuelas",
+        "Instalar cámaras de reconocimiento facial en todas las aulas de primaria para evaluar la atención",
+        "Publicar en internet las calificaciones y antecedentes médicos de todos los profesores"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Pág. 117",
+      "explicacion": "Los datos educativos deben ser protegidos y anonimizados."
+    },
+    {
+      "question": "¿Qué aportación fundamental ofrecen las cosmologías de los pueblos indígenas (ej. *Sumak Kawsay*, *Ubuntu*, *Karuna*) a la educación según el Capítulo 7?",
+      "options": [
+        "Enseñan que los seres humanos formamos parte recíproca e interdependiente de la biósfera y que la naturaleza no es un objeto, sino un sujeto con derechos y maestro de vida",
+        "Demuestran que el desarrollo económico ilimitado es el único fin de la humanidad",
+        "Proponen eliminar la enseñanza de la ciencia y la tecnología en la educación secundaria",
+        "Sostienen que los recursos naturales deben ser privatizados por las corporaciones locales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Pág. 118",
+      "explicacion": "Las filosofías ancestrales ofrecen claves éticas para la convivencia y la biósfera."
+    },
+    {
+      "question": "En cuanto al Aprendizaje y Educación de Adultos (ALE/EPJA) (Capítulo 7), el informe aboga por superar la visión estrecha de la 'recualificación para el mercado' para recuperar:",
+      "options": [
+        "Su carácter emancipador, orientado a la ciudadanía crítica, el desarrollo personal, la justicia social y el bienestar a lo largo de toda la vida",
+        "El dictado de clases magistrales obligatorias sobre historia antigua en horario nocturno",
+        "La entrega de certificados temporales válidos por solo tres meses",
+        "La sustitución de los facilitadores adultos por software automatizado de instrucción"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Págs. 119-120",
+      "explicacion": "La educación de adultos es un derecho emancipador que empodera al ciudadano."
+    },
+    {
+      "question": "En el Capítulo 8 ('Un llamamiento a la investigación y la innovación'), se exige que el programa mundial de investigación educativa se centre en:",
+      "options": [
+        "El derecho a la educación a lo largo de toda la vida, explorando las transformaciones futuras y basándose en una diversidad de fuentes y formas de conocer",
+        "Determinar cuál es la marca comercial de computadoras más eficiente para las escuelas",
+        "Crear rankings mundiales para sancionar a los países que no alcanzan el promedio PISA",
+        "Demostrar que la educación pública debe ser privatizada en los países en desarrollo"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 8, Pág. 129",
+      "explicacion": "La investigación debe ser inclusiva, participativa y guiada por el derecho humano."
+    },
+    {
+      "question": "¿Qué advertencia formula el informe respecto al uso del *Big Data* y la ciencia de datos en la investigación educativa (Capítulo 8)?",
+      "options": [
+        "Resistir el reduccionismo cuantitativo que considera que 'sin patrones numéricos no hay significado', pues la experiencia humana y cualitativa no se puede cuantificar",
+        "Prohibir el uso de estadísticas en los estudios sociológicos de la educación",
+        "Aceptar que los algoritmos de Big Data son 100% neutros y libres de prejuicios humanos",
+        "Sustituir las investigaciones de aula por modelos matemáticos teóricos elaborados por economistas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 8, Págs. 133-134",
+      "explicacion": "El Big Data no debe eclipsar otras formas de razonamiento ni pretender una falsa objetividad."
+    },
+    {
+      "question": "En la investigación sobre las ciencias del aprendizaje y la neurociencia (Capítulo 8), el informe subraya que:",
+      "options": [
+        "La cognición no es la única forma de aprender; el conocimiento social, emocional, cultural y corporal interactúa con el cerebro y no se reduce solo a la biología",
+        "La neurociencia ha resuelto de forma definitiva todos los problemas de la pedagogía escolar",
+        "Los experimentos de laboratorio en entornos controlados se aplican exactamente igual en todas las aulas reales",
+        "Las emociones no tienen ningún impacto en el funcionamiento de la memoria cerebral"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 8, Pág. 131",
+      "explicacion": "Los hallazgos neurocientíficos deben contextualizarse con la complejidad social del aula."
+    },
+    {
+      "question": "¿Qué principio ético fundamental debe regir toda experimentación e innovación educativa según el Capítulo 8?",
+      "options": [
+        "El principio de 'no experimentar con las personas'; estudiantes y profesores deben ser participantes conscientes y con derecho a voz en su propia educación",
+        "El principio de la máxima ganancia comercial para las empresas que prueban software en las escuelas públicas",
+        "El principio de la subordinación total del alumno a las pruebas de laboratorio",
+        "El principio de la confidencialidad absoluta que impide publicar los resultados de las investigaciones"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 8, Pág. 136",
+      "explicacion": "La innovación educativa requiere participación y consentimiento sin tratar a niños como experimentos."
+    },
+    {
+      "question": "En relación con los rankings y clasificaciones universitarias internacionales, el Capítulo 8 critica que:",
+      "options": [
+        "Fomentan la competencia desleal y la homogeneidad institucional, ignorando la valiosa contribución de las universidades a sus comunidades locales y a la justicia social",
+        "Piden demasiados requisitos de inclusión social y equidad de género a las universidades privadas",
+        "Son demasiado baratos y fáciles de elaborar por cualquier institución educativa",
+        "Premian únicamente a las universidades que tienen mayor cantidad de estudiantes indígenas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 8, Págs. 136-137",
+      "explicacion": "Los rankings comerciales distorsionan la misión pública de la educación superior."
+    },
+    {
+      "question": "En el Capítulo 9 ('Solidaridad mundial y cooperación internacional'), la UNESCO aboga por transformar la arquitectura de la ayuda internacional pasando:",
+      "options": [
+        "De las lógicas asimétricas y paternalistas de 'ayuda Norte-Sur' a verdaderas asociaciones multicéntricas, potenciando la cooperación Sur-Sur y triangular",
+        "De la financiación pública a la privatización total de las escuelas en África",
+        "De la cooperación multilateral a la invasión militar de los países con bajo rendimiento escolar",
+        "De la entrega de becas de estudio a la prohibición del intercambio académico internacional"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 9, Págs. 141-143",
+      "explicacion": "La cooperación internacional debe superar los legados coloniales y promover alianzas horizontales."
+    },
+    {
+      "question": "¿Cuál es la situación actual de la Ayuda Oficial al Desarrollo (AOD) en educación criticada en el Capítulo 9?",
+      "options": [
+        "Representa una fracción muy pequeña de la AOD total, está fragmentada por los donantes y se dirige desproporcionadamente a países de renta media en vez de renta baja",
+        "Supera el 90% de todo el presupuesto de las Naciones Unidas",
+        "Se destina de forma exclusiva y total a las escuelas de educación infantil de África subsahariana",
+        "Está administrada al 100% por un único fondo multilateral transparente"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 9, Pág. 142",
+      "explicacion": "La ayuda internacional es insuficiente, descoordinada y desatiende las áreas de mayor urgencia."
+    },
+    {
+      "question": "En el marco del nuevo contrato social, ¿dónde debe concentrar la UNESCO la mayor parte de sus recursos financieros y humanos según el Capítulo 9?",
+      "options": [
+        "En las regiones donde el derecho a la educación está más amenazado, y de forma prioritaria en el África subsahariana (donde vivirá la mayoría de los jóvenes en 2050)",
+        "En los países ricos de Europa y Norteamérica para financiar universidades de élite",
+        "En la construcción de sedes corporativas para las empresas multinacionales de tecnología",
+        "En la publicidad en medios de comunicación comerciales de los países desarrollados"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 9, Pág. 147",
+      "explicacion": "La solidaridad internacional debe volcarse en África subsahariana."
+    },
+    {
+      "question": "¿Qué papel debe desempeñar la UNESCO en el ecosistema global de la educación de cara al año 2050?",
+      "options": [
+        "Actuar como un socio guiado por la subsidiariedad, intermediario de conocimientos, centro de intercambio de experiencias y defensor del derecho universal a la educación",
+        "Convertirse en un banco comercial privado que presta dinero con intereses a los ministerios",
+        "Sustituir a los gobiernos nacionales en la aprobación de las leyes educativas internas",
+        "Establecer un currículo único y obligatorio de 10 materias para todas las escuelas del planeta"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 9, Págs. 147-148",
+      "explicacion": "La UNESCO debe potenciar la capacidad de los Estados y la sociedad civil."
+    },
+    {
+      "question": "En el marco de la cooperación internacional (Capítulo 9), las necesidades educativas de los refugiados, migrantes involuntarios y apátridas deben:",
+      "options": [
+        "Ser protegidas y financiadas con prioridad por la comunidad internacional como una obligación colectiva de derechos humanos",
+        "Ignorarse hasta que regresen a sus países de origen de forma voluntaria",
+        "Financiarse únicamente mediante el trabajo infantil de los propios refugiados",
+        "Delegarse al 100% a las empresas privadas de seguridad de los países de acogida"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 9, Págs. 142 y 146",
+      "explicacion": "Garantizar la educación de los refugiados es una obligación de derechos humanos."
+    },
+    {
+      "question": "En el Epílogo ('Construir juntos los futuros de la educación'), se reafirma que el nuevo contrato social para la educación:",
+      "options": [
+        "No se ejecuta por sí mismo ni es un plan estático, sino un documento vivo que requiere ser traducido y reinterpretado en cada contexto local por la sociedad",
+        "Es un decreto gubernamental que entra en vigencia de forma automática sin consultar a los profesores",
+        "Es un software informático que se instala en los servidores de los colegios",
+        "Es un documento confidencial al que solo tienen acceso los ministros de educación"
+      ],
+      "answer": 0,
+      "fuente": "Epílogo, Págs. 151 y 163",
+      "explicacion": "El informe cobra vida cuando las comunidades lo adaptan y lo ponen en práctica."
+    },
+    {
+      "question": "En el resumen de prioridades para el currículo (Epílogo), se enfatiza la necesidad de desarrollar múltiples alfabetizaciones, que incluyen:",
+      "options": [
+        "Alfabetización digital, científica, textual, ecológica y matemática para combatir la manipulación y la desinformación",
+        "Únicamente la alfabetización en lectura de textos impresos en blanco y negro",
+        "La alfabetización comercial para la compra de acciones en la bolsa de valores",
+        "La memorización de las leyes tributarias de los países desarrollados"
+      ],
+      "answer": 0,
+      "fuente": "Epílogo, Pág. 153",
+      "explicacion": "Formar ciudadanos requiere un enfoque holístico de alfabetizaciones múltiples."
+    },
+    {
+      "question": "Respecto a los docentes, el Epílogo sostiene que la transformación educativa exige:",
+      "options": [
+        "Proteger su autonomía profesional, garantizar salarios dignos, apoyar el trabajo colaborativo e integrarlos en los debates públicos sobre políticas educativas",
+        "Reemplazarlos progresivamente por sistemas de inteligencia artificial para ahorrar presupuesto",
+        "Congelar sus promociones salariales y evaluar su rendimiento mediante pruebas estandarizadas a los niños",
+        "Prohibir que los profesores se organicen en asociaciones o sindicatos"
+      ],
+      "answer": 0,
+      "fuente": "Epílogo, Págs. 154-155",
+      "explicacion": "La autonomía, profesionalización y bienestar docente son indispensables."
+    },
+    {
+      "question": "En la reconceptualización de las escuelas (Epílogo), la prioridad arquitectónica y organizativa consiste en:",
+      "options": [
+        "Rediseñar espacios, tiempos y agrupamientos para desarrollar la capacidad de las personas de trabajar juntas en entornos protegidos, inclusivos y sostenibles",
+        "Construir edificios escolares idénticos de hormigón con aulas de 50 escritorios fijos",
+        "Sustituir los edificios escolares por centros comerciales interactivos",
+        "Separar a los alumnos según su nivel de ingresos y color de piel"
+      ],
+      "answer": 0,
+      "fuente": "Epílogo, Págs. 155-156",
+      "explicacion": "Las escuelas deben reflejar la sostenibilidad, colaboración y derechos humanos."
+    },
+    {
+      "question": "Respecto a los tiempos y espacios educativos (Epílogo), la recomendación central es:",
+      "options": [
+        "Garantizar oportunidades educativas de calidad a lo largo de toda la vida y conectar los entornos naturales, construidos y virtuales de aprendizaje",
+        "Limitar la educación a los niños de 6 a 12 años en horario de mañana",
+        "Prohibir la educación de adultos mayores para reasignar esos fondos a las universidades",
+        "Exigir que todo el aprendizaje ocurra exclusivamente dentro de los museos del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Epílogo, Págs. 156-157",
+      "explicacion": "Los ecosistemas educativos deben integrar la biósfera, la ciudad, las escuelas y el ciberespacio."
+    },
+    {
+      "question": "¿Qué papel asigna el Epílogo a las universidades e instituciones de educación superior en la construcción del nuevo contrato social?",
+      "options": [
+        "Un rol de liderazgo irremplazable en la producción de conocimientos comunes abiertos, la formación docente, el diálogo intergeneracional y el servicio público",
+        "El papel de empresas lucrativas dedicadas a vender patentes científicas al mejor postor",
+        "Un rol secundario dedicado únicamente a otorgar títulos académicos de postgrado",
+        "Ningún rol, ya que la educación superior debe ser sustituida por cursos cortos en redes sociales"
+      ],
+      "answer": 0,
+      "fuente": "Epílogo, Págs. 159-160",
+      "explicacion": "Sin universidades comprometidas con la ciencia pública es imposible construir el contrato social."
+    },
+    {
+      "question": "En la llamada a la acción hacia los gobiernos (Epílogo), el informe aclara que su función debe ser:",
+      "options": [
+        "Preservar el carácter público de la educación garantizando financiación equitativa y actuando como promotores de la participación y la innovación social",
+        "Controlar rígidamente todo lo que piensan los alumnos y profesores en las aulas",
+        "Privatizar las escuelas públicas para reducir el déficit fiscal del Estado",
+        "Delegar la educación pública a fundaciones corporativas sin ninguna regulación"
+      ],
+      "answer": 0,
+      "fuente": "Epílogo, Pág. 160",
+      "explicacion": "El Estado es el garante del derecho a la educación y del bien público."
+    },
+    {
+      "question": "¿Por qué la participación de los niños y jóvenes es definida en el Epílogo como 'el aspecto más importante' para la continuación del informe?",
+      "options": [
+        "Porque el futuro les pertenece y sus movimientos ya están demostrando urgencia, claridad moral y capacidad de liderazgo transformador frente a los adultos",
+        "Porque son los únicos que saben utilizar teléfonos celulares en la sociedad actual",
+        "Porque son los que pagan las matrículas escolares en el sistema público",
+        "Porque son una población sumisa que acatará sin protestar los planes de los gobiernos"
+      ],
+      "answer": 0,
+      "fuente": "Epílogo, Pág. 160",
+      "explicacion": "Los jóvenes no son meros receptores del futuro: son los creadores del presente."
+    },
+    {
+      "question": "¿Qué solicita expresamente la Comisión Internacional a la UNESCO en la conclusión del Epílogo?",
+      "options": [
+        "Convertirse en un motor y centro mundial de intercambio de información sobre prácticas prometedoras y aplicaciones innovadoras de este informe",
+        "Sancionar económicamente a los países que no adopten el informe en un plazo de 30 días",
+        "Cerrar sus oficinas regionales y concentrar todo su personal en la sede de París",
+        "Vender los derechos de autor del informe a editoriales privadas internacionales"
+      ],
+      "answer": 0,
+      "fuente": "Epílogo, Págs. 161-162",
+      "explicacion": "La UNESCO debe ser la plataforma viva que dinamice el intercambio de saberes."
+    },
+    {
+      "question": "En conclusión, el informe 'Reimaginar juntos nuestros futuros: un nuevo contrato social para la educación' (UNESCO 2022) nos recuerda que la educación es, por encima de todo:",
+      "options": [
+        "El principal camino para reparar las injusticias, sanar el planeta y construir juntos un futuro pacífico, justo, equitativo y próspero para todos",
+        "Un gasto presupuestario innecesario que destruye la economía de las naciones",
+        "Una herramienta para seleccionar a las élites y marginar a la mayoría de la población",
+        "Un proceso mecánico de instrucción individualizada controlado por algoritmos computacionales"
+      ],
+      "answer": 0,
+      "fuente": "Prefacio, Pág. v y Epílogo, Pág. 163",
+      "explicacion": "El informe afirma la fe de la humanidad en la educación como el instrumento más poderoso para la paz y la vida sostenible."
+    },
+    {
+      "question": "En la llamada a la acción hacia las universidades (Capítulo 8), ¿qué significa la 'apertura de los conocimientos comunes'?",
+      "options": [
+        "Garantizar el acceso libre y sin barreras financieras a las investigaciones, libros de texto, materiales y datos producidos con fondos públicos",
+        "Publicar los exámenes de ingreso en periódicos comerciales privados",
+        "Permitir que cualquier persona ingrese a las aulas universitarias sin inscribirse",
+        "Eliminar las bibliotecas universitarias para vender el papel reciclado"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 78 y Capítulo 8, Pág. 132",
+      "explicacion": "Las universidades deben ser bastiones del acceso abierto y del conocimiento común."
+    },
+    {
+      "question": "¿Qué función cumplen los 'parques educativos' o centros de co-creación pedagógica mencionados en el Capítulo 5?",
+      "options": [
+        "Espacios donde universidades, escuelas, docentes y comunidades se reúnen para investigar, probar innovaciones y formar a los nuevos profesores",
+        "Parques de atracciones comerciales financiados por marcas de juguetes",
+        "Zonas reservadas para el descanso exclusivo de las autoridades del ministerio",
+        "Centros de almacenamiento de computadoras en desuso"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Pág. 94",
+      "explicacion": "Los parques educativos unen la investigación universitaria con la realidad del aula."
+    },
+    {
+      "question": "En el Capítulo 7, se advierte que los 'algoritmos comerciales de recomendación' en internet tienden a:",
+      "options": [
+        "Crear cámaras de eco y burbujas de filtro que polarizan a las personas y reducen la exposición a perspectivas diversas",
+        "Enseñar tolerancia e inclusión cultural de forma gratuita a los cibernautas",
+        "Traducir automáticamente todos los sitios web a lenguas indígenas de América Latina",
+        "Garantizar que todos los usuarios vean la verdad factual verificada"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 38 y Capítulo 7, Pág. 117",
+      "explicacion": "Las plataformas comerciales maximizan el tiempo de pantalla alimentando el sesgo de confirmación y la polarización."
+    },
+    {
+      "question": "Respecto a las 'evaluaciones formativas' impulsadas por el docente (Capítulo 3), su ventaja principal es que:",
+      "options": [
+        "Ocurren durante el proceso de aprendizaje, ofreciendo retroalimentación inmediata e individualizada para ayudar al alumno a mejorar",
+        "Generan una calificación numérica definitiva que se publica en internet",
+        "Sustituyen la necesidad de que el profesor planifique sus clases",
+        "Permiten sancionar a los estudiantes con faltas de asistencia"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 58",
+      "explicacion": "La evaluación formativa guía el proceso de aprendizaje sin punitivismo."
+    },
+    {
+      "question": "¿Qué propuesta plantea el informe para abordar la 'educación en contextos de migración y refugio' (Capítulo 9)?",
+      "options": [
+        "Establecer mecanismos multilaterales y un fondo de financiamiento global que garantice el derecho a la educación de los niños en tránsito o refugio",
+        "Prohibir el ingreso de niños migrantes a las escuelas públicas de los países de acogida",
+        "Exigir a los niños refugiados que paguen su escolaridad mediante trabajo informal",
+        "Obligar a las familias migrantes a cambiar su idioma natal antes de inscribirse en la escuela"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 9, Pág. 142",
+      "explicacion": "Garantizar la educación de la infancia refugiada es una obligación de solidaridad internacional."
+    },
+    {
+      "question": "En relación con el 'pensamiento computacional' (Capítulo 6), el informe sugiere enseñarlo en la escuela para:",
+      "options": [
+        "Que los estudiantes entiendan cómo se construyen las herramientas digitales y tengan poder para modificarlas y no ser meros consumidores pasivos",
+        "Garantizar que el 100% de los niños trabajen como programadores en empresas multinacionales",
+        "Eliminar las clases de pintura, música y educación física",
+        "Reemplazar la enseñanza de la lectura y la escritura en la infancia temprana"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 6, Pág. 105",
+      "explicacion": "El pensamiento computacional desmitifica la tecnología y capacita al estudiante para controlar el código."
+    },
+    {
+      "question": "¿Qué se entiende por 'pedagogía de la reciprocidad' en la relación entre humanos y medio ambiente (Capítulo 4)?",
+      "options": [
+        "Una enseñanza que reconoce que no solo tomamos recursos de la Tierra, sino que debemos cuidar y restaurar los ciclos naturales que sostienen la vida",
+        "Una lección de geografía donde se memoriza el nombre de las minas del país",
+        "Un acuerdo comercial entre agricultores y empresas de plaguicidas",
+        "La prohibición absoluta de utilizar agua en las escuelas rurales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Págs. 68-69",
+      "explicacion": "La reciprocidad supera la visión utilitarista e inculca el cuidado mutuo con el planeta."
+    },
+    {
+      "question": "En el Capítulo 5, la 'iniciación docente' se define como un derecho del nuevo profesor que debe incluir:",
+      "options": [
+        "Acompañamiento, reducción temporal de carga horaria, coenseñanza con colegas experimentados y mentoría no evaluativa",
+        "El dictado obligatorio de 60 horas semanales de clase en las escuelas más alejadas",
+        "La retención del 50% de su sueldo durante los primeros tres años de trabajo",
+        "La prohibición de reunirse con el sindicato docente o con otros profesores de su área"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Pág. 91",
+      "explicacion": "Un buen programa de iniciación reduce el abandono temprano y consolida la práctica profesional."
+    },
+    {
+      "question": "Respecto a las 'escuelas normales' e institutos de formación docente (Capítulo 5), el informe señala que deben:",
+      "options": [
+        "Transformarse continuamente para integrar la cultura digital, la diversidad cultural, la investigación-acción y las mallas curriculares del siglo XXI",
+        "Cerrarse definitivamente para sustituir la formación docente por títulos universitarios de administración",
+        "Mantener exactamente las mismas materias y métodos de enseñanza que usaban en 1950",
+        "Convertirse en academias privadas de lucro exclusivo"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Pág. 90",
+      "explicacion": "La formación inicial debe renovarse para responder a la diversidad e incertidumbre actual."
+    },
+    {
+      "question": "¿Por qué el informe enfatiza que la educación es un 'derecho habilitador'?",
+      "options": [
+        "Porque el ejercicio del derecho a la educación permite y potencia el disfrute de todos los demás derechos humanos (salud, trabajo, democracia, cultura)",
+        "Porque habilita a las escuelas a cobrar impuestos directos a los ciudadanos",
+        "Porque otorga permisos especiales a los estudiantes para no cumplir las leyes civiles",
+        "Porque permite que los gobiernos cancelen la libertad de prensa en momentos de crisis"
+      ],
+      "answer": 0,
+      "fuente": "Resumen, Pág. 1 e Introducción, Pág. 12",
+      "explicacion": "La educación es la llave que abre el acceso a la ciudadanía, la salud, la dignidad y el trabajo decente."
+    },
+    {
+      "question": "En el Capítulo 7, el 'derecho a la cultura' se relaciona con la educación porque:",
+      "options": [
+        "Permite a los estudiantes acceder al patrimonio cultural, fortalecer su identidad y participar activamente en la creación artística de su sociedad",
+        "Obliga a los alumnos a comprar entradas para espectáculos comerciales privados",
+        "Prohíbe el estudio de culturas o religiones distintas a la oficial del Estado",
+        "Exige que solo los artistas profesionales puedan escribir libros de texto escolares"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Pág. 121",
+      "explicacion": "Educación y cultura se alimentan mutuamente en la construcción de identidades plurales."
+    },
+    {
+      "question": "¿Qué función cumplen los 'consejos de evaluación comunitaria' en las pedagogías solidarias (Capítulo 3)?",
+      "options": [
+        "Involucrar a familias, estudiantes y vecinos en la valoración cualitativa del impacto de los proyectos escolares en la comunidad",
+        "Aplicar exámenes de selección para expulsar a los niños con bajo rendimiento",
+        "Fijar el precio de las pensiones de las escuelas privadas de la zona",
+        "Controlar la asistencia de los profesores mediante cámaras de vigilancia"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 54",
+      "explicacion": "La evaluación comunitaria otorga sentido social al aprendizaje e involucra al entorno."
+    },
+    {
+      "question": "En relación con el 'suicidio juvenil y problemas de salud mental' mencionados en el Capítulo 3, las escuelas deben:",
+      "options": [
+        "Crear entornos de apoyo socioemocional, cuidado mutuo, escucha atenta y prevención de la violencia y el acoso",
+        "Aumentar la presión de los exámenes para distraer a los alumnos de sus problemas",
+        "Expulsar a los estudiantes que manifiestan depresión o ansiedad",
+        "Prohibir que los psicólogos o trabajadores sociales ingresen a los colegios"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 61",
+      "explicacion": "La salud mental y el bienestar socioemocional son requisitos previos para cualquier aprendizaje real."
+    },
+    {
+      "question": "¿Qué papel asigna el Capítulo 8 a los 'estudiantes como coinvestigadores'?",
+      "options": [
+        "Reconocer su capacidad para investigar su propio aprendizaje, analizar problemas de su entorno y proponer soluciones innovadoras",
+        "Utilizarlos como asistentes no remunerados para tareas administrativas del ministerio",
+        "Prohibir que formulen preguntas sobre los contenidos de los libros de texto",
+        "Obligarlos a memorizar teorías científicas sin hacer experimentos prácticos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 8, Pág. 130",
+      "explicacion": "Los estudiantes son sujetos activos capaces de generar conocimiento relevante sobre su realidad."
+    },
+    {
+      "question": "En el Capítulo 9, se subraya que las 'reformas de las Naciones Unidas' buscan:",
+      "options": [
+        "Superar la crisis del multilateralismo promoviendo alianzas multicéntricas con la sociedad civil, jóvenes y actores locales",
+        "Disolver la UNESCO y transferir sus competencias a los bancos comerciales",
+        "Crear un único gobierno central mundial que dicte las leyes de todos los países",
+        "Prohibir que las ONG de derechos humanos participen en los foros internacionales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 9, Pág. 141",
+      "explicacion": "Un multilateralismo renovado es multicéntrico, inclusivo y participativo."
+    },
+    {
+      "question": "¿Qué es la 'alfabetización ecológica' propuesta en el Capítulo 4?",
+      "options": [
+        "La comprensión profunda de las redes interconectadas de la vida, los límites planetarios y la capacidad de actuar para restaurar los ecosistemas",
+        "Aprender de memoria los nombres científicos de 100 especies de plantas en latín",
+        "La lectura de libros sobre agricultura impresos en papel reciclado",
+        "La prohibición total del uso de cualquier tipo de energía en las escuelas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 68",
+      "explicacion": "La alfabetización ecológica inculca la conciencia de sostenibilidad y la acción reparadora."
+    },
+    {
+      "question": "En el Capítulo 5, el 'desarrollo profesional continuo' de los docentes debe caracterizarse por:",
+      "options": [
+        "Estar centrado en la práctica escolar de aula, extenderse en el tiempo y ser diseñado en colaboración con sus pares",
+        "Consistir en talleres aislados de 2 horas dictados por consultores comerciales una vez al año",
+        "Ser obligatorio durante los fines de semana sin remuneración salarial",
+        "Basarse exclusivamente en la lectura de manuales de administración de empresas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Pág. 91",
+      "explicacion": "El desarrollo profesional efectivo está vinculado a la realidad del aula y al trabajo en equipo."
+    },
+    {
+      "question": "Respecto a las 'tecnologías de código abierto' (*open source*) en la educación (Capítulo 7), el informe exige:",
+      "options": [
+        "Priorizar su uso en los ecosistemas digitales públicos porque garantizan la transparencia, modificabilidad y soberanía tecnológica",
+        "Prohibir su uso por no ser producidas por empresas multinacionales lucrativas",
+        "Sustituir todas las computadoras de las escuelas por teléfonos celulares privados",
+        "Cobrar una licencia de uso a los profesores que modifiquen el software libre"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Pág. 117",
+      "explicacion": "El software libre y de código abierto preserva el carácter público del conocimiento común."
+    },
+    {
+      "question": "¿Cómo influye la 'educación intercultural' en la prevención del racismo según el Capítulo 4?",
+      "options": [
+        "Promueve un diálogo horizontal entre diferentes culturas que cuestiona los prejuicios, revaloriza la diversidad y equilibra las relaciones de poder",
+        "Obliga a los grupos minoritarios a olvidar sus costumbres para imitar a la mayoría",
+        "Aísla a los estudiantes en escuelas separadas según su grupo étnico de origen",
+        "Prohíbe la enseñanza de la historia de los pueblos originarios en las ciudades"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 72",
+      "explicacion": "La educación intercultural democrática desmonta el racismo estructural y promueve la reciprocidad."
+    },
+    {
+      "question": "En el Capítulo 6, se insiste en que las escuelas deben ser 'sitios protegidos' para:",
+      "options": [
+        "Garantizar el bienestar, la equidad, la seguridad física y la libertad intelectual frente a las presiones o violencias del entorno",
+        "Impedir que los padres de familia sepan lo que sus hijos aprenden en las aulas",
+        "Aislar a los estudiantes de los problemas ambientales o sociales de su comunidad",
+        "Proteger las ganancias económicas de las empresas privadas que gestionan colegios"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 6, Pág. 99",
+      "explicacion": "La escuela es un refugio seguro donde el niño puede expresarse, aprender y ser protegido."
+    },
+    {
+      "question": "¿Qué significa que la formación docente deba incluir una 'dimensión de investigación' (Capítulo 5)?",
+      "options": [
+        "Que los futuros profesores aprendan a formular preguntas, observar el aula, analizar evidencias y ajustar su pedagogía de forma científica",
+        "Que todos los maestros de primaria deban obtener un doctorado en biología molecular",
+        "Que los profesores dejen de dictar clases para dedicarse a escribir libros académicos",
+        "Que las escuelas normales sean cerradas y sustituidas por laboratorios privados"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Pág. 87",
+      "explicacion": "Formar docentes investigadores fortalece su autonomía y les otorga herramientas de innovación."
+    },
+    {
+      "question": "En relación con la 'descolonización del conocimiento' (Capítulo 4 y 8), el informe sostiene que:",
+      "options": [
+        "Requiere valorar las epistemologías indígenas y del Sur Global como formas válidas y viables de comprender y habitar el mundo contemporáneo",
+        "Consiste en quemar los libros escritos por científicos europeos de los siglos pasados",
+        "Exige prohibir el uso de internet y la tecnología en los países en desarrollo",
+        "Es un concepto teórico que no tiene ninguna aplicación en la enseñanza primaria"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 67 y Capítulo 8, Pág. 132",
+      "explicacion": "Descolonizar es abrir el diálogo de saberes e integrar las visiones históricamente marginadas."
+    },
+    {
+      "question": "¿Qué función cumple la 'evaluación cualitativa de procesos' en las escuelas del siglo XXI (Capítulo 3)?",
+      "options": [
+        "Comprender en profundidad cómo razona el alumno, cómo colabora y cuáles son sus dificultades, orientando la mejora sin etiquetarlo",
+        "Asignar una nota de reprobación automática a los alumnos con dificultades socioemocionales",
+        "Clasificar a los colegios en listas públicas para decidir cuáles deben cerrar",
+        "Sustituir el trabajo de los profesores por reportes automáticos generados por computadoras"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 57",
+      "explicacion": "La evaluación cualitativa ofrece riqueza diagnóstica y apoya el desarrollo integral."
+    },
+    {
+      "question": "En el Capítulo 7, el 'derecho al agua, saneamiento y nutrición' se presenta en relación con la educación como:",
+      "options": [
+        "Condiciones habilitadoras e intersectoriales indispensables para que los niños puedan asistir a la escuela y aprender con salud y dignidad",
+        "Responsabilidades exclusivas de los profesores de aula durante su horario de clases",
+        "Servicios que solo deben ofrecerse en los colegios privados de pago",
+        "Problemas ajenos a la política educativa que no deben ser abordados por el Estado"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Pág. 114",
+      "explicacion": "El derecho a la educación es indivisible de otros derechos sociales básicos como la salud y la alimentación."
+    },
+    {
+      "question": "¿Qué lección ofrece el informe respecto a la 'resiliencia comunitaria' durante las catástrofes climáticas o sanitarias (Capítulo 8)?",
+      "options": [
+        "Que las comunidades locales poseen un inmenso caudal de creatividad y conocimiento práctico que permite adaptar y sostener la educación en crisis",
+        "Que las comunidades campesinas siempre esperan de forma pasiva la ayuda del exterior",
+        "Que las escuelas rurales deben ser abandonadas ante el primer evento climático",
+        "Que la tecnología digital es la única capaz de responder a las emergencias climáticas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 8, Pág. 133",
+      "explicacion": "La resiliencia comunitaria es una fuente de aprendizaje e innovación para los sistemas educativos."
+    },
+    {
+      "question": "En el Capítulo 9, la 'Declaración de París sobre la Eficacia de la Ayuda al Desarrollo' (2005) se cita para recordar que:",
+      "options": [
+        "La ayuda internacional debe alinearse con las prioridades nacionales de cada país y evitar la duplicación o fragmentación de proyectos aislados",
+        "Los países ricos pueden dictar las leyes educativas de los países pobres que reciben ayuda",
+        "La ayuda financiera internacional debe eliminarse por completo antes del año 2030",
+        "Toda la ayuda internacional debe gestionarse mediante empresas tecnológicas privadas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 9, Pág. 142",
+      "explicacion": "La eficacia de la ayuda exige respetar la apropiación nacional y coordinar los fondos."
+    },
+    {
+      "question": "¿Cómo aborda el informe la cuestión de las 'lenguas de signos' en el currículo inclusivo (Capítulo 4)?",
+      "options": [
+        "Como un derecho lingüístico fundamental de la comunidad sorda que debe ser enseñado y reconocido como parte del patrimonio plurilingüe común",
+        "Como un método secundario que debe evitarse en favor de la lectura de labios obligatoria",
+        "Como un idioma exclusivo para ser usado en el hogar sin presencia en la escuela formal",
+        "Como una materia optativa que solo debe ofrecerse en las universidades de medicina"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 72",
+      "explicacion": "La Lengua de Señas es un derecho cultural e instrumento central para la inclusión epistémica."
+    },
+    {
+      "question": "En el Capítulo 5, la 'mentoría docente' entre profesores experimentados y principiantes busca:",
+      "options": [
+        "Acompañar el desarrollo del nuevo profesor en un ambiente de confianza, compartiendo estrategias y previniendo el aislamiento laboral",
+        "Fiscalizar y sancionar los errores del docente nuevo para descontarle el sueldo",
+        "Sustituir la formación universitaria por tres días de observación en el aula",
+        "Obligar al docente principiante a realizar las tareas administrativas del profesor antiguo"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Pág. 91",
+      "explicacion": "La mentoría es una práctica colaborativa de acogida profesional y transmisión de saber práctico."
+    },
+    {
+      "question": "¿Qué significa que la educación sea una 'vía para la justicia ambiental y social' (Capítulo 2 y 4)?",
+      "options": [
+        "Que la enseñanza capacita a las personas para comprender las causas profundas de la desigualdad y la degradación ecológica y organizarse para cambiarlas",
+        "Que la escuela debe sancionar a los estudiantes que consumen alimentos no ecológicos",
+        "Que los cursos de medio ambiente sustituyen la necesidad de promulgar leyes ambientales",
+        "Que solo los estudiantes universitarios de clase alta pueden participar en acciones ambientales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 2, Pág. 31 y Capítulo 4, Pág. 68",
+      "explicacion": "La educación no es neutral: dota de agencia cívica para transformar las estructuras injustas."
+    },
+    {
+      "question": "En relación con la 'historia' como materia escolar (Capítulo 4), el informe aconseja enseñarla para:",
+      "options": [
+        "Comprender la contingencia histórica y los debates sobre evidencias, mostrando que el presente no es inevitable y que el futuro puede ser transformado",
+        "Aprender de memoria los nombres de todos los reyes e imperios del pasado",
+        "Justificar las guerras y la dominación de unos pueblos sobre otros",
+        "Demostrar que las sociedades del presente son perfectas y no requieren cambios"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 75",
+      "explicacion": "Enseñar la historia de forma crítica revela que las instituciones humanas son modificables."
+    },
+    {
+      "question": "En el Capítulo 6, la 'colegialidad profesional' entre los directivos y docentes de una escuela significa:",
+      "options": [
+        "Un estilo de liderazgo distribuido basado en la confianza, el diálogo y la toma de decisiones compartida sobre el proyecto pedagógico",
+        "El mando jerárquico absoluto del director sobre el personal del colegio",
+        "La imposición de sanciones administrativas a los docentes que proponen innovaciones",
+        "La sustitución de los consejos de profesores por reuniones virtuales con la empresa privada"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 6, Pág. 106",
+      "explicacion": "La colegialidad convierte a la escuela en una organización democrática de aprendizaje."
+    },
+    {
+      "question": "¿Qué papel desempeñan las 'asociaciones de estudiantes y movimientos juveniles' en el nuevo contrato social (Epílogo)?",
+      "options": [
+        "Son actores políticos clave cuya voz, propuestas e iniciativas deben ser respetadas e integradas en la gobernanza educativa",
+        "Son grupos de presión que deben ser prohibidos en los colegios de secundaria",
+        "Son organizaciones encargadas exclusivamente de la limpieza de los patios escolares",
+        "Son empresas comerciales dedicadas a la venta de uniforme a sus compañeros"
+      ],
+      "answer": 0,
+      "fuente": "Epílogo, Pág. 160",
+      "explicacion": "La participación juvenil es el corazón de la renovación democrática de la educación."
+    },
+    {
+      "question": "En el Capítulo 7, el 'derecho a la ciencia' se define en relación con la educación como:",
+      "options": [
+        "El derecho de toda persona a acceder a los avances científicos, comprender sus métodos y participar en la creación de conocimiento",
+        "La obligación de trabajar en laboratorios farmacéuticos privados",
+        "El derecho exclusivo de los científicos universitarios a opinar sobre la política del país",
+        "La prohibición de enseñar teorías científicas que contradigan las costumbres locales"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Pág. 121",
+      "explicacion": "El derecho a la ciencia forma parte del patrimonio común e impulsa la ciudadanía informada."
+    },
+    {
+      "question": "¿Cómo contribuye el 'aprendizaje-servicio' a la formación ética de los estudiantes (Capítulo 3)?",
+      "options": [
+        "Conecta los contenidos académicos con necesidades reales de la comunidad, enseñando a servir con humildad y responsabilidad social",
+        "Obliga a los alumnos a trabajar de forma gratuita en empresas privadas durante el verano",
+        "Otorga calificaciones aprobatorias automáticas sin necesidad de estudiar las asignaturas",
+        "Prohíbe a los estudiantes realizar actividades de voluntariado fuera del colegio"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 54",
+      "explicacion": "El aprendizaje-servicio une la excelencia académica con el compromiso cívico solidario."
+    },
+    {
+      "question": "En el Capítulo 8, se subraya que la 'investigación-acción' en las escuelas contribuye a:",
+      "options": [
+        "Mejorar de forma continua la enseñanza mediante el ensayo, la observación rigurosa y la corrección de errores en la práctica diaria",
+        "Demostrar que los libros de texto no requieren ninguna modificación a lo largo del tiempo",
+        "Aumentar las ganancias de las empresas dedicadas a la venta de software educativo",
+        "Sustituir el trabajo de las universidades por experimentos de aula no documentados"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 8, Págs. 130-131",
+      "explicacion": "La investigación-acción es la herramienta por excelencia de la profesionalización docente."
+    },
+    {
+      "question": "En relación con la 'equidad en el financiamiento escolar' (Capítulo 7 y 9), el principio de justicia exige que los Estados:",
+      "options": [
+        "Asignen mayores recursos y apoyos pedagógicos a las escuelas e individuos en situaciones de mayor vulnerabilidad o pobreza",
+        "Repartan exactamente el mismo dinero a cada escuela independientemente de si es rica o pobre",
+        "Entreguen la mayor parte del presupuesto estatal a los colegios privados de las capitales",
+        "Exijan a las familias pobres que paguen el sueldo de los profesores de sus hijos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Pág. 115 y Capítulo 9, Pág. 142",
+      "explicacion": "La equidad financiera da más a quien más lo necesita para nivelar las oportunidades reales."
+    },
+    {
+      "question": "¿Qué son las 'redes de aprendizaje entre escuelas' resaltadas en el Capítulo 6 y 8?",
+      "options": [
+        "Alianzas entre diferentes colegios para compartir buenas prácticas, recursos pedagógicos e investigar juntos soluciones a problemas comunes",
+        "Acuerdos comerciales para la compra conjunta de uniformes escolares",
+        "Ligas deportivas competitivas donde solo participan los mejores atletas de cada colegio",
+        "Sistemas de comparación pública para sancionar a los colegios con peores notas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 6, Pág. 106 y Capítulo 8, Pág. 135",
+      "explicacion": "Las redes interescolares rompen el aislamiento institucional y difunden la innovación."
+    },
+    {
+      "question": "En el Capítulo 4, se defiende que la 'creatividad y la expresión artística' deben estar presentes en el currículo porque:",
+      "options": [
+        "Ofrecen nuevos lenguajes para dar sentido al mundo, desarrollar la sensibilidad, la crítica cultural y la acción política democrática",
+        "Son actividades de relleno para los días de lluvia o cuando no hay profesor de matemáticas",
+        "Permiten seleccionar a los alumnos que se dedicarán al comercio de obras de arte",
+        "Son asignaturas exclusivas para las escuelas privadas del área urbana"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 4, Pág. 76",
+      "explicacion": "El arte educa la sensibilidad, la imaginación de mundos posibles y la expresión libre."
+    },
+    {
+      "question": "En el Capítulo 5, se subraya que las 'carreras profesionales docentes' deben diseñarse teniendo en cuenta:",
+      "options": [
+        "La perspectiva de género, garantizando la equidad salarial y evitando que la feminización del sector sirva de excusa para la desvalorización laboral",
+        "El despido automático de los profesores al cumplir 10 años de trabajo",
+        "La obligación de los docentes hombres de ganar el doble que sus compañeras mujeres",
+        "La prohibición de que las mujeres docentes ocupen cargos de dirección escolar"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 5, Pág. 92",
+      "explicacion": "Superar las brechas de género en la docencia exige justicia salarial y equidad en el liderazgo."
+    },
+    {
+      "question": "¿Cómo define el informe el concepto de 'solidaridad intergeneracional' en la educación (Capítulo 7 y Epílogo)?",
+      "options": [
+        "La responsabilidad ética que la generación presente tiene de transmitir, cuidar y transformar el mundo para garantizar la vida justa de las futuras generaciones",
+        "El pago obligatorio de impuestos por parte de los niños para financiar las jubilaciones de los adultos",
+        "La obligación de los ancianos de estudiar en las mismas aulas que los niños de primaria",
+        "La prohibición de que los jóvenes opinen sobre los problemas ambientales creados por los adultos"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 7, Pág. 121 e Epílogo, Pág. 151",
+      "explicacion": "La solidaridad intergeneracional nos recuerda que somos guardianes temporales del planeta y del saber."
+    },
+    {
+      "question": "En el Capítulo 6, se afirma que el 'liderazgo escolar' debe orientarse hacia:",
+      "options": [
+        "Fomentar la colegialidad, la autonomía docente, el bienestar estudiantil y la construcción de un proyecto educativo comunitario",
+        "Aplicar castigos disciplinares estrictos a los docentes que proponen cambios pedagógicos",
+        "Gestionar la escuela como una fábrica buscando la máxima rentabilidad financiera",
+        "Aislar al colegio de las organizaciones comunitarias y familias del barrio"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 6, Pág. 106",
+      "explicacion": "El liderazgo directivo es pedagógico y comunitario, centrado en el cuidado y la excelencia inclusiva."
+    },
+    {
+      "question": "¿Qué aportación ofrece el 'diálogo interreligioso e intercultural' en el currículo según el Capítulo 3 y 4?",
+      "options": [
+        "Enseña el respeto por las diversas cosmovisiones y espiritualidades de la humanidad, previniendo el fanatismo, la intolerancia y el extremismo",
+        "Obliga a todos los alumnos a convertirse a la religión oficial del Estado",
+        "Prohíbe que se hablen de temas éticos o espirituales dentro de los colegios públicos",
+        "Demuestra que existe una sola religión verdadera y que las demás deben ser eliminadas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 3, Pág. 55 y Capítulo 4, Pág. 72",
+      "explicacion": "El diálogo entre visiones éticas y espirituales construye paz y comprensión mutua en sociedades plurales."
+    },
+    {
+      "question": "En el Capítulo 9, se subraya que las 'asociaciones mundiales para la educación' deben caracterizarse por:",
+      "options": [
+        "Una gobernanza transparente y multicéntrica donde las voces de los países en desarrollo, docentes y jóvenes tengan el mismo peso que los donantes",
+        "El control exclusivo de las decisiones por parte de los ministerios de finanzas del G7",
+        "La obligación de privatizar los servicios educativos en todos los países beneficiarios",
+        "La prohibición de que la UNESCO participe en los debates sobre políticas educativas"
+      ],
+      "answer": 0,
+      "fuente": "Capítulo 9, Págs. 143-144",
+      "explicacion": "Las asociaciones globales legítimas son horizontales, participativas y rinden cuentas públicamente."
+    },
+    {
+      "question": "En el Epílogo, se hace un llamamiento a la 'imaginación colectiva' para:",
+      "options": [
+        "Audazmente concebir y construir sistemas educativos que restauren la armonía social y planetaria sin resignarse a la mera repetición del pasado",
+        "Diseñar videojuegos comerciales para el entretenimiento de los alumnos durante las vacaciones",
+        "Aceptar que el cambio climático es inevitable y que la educación no puede hacer nada al respecto",
+        "Sustituir los libros impresos por resúmenes cortos elaborados por inteligencia artificial"
+      ],
+      "answer": 0,
+      "fuente": "Epílogo, Págs. 151 y 163",
+      "explicacion": "La imaginación colectiva es la fuerza motriz que nos permite superar el inmovilismo y transformar el futuro."
+    },
+    {
+      "question": "En conclusión, el informe 'Reimaginar juntos nuestros futuros: un nuevo contrato social para la educación' (UNESCO 2022) afirma que forjar este nuevo contrato es:",
+      "options": [
+        "El paso fundamental e impostergable para reparar las injusticias del pasado, defender los bienes comunes y reimaginar juntos nuestro futuro compartido",
+        "Un proyecto utópico e imposible que no tiene ninguna aplicación práctica en el mundo real",
+        "Una estrategia exclusiva para resolver los problemas de las escuelas de los países ricos",
+        "Un manual de administración de empresas destinado a recortar el gasto público en educación"
+      ],
+      "answer": 0,
+      "fuente": "Prefacio, Pág. v, Resumen, Pág. 4 y Epílogo, Pág. 163",
+      "explicacion": "El nuevo contrato social es nuestra oportunidad colectiva para sanar las divisiones y edificar un mundo pacífico, justo y sostenible."
+    }
+  ]
+}

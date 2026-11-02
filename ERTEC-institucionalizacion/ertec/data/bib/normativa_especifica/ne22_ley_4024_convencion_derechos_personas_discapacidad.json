@@ -1,0 +1,1827 @@
+{
+  "bibliografia": {
+    "id": "ne22_ley_4024_convencion_derechos_personas_discapacidad",
+    "nombre": "Ley N° 4024 que aprueba la Convención sobre los Derechos de las Personas con Discapacidad",
+    "detalle": "15 de abril de 2009",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Subdirector Alt. y Especial",
+      "Director Distrital",
+      "Director de CEE"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objeto principal de la Ley N° 4024 promulgada por el Estado Plurinacional de Bolivia el 15 de abril de 2009?",
+      "options": [
+        "Aprobar la Convención sobre los Derechos de las Personas con Discapacidad y su Protocolo Facultativo, adoptados por la Asamblea General de las Naciones Unidas el 13 de diciembre de 2006",
+        "Crear el Instituto Boliviano de la Ceguera y regular las pensiones asistenciales a nivel departamental",
+        "Establecer la gratuidad obligatoria de los servicios de salud únicamente en hospitales privados",
+        "Sustituir el Código Penal boliviano en todo lo referente a delitos cometidos por personas con discapacidad"
+      ],
+      "answer": 0,
+      "fuente": "Ley N° 4024, Artículo Único",
+      "explicacion": "La Ley N° 4024 aprueba en todos sus extremos la Convención sobre los Derechos de las Personas con Discapacidad y su Protocolo Facultativo adoptados en la ONU el 13 de diciembre de 2006."
+    },
+    {
+      "question": "Según el inciso e) del Preámbulo de la Convención, ¿cómo se concibe jurídicamente la 'discapacidad'?",
+      "options": [
+        "Como un concepto en evolución que resulta de la interacción entre las personas con deficiencias y las barreras debidas a la actitud y al entorno",
+        "Como una enfermedad médica irreversible que invalida de forma permanente el libre albedrío de la persona",
+        "Como un estado de incapacidad legal absoluta que requiere obligatoriamente la designación de un curador judicial",
+        "Como una limitación exclusivamente biológica que no guarda relación con las estructuras sociales ni las barreras de entorno"
+      ],
+      "answer": 0,
+      "fuente": "Convención sobre los Derechos de las Personas con Discapacidad, Preámbulo inc. e)",
+      "explicacion": "El Preámbulo e) establece que la discapacidad es un concepto dinámico/en evolución derivado de la interacción entre las deficiencias del sujeto y las barreras actitudinales y del entorno."
+    },
+    {
+      "question": "Según el Artículo 1 de la Convención, ¿cuál es el propósito fundamental de este instrumento internacional?",
+      "options": [
+        "Promover, proteger y asegurar el goce pleno y en condiciones de igualdad de todos los derechos humanos y libertades fundamentales por todas las personas con discapacidad, y promover el respeto de su dignidad inherente",
+        "Disponer el internamiento obligatorio y especializado de todas las personas con deficiencias intelectuales severas",
+        "Otorgar licencias comerciales exclusivas e inmunidad procesal tributaria a los tutores familiares",
+        "Reemplazar las leyes nacionales sobre matrimonio y herencias por estatutos bancarios internacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Convención",
+      "explicacion": "El Art. 1 define el propósito de promover, proteger y asegurar el goce pleno de derechos humanos y libertades fundamentales en condiciones de igualdad."
+    },
+    {
+      "question": "Conforme al segundo párrafo del Artículo 1, ¿a quiénes se incluye formalmente bajo el concepto de 'personas con discapacidad'?",
+      "options": [
+        "A aquellas que tengan deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que, al interactuar con diversas barreras, puedan impedir su participación plena y efectiva en la sociedad",
+        "Únicamente a las personas que acrediten un grado de invalidez motora superior al 80% mediante dictamen médico forense",
+        "Exclusivamente a los adultos mayores con pérdida de facultades cognitivas sobrevenidas",
+        "A las personas con enfermedades transmisibles temporales o incapacidades laborales de menos de noventa días"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, Convención",
+      "explicacion": "El Art. 1 incluye a quienes presenten deficiencias físicas, mentales, intelectuales o sensoriales a largo plazo que al interactuar con barreras impidan su participación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 2 de la Convención, ¿qué abarca el término 'comunicación'?",
+      "options": [
+        "Incluye lenguajes, visualización de textos, Braille, comunicación táctil, macrotipos, dispositivos multimedia accesibles, lenguaje escrito, sistemas auditivos, lenguaje sencillo, voz digitalizada y modos alternativos",
+        "Se limita estrictamente a la transmisión verbal hablada y a las publicaciones de la gaceta oficial",
+        "Únicamente a los mensajes emitidos por radiofrecuencia y televisión estatal en horario de alta audiencia",
+        "Exclusivamente a las señas manuales utilizadas por personas con discapacidad auditiva en audiencias penales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, Convención",
+      "explicacion": "El Art. 2 define comunicación de manera amplia e inclusiva incorporando Braille, táctil, macrotipos, voz digitalizada, sistemas aumentativos/alternativos y TIC accesible."
+    },
+    {
+      "question": "Según el Artículo 2 de la Convención, ¿qué se entenderá por 'lenguaje'?",
+      "options": [
+        "Tanto el lenguaje oral como la lengua de señas y otras formas de comunicación no verbal",
+        "Únicamente los idiomas oficiales hablados por la mayoría parlamentaria de cada Estado Parte",
+        "La escritura alfabética estándar prohibiendo las simbologías icónicas y pictogramas",
+        "El código morse y los lenguajes informáticos de programación de bases de datos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, Convención",
+      "explicacion": "El Art. 2 estipula que 'lenguaje' comprende tanto el lenguaje oral como la lengua de señas y otras formas de comunicación no verbal."
+    },
+    {
+      "question": "En el marco del Artículo 2, ¿qué comprende la 'discriminación por motivos de discapacidad'?",
+      "options": [
+        "Cualquier distinción, exclusión o restricción que obstaculice el goce de derechos humanos, incluyendo expresamente la denegación de ajustes razonables",
+        "Únicamente los actos físicos de violencia o insultos verbales proferidos en recintos públicos",
+        "Exclusivamente la negativa a contratar a una persona con discapacidad en el sector bancario privado",
+        "La exigencia de rendir exámenes de competencia académica para acceder a cargos de alta dirección pública"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, Convención",
+      "explicacion": "La Convención establece de forma categórica que la denegación de ajustes razonables constituye una forma directa de discriminación por motivos de discapacidad."
+    },
+    {
+      "question": "¿Cómo define el Artículo 2 de la Convención los 'ajustes razonables'?",
+      "options": [
+        "Las modificaciones y adaptaciones necesarias y adecuadas que no impongan una carga desproporcionada o indebida, requeridas en un caso particular",
+        "Cualquier remodelación arquitectónica integral cuyo costo supere el cincuenta por ciento del presupuesto institucional",
+        "La exención total de impuestos sobre inmuebles y vehículos a favor de los parientes en tercer grado",
+        "La contratación obligatoria de dos asistentes personales pagados directamente por el Poder Judicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, Convención",
+      "explicacion": "Los ajustes razonables son adaptaciones específicas e individuales que no impongan una carga desproporcionada o indebida para garantizar el goce igualitario de derechos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 2, el concepto de 'diseño universal' implica que:",
+      "options": [
+        "Los productos, entornos, programas y servicios puedan ser utilizados por todas las personas en la mayor medida posible, sin necesidad de adaptación ni diseño especializado, sin excluir ayudas técnicas cuando se necesiten",
+        "Todos los edificios deben ser construidos de forma idéntica con el mismo modelo arquitectónico estándar en todas las zonas geográficas",
+        "Se prohíbe la fabricación de aparatos de ortesis o prótesis individuales para no romper el principio de igualdad",
+        "Se exige la eliminación de todo software informático que requiera teclado físico o pantalla digital"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, Convención",
+      "explicacion": "El diseño universal busca productos y entornos utilizables por todos sin necesidad de adaptaciones complejas, sin excluir ayudas técnicas para grupos específicos."
+    },
+    {
+      "question": "¿Cuál de los siguientes NO figura como uno de los ocho Principios Generales de la Convención enunciados en el Artículo 3?",
+      "options": [
+        "La institucionalización obligatoria de personas con discapacidad intelectual severa en albergues estatales",
+        "El respeto de la dignidad inherente, la autonomía individual y la independencia de las personas",
+        "La no discriminación y la participación e inclusión plenas y efectivas en la sociedad",
+        "La accesibilidad, la igualdad entre el hombre y la mujer, y el respeto a la evolución de las facultades de los niños con discapacidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3, Convención",
+      "explicacion": "El Art. 3 consagra 8 principios (dignidad/autonomía, no discriminación, participación/inclusión, diferencia/aceptación, igualdad de oportunidades, accesibilidad, igualdad de género y desarrollo del niño). La institucionalización es contraria a la Convención."
+    },
+    {
+      "question": "Según el Artículo 4.3 de la Convención, ¿cuál es la obligación de los Estados Partes en la elaboración y aplicación de legislación y políticas relacionadas con las personas con discapacidad?",
+      "options": [
+        "Celebrar consultas estrechas y colaborar activamente con las personas con discapacidad, incluidos los niños y niñas, a través de las organizaciones que las representan",
+        "Solicitar la aprobación previa del Banco Mundial antes de emitir cualquier decreto o reglamento nacional",
+        "Consultar exclusivamente a sociedades científicas médicas de traumatología y neurología",
+        "Publicar las normas únicamente en tableros de información sin proceso participativo previo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.3, Convención",
+      "explicacion": "El Art. 4.3 impone la obligación de consultar estrechamente y colaborar activamente con las personas con discapacidad y sus organizaciones representativas."
+    },
+    {
+      "question": "Respecto a los derechos económicos, sociales y culturales, ¿cuál es el compromiso adoptado por los Estados Partes conforme al Artículo 4.2?",
+      "options": [
+        "Adoptar medidas hasta el máximo de sus recursos disponibles para lograr de manera progresiva su pleno ejercicio, sin perjuicio de las obligaciones aplicables de inmediato",
+        "Garantizar la gratuidad e inmediatez absoluta de todas las prestaciones sin importar el presupuesto fiscal del Estado",
+        "Suspender la aplicación de los derechos sociales en épocas de recesión económica internacional",
+        "Delegar la atención de la salud y educación inclusiva exclusivamente en donaciones de ONGs extranjeras"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.2, Convención",
+      "explicacion": "El Art. 4.2 consagra la efectividad progresiva de los DESC hasta el máximo de los recursos disponibles, sin perjuicio de las obligaciones de cumplimiento inmediato."
+    },
+    {
+      "question": "Conforme al Artículo 5.4 de la Convención, las medidas específicas que sean necesarias para acelerar o lograr la igualdad de hecho de las personas con discapacidad:",
+      "options": [
+        "No se considerarán discriminatorias en virtud de la presente Convención",
+        "Serán sancionadas como actos de discriminación inversa contra las personas sin discapacidad",
+        "Requerirán la autorización anual de los tribunales de arbitraje de la OMC",
+        "Solo podrán aplicarse por un tiempo máximo de seis meses en empresas públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.4, Convención",
+      "explicacion": "El Art. 5.4 establece que las medidas de acción afirmativa destinadas a lograr la igualdad de hecho no son discriminatorias."
+    },
+    {
+      "question": "El Artículo 6 de la Convención reconoce explícitamente que las mujeres y niñas con discapacidad están sujetas a:",
+      "options": [
+        "Múltiples formas de discriminación, obligando a los Estados a tomar medidas para asegurar su pleno desarrollo y potenciación",
+        "Incapacidad absoluta para celebrar contratos de trabajo remunerados en el sector público",
+        "Exención automática de cumplir funciones docentes en escuelas de educación especial",
+        "La tutoría legal obligatoria ejercida por los varones de la familia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6, Convención",
+      "explicacion": "El Art. 6 reconoce la interseccionalidad y múltiples formas de discriminación contra mujeres y niñas con discapacidad, exigiendo medidas de empoderamiento."
+    },
+    {
+      "question": "En todas las actividades relacionadas con niños y niñas con discapacidad, el Artículo 7 de la Convención establece que una consideración primordial será:",
+      "options": [
+        "La protección del interés superior del niño",
+        "El rendimiento económico del centro educativo donde está matriculado",
+        "La opinión exclusiva de los médicos pediatras del centro asistencial",
+        "La reducción del costo administrativo para los programas estatales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.2, Convención",
+      "explicacion": "El Art. 7.2 consagra la primacía del principio del interés superior del niño en todas las medidas que conciernan a la niñez con discapacidad."
+    },
+    {
+      "question": "Según el Artículo 8.2.b, entre las medidas de toma de conciencia se incluye fomentar en todos los niveles del sistema educativo una actitud de:",
+      "options": [
+        "Respeto de los derechos de las personas con discapacidad desde una edad temprana",
+        "Compasión y caridad paternalista orientada a la recolección de donaciones voluntarias",
+        "Segregación de aulas para evitar distracciones en los estudiantes de rendimiento ordinario",
+        "Evaluación médica obligatoria trimestral antes de otorgar el libreto de calificaciones"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.2.b, Convención",
+      "explicacion": "El Art. 8.2.b mandata fomentar en todo el sistema educativo, desde la primera infancia, una actitud de respeto hacia los derechos de las personas con discapacidad."
+    },
+    {
+      "question": "Conforme al Artículo 9.1.a, las medidas de accesibilidad se aplicarán a edificios, transporte e instalaciones exteriores e interiores, incluyendo explícitamente:",
+      "options": [
+        "Escuelas, viviendas, instalaciones médicas y lugares de trabajo",
+        "Únicamente recintos militares y sedes de ministerios de Estado",
+        "Exclusivamente aeropuertos internacionales y terminales de buses capitalinas",
+        "Instalaciones deportivas privadas de acceso exclusivo mediante membresía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.1.a, Convención",
+      "explicacion": "El Art. 9.1.a especifica que la accesibilidad se aplica a escuelas, viviendas, centros médicos, vías públicas y lugares de trabajo, en zonas urbanas y rurales."
+    },
+    {
+      "question": "El Artículo 9.2.d impone a los Estados Partes la obligación de dotar a los edificios públicos de:",
+      "options": [
+        "Señalización en Braille y en formatos de fácil lectura y comprensión",
+        "Cámaras de vigilancia conectadas directamente con la policía nacional",
+        "Ascensores acorazados de uso exclusivo para autoridades electas",
+        "Traducción automática simultánea en idiomas extranjeros occidentales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.2.d, Convención",
+      "explicacion": "El Art. 9.2.d exige dotar a los edificios e instalaciones abiertas al público de señalización en Braille y formatos de fácil lectura."
+    },
+    {
+      "question": "De acuerdo con el Artículo 11, los Estados Partes adoptarán medidas para garantizar la seguridad de las personas con discapacidad en situaciones de riesgo, incluyendo:",
+      "options": [
+        "Situaciones de conflicto armado, emergencias humanitarias y desastres naturales",
+        "Únicamente durante huelgas de transporte o paros laborales urbanos",
+        "Exclusivamente en periodos de elecciones presidenciales y referéndums",
+        "Durante la tramitación de juicios ordinarios en materia comercial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11, Convención",
+      "explicacion": "El Art. 11 obliga a adoptar todas las medidas necesarias para proteger a las personas con discapacidad en conflictos armados, emergencias humanitarias y desastres naturales."
+    },
+    {
+      "question": "De conformidad con el Artículo 12.2 de la Convención, los Estados Partes reconocerán que las personas con discapacidad tienen:",
+      "options": [
+        "Capacidad jurídica en igualdad de condiciones con las demás en todos los aspectos de la vida",
+        "Incapacidad jurídica natural que exige sustitución obligatoria por un tutor legal permanente",
+        "Capacidad jurídica restringida únicamente a actos de consumo menor en mercados locales",
+        "Capacidad legal solo si cuentan con un certificado de salud mental emitido en la gestión vigente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.2, Convención",
+      "explicacion": "El Art. 12.2 reafirma que las personas con discapacidad tienen plena capacidad jurídica en igualdad de condiciones en todos los aspectos de la vida."
+    },
+    {
+      "question": "Según el Artículo 12.4, las salvaguardias relativas al ejercicio de la capacidad jurídica deben asegurar que las medidas:",
+      "options": [
+        "Respeten los derechos, la voluntad y las preferencias de la persona, sin conflicto de intereses ni influencia indebida, y sujetas a examen periódico imparcial",
+        "Permitan a los familiares disponer de los bienes inmuebles de la persona sin su consentimiento previo",
+        "Tengan carácter irrevocable y permanente sin posibilidad de revisión judicial posterior",
+        "Inhabiliten el derecho al voto y a la celebración de contratos de trabajo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.4, Convención",
+      "explicacion": "El Art. 12.4 exige salvaguardias efectivas que respeten la voluntad y preferencias, eviten conflictos de interés, sean proporcionales y examinadas periódicamente."
+    },
+    {
+      "question": "El Artículo 13.1 de la Convención establece que para garantizar el acceso efectivo a la justicia se deben realizar:",
+      "options": [
+        "Ajustes de procedimiento y adecuados a la edad, facilitando el desempeño como participantes directos e indirectos, incluso como testigos",
+        "Juicios a puerta cerrada sin presencia de público ni defensores de oficio",
+        "La suspensión de plazos procesales hasta que la persona se rehabilite completamente",
+        "El traslado automático de todos los litigios a tribunales internacionales de arbitraje"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.1, Convención",
+      "explicacion": "El Art. 13.1 exige ajustes procesales y adecuados a la edad para permitir la participación plena en todas las etapas judiciales, incluso como testigos."
+    },
+    {
+      "question": "Conforme al Artículo 14.1.b de la Convención, respecto a la privación de libertad, se establece expresamente que:",
+      "options": [
+        "La existencia de una discapacidad no justificará en ningún caso una privación de la libertad",
+        "Toda persona con discapacidad intelectual debe ser internada en centros psiquiátricos por razones de seguridad pública",
+        "Las autoridades policiales pueden arrestar preventivamente a personas con discapacidad sin orden judicial",
+        "La privación de libertad se aplicará de forma automática a los infractores con deficiencias sensoriales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.1.b, Convención",
+      "explicacion": "El Art. 14.1.b manda que ninguna privación de libertad sea ilegal o arbitraria y que la existencia de una discapacidad jamás justifique privar de libertad."
+    },
+    {
+      "question": "En relación con la protección contra la tortura y tratos crueles (Art. 15.1), la Convención prohíbe de manera absoluta que una persona sea sometida a:",
+      "options": [
+        "Experimentos médicos o científicos sin su libre consentimiento",
+        "Tratamientos de fisioterapia en centros de rehabilitación públicos",
+        "Exámenes de audición o visión en el sistema escolar",
+        "Programas de vacunación gratuita dispuestos por las autoridades sanitarias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15.1, Convención",
+      "explicacion": "El Art. 15.1 establece categóricamente que nadie será sometido a experimentos médicos o científicos sin su libre consentimiento."
+    },
+    {
+      "question": "Para impedir casos de explotación, violencia y abuso (Art. 16.3), la Convención exige que todos los servicios y programas diseñados para atender a personas con discapacidad sean supervisados por:",
+      "options": [
+        "Autoridades independientes",
+        "Empresas privadas de seguridad contratadas por las familias",
+        "Comités de vecinos del barrio donde funciona el centro",
+        "Organizaciones internacionales de comercio exterior"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16.3, Convención",
+      "explicacion": "El Art. 16.3 exige que los servicios e instalaciones destinados a personas con discapacidad sean efectivamente supervisados por autoridades independientes."
+    },
+    {
+      "question": "Según el Artículo 18.2 de la Convención, los niños y niñas con discapacidad serán inscritos:",
+      "options": [
+        "Inmediatamente después de su nacimiento y tendrán desde el nacimiento derecho a un nombre, a adquirir una nacionalidad y a conocer a sus padres",
+        "Únicamente cuando cumplan los cinco años de edad y superen el examen médico inicial",
+        "En un registro especial de incapacidades administrado por el Ministerio de Gobierno",
+        "Solo si los progenitores no presentan deudas tributarias con el municipio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18.2, Convención",
+      "explicacion": "El Art. 18.2 mandata la inscripción inmediata tras el nacimiento, derecho al nombre, nacionalidad y a ser atendido por sus padres."
+    },
+    {
+      "question": "El Artículo 19 de la Convención consagra el derecho a vivir de forma independiente y a ser incluido en la comunidad, asegurando en especial que las personas con discapacidad:",
+      "options": [
+        "Tengan la oportunidad de elegir su lugar de residencia y dónde y con quién vivir, sin verse obligadas a vivir con arreglo a un sistema específico",
+        "Sean internadas en asilos comunitarios alejados de las zonas urbanas",
+        "Vivan obligatoriamente con sus padres consanguíneos de forma permanente",
+        "Reciban asistencia domiciliaria exclusivamente si pagan una tasa mensual al municipio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19.a, Convención",
+      "explicacion": "El Art. 19.a reconoce el derecho a elegir residencia, modalidad de convivencia e inclusión comunitaria, evitando la institucionalización o el aislamiento."
+    },
+    {
+      "question": "De conformidad con el Artículo 21.b, los Estados Partes se comprometen a aceptar y facilitar en sus relaciones oficiales la utilización de:",
+      "options": [
+        "La lengua de señas, el Braille, los modos, medios y formatos aumentativos y alternativos de comunicación",
+        "Únicamente documentos impresos en papel sellado oficial",
+        "Traducciones juradas al idioma latín o inglés técnico",
+        "Archivos de audio transmitidos exclusivamente por correo postal certificado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.b, Convención",
+      "explicacion": "El Art. 21.b obliga a aceptar y facilitar la lengua de señas, Braille y formatos aumentativos/alternativos en todas las relaciones oficiales."
+    },
+    {
+      "question": "En materia de relaciones personales y familia (Art. 23.1.a), los Estados Partes deben asegurar que:",
+      "options": [
+        "Se reconozca el derecho de todas las personas con discapacidad en edad de contraer matrimonio, a casarse y fundar una familia sobre el libre consentimiento",
+        "El matrimonio de una persona con discapacidad requiera la aprobación judicial previa del juez de familia",
+        "Se prohíba el matrimonio entre dos personas que presenten la misma deficiencia sensorial",
+        "Los tutores legales puedan anular libremente el matrimonio celebrado por una persona con discapacidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.1.a, Convención",
+      "explicacion": "El Art. 23.1.a garantiza el derecho a casarse y fundar una familia sobre la base del pleno y libre consentimiento de los cónyuges."
+    },
+    {
+      "question": "Según el Artículo 23.1.c de la Convención, los Estados Partes deben asegurar que las personas con discapacidad, incluidos los niños y niñas:",
+      "options": [
+        "Mantengan su fertilidad, en igualdad de condiciones con las demás",
+        "Sean sometidos a esterilización preventiva por recomendación del comité médico del hospital",
+        "Firmen una renuncia expresa a la paternidad antes de acceder a la educación superior",
+        "Ingresen a programas de custodia estatal si manifiestan deseo de formar una familia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.1.c, Convención",
+      "explicacion": "El Art. 23.1.c prohíbe las esterilizaciones forzadas y garantiza el derecho a mantener la fertilidad en igualdad de condiciones."
+    },
+    {
+      "question": "Respecto a la separación de menores de sus progenitores, el Artículo 23.4 de la Convención establece categóricamente que:",
+      "options": [
+        "En ningún caso se separará a un menor de sus padres en razón de una discapacidad del menor, de ambos padres o de uno de ellos",
+        "Se procederá a la separación inmediata si ambos padres presentan discapacidad auditiva o visual",
+        "La pobreza o discapacidad del padre justifica el traspaso automático de la custodia al Estado",
+        "Los tribunales deben priorizar la adopción internacional sobre la permanencia en el hogar de origen con apoyos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.4, Convención",
+      "explicacion": "El Art. 23.4 prohibe explícitamente separar a un hijo de sus padres basándose en la discapacidad del niño o de los progenitores."
+    },
+    {
+      "question": "El Artículo 24.1 de la Convención obliga a los Estados Partes a asegurar un sistema de educación inclusivo a todos los niveles y la enseñanza a lo largo de la vida, con miras a:",
+      "options": [
+        "Desarrollar plenamente el potencial humano, la dignidad, los talentos, la creatividad y hacer posible su participación efectiva en una sociedad libre",
+        "Crear escuelas especiales segregadas e independientes para cada tipo de deficiencia",
+        "Otorgar diplomas universitarios honoríficos sin cursar el plan de estudios correspondiente",
+        "Sustituir las asignaturas científicas por trabajos manuales no calificados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24.1, Convención",
+      "explicacion": "El Art. 24.1 consagra el derecho a la educación inclusiva para el desarrollo del potencial, dignidad, autoestima, personalidad y talentos."
+    },
+    {
+      "question": "Conforme al Artículo 24.2.a, al hacer efectivo el derecho a la educación, los Estados Partes asegurarán que:",
+      "options": [
+        "Las personas con discapacidad no queden excluidas del sistema general de educación y los niños no queden excluidos de la enseñanza primaria gratuita y obligatoria ni de la secundaria",
+        "Los niños con discapacidad intelectual cursen estudios únicamente en centros de educación alternativa",
+        "Las escuelas generales cobren una matrícula adicional para financiar a los profesores de apoyo",
+        "La educación secundaria sea optativa para las personas con movilidad reducida"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24.2.a, Convención",
+      "explicacion": "El Art. 24.2.a prohíbe la exclusión del sistema educativo general y garantiza el acceso a la primaria gratuita y obligatoria y a la secundaria."
+    },
+    {
+      "question": "En el ámbito educativo (Art. 24.2.c y d), los Estados Partes deben garantizar que:",
+      "options": [
+        "Se hagan ajustes razonables en función de las necesidades individuales y se preste el apoyo necesario en el marco del sistema general de educación",
+        "Los estudiantes con discapacidad adapten su ritmo a la infraestructura del colegio sin modificar el currículo",
+        "Se exonere al estudiante de asistir a clases presenciales reemplazándolas por guías impresas en el hogar",
+        "Se exija a la familia la contratación del maestro de apoyo pedagógico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24.2.c-d, Convención",
+      "explicacion": "El Art. 24.2 exige la realización de ajustes razonables individuales y la provisión de apoyos dentro del sistema educativo general."
+    },
+    {
+      "question": "De acuerdo con el Artículo 24.3 de la Convención, para propiciar la participación plena en la educación, los Estados Partes facilitarán:",
+      "options": [
+        "El aprendizaje del Braille, la escritura alternativa, la orientación y movilidad, la lengua de señas y la promoción de la identidad lingüística de las personas sordas",
+        "El aprendizaje obligatorio del idioma inglés como sustituto de los lenguajes de señas locales",
+        "La prohibición del uso de señas en las aulas de primaria para forzar la vocalización oral",
+        "El aislamiento de los estudiantes sordociegos en recintos cerrados de alfabetización"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24.3, Convención",
+      "explicacion": "El Art. 24.3 mandata facilitar el Braille, modos aumentativos/alternativos, movilidad, lengua de señas y la preservación de la identidad lingüística sorda."
+    },
+    {
+      "question": "Para contribuir a hacer efectivo el derecho a la educación (Art. 24.4), los Estados Partes adoptarán medidas para emplear a maestros:",
+      "options": [
+        "Incluidos maestros con discapacidad, cualificados en lengua de señas o Braille, y formar a profesionales en todos los niveles educativos",
+        "Exclusivamente médicos o psicólogos con grado de doctorado en psiquiatría infantil",
+        "Que pertenezcan únicamente al sector privado de educación universitaria",
+        "Con formación exclusiva en administración de empresas y auditoría financiera"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24.4, Convención",
+      "explicacion": "El Art. 24.4 exige contratar y formar docentes (incluyendo docentes con discapacidad) cualificados en LSB, Braille y técnicas inclusivas."
+    },
+    {
+      "question": "El Artículo 24.5 de la Convención mandata que las personas con discapacidad tengan acceso general a:",
+      "options": [
+        "La educación superior, la formación profesional, la educación para adultos y el aprendizaje durante toda la vida sin discriminación y con ajustes razonables",
+        "Cursos técnicos de nivel básico sin opción a títulos universitarios de licenciatura o posgrado",
+        "Exámenes de admisión diferenciados con contenidos reducidos al cincuenta por ciento",
+        "Becas universitarias financiadas obligatoriamente por los sindicatos de comercio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24.5, Convención",
+      "explicacion": "El Art. 24.5 garantiza el acceso general a la educación superior, técnica, educación de adultos y aprendizaje continuo en igualdad de condiciones."
+    },
+    {
+      "question": "En la prestación de servicios de salud (Art. 25.d), los Estados Partes exigirán a los profesionales sanitarios que atiendan a las personas con discapacidad:",
+      "options": [
+        "Sobre la base de un consentimiento libre e informado, mediante la sensibilización respecto a los derechos humanos, dignidad y autonomía",
+        "Con la autorización previa emitida por el juez sumariante de la localidad",
+        "Únicamente si la persona está acompañada por dos testigos consanguíneos",
+        "Aplicando procedimientos experimentales sin necesidad de explicación verbal previa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.d, Convención",
+      "explicacion": "El Art. 25.d obliga a que toda atención de salud se preste sobre la base del consentimiento libre e informado y respeto a la autonomía."
+    },
+    {
+      "question": "Según el Artículo 26.1.a, los servicios y programas generales de habilitación y rehabilitación en salud, empleo, educación y servicios sociales deben:",
+      "options": [
+        "Comenzar en la etapa más temprana posible y basarse en una evaluación multidisciplinar de las necesidades y capacidades",
+        "Iniciarse únicamente a partir de la mayoría de edad (18 años cumplidos)",
+        "Ser de carácter obligatorio bajo sanción de pérdida de derechos civiles",
+        "Prestarse exclusivamente en los centros médicos especializados de las capitales de departamento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26.1.a, Convención",
+      "explicacion": "El Art. 26.1.a exige que la habilitación/rehabilitación comience lo antes posible y se fundamente en una evaluación multidisciplinar."
+    },
+    {
+      "question": "Respecto al derecho al trabajo (Art. 27.1.g y h), los Estados Partes promoverán el ejercicio laboral mediante medidas que incluyen:",
+      "options": [
+        "Emplear a personas con discapacidad en el sector público y promover su empleo en el sector privado mediante acciones afirmativas e incentivos",
+        "Prohibir que las personas con discapacidad desempeñen cargos de jefatura o dirección",
+        "Fijar un salario equivalente al 50% del salario mínimo nacional por jornada completa",
+        "Obligar a las empresas a jubilar a los trabajadores al momento de adquirir una discapacidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27.1.g-h, Convención",
+      "explicacion": "El Art. 27 exige la contratación en el sector público y la promoción en el privado mediante cuotas/acciones afirmativas e incentivos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 27.1.i de la Convención, en el mercado de trabajo los empleadores deben:",
+      "options": [
+        "Velar por que se realicen ajustes razonables para las personas con discapacidad en el lugar de trabajo",
+        "Exigir un seguro de accidentes pagado íntegramente por el trabajador antes de contratarlo",
+        "Reubicar al trabajador en un depósito sin contacto con el público general",
+        "Descontar del sueldo el costo de la rampa de acceso o adaptación del escritorio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27.1.i, Convención",
+      "explicacion": "El Art. 27.1.i obliga a realizar los ajustes razonables necesarios en el puesto laboral para garantizar condiciones justas."
+    },
+    {
+      "question": "En el marco del derecho a la protección social (Art. 28.2.a), los Estados Partes deben asegurar a las personas con discapacidad:",
+      "options": [
+        "El acceso en condiciones de igualdad a servicios de agua potable y la asistencia adecuada a precios asequibles",
+        "La exoneración total del pago de alquileres privados en inmuebles comerciales",
+        "El suministro gratuito de alimentos procesados importados de países vecinos",
+        "La provisión de vehículos automotores de lujo financiados por el tesoro público"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28.2.a, Convención",
+      "explicacion": "El Art. 28.2.a reconoce explícitamente el acceso igualitario al agua potable y servicios/dispositivos a precios asequibles."
+    },
+    {
+      "question": "Según el Artículo 29.a.iii, para garantizar el derecho al voto y la libre expresión de la voluntad de las personas con discapacidad como electores, se debe permitir:",
+      "options": [
+        "Que una persona de su elección les preste asistencia para votar cuando sea necesario y a petición de ellas",
+        "Que el jurado de mesa decida la papeleta de voto en representación de la persona",
+        "Que el voto se emita de forma pública y a viva voz ante los delegados de partidos",
+        "Que los electores con discapacidad intelectual sean excluidos del padrón electoral definitivo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29.a.iii, Convención",
+      "explicacion": "El Art. 29.a.iii autoriza el voto asistido por una persona de su libre elección a petición del elector."
+    },
+    {
+      "question": "Conforme al Artículo 30.3 de la Convención, los Estados Partes adoptarán medidas en materia de derecho internacional para asegurar que las leyes de propiedad intelectual:",
+      "options": [
+        "No constituyan una barrera excesiva o discriminatoria para el acceso de las personas con discapacidad a materiales culturales",
+        "Prohíban la reproducción en sistema Braille de libros con derechos de autor vigentes",
+        "Cobren un impuesto del 30% sobre la edición de audiolibros o textos de fácil lectura",
+        "Otorguen el monopolio de edición de obras literarias a las asociaciones de ciegos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30.3, Convención",
+      "explicacion": "El Art. 30.3 manda que los derechos de propiedad intelectual no obstaculicen el acceso a obras y materiales en formatos accesibles."
+    },
+    {
+      "question": "El Artículo 30.4 de la Convención reconoce explícitamente el derecho de las personas con discapacidad al reconocimiento y apoyo de su identidad cultural y lingüística específica, incluyendo:",
+      "options": [
+        "La lengua de señas y la cultura de los sordos",
+        "La enseñanza obligatoria de la modulación vocal quirúrgica",
+        "La sustitución de la lengua de señas por pictogramas universales",
+        "La proscripción de asociaciones culturales exclusivas de personas sordas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30.4, Convención",
+      "explicacion": "El Art. 30.4 ampara el derecho a la identidad cultural y lingüística específica, reconociendo la Lengua de Señas y la Cultura Sorda."
+    },
+    {
+      "question": "Al recopilar datos estadísticos e información de investigación (Art. 31.1.a), los Estados Partes deben:",
+      "options": [
+        "Respetar las garantías legales establecidas, incluida la legislación sobre protección de datos, a fin de asegurar la confidencialidad y privacidad",
+        "Publicar las listas nominales de personas con discapacidad en medios de prensa escrita nacional",
+        "Vender los registros médicos a empresas aseguradoras privadas para estudios de mercado",
+        "Exigir la ficha antropométrica completa antes de inscribir al estudiante en la escuela"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.1.a, Convención",
+      "explicacion": "El Art. 31.1.a exige asegurar la confidencialidad y privacidad en el manejo de datos estadísticos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 33 de la Convención, la estructura nacional de seguimiento requiere que los Estados Partes designen:",
+      "options": [
+        "Uno o más organismos gubernamentales de aplicación, un mecanismo de coordinación y uno o varios mecanismos independientes para supervisar la aplicación",
+        "Un juez de la Corte Suprema con dedicación exclusiva a querellas de discriminación",
+        "Una empresa auditora privada internacional responsable del control presupuestario",
+        "Un comité militar de custodia de albergues e institutos de rehabilitación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33.1-2, Convención",
+      "explicacion": "El Art. 33 exige organismos de aplicación en el Ejecutivo, mecanismos de coordinación intersectorial y un marco independiente de supervisión (como Defensorías)."
+    },
+    {
+      "question": "Según el Artículo 33.3, en el proceso de seguimiento de la Convención a nivel nacional, la sociedad civil y en particular las personas con discapacidad:",
+      "options": [
+        "Estarán integradas y participarán plenamente en todos los niveles del proceso de seguimiento",
+        "Tendrán acceso únicamente a los informes resumidos anuales con voz pero sin voto",
+        "Deberán pagar una fianza económica previa para integrar las comisiones de fiscalización",
+        "Serán excluidas si pertenecen a sindicatos o federaciones de trabajadores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 33.3, Convención",
+      "explicacion": "El Art. 33.3 exige la participación e integración plena de la sociedad civil y las organizaciones de personas con discapacidad en la supervisión de la Convención."
+    },
+    {
+      "question": "Conforme al Artículo 34.2 de la Convención, el Comité sobre los Derechos de las Personas con Discapacidad consta inicialmente de 12 expertos y se incrementa en seis miembros más (alcanzando 18) cuando la Convención obtenga:",
+      "options": [
+        "Otras 60 ratificaciones o adhesiones adicionales",
+        "La aprobación unánime del Consejo de Seguridad de la ONU",
+        "Cien ratificaciones de países en desarrollo",
+        "La firma de todos los países miembros de la OEA"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34.2, Convención",
+      "explicacion": "El Art. 34.2 fija el aumento del Comité de 12 a 18 miembros al alcanzar 60 ratificaciones adicionales a la entrada en vigor."
+    },
+    {
+      "question": "Según el Artículo 35 de la Convención, los Estados Partes deben presentar al Comité un informe inicial exhaustivo dentro de los dos años siguientes a la entrada en vigor, y posteriormente:",
+      "options": [
+        "Informes ulteriores al menos cada cuatro años y en las demás ocasiones en que el Comité lo solicite",
+        "Informes mensuales sobre el gasto corriente en subsidios familiares",
+        "Un informe quinquenal sometido a votación previa en la Asamblea General",
+        "Un informe anual elaborado exclusivamente por consultores externos de la UNESCO"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35.1-2, Convención",
+      "explicacion": "El Art. 35 fija el informe inicial a los 2 años y los informes de seguimiento al menos cada 4 años."
+    },
+    {
+      "question": "¿Qué competencia reconoce un Estado Parte al ratificar el Protocolo Facultativo de la Convención (Art. 1.1)?",
+      "options": [
+        "Reconoce la competencia del Comité para recibir y considerar comunicaciones presentadas por personas o grupos que aleguen ser víctimas de violaciones de la Convención por ese Estado",
+        "Concede jurisdicción penal al Comité para arrestar a autoridades acusadas de discriminación",
+        "Transfiere la propiedad de los hospitales públicos al patrimonio de la ONU",
+        "Permite la aplicación de sanciones comerciales automáticas aprobadas por comités no gubernamentales"
+      ],
+      "answer": 0,
+      "fuente": "Protocolo Facultativo, Artículo 1.1",
+      "explicacion": "El Art. 1.1 del Protocolo autoriza al Comité a examinar denuncias individuales o grupales por violaciones a la Convención."
+    },
+    {
+      "question": "Según el Artículo 2.d del Protocolo Facultativo, el Comité considerará INADMISIBLE una comunicación cuando:",
+      "options": [
+        "No se hayan agotado todos los recursos internos disponibles, salvo que la tramitación se prolongue injustificadamente o sea improbable un remedio efectivo",
+        "El denunciante sea un ciudadano menor de edad o pertenezca a un pueblo indígena",
+        "La denuncia esté redactada en un idioma oficial distinto al inglés o francés",
+        "Hayan transcurrido más de 30 días desde la comisión de la falta administrativa"
+      ],
+      "answer": 0,
+      "fuente": "Protocolo Facultativo, Artículo 2.d",
+      "explicacion": "El Art. 2.d exige el agotamiento previo de recursos internos salvo dilación injustificada o ineficacia del remedio."
+    },
+    {
+      "question": "Conforme al Artículo 4.1 del Protocolo Facultativo, tras recibir una comunicación el Comité puede solicitar al Estado la adopción urgente de:",
+      "options": [
+        "Medidas provisionales necesarias a fin de evitar posibles daños irreparables a la víctima",
+        "La derogación inmediata de la Constitución Política del Estado denunciado",
+        "La destitución del Ministro de Justicia mediante decreto internacional",
+        "El pago inmediato de una indemnización económica no sujeto a revisión"
+      ],
+      "answer": 0,
+      "fuente": "Protocolo Facultativo, Artículo 4.1",
+      "explicacion": "El Art. 4.1 permite emitir medidas cautelares o provisionales para prevenir daños irreparables a las víctimas."
+    },
+    {
+      "question": "Si el Comité recibe información fidedigna que revele violaciones GRAVES O SISTEMÁTICAS por un Estado Parte (Art. 6.1-2 del Protocolo), podrá:",
+      "options": [
+        "Invitar al Estado a colaborar, encargar a sus miembros una investigación y, con el consentimiento del Estado, realizar una visita a su territorio",
+        "Desplegar cascos azules para la toma de control de los centros de rehabilitación",
+        "Expulsar al Estado Parte de las Naciones Unidas de forma automática",
+        "Congelar los depósitos bancarios internacionales de las autoridades públicas"
+      ],
+      "answer": 0,
+      "fuente": "Protocolo Facultativo, Artículo 6.1-2",
+      "explicacion": "El Art. 6 establece un procedimiento confidencial de investigación que puede incluir visitas al territorio con anuencia del Estado."
+    },
+    {
+      "question": "El Artículo 8 del Protocolo Facultativo establece que al momento de la firma o ratificación, todo Estado Parte podrá declarar que:",
+      "options": [
+        "No reconoce la competencia del Comité establecida en los artículos 6 y 7 sobre procedimientos de investigación de violaciones graves",
+        "No aplicará el derecho a la educación inclusiva en escuelas rurales",
+        "Se exime de cumplir los acuerdos internacionales sobre derechos humanos",
+        "Rechaza la gratuidad de los trámites ante los jueces de instrucción penal"
+      ],
+      "answer": 0,
+      "fuente": "Protocolo Facultativo, Artículo 8",
+      "explicacion": "El Art. 8 es la cláusula de 'opt-out' que permite a un Estado no reconocer el procedimiento de investigación de los Arts. 6 y 7."
+    },
+    {
+      "question": "Conforme al Artículo 45.1 de la Convención, este instrumento internacional entró en vigor:",
+      "options": [
+        "El trigésimo día a partir de la fecha en que se depositó el vigésimo instrumento de ratificación o adhesión",
+        "Al día siguiente de su firma en la sede de las Naciones Unidas en Nueva York",
+        "Un año después de haber sido aprobada por la Asamblea General",
+        "Cuando todos los países de la Unión Europea concluyeron la ratificación parlamentaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 45.1, Convención",
+      "explicacion": "La Convención entra en vigor el día 30 tras el depósito del 20º instrumento de ratificación o adhesión."
+    },
+    {
+      "question": "De acuerdo con el Artículo 13.1 del Protocolo Facultativo, este entró en vigor:",
+      "options": [
+        "El trigésimo día después de que se haya depositado el décimo instrumento de ratificación o adhesión",
+        "El mismo día que la Convención sin importar el número de ratificaciones del Protocolo",
+        "A los cinco años de su apertura a la firma en la sede de la ONU",
+        "Cuando cincuenta Estados de América Latina firmaron la adhesión"
+      ],
+      "answer": 0,
+      "fuente": "Protocolo Facultativo, Artículo 13.1",
+      "explicacion": "El Protocolo requiere 10 instrumentos de ratificación/adhesión para su entrada en vigor (a los 30 días del décimo)."
+    },
+    {
+      "question": "Para convocar a una Conferencia de Estados Partes a fin de examinar una propuesta de enmienda a la Convención (Art. 47.1), se requiere que dentro de los 4 meses responda a favor al menos:",
+      "options": [
+        "Un tercio de los Estados Partes",
+        "La totalidad de los países firmantes",
+        "El cincuenta por ciento de los miembros del Consejo de Seguridad",
+        "Diez países representantes de cada continente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 47.1, Convención",
+      "explicacion": "Se requiere la manifestación a favor de al menos 1/3 de los Estados Partes para convocar la conferencia de enmienda."
+    },
+    {
+      "question": "Según el Artículo 48 de la Convención, la denuncia formulada por un Estado Parte mediante notificación escrita al Secretario General de la ONU tendrá efecto:",
+      "options": [
+        "Un año después de que el Secretario General haya recibido la notificación",
+        "De manera inmediata al momento del envío del correo electrónico oficial",
+        "A los cinco años de notificarse la resolución parlamentaria",
+        "Únicamente tras la aprobación de la Conferencia de los Estados Partes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 48, Convención",
+      "explicacion": "La denuncia surte efecto transcurrido un año desde la recepción por el Depositario."
+    },
+    {
+      "question": "El Artículo 49 de la Convención dispone que el texto oficial de la presente Convención se difundirá:",
+      "options": [
+        "En formatos accesibles",
+        "Únicamente en tomos impresos de encuadernación en cuero",
+        "En microfilms guardados en la biblioteca central de Ginebra",
+        "Solamente a solicitud escrita fundamentada de un tribunal superior"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 49, Convención",
+      "explicacion": "El Art. 49 manda expresamente la difusión del texto de la Convención en formatos accesibles."
+    },
+    {
+      "question": "De acuerdo con el Artículo 50 de la Convención, ¿cuáles son los seis textos auténticos oficiales de la Convención?",
+      "options": [
+        "Árabe, chino, español, francés, inglés y ruso",
+        "Español, inglés, portugués, alemán, italiano y japonés",
+        "Español, quechua, aymara, guaraní, inglés y francés",
+        "Inglés, francés, alemán, ruso, hindi y mandarín"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 50, Convención",
+      "explicacion": "Los 6 idiomas oficiales de la ONU (árabe, chino, español, francés, inglés y ruso) son igualmente auténticos."
+    },
+    {
+      "question": "¿Qué obligación establece el Art. 8.1.b respecto a estereotipos y prejuicios?",
+      "options": [
+        "Luchar contra los estereotipos, prejuicios y prácticas nocivas en todos los ámbitos",
+        "Permitir chistes y mofas si no se realizan en escuelas",
+        "Omitir campañas en zonas rurales",
+        "Sustituir las asignaturas de ciencias por religión"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 8 (Toma de conciencia): Luchar contra estereotipos y prejuicios basados en género o edad en todos los ámbitos de la vida (Art. 8.1.b)."
+    },
+    {
+      "question": "Según el Art. 9.2.g-h, los Estados Partes promoverán en materia de tecnologías e Internet:",
+      "options": [
+        "El acceso a las nuevas TIC e Internet y su diseño a costo asequible en etapa temprana",
+        "El cobro de aranceles especiales para la compra de computadoras",
+        "La restricción del uso de Internet en centros educativos inclusivos",
+        "El uso exclusivo de libros impresos descartando soportes digitales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 9 (Accesibilidad a la información y comunicaciones): Promover el acceso a los nuevos sistemas de información e Internet a precios asequibles en etapas tempranas (Art. 9.2.g-h)."
+    },
+    {
+      "question": "¿Qué establece categóricamente el Artículo 10 de la Convención sobre el Derecho a la Vida?",
+      "options": [
+        "Reafirma el derecho inherente a la vida de todos los seres humanos y exige medidas para su goce efectivo en igualdad",
+        "Permite la eutanasia no consentida en personas con discapacidad múltiple",
+        "Condiciona el derecho a la vida al grado de autonomía motora",
+        "Autoriza la interrupción del embarazo sin consultar a la madre"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 10 (Derecho a la vida): Reafirmar el derecho inherente a la vida de todos los seres humanos en igualdad de condiciones (Art. 10)."
+    },
+    {
+      "question": "En el marco del Art. 12.5, los Estados garantizarán el derecho de las personas con discapacidad a:",
+      "options": [
+        "Ser propietarias, heredar bienes, controlar sus asuntos económicos y acceder a préstamos e hipotecas sin discriminación",
+        "Entregar la administración de su sueldo al comité de administración del banco",
+        "Recibir créditos únicamente si presentan un garante con propiedad raíz",
+        "Quedar eximidas de pagar deudas bancarias contraídas legalmente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 12 (Capacidad financiera y créditos): Garantizar el acceso en igualdad de condiciones a préstamos bancarios, hipotecas y crédito financiero (Art. 12.5)."
+    },
+    {
+      "question": "Conforme al Art. 13.2, para asegurar un acceso efectivo a la justicia se debe capacitar a:",
+      "options": [
+        "Quienes trabajan en la administración de justicia, incluyendo personal policial y penitenciario",
+        "Únicamente a los estudiantes de último año de la carrera de derecho",
+        "A los secretarios de los juzgados comerciales exclusivamente",
+        "A los peritos contables de las empresas de auditoría"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 13 (Capacitación a personal de justicia): Promover la capacitación adecuada de quienes trabajan en la administración de justicia, personal policial y penitenciario (Art. 13.2)."
+    },
+    {
+      "question": "Si una persona con discapacidad es privada de libertad dentro de un proceso legal (Art. 14.2), tiene derecho a:",
+      "options": [
+        "Trato acorde a los principios de la Convención, garantías del derecho internacional y realización de ajustes razonables",
+        "Aislamiento celular permanente para salvaguardar su integridad física",
+        "Ser trasladada de inmediato a un hospital psiquiátrico sin examen previo",
+        "Perder su derecho a comunicarse con su abogado defensor"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 14 (Garantías en privación de libertad procesal): Garantizar ajustes razonables y trato conforme a derechos humanos a personas con discapacidad privadas de libertad (Art. 14.2)."
+    },
+    {
+      "question": "¿Qué tipo de medidas exige el Art. 15.2 para evitar torturas o tratos inhumanos?",
+      "options": [
+        "Medidas de carácter legislativo, administrativo, judicial o de otra índole que sean efectivas",
+        "Únicamente recomendaciones verbales no vinculantes a los jefes de policía",
+        "Campañas publicitarias anuales en televisión privada",
+        "Informes confidenciales no publicados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 15 (Medidas para evitar tortura): Adoptar medidas legislativas, administrativas y judiciales efectivas para evitar tratos crueles (Art. 15.2)."
+    },
+    {
+      "question": "Según el Art. 16.4, la recuperación y reintegración de víctimas de violencia o abuso tendrá lugar en:",
+      "options": [
+        "Un entorno que sea favorable para la salud, bienestar, autoestima, dignidad y autonomía, considerando género y edad",
+        "Un albergue cerrado con prohibición de salidas al exterior",
+        "Un hospital militar de alta seguridad",
+        "Un centro de trabajo de jornada doble sin remuneración"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 16 (Supervisión y rehabilitación tras abusos): Promover la recuperación física, cognitiva y psicológica y reintegración en entorno favorable (Art. 16.4)."
+    },
+    {
+      "question": "El Artículo 17 de la Convención consagra expresamente el derecho de toda persona con discapacidad a:",
+      "options": [
+        "Que se respete su integridad física y mental en igualdad de condiciones con las demás",
+        "Someterse a cirugías estéticas obligatorias financiadas por el municipio",
+        "Entregar la tutela de su salud al empleador privado",
+        "Aceptar intervenciones médicas sin explicación previa de riesgos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 17 (Integridad personal): Toda persona con discapacidad tiene derecho al respeto de su integridad física y mental en igualdad (Art. 17)."
+    },
+    {
+      "question": "Conforme al Art. 18.1, la libertad de desplazamiento incluye el derecho a:",
+      "options": [
+        "Adquirir y cambiar nacionalidad, poseer documentación de identidad y no ser privado del derecho a entrar a su propio país",
+        "Viajar en transporte público sin presentar billete o pasaje",
+        "Obtener pasaporte diplomático automático al acreditar la discapacidad",
+        "Residir en embajadas extranjeras sin trámite consular"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 18 (Libertad de desplazamiento): Derecho a adquirir y cambiar nacionalidad, poseer documentos e ingresar/salir de su país (Art. 18.1)."
+    },
+    {
+      "question": "De acuerdo con el Art. 20.c, las medidas sobre movilidad personal incluyen:",
+      "options": [
+        "Ofrecer capacitación en habilidades relacionadas con la movilidad a las personas con discapacidad y al personal especializado",
+        "Obligar a las familias a transportar al familiar en vehículos particulares",
+        "Prohibir el uso de bastones o sillas de ruedas en vías públicas con tráfico alto",
+        "Restringir la importación de sillas de ruedas motorizadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 20 (Capacitación en habilidades de movilidad): Ofrecer capacitación en movilidad a las personas con discapacidad y personal especializado (Art. 20.c)."
+    },
+    {
+      "question": "El Artículo 22.2 de la Convención mandata a los Estados Partes a:",
+      "options": [
+        "Proteger la privacidad de la información personal y relativa a la salud y a la rehabilitación en igualdad de condiciones",
+        "Divulgar las fichas clínicas en el expediente escolar público del estudiante",
+        "Entregar los historiales de salud a los periódicos locales para campañas",
+        "Exigir la publicación del diagnóstico médico en el carnet de identidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 22 (Privacidad de información médica): Proteger la privacidad de la información personal, de salud y rehabilitación en igualdad (Art. 22.2)."
+    },
+    {
+      "question": "Según el Art. 25.b, los servicios de salud deben incluir de manera específica:",
+      "options": [
+        "Pronta detección e intervención y servicios destinados a prevenir y reducir al máximo la aparición de nuevas discapacidades",
+        "Operaciones quirúrgicas experimentales sin autorización previa",
+        "Tratamientos farmacológicos exclusivos importados de firmas multinacionales",
+        "Atención médica restringida a las capitales departamentales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 25 (Prevención de nuevas discapacidades): Proporcionar servicios de salud para detectar e intervenir tempranamente y prevenir nuevas discapacidades (Art. 25.b)."
+    },
+    {
+      "question": "Conforme al Art. 25.f, los Estados Partes deberán impedir terminantemente que:",
+      "options": [
+        "Se nieguen de manera discriminatoria servicios de salud, atención sanitaria o alimentos sólidos o líquidos por motivos de discapacidad",
+        "Se atienda a personas con discapacidad en hospitales generales de segundo nivel",
+        "Se vacune a los niños con discapacidad en campañas públicas",
+        "Se preste atención ambulatoria en policlínicos comunitarios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 25 (Prohibición de denegación de alimentos o atención): Impedir que se nieguen de manera discriminatoria servicios de salud o alimentos sólidos o líquidos (Art. 25.f)."
+    },
+    {
+      "question": "Respecto a los programas de habilitación y rehabilitación (Art. 26.1.b), se establece que deben ser:",
+      "options": [
+        "Voluntarios, apoyar la inclusión en la comunidad y estar disponibles lo más cerca posible de la propia comunidad",
+        "Obligatorios bajo pena de suspensión de beneficios sociales",
+        "Centralizados en la sede del Ministerio de Salud en la capital",
+        "Administrados por empresas privadas de seguros de vida"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 26 (Voluntariedad de los servicios de rehabilitación): Asegurar que los servicios de habilitación y rehabilitación sean voluntarios y cercanos a la comunidad (Art. 26.1.b)."
+    },
+    {
+      "question": "El Artículo 27.1.c garantiza que las personas con discapacidad puedan ejercer en igualdad de condiciones:",
+      "options": [
+        "Sus derechos laborales y sindicales, incluida la afiliación y participación activa en sindicatos",
+        "El derecho a declarar huelgas patronales unilaterales",
+        "La exención de cumplir el reglamento interno de trabajo de la empresa",
+        "La potestad de fijar libremente el horario de trabajo sin acuerdo con el empleador"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 27 (Sindicatos y derechos laborales): Asegurar el ejercicio de derechos laborales y sindicales en igualdad de condiciones (Art. 27.1.c)."
+    },
+    {
+      "question": "De acuerdo con el Art. 28.2.d, en el marco de la protección social, los Estados garantizarán el acceso a:",
+      "options": [
+        "Programas de vivienda pública y soluciones habitacionales adaptadas",
+        "Donaciones de terrenos urbanos con título de propiedad comercial libre",
+        "Préstamos a tasa cero para la compra de haciendas agrícolas",
+        "Exención total de pagos de servicios básicos por cien años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 28 (Programas de vivienda pública): Asegurar el acceso de las personas con discapacidad a programas de vivienda pública (Art. 28.2.d)."
+    },
+    {
+      "question": "Según el Art. 30.5.d, respecto a los niños y niñas con discapacidad en el sistema escolar, se garantizará:",
+      "options": [
+        "Igual acceso con los demás niños a la participación en actividades lúdicas, recreativas, de esparcimiento y deportivas",
+        "La exención obligatoria de la asignatura de educación física",
+        "El uso de campos deportivos separados y cerrados sin contacto con sus pares",
+        "La prohibición de integrar selecciones escolares deportivas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 30 (Acceso a instalaciones deportivas en el sistema escolar): Asegurar que los niños con discapacidad tengan igual acceso a actividades lúdicas y deportivas en la escuela (Art. 30.5.d)."
+    },
+    {
+      "question": "En materia de cooperación internacional (Art. 32.1.a), los Estados Partes deberán velar por que:",
+      "options": [
+        "Los programas de desarrollo internacional e inversiones sean inclusivos y accesibles para las personas con discapacidad",
+        "La ayuda internacional se destine únicamente a la compra de armamento defensivo",
+        "Las donaciones extranjeras se depositen en cuentas bancarias privadas de las autoridades",
+        "Se excluya a las ONGs de personas con discapacidad del diseño de proyectos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 32 (Cooperación internacional inclusiva): Velar por que los programas de desarrollo internacional sean inclusivos y accesibles (Art. 32.1.a)."
+    },
+    {
+      "question": "Para la elección de los miembros del Comité de la ONU (Art. 34.4), los Estados Partes tomarán en consideración:",
+      "options": [
+        "Distribución geográfica equitativa, representación de ordenamientos jurídicos, equilibrio de género y expertos con discapacidad",
+        "El presupuesto económico que aporte cada país a las Naciones Unidas",
+        "El número de hospitales psiquiátricos construidos en cada continente",
+        "La antigüedad diplomática de los embajadores ante la sede de Nueva York"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 34 (Criterios de elección del Comité de la ONU): Elección por distribución geográfica equitativa, género equilibrado y expertos con discapacidad (Art. 34.4)."
+    },
+    {
+      "question": "Conforme al Art. 34.7 de la Convención, los miembros del Comité sobre los Derechos de las Personas con Discapacidad son elegidos por un periodo de:",
+      "options": [
+        "Cuatro (4) años, con posibilidad de ser reelegidos si se presenta de nuevo su candidatura",
+        "Seis (6) años sin posibilidad de reelección continua",
+        "Dos (2) años renovables automáticamente de forma indefinida",
+        "Diez (10) años con carácter vitalicio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 34 (Duración del mandato de expertos del Comité): Mandato de cuatro años con posibilidad de reelección (Art. 34.7)."
+    },
+    {
+      "question": "Si un Estado Parte se demora considerablemente en presentar su informe al Comité (Art. 36.2), el Comité podrá:",
+      "options": [
+        "Notificarle la necesidad de examinar la aplicación sobre la base de información fiable si no lo presenta en un plazo de tres meses",
+        "Expulsar al país de la Convención mediante resolución sumaria",
+        "Imponer sanciones económicas de un millón de dólares diarios",
+        "Remitir el caso a la Corte Penal Internacional para juicio penal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 36 (Demora en presentación de informes estatales): Notificación del Comité para examinar la aplicación sobre la base de información fiable tras 3 meses (Art. 36.2)."
+    },
+    {
+      "question": "De acuerdo con el Artículo 39, el Comité presentará un informe sobre sus actividades a la Asamblea General de la ONU:",
+      "options": [
+        "Cada dos (2) años",
+        "Cada seis meses",
+        "Cada cinco años coincidiendo con las cumbres mundiales",
+        "Únicamente cuando se ratifique una enmienda al texto"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 39, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 39 (Informe del Comité a la Asamblea General): El Comité informará cada dos años a la Asamblea General y al Consejo Económico y Social (Art. 39)."
+    },
+    {
+      "question": "La Conferencia de los Estados Partes (Art. 40.2) se reunirá con carácter ordinario con una periodicidad:",
+      "options": [
+        "Bienal (cada dos años) o cuando lo decida la propia Conferencia, convocada por el Secretario General de la ONU",
+        "Anual obligatoria en el mes de enero",
+        "Quinquenal en la capital del país que ocupe la presidencia",
+        "Cada diez años previa consulta al Banco Interamericano de Desarrollo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 40, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 40 (Conferencia de los Estados Partes - Periodicidad): Reuniones periódicas bienales o cuando lo decida la Conferencia, convocadas por el Sec. General (Art. 40.2)."
+    },
+    {
+      "question": "El Artículo 41 de la Convención nombra formalmente como Depositario de este instrumento internacional al:",
+      "options": [
+        "Secretario General de las Naciones Unidas",
+        "Presidente del Comité Internacional de la Cruz Roja",
+        "Director General de la Organización Mundial de la Salud",
+        "Secretario General de la Organización de los Estados Americanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 41, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 41 (Depositario de la Convención): El Secretario General de las Naciones Unidas será el depositario de la Convención (Art. 41)."
+    },
+    {
+      "question": "Conforme al Artículo 42, la Convención quedó abierta a la firma de los Estados en la Sede de las Naciones Unidas en Nueva York a partir del:",
+      "options": [
+        "30 de marzo de 2007",
+        "15 de abril de 2009",
+        "13 de diciembre de 2006",
+        "1 de enero de 2010"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 42, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 42 (Apertura a la firma): Abierta a la firma el 30 de marzo de 2007 en la Sede de la ONU en Nueva York (Art. 42)."
+    },
+    {
+      "question": "El Artículo 46.1 de la Convención establece expresamente respecto a las reservas planteadas por los Estados que:",
+      "options": [
+        "No se permitirán reservas incompatibles con el objeto y el propósito de la presente Convención",
+        "Se prohíbe formular cualquier tipo de reserva sin excepción alguna",
+        "Las reservas son válidas únicamente si son aprobadas por el Tribunal Internacional de Justicia",
+        "Las reservas pueden mantenerse de forma confidencial sin conocimiento de los demás Estados Partes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 46, Convención sobre los Derechos de las Personas con Discapacidad",
+      "explicacion": "Explicación técnica basada en el Art. 46 (Reservas a la Convención): No se permitirán reservas incompatibles con el objeto y propósito de la Convención (Art. 46.1)."
+    },
+    {
+      "question": "Según el Artículo 3.d de la Convención, ¿cuál es el principio que reconoce a la discapacidad dentro de la sociedad?",
+      "options": [
+        "El respeto por la diferencia y la aceptación de las personas con discapacidad como parte de la diversidad y la condición humanas",
+        "La tolerancia médica compasiva hacia las deficiencias genéticas",
+        "La adaptación obligatoria de la persona a las pautas de conducta estándar",
+        "La normalización de la deficiencia mediante tratamientos quirúrgicos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.d, Convención",
+      "explicacion": "El Art. 3.d consagra el respeto por la diferencia y la aceptación como parte de la diversidad y condición humanas."
+    },
+    {
+      "question": "De acuerdo con el Artículo 3.h, ¿qué aspecto específico se protege con relación a la niñez con discapacidad?",
+      "options": [
+        "El respeto a la evolución de las facultades de los niños y niñas con discapacidad y su derecho a preservar su identidad",
+        "La obligación de matricularlos en internados de educación especial",
+        "La supresión de la patria potestad si los padres no cuentan con ingresos fijos",
+        "El examen psicológico trimestral antes de permitir su participación lúdica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.h, Convención",
+      "explicacion": "El Art. 3.h protege la evolución de las facultades de los niños con discapacidad y su derecho a preservar la identidad."
+    },
+    {
+      "question": "El Artículo 4.1.b de la Convención obliga a los Estados Partes a tomar todas las medidas pertinentes para:",
+      "options": [
+        "Modificar o derogar leyes, reglamentos, costumbres y prácticas existentes que constituyan discriminación contra las personas con discapacidad",
+        "Sustituir el sistema normativo nacional por códigos comerciales internacionales",
+        "Eximir a las instituciones públicas de cumplir los reglamentos de accesibilidad",
+        "Prohibir las asociaciones privadas de personas con discapacidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.1.b, Convención",
+      "explicacion": "El Art. 4.1.b manda modificar o derogar cualquier ley, costumbre o práctica discriminatoria."
+    },
+    {
+      "question": "Conforme al Artículo 4.1.f, los Estados se comprometen a promover la investigación y el desarrollo de bienes, servicios e instalaciones de 'diseño universal', lo cual requiere:",
+      "options": [
+        "La menor adaptación posible y el menor costo para satisfacer las necesidades específicas",
+        "La construcción exclusiva de edificios con materiales importados",
+        "La autorización previa de la Organización Mundial del Comercio",
+        "La eliminación de todo tipo de rampas o ascensores en lugares públicos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.1.f, Convención",
+      "explicacion": "El Art. 4.1.f busca promover el diseño universal que requiera la menor adaptación y menor costo posible."
+    },
+    {
+      "question": "Según el Artículo 4.4 de la Convención, respecto a las leyes nacionales o normas internacionales vigentes en un Estado Parte:",
+      "options": [
+        "Nada de lo dispuesto en la Convención afectará a las disposiciones que puedan facilitar en mayor medida el ejercicio de derechos y no se restringirán derechos existentes con el pretexto de que la Convención no los reconoce",
+        "La Convención deroga automáticamente todas las leyes nacionales sobre discapacidad",
+        "Las leyes nacionales prevalecerán aun si garantizan menores derechos que la Convención",
+        "Se prohíbe promulgar leyes nacionales más favorables que el texto internacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.4, Convención",
+      "explicacion": "El Art. 4.4 establece el principio pro-persona: la Convención no afecta normas más favorables ni justifica retrocesos en derechos reconocidos."
+    },
+    {
+      "question": "En relación con los Estados federales, el Artículo 4.5 de la Convención dispone expresamente que:",
+      "options": [
+        "Las disposiciones de la presente Convención se aplicarán a todas las partes de los Estados federales sin limitaciones ni excepciones",
+        "Cada estado o provincia autónoma decidirá libremente si ratifica o no la Convención",
+        "La Convención solo rige en el distrito capital donde reside el gobierno federal",
+        "Se exime a los gobiernos locales del cumplimiento de las normas de educación inclusiva"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.5, Convención",
+      "explicacion": "El Art. 4.5 mandata la aplicación de la Convención a todas las partes de los Estados federales sin excepciones."
+    },
+    {
+      "question": "El Artículo 5.1 de la Convención reafirma el principio fundamental de que:",
+      "options": [
+        "Todas las personas son iguales ante la ley y en virtud de ella y tienen derecho a igual protección legal y a beneficiarse de la ley en igual medida sin discriminación",
+        "Las personas con discapacidad tienen capacidad de goce pero no de ejercicio legal",
+        "Las autoridades pueden otorgar tratos preferenciales únicamente a votantes inscritos",
+        "La protección legal depende del pago mensual de impuestos de trabajo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.1, Convención",
+      "explicacion": "El Art. 5.1 reconoce la igualdad ante la ley y el derecho a igual protección legal sin discriminación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.3, con el objeto de promover la igualdad y eliminar la discriminación, los Estados Partes adoptarán medidas para asegurar:",
+      "options": [
+        "La realización de ajustes razonables",
+        "La construcción de escuelas exclusivas en cada municipio",
+        "El otorgamiento de subsidios fijos sin evaluación socioeconómica",
+        "La sustitución del salario mínimo por bonos alimentarios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.3, Convención",
+      "explicacion": "El Art. 5.3 mandata la realización de ajustes razonables para promover la igualdad y erradicar la discriminación."
+    },
+    {
+      "question": "Según el Artículo 7.3 de la Convención, en relación con los niños y niñas con discapacidad, se garantiza su derecho a:",
+      "options": [
+        "Expresar su opinión libremente sobre todas las cuestiones que les afecten, recibiendo la debida consideración según su edad y madurez, y a recibir asistencia apropiada",
+        "Permanecer en silencio durante los procesos judiciales que involucren su custodia",
+        "Ser representados exclusivamente por un abogado nombrado por el Estado sin consultarles",
+        "Aceptar las decisiones de los centros de acogida sin posibilidad de reclamo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7.3, Convención",
+      "explicacion": "El Art. 7.3 exige garantizar que los niños exprese su opinión libremente y reciban asistencia adecuada a su edad y discapacidad."
+    },
+    {
+      "question": "Conforme al Artículo 8.1.a, las medidas inmediatas de toma de conciencia buscan:",
+      "options": [
+        "Sensibilizar a la sociedad, incluso a nivel familiar, para que tome mayor conciencia respecto de las personas con discapacidad y fomentar el respeto de sus derechos y dignidad",
+        "Reclutar voluntarios para el trabajo gratuito en asilos estatales",
+        "Promover la caridad en medios de comunicación durante festividades anuales",
+        "Exigir exámenes de empatía obligatorios a los servidores públicos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.1.a, Convención",
+      "explicacion": "El Art. 8.1.a exige campañas de sensibilización en la sociedad y en la familia para fomentar el respeto de la dignidad y derechos."
+    },
+    {
+      "question": "En materia de medios de comunicación (Art. 8.2.c), los Estados Partes se comprometen a:",
+      "options": [
+        "Alentar a todos los órganos de los medios de comunicación a que difundan una imagen de las personas con discapacidad compatible con el propósito de la Convención",
+        "Censurar los programas de entretenimiento que no incluyan subtítulos en inglés",
+        "Prohibir la aparición de personas con discapacidad en anuncios comerciales",
+        "Monopolizar la producción de televisión educativa bajo la tuición del Ministerio de Gobierno"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.2.c, Convención",
+      "explicacion": "El Art. 8.2.c busca que los medios de comunicación promuevan una imagen respetuosa e inclusiva alineada con los derechos humanos."
+    },
+    {
+      "question": "El Artículo 9.1 de la Convención fundamenta la exigencia de medidas de accesibilidad en la necesidad de que las personas con discapacidad puedan:",
+      "options": [
+        "Vivir en forma independiente y participar plenamente en todos los aspectos de la vida",
+        "Eximirse del pago de tarifas de servicios de luz y agua potable",
+        "Acceder a cargos públicos sin rendir exámenes de concurso de méritos",
+        "Obtener licencias de importación de mercancías sin aranceles aduaneros"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.1, Convención",
+      "explicacion": "El Art. 9.1 fundamenta la accesibilidad como condición indispensable para la vida independiente y la participación plena."
+    },
+    {
+      "question": "De conformidad con el Artículo 9.2.b, respecto a las entidades privadas que proporcionan instalaciones y servicios abiertos al público, los Estados deberán:",
+      "options": [
+        "Asegurar que tengan en cuenta todos los aspectos de su accesibilidad para las personas con discapacidad",
+        "Expropiar sus inmuebles si no instalan rampas en un plazo de 24 horas",
+        "Permitir que cobren una tarifa de ingreso superior a las personas con movilidad reducida",
+        "Eximirlas de cumplir las normas de diseño universal en zonas comerciales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.2.b, Convención",
+      "explicacion": "El Art. 9.2.b exige que las entidades privadas abiertas al público garanticen la accesibilidad en sus instalaciones y servicios."
+    },
+    {
+      "question": "Según el Artículo 9.2.e, para facilitar el acceso a edificios e instalaciones abiertas al público, los Estados adoptarán medidas como:",
+      "options": [
+        "Dotar de formas de asistencia humana o animal e intermediarios, incluidos guías, lectores e intérpretes profesionales de lengua de señas",
+        "Instalar barreras de seguridad electrónica en los accesos principales",
+        "Exigir la presencia obligatoria de un familiar tutor en cada ingreso",
+        "Cobrar un depósito de garantía reembolsable al ingresar a las oficinas públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.2.e, Convención",
+      "explicacion": "El Art. 9.2.e impone dotar de guías, lectores e intérpretes profesionales de LSB para facilitar el acceso físico e informativo."
+    },
+    {
+      "question": "En situaciones de desastre natural o emergencias humanitarias (Art. 11), las medidas de protección deben adoptarse de conformidad con:",
+      "options": [
+        "El derecho internacional humanitario y el derecho internacional de los derechos humanos",
+        "Las órdenes exclusivas emitidas por los mandos militares locales",
+        "Las disposiciones del derecho mercantil internacional de seguros",
+        "El reglamento interno de las empresas privadas de salvamento"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11, Convención",
+      "explicacion": "El Art. 11 obliga a actuar conforme al Derecho Internacional Humanitario y al Derecho Internacional de Derechos Humanos."
+    },
+    {
+      "question": "El Artículo 12.1 de la Convención revalida explícitamente que las personas con discapacidad tienen derecho en todas partes al:",
+      "options": [
+        "Reconocimiento de su personalidad jurídica",
+        "Otorgamiento de una pensión de invalidez equivalente al cien por ciento del salario",
+        "Nombramiento automático de un apoderado legal nombrado por el municipio",
+        "Exención total de responsabilidad penal en caso de comisión de delitos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.1, Convención",
+      "explicacion": "El Art. 12.1 reafirma el derecho inalienable al reconocimiento de la personalidad jurídica en todas partes."
+    },
+    {
+      "question": "De acuerdo con el Artículo 12.3, la obligación del Estado en relación con la capacidad jurídica es:",
+      "options": [
+        "Proporcionar acceso al apoyo que puedan necesitar en el ejercicio de su capacidad jurídica",
+        "Sustituir la toma de decisiones de la persona mediante resoluciones administrativas de tutela",
+        "Designar al curador judicial con facultades de venta sobre los bienes del representado",
+        "Inhabilitar la firma de cheques y aperturas de cuentas bancarias de ahorro"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12.3, Convención",
+      "explicacion": "El Art. 12.3 establece el modelo de Apoyo a la Toma de Decisiones en lugar del modelo sustitutivo de la voluntad."
+    },
+    {
+      "question": "El Artículo 13.2 de la Convención mandata promover la capacitación adecuada en la administración de justicia para:",
+      "options": [
+        "Asegurar que las personas con discapacidad tengan un acceso efectivo a la justicia",
+        "Evitar que las personas con discapacidad interpongan demandas civiles contra empresas privadas",
+        "Reducir la carga de trabajo de los jueces mediante conciliaciones obligatorias",
+        "Sustituir a los abogados defensores por peritos médicos del sistema judicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13.2, Convención",
+      "explicacion": "El Art. 13.2 busca capacitar al personal judicial y policial para asegurar un acceso real y efectivo a la justicia."
+    },
+    {
+      "question": "Conforme al Artículo 14.1.a, las personas con discapacidad disfrutan en igualdad de condiciones con las demás del derecho a:",
+      "options": [
+        "La libertad y seguridad de la persona",
+        "La detención preventiva en recintos especiales de salud sin orden de juez",
+        "La inmunidad de arresto por faltas de tránsito vehicular",
+        "El traslado obligatorio a colonias agrícolas de trabajo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.1.a, Convención",
+      "explicacion": "El Art. 14.1.a consagra el derecho fundamental a la libertad y seguridad personal."
+    },
+    {
+      "question": "El Artículo 16.1 exige adoptar medidas legislativas, administrativas, sociales y educativas para proteger a las personas con discapacidad contra:",
+      "options": [
+        "Todas las formas de explotación, violencia y abuso, incluidos los aspectos relacionados con el género, tanto dentro como fuera del hogar",
+        "La obligación de asistir a centros educativos inclusivos",
+        "La participación en actividades políticas y elecciones públicas",
+        "El ejercicio de profesiones u oficios independientes remunerados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16.1, Convención",
+      "explicacion": "El Art. 16.1 impone la protección integral dentro y fuera del hogar contra toda explotación, violencia y abuso."
+    },
+    {
+      "question": "Según el Artículo 16.2, las medidas de prevención contra la explotación y el abuso incluyen:",
+      "options": [
+        "Proporcionar información y educación sobre la manera de prevenir, reconocer y denunciar los casos de explotación y abuso",
+        "Restringir las salidas a la vía pública de las mujeres con discapacidad intelectual",
+        "Obligar a las familias a instalar cámaras de vigilancia transmitidas al municipio",
+        "Prohibir el matrimonio de personas con deficiencias mentales severas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16.2, Convención",
+      "explicacion": "El Art. 16.2 enfatiza la información, educación y asistencia adaptadas a la edad y género para prevenir y denunciar abusos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 16.5, los Estados deberán asegurar que los casos de explotación, violencia y abuso contra personas con discapacidad sean:",
+      "options": [
+        "Detectados, investigados y, en su caso, juzgados",
+        "Resueltos mediante acuerdos confidenciales de dinero sin intervención judicial",
+        "Archivados en el plazo de 30 días si el agresor es un familiar directo",
+        "Remitidos exclusivamente a tribunales eclesiásticos o comunitarios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16.5, Convención",
+      "explicacion": "El Art. 16.5 exige legislación y políticas efectivas para detectar, investigar y juzgar penalmente los casos de violencia y abuso."
+    },
+    {
+      "question": "Conforme al Artículo 18.1.a, respecto a la nacionalidad, se garantiza a las personas con discapacidad el derecho a:",
+      "options": [
+        "Adquirir y cambiar una nacionalidad y a no ser privadas de la suya de manera arbitraria o por motivos de discapacidad",
+        "Obtener doble nacionalidad de forma automática sin cumplir requisitos consulares",
+        "Perder la nacionalidad si residen más de tres años en un centro de salud extranjero",
+        "Eximirse de portar el documento oficial de identidad en territorio nacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18.1.a, Convención",
+      "explicacion": "El Art. 18.1.a ampara el derecho a adquirir, cambiar y conservar la nacionalidad sin discriminación."
+    },
+    {
+      "question": "El Artículo 19.b de la Convención exige a los Estados garantizar a las personas con discapacidad el acceso a:",
+      "options": [
+        "Servicios de asistencia domiciliaria, residencial y otros servicios de apoyo de la comunidad, incluida la asistencia personal",
+        "Un salario básico vital pagado de forma directa sin contraprestación laboral",
+        "Casas de campo de descanso de propiedad de la administración pública",
+        "Transporte aéreo internacional gratuito dos veces al año"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19.b, Convención",
+      "explicacion": "El Art. 19.b impone asegurar servicios de asistencia domiciliaria y personal para evitar el aislamiento de la comunidad."
+    },
+    {
+      "question": "El Artículo 19.c dispone que las instalaciones y servicios comunitarios para la población en general deben:",
+      "options": [
+        "Estar a disposición, en igualdad de condiciones, de las personas con discapacidad y tener en cuenta sus necesidades",
+        "Funcionar en horarios nocturnos exclusivos para personas con discapacidad",
+        "Cobrar tarifas diferenciadas con recargo por mantenimiento de accesibilidad",
+        "Requerir reserva previa aprobada por el comité de vecinos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19.c, Convención",
+      "explicacion": "El Art. 19.c exige que todos los servicios e instalaciones comunitarias generales sean plenamente accesibles e inclusivos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 20.a, los Estados Partes facilitarán la movilidad personal de las personas con discapacidad:",
+      "options": [
+        "En la forma y en el momento que deseen y a un costo asequible",
+        "Únicamente mediante el servicio de ambulancias de los hospitales públicos",
+        "En horarios restringidos de menor congestión vehicular",
+        "Mediante autorización previa expedida por la autoridad de tránsito"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.a, Convención",
+      "explicacion": "El Art. 20.a busca la máxima independencia de movilidad en el momento y forma deseados a costo asequible."
+    },
+    {
+      "question": "El Artículo 20.b exige facilitar el acceso de las personas con discapacidad a:",
+      "options": [
+        "Formas de asistencia humana o animal e intermediarios, tecnologías de apoyo y ayudas para la movilidad de calidad a costo asequible",
+        "La donación obligatoria de vehículos importados usados sin control técnico",
+        "Licencias de conducir sin rendir examen de capacidad motora",
+        "Cualquier medicamento farmacológico sin receta médica prescripta"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.b, Convención",
+      "explicacion": "El Art. 20.b mandata el acceso a ayudas de movilidad, asistencia animal/humana y tecnologías de apoyo de calidad."
+    },
+    {
+      "question": "Según el Artículo 21.a, para garantizar la libertad de expresión y el acceso a la información, se debe facilitar la información dirigida al público:",
+      "options": [
+        "De manera oportuna y sin costo adicional, en formatos accesibles y con tecnologías adecuadas a los diferentes tipos de discapacidad",
+        "Únicamente previa solicitud escrita estampada con timbre fiscal",
+        "En resumen ejecutivo de no más de una página en formato digital cerrado",
+        "Mediante pago de un arancel por conversión a sistema Braille"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.a, Convención",
+      "explicacion": "El Art. 21.a exige información pública oportuna, sin costo adicional y en formatos accesibles adecuados."
+    },
+    {
+      "question": "El Artículo 21.c alienta a las entidades privadas que presten servicios al público en general, incluso mediante Internet, a:",
+      "options": [
+        "Proporcionar información y servicios en formatos que las personas con discapacidad puedan utilizar y a los que tengan acceso",
+        "Donar el diez por ciento de sus utilidades a centros de educación especial",
+        "Contratar únicamente a personal con discapacidad en sus áreas de atención telefónica",
+        "Eximir de cobro por compras en línea a las personas con deficiencias visuales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.c, Convención",
+      "explicacion": "El Art. 21.c promueve que el sector privado asegure la accesibilidad en sus servicios e información web."
+    },
+    {
+      "question": "En materia de privacidad de la persona con discapacidad (Art. 22.1), la Convención establece que:",
+      "options": [
+        "Ninguna persona con discapacidad será objeto de injerencias arbitrarias o ilegales en su vida privada, familia, hogar o correspondencia",
+        "Las autoridades pueden revisar sus comunicaciones privadas si vive en un centro residencial",
+        "Los tutores legales tienen derecho de lectura de su correspondencia personal sin permiso",
+        "Los diagnósticos de salud deben publicarse en los tablones de la empresa contratante"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 22.1, Convención",
+      "explicacion": "El Art. 22.1 consagra el derecho a la protección legal contra injerencias arbitrarias en la privacidad, correspondencia y honor."
+    },
+    {
+      "question": "Conforme al Artículo 23.1.b, en materia de familia, los Estados garantizarán el derecho de las personas con discapacidad a:",
+      "options": [
+        "Decidir libremente y de manera responsable el número de hijos que quieren tener y el tiempo entre nacimientos, con acceso a educación reproductiva",
+        "Tener hijos únicamente si acreditan ingresos económicos superiores a tres salarios mínimos",
+        "Obtener autorización previa del comité de ética del hospital de la zona",
+        "Delegar la crianza de sus hijos en los abuelos consanguíneos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.1.b, Convención",
+      "explicacion": "El Art. 23.1.b reconoce la autonomía en los derechos reproductivos y acceso a planificación familiar adaptada."
+    },
+    {
+      "question": "De acuerdo con el Artículo 23.2, en lo que respecta a la custodia, tutela, guarda o adopción de niños:",
+      "options": [
+        "En todos los casos se velará al máximo por el interés superior del niño y se prestará la asistencia apropiada a los padres",
+        "Se prohibirá la adopción de niños por parte de personas con discapacidad física",
+        "La discapacidad del padre o madre extinguirá automáticamente la patria potestad",
+        "Los tribunales otorgarán la custodia exclusiva al progenitor que no presente discapacidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.2, Convención",
+      "explicacion": "El Art. 23.2 vela por el interés superior del niño y garantiza asistencia a los padres con discapacidad para la crianza."
+    },
+    {
+      "question": "El Artículo 23.5 establece que cuando la familia inmediata no pueda cuidar de un niño con discapacidad, los Estados harán todo lo posible por proporcionar atención alternativa:",
+      "options": [
+        "Dentro de la familia extensa y, de no ser posible, dentro de la comunidad en un entorno familiar",
+        "En hospicios infantiles cerrados fuera de la jurisdicción municipal",
+        "Mediante adopción internacional prioritaria en países desarrollados",
+        "En recintos de custodia policial hasta que alcance la mayoría de edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 23.5, Convención",
+      "explicacion": "El Art. 23.5 prioriza la atención alternativa dentro de la familia extensa o en un entorno familiar en la comunidad."
+    },
+    {
+      "question": "En el ámbito educativo (Art. 24.2.b), los Estados Partes asegurarán que las personas con discapacidad puedan acceder a una educación primaria y secundaria inclusiva, de calidad y gratuita:",
+      "options": [
+        "En igualdad de condiciones con las demás, en la comunidad en que vivan",
+        "Únicamente en las capitales de departamento que tengan centros de recursos",
+        "Si abonan una cuota de mantenimiento de talleres técnicos",
+        "A través de clases virtuales exclusivas sin asistencia presencial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24.2.b, Convención",
+      "explicacion": "El Art. 24.2.b garantiza la educación inclusiva, gratuita y de calidad en la propia comunidad en que habita el estudiante."
+    },
+    {
+      "question": "Según el Artículo 24.2.e, en el sistema general de educación se facilitarán medidas de apoyo personalizadas y efectivas en entornos que fomenten al máximo:",
+      "options": [
+        "El desarrollo académico y social, de conformidad con el objetivo de la plena inclusión",
+        "El aislamiento protector para evitar el bullying en el recreo escolar",
+        "La formación en oficios mecánicos sencillos descartando la ciencia y literatura",
+        "La competencia atlética exclusiva entre estudiantes con discapacidad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24.2.e, Convención",
+      "explicacion": "El Art. 24.2.e exige apoyos personalizados en entornos que maximicen el desarrollo académico, social y la inclusión plena."
+    },
+    {
+      "question": "Conforme al Artículo 24.3.c, para la educación de los niños ciegos, sordos o sordociegos, los Estados asegurarán que se imparta:",
+      "options": [
+        "En los lenguajes, modos y medios de comunicación más apropiados para cada persona y en entornos que permitan alcanzar su máximo desarrollo",
+        "Mediante internamiento obligatorio en tres centros nacionales centralizados",
+        "Únicamente mediante lectura de labios prohibiendo el uso de señas",
+        "Con material impreso convencional sin adaptación al sistema Braille"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 24.3.c, Convención",
+      "explicacion": "El Art. 24.3.c garantiza entornos y medios más apropiados (como LSB y Braille) para el desarrollo pleno de ciegos y sordos."
+    },
+    {
+      "question": "En relación con la salud sexual y reproductiva (Art. 25.a), los Estados Partes se comprometen a proporcionar a las personas con discapacidad programas de salud:",
+      "options": [
+        "Gratuitos o a precios asequibles, de la misma variedad y calidad que a las demás personas",
+        "Exclusivamente previa autorización escrita emitida por el cónyuge o tutor",
+        "Restringidos a la orientación teórica sin exámenes médicos presenciales",
+        "Únicamente en clínicas privadas de atención especializada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.a, Convención",
+      "explicacion": "El Art. 25.a garantiza atención de salud de igual variedad y calidad, incluyendo salud sexual y reproductiva, a costos asequibles."
+    },
+    {
+      "question": "El Artículo 25.c mandata que los servicios de salud necesarios como consecuencia de la discapacidad se proporcionen:",
+      "options": [
+        "Lo más cerca posible de las comunidades de las personas con discapacidad, incluso en zonas rurales",
+        "Únicamente en institutos de investigación médica en el extranjero",
+        "En hospitales militares bajo la jurisdicción de las fuerzas armadas",
+        "En recintos cerrados de cuarentena asistencial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.c, Convención",
+      "explicacion": "El Art. 25.c exige descentralizar la atención médica acercándola a la propia comunidad y zonas rurales."
+    },
+    {
+      "question": "El Artículo 25.e de la Convención prohíbe de manera categórica:",
+      "options": [
+        "La discriminación contra las personas con discapacidad en la prestación de seguros de salud y de vida",
+        "La venta de medicamentos genéricos en farmacias comunitarias públicas",
+        "La contratación de seguros de accidentes de trabajo en empresas privadas",
+        "La atención médica gratuita a personas con discapacidad mayor de 65 años"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 25.e, Convención",
+      "explicacion": "El Art. 25.e prohíbe negar o discriminar en la concesión de seguros de salud y de vida cuando estén permitidos."
+    },
+    {
+      "question": "En el marco de la habilitación y rehabilitación (Art. 26.2), los Estados Partes promoverán:",
+      "options": [
+        "El desarrollo de formación inicial y continua para los profesionales y el personal que trabajen en estos servicios",
+        "La reducción de los años de estudio universitario para los fisioterapeutas",
+        "La sustitución del personal médico por voluntarios sin título profesional",
+        "El cierre de las facultades de educación especial en universidades públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 26.2, Convención",
+      "explicacion": "El Art. 26.2 exige promover la formación inicial y continua de todos los profesionales y técnicos de rehabilitación."
+    },
+    {
+      "question": "De acuerdo con el Artículo 27.1.a, en materia de empleo se prohíbe la discriminación por motivos de discapacidad con respecto a:",
+      "options": [
+        "Todas las cuestiones relativas a cualquier forma de empleo, incluyendo selección, contratación, continuidad, promoción y condiciones seguras",
+        "Únicamente a los salarios de directores de empresas multinacionales",
+        "Exclusivamente a los puestos de trabajo temporales de menos de tres meses",
+        "A los contratos laborales firmados por personas con discapacidad motora"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27.1.a, Convención",
+      "explicacion": "El Art. 27.1.a prohíbe la discriminación en todas las fases del ciclo laboral (selección, ascenso, permanencia y seguridad)."
+    },
+    {
+      "question": "El Artículo 27.1.b garantiza a las personas con discapacidad el derecho a condiciones de trabajo justas y favorables, incluyendo en especial:",
+      "options": [
+        "Igualdad de oportunidades y de remuneración por trabajo de igual valor, protección contra el acoso y reparación por agravios",
+        "Salario doble por el desempeño de tareas administrativas sencillas",
+        "Vacaciones de seis meses anuales con goce de haberes completo",
+        "Exención total de pagar impuestos de rendimiento al trabajo personal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27.1.b, Convención",
+      "explicacion": "El Art. 27.1.b garantiza igual remuneración por trabajo de igual valor, condiciones seguras y protección contra el acoso."
+    },
+    {
+      "question": "En relación con el trabajo por cuenta propia (Art. 27.1.f), la Convención obliga a los Estados a:",
+      "options": [
+        "Promover oportunidades empresariales, de empleo por cuenta propia, constitución de cooperativas e inicio de empresas propias",
+        "Prohibir la venta ambulatoria de productos comerciales a personas ciegas",
+        "Exigir un capital inicial de diez mil dólares para abrir una microempresa",
+        "Obligar a formar asociaciones empresariales con tutela del municipio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27.1.f, Convención",
+      "explicacion": "El Art. 27.1.f fomenta el emprendimiento, autoempleo, cooperativismo y la creación de empresas propias de personas con discapacidad."
+    },
+    {
+      "question": "El Artículo 27.2 de la Convención asegura que las personas con discapacidad no sean sometidas a:",
+      "options": [
+        "Esclavitud ni servidumbre y que estén protegidas contra el trabajo forzoso u obligatorio",
+        "Jornadas laborales de ocho horas diarias en oficinas públicas",
+        "Exámenes de competencia profesional para el ascenso de categoría",
+        "Descuentos salariales legales dirigidos a los aportes de jubilación"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 27.2, Convención",
+      "explicacion": "El Art. 27.2 prohíbe de forma absoluta la esclavitud, servidumbre y el trabajo forzoso u obligatorio."
+    },
+    {
+      "question": "De conformidad con el Artículo 28.2.b, los Estados asegurarán el acceso de las personas con discapacidad, en particular mujeres, niñas y adultos mayores, a:",
+      "options": [
+        "Programas de protección social y estrategias de reducción de la pobreza",
+        "Becas de estudio exclusivas en academias privadas de arte dramático",
+        "Cursos de pilotaje de aviación comercial e industrial",
+        "Clubes sociales nocturnos privados de membresía reservada"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28.2.b, Convención",
+      "explicacion": "El Art. 28.2.b garantiza acceso prioritario a programas de protección social y erradicación de la pobreza para grupos vulnerables."
+    },
+    {
+      "question": "En materia de vivienda y jubilación (Art. 28.2.d-e), la Convención exige asegurar el acceso en condiciones de igualdad a:",
+      "options": [
+        "Programas de vivienda pública y programas y beneficios de jubilación",
+        "Donaciones inmobiliarias de residencias turísticas en la playa",
+        "Pensiones de invalidez pagadas en divisas extranjeras sin control fiscal",
+        "Exención de pago de peajes en autopistas internacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 28.2.d-e, Convención",
+      "explicacion": "El Art. 28.2.d-e impone garantizar el acceso a vivienda pública y a programas y beneficios de jubilación sin discriminación."
+    },
+    {
+      "question": "Según el Artículo 29.a.i, para garantizar la participación en la vida política y pública, se debe asegurar que:",
+      "options": [
+        "Los procedimientos, instalaciones y materiales electorales sean adecuados, accesibles y fáciles de entender y utilizar",
+        "El voto sea delegado en el Presidente de la junta de vecinos",
+        "Las urnas de votación se instalen únicamente en el segundo piso de los colegios",
+        "Los candidatos con discapacidad intelectual presenten un fiador bancario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29.a.i, Convención",
+      "explicacion": "El Art. 29.a.i exige que los procesos, recintos y papeletas electorales sean plenamente accesibles y comprensibles."
+    },
+    {
+      "question": "El Artículo 29.b.ii promueve activamente el fomento de la participación de las personas con discapacidad en los asuntos públicos mediante:",
+      "options": [
+        "La constitución de organizaciones de personas con discapacidad que las representen a nivel internacional, nacional, regional y local",
+        "La creación de partidos políticos exclusivos para personas con deficiencias motoras",
+        "La sustitución del Parlamento por comités técnicos nombrados por decreto",
+        "La prohibición de afiliarse a sindicatos generales de trabajadores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 29.b.ii, Convención",
+      "explicacion": "El Art. 29.b.ii promueve el fortalecimiento y creación de organizaciones representativas a todos los niveles territoriales."
+    },
+    {
+      "question": "En el ámbito cultural (Art. 30.1.c), los Estados Partes adoptarán medidas para asegurar el acceso a lugares de representaciones o servicios culturales como:",
+      "options": [
+        "Teatros, museos, cines, bibliotecas, servicios turísticos y monumentos de importancia cultural",
+        "Únicamente las galerías privadas de arte moderno en la capital",
+        "Exclusivamente los estadios deportivos durante torneos oficiales",
+        "Recintos militares y centros de instrucción policial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30.1.c, Convención",
+      "explicacion": "El Art. 30.1.c garantiza el acceso físico e informativo a teatros, cines, museos, bibliotecas y sitios históricos."
+    },
+    {
+      "question": "Conforme al Artículo 30.2, los Estados Partes adoptarán medidas para que las personas con discapacidad puedan desarrollar su potencial creativo, artístico e intelectual:",
+      "options": [
+        "No sólo en su propio beneficio sino también para el enriquecimiento de la sociedad",
+        "Unicamente dentro de las escuelas especiales de formación técnica",
+        "Sometiéndose a la aprobación previa del Ministerio de Culturas",
+        "Prohibiendo la venta comercial de sus obras de pintura o literatura"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30.2, Convención",
+      "explicacion": "El Art. 30.2 reconoce el valor del aporte artístico e intelectual de las personas con discapacidad para toda la sociedad."
+    },
+    {
+      "question": "El Artículo 30.5.a mandata a los Estados Partes a alentar y promover la participación de las personas con discapacidad en:",
+      "options": [
+        "Las actividades deportivas generales a todos los niveles en la mayor medida posible",
+        "Campeonatos de ajedrez cerrados sin presencia de público presencial",
+        "Cursos de formación gimnástica exclusiva para personas con discapacidad motora",
+        "Demostraciones atléticas de exhibición sin entrega de medallas ni reconocimientos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 30.5.a, Convención",
+      "explicacion": "El Art. 30.5.a exige fomentar la inclusión en los deportes generales a todos los niveles de competencia."
+    },
+    {
+      "question": "De acuerdo con el Artículo 31.2, la información y estadísticas recopiladas sobre discapacidad se utilizarán para:",
+      "options": [
+        "Evaluar el cumplimiento de las obligaciones de la Convención e identificar y eliminar las barreras existentes",
+        "Justificar recortes presupuestarios en programas de educación inclusiva",
+        "Determinar la lista de votantes inhábiles para las elecciones municipales",
+        "Elaborar catálogos comerciales de empresas vendedoras de ayudas técnicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.2, Convención",
+      "explicacion": "El Art. 31.2 indica que los datos desglosados sirven para evaluar el cumplimiento del tratado y remover barreras."
+    },
+    {
+      "question": "El Artículo 31.3 de la Convención impone a los Estados Partes la responsabilidad de:",
+      "options": [
+        "Difundir las estadísticas recopiladas y asegurar que sean accesibles para las personas con discapacidad y otros",
+        "Guardar en reserva absoluta los datos sobre el número de personas con discapacidad en el país",
+        "Cobrar un arancel administrativo a las universidades que soliciten estadísticas",
+        "Publicar los datos desglosados omitiendo las variables de género y edad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 31.3, Convención",
+      "explicacion": "El Art. 31.3 mandata la difusión pública y en formatos accesibles de toda la información estadística recopilada."
+    },
+    {
+      "question": "El Artículo 32.1.b de la Convención señala que las medidas de cooperación internacional incluyen:",
+      "options": [
+        "Facilitar y apoyar el fomento de la capacidad mediante el intercambio de información, experiencias y prácticas recomendadas",
+        "Exigir el pago de regalías por el uso de tecnologías de apoyo desarrolladas en la región",
+        "Restringir los viajes de estudio de profesionales a países en desarrollo",
+        "Monopolizar la formación de posgrado en una sola universidad estatal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.1.b, Convención",
+      "explicacion": "El Art. 32.1.b destaca el fortalecimiento de capacidades mediante el intercambio de buenas prácticas, experiencias e información."
+    },
+    {
+      "question": "Conforme al Artículo 32.1.d, en el marco de la cooperación internacional se debe proporcionar:",
+      "options": [
+        "Asistencia apropiada, técnica y económica, facilitando el acceso a tecnologías accesibles y de asistencia y su transferencia",
+        "Armamento y equipos de vigilancia electrónica para recintos cerrados",
+        "Préstamos bancarios con interés comercial para compras de inmuebles estatales",
+        "Alimentos procesados con fecha de vencimiento próxima a caducar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 32.1.d, Convención",
+      "explicacion": "El Art. 32.1.d establece la transferencia y acceso a tecnologías de apoyo y asistencia técnica y económica."
+    },
+    {
+      "question": "Según el Artículo 34.3 de la Convención, los miembros del Comité de la ONU desempeñarán sus funciones a título personal y serán personas de:",
+      "options": [
+        "Gran integridad moral y reconocida competencia y experiencia en los temas de la Convención",
+        "Filiación política afín a la mayoría parlamentaria del país proponente",
+        "Grado de formación militar activa o de servicio diplomático en retiro",
+        "Titularidad patrimonial acreditada de empresas de tecnología médica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34.3, Convención",
+      "explicacion": "El Art. 34.3 exige integridad moral y reconocida competencia en derechos humanos y discapacidad a los expertos del Comité."
+    },
+    {
+      "question": "De acuerdo con el Artículo 34.5, la elección de los miembros del Comité se realiza mediante voto secreto en la Conferencia de Estados Partes, requiriéndose para el quórum:",
+      "options": [
+        "Dos tercios (2/3) de los Estados Partes",
+        "El cincuenta por ciento más uno de los países firmantes",
+        "La presencia unánime de los 193 países miembros de la ONU",
+        "Cincuenta países de tres continentes distintos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34.5, Convención",
+      "explicacion": "El Art. 34.5 fija en 2/3 de los Estados Partes el quórum legal necesario para realizar la votación del Comité."
+    },
+    {
+      "question": "El Artículo 34.12 de la Convención dispone que los miembros del Comité sobre los Derechos de las Personas con Discapacidad percibirán emolumentos:",
+      "options": [
+        "Con cargo a los recursos de las Naciones Unidas en los términos que la Asamblea General decida",
+        "Pagados directamente por el gobierno del Estado Parte que los postuló",
+        "Provenientes de una cuota anual cobrada a las ONGs de personas con discapacidad",
+        "Sin derecho a estipendio ni viáticos de viaje por tratarse de cargos ad honorem"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 34.12, Convención",
+      "explicacion": "El Art. 34.12 dispone que los emolumentos son financiados con recursos de la ONU según lo determine la Asamblea General."
+    },
+    {
+      "question": "Según el Artículo 35.4 de la Convención, al preparar sus informes para el Comité, se invita a los Estados Partes a hacerlo mediante un procedimiento:",
+      "options": [
+        "Abierto y transparente, teniendo en cuenta consultas estrechas con personas con discapacidad",
+        "Confidencial llevado a cabo en sesiones cerradas del Ministerio de Relaciones Exteriores",
+        "Aprobado exclusivamente por el gabinete ministerial en reunión secreta",
+        "Sometido a la revisión previa de agencias financieras internacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 35.4, Convención",
+      "explicacion": "El Art. 35.4 insta a que la elaboración de informes nacionales sea transparente e incluya a las personas con discapacidad."
+    },
+    {
+      "question": "El Artículo 36.1 de la Convención indica que tras examinar los informes de los Estados, el Comité hará:",
+      "options": [
+        "Las sugerencias y recomendaciones que estime oportunas y se las remitirá al Estado Parte",
+        "Sanciones de embargo comercial a los países incumplidores",
+        "Anulaciones directas de las leyes nacionales que considere discriminatorias",
+        "Publicaciones de condena en la prensa escrita internacional sin escuchar al Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36.1, Convención",
+      "explicacion": "El Art. 36.1 establece que el Comité emite sugerencias y observaciones finales (recomendaciones) que transmite al Estado Parte."
+    },
+    {
+      "question": "De conformidad con el Artículo 36.5, el Comité transmitirá los informes estatales a los organismos especializados y fondos de la ONU a fin de:",
+      "options": [
+        "Atender solicitudes o indicaciones de necesidad de asesoramiento técnico o asistencia",
+        "Cobrar aportes económicos para el financiamiento de misiones diplomáticas",
+        "Determinar qué países requieren inspecciones militares humanitarias",
+        "Sustituir los programas de desarrollo sostenible nacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 36.5, Convención",
+      "explicacion": "El Art. 36.5 canaliza los informes hacia agencias de la ONU (como UNICEF o UNESCO) para facilitar asistencia técnica."
+    },
+    {
+      "question": "El Artículo 37.1 de la Convención impone a todos los Estados Partes el deber de:",
+      "options": [
+        "Cooperar con el Comité y ayudar a sus miembros a cumplir su mandato",
+        "Aceptar todas las recomendaciones del Comité sin derecho a réplica",
+        "Financiar los viajes de inspección de los expertos del Comité",
+        "Someter sus presupuestos de salud a la aprobación previa del Secretario General"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 37.1, Convención",
+      "explicacion": "El Art. 37.1 establece el deber de cooperación activa de los Estados con el Comité para el cumplimiento de su cometido."
+    }
+  ]
+}

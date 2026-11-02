@@ -1,0 +1,1827 @@
+{
+  "bibliografia": {
+    "id": "ne03_ds_813_direcciones_departamentales_educacion",
+    "nombre": "Decreto Supremo N° 813 que reglamenta la estructura, composición y funciones de las Direcciones Departamentales de Educación, de la Ley N° 070",
+    "detalle": "9 de marzo de 2011",
+    "grupo": "Normativa específica",
+    "rinden": [
+      "Director Departamental",
+      "Subdirector Regular",
+      "Director Distrital"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": [
+    {
+      "question": "¿Cuál es el objeto principal del Decreto Supremo N° 0813 del 9 de marzo de 2011?",
+      "options": [
+        "Reglamentar la estructura, composición y funciones de las Direcciones Departamentales de Educación (DDE's) en el marco de la Ley N° 070",
+        "Establecer la gratuidad absoluta del transporte escolar rural en todos los municipios del país",
+        "Crear el nuevo reglamento de faltas y sanciones para institutos técnicos privados",
+        "Transferir el patrimonio del Ministerio de Educación a las universidades públicas autónomas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 1, D.S. N° 0813",
+      "explicacion": "El Art. 1 dispone que el objeto del Decreto Supremo es reglamentar la estructura, composición y funciones de las DDE's de la Ley N° 070 Avelino Siñani - Elizardo Pérez."
+    },
+    {
+      "question": "Según el Artículo 2 del D.S. N° 0813, ¿cuál es la naturaleza jurídica de las DDE's?",
+      "options": [
+        "Son entidades públicas descentralizadas bajo tuición del Ministerio de Educación, con personalidad jurídica de derecho público, patrimonio propio y autonomía de gestión administrativa, financiera, legal y técnica",
+        "Son empresas estatales de economía mixta independientes sin supervisión del Poder Ejecutivo",
+        "Son unidades desconcentradas sin personería jurídica ni autonomía presupuestaria",
+        "Son organizaciones comunitarias privadas financiadas por aportes voluntarios de padres de familia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, D.S. N° 0813",
+      "explicacion": "El Art. 2 define a las DDE's como entidades públicas descentralizadas bajo tuición del Ministerio de Educación, con personalidad jurídica, patrimonio propio y autonomía de gestión."
+    },
+    {
+      "question": "¿Dónde tienen su sede y ámbito de competencia territorial las Direcciones Departamentales de Educación según el Art. 2 del D.S. N° 0813?",
+      "options": [
+        "Sede en las capitales de Departamento y competencia en la jurisdicción departamental",
+        "Sede en la Sede de Gobierno y competencia en todo el territorio plurinacional",
+        "Sede en municipios rurales y competencia exclusiva a nivel distrital",
+        "Sede en provincias fronterizas y competencia a nivel regional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, D.S. N° 0813",
+      "explicacion": "El Art. 2 fija explícitamente que las DDE's tienen su sede en las capitales de Departamento y ejercen competencia en la jurisdicción departamental."
+    },
+    {
+      "question": "Conforme al Artículo 3.I del D.S. N° 0813, la misión institucional de las DDE's consiste en:",
+      "options": [
+        "Implementar de manera transparente y oportuna las políticas educativas y de administración curricular en el Departamento, así como la administración y gestión de los recursos en su ámbito",
+        "Diseñar libremente leyes educativas plurinacionales sin consulta previa al Ministerio de Educación",
+        "Subvencionar actividades comerciales privadas dentro de las unidades educativas",
+        "Reemplazar a los Gobiernos Autónomos Municipales en la construcción de obras públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.I, D.S. N° 0813",
+      "explicacion": "El Art. 3.I señala que la misión es implementar transparente y oportunamente las políticas educativas y de administración curricular, y gestionar los recursos en su jurisdicción."
+    },
+    {
+      "question": "De acuerdo con el Artículo 3.II del D.S. N° 0813, ¿sobre qué área específica ejercen competencia las DDE's a nivel departamental?",
+      "options": [
+        "Sobre la administración y gestión de la educación",
+        "Sobre la recaudación de impuestos nacionales y aduaneros",
+        "Sobre el juzgamiento penal ordinario de faltas públicas",
+        "Sobre la aprobación de leyes orgánicas del Poder Judicial"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 3.II, D.S. N° 0813",
+      "explicacion": "El Art. 3.II establece que las DDE's ejercen competencia a nivel departamental sobre la administración y gestión de la educación."
+    },
+    {
+      "question": "En los considerandos del D.S. N° 0813, ¿qué artículo de la Constitución Política del Estado establece que la educación es una función suprema y primera responsabilidad financiera del Estado?",
+      "options": [
+        "Artículo 77, Parágrafo I de la CPE",
+        "Artículo 15, Parágrafo II de la CPE",
+        "Artículo 108, Numeral 3 de la CPE",
+        "Artículo 232 de la CPE"
+      ],
+      "answer": 0,
+      "fuente": "Considerando 1, D.S. N° 0813",
+      "explicacion": "El considerando citando el Parágrafo I del Art. 77 de la CPE señala que la educación constituye una función suprema y primera responsabilidad financiera del Estado."
+    },
+    {
+      "question": "Según los considerandos del D.S. N° 0813, ¿qué artículo de la Ley N° 070 establece que el nivel departamental de la gestión se conforma por las DDE's?",
+      "options": [
+        "Artículo 78 de la Ley N° 070",
+        "Artículo 10 de la Ley N° 070",
+        "Artículo 45 de la Ley N° 070",
+        "Artículo 90 de la Ley N° 070"
+      ],
+      "answer": 0,
+      "fuente": "Considerando 6, D.S. N° 0813",
+      "explicacion": "El considerando refiere que el Artículo 78 de la Ley N° 070 establece que el Nivel Departamental está conformado por las Direcciones Departamentales de Educación."
+    },
+    {
+      "question": "¿Qué artículo de la Ley N° 070 determina que la estructura de la administración educativa se constituye en Nivel Central, Departamental y Autonómico?",
+      "options": [
+        "Artículo 76 de la Ley N° 070",
+        "Artículo 20 de la Ley N° 070",
+        "Artículo 55 de la Ley N° 070",
+        "Artículo 88 de la Ley N° 070"
+      ],
+      "answer": 0,
+      "fuente": "Considerando 5, D.S. N° 0813",
+      "explicacion": "El considerando menciona que el Artículo 76 de la Ley N° 070 fija la estructura en Nivel Central, Nivel Departamental y Nivel Autonómico."
+    },
+    {
+      "question": "Según el Artículo 4.a del D.S. N° 0813, las DDE's tienen la función de:",
+      "options": [
+        "Implementar los principios, normas, políticas y estrategias del ámbito plurinacional educacional en el nivel departamental",
+        "Modificar los principios constitucionales del Estado Plurinacional",
+        "Dictar amnistías judiciales para procesados administrativos",
+        "Establecer aranceles de importación de material de escritorio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.a, D.S. N° 0813",
+      "explicacion": "El Art. 4.a ordena implementar los principios, normas, políticas y estrategias del ámbito plurinacional educacional en el nivel departamental."
+    },
+    {
+      "question": "Según el Artículo 4.b del D.S. N° 0813, la coordinación de políticas educativas por la DDE incluye a las siguientes entidades territoriales autónomas, EXCEPTUANDO:",
+      "options": [
+        "Asociaciones comerciales privadas trasnacionales sin personalidad jurídica",
+        "Entidades territoriales autónomas del ámbito departamental",
+        "Entidades territoriales autónomas del ámbito municipal",
+        "Entidades territoriales autónomas del ámbito indígena originario campesino"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.b, D.S. N° 0813",
+      "explicacion": "El Art. 4.b manda coordinar con ETAs del ámbito departamental, regional, municipal e indígena originario campesino."
+    },
+    {
+      "question": "Conforme al Artículo 4.c del D.S. N° 0813, el Plan Departamental de Educación es formulado por:",
+      "options": [
+        "La Dirección Departamental de Educación (DDE) en el marco de las políticas del sector educativo del nivel central",
+        "La Cámara de Senadores de la Asamblea Legislativa",
+        "Los sindicatos docentes de manera unilateral",
+        "La Contraloría General del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.c, D.S. N° 0813",
+      "explicacion": "El Art. 4.c atribuye a la DDE la formulación del Plan Departamental de Educación alineado con las políticas centrales."
+    },
+    {
+      "question": "De acuerdo con el Artículo 4.d del D.S. N° 0813, velar por el adecuado funcionamiento del Sistema Educativo en la jurisdicción abarca a:",
+      "options": [
+        "Las unidades y centros educativos fiscales, privados y de convenio",
+        "Exclusivamente a los centros educativos privados de formación técnica",
+        "Únicamente a las escuelas rurales del Subsistema Alternativo",
+        "Únicamente a los institutos militares y policiales de posgrado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.d, D.S. N° 0813",
+      "explicacion": "El Art. 4.d precisa que abarca a unidades y centros fiscales, privados y de convenio en el ámbito de su jurisdicción."
+    },
+    {
+      "question": "Según el Artículo 4.e del D.S. N° 0813, es función de la DDE promover actividades para el desarrollo de:",
+      "options": [
+        "La investigación y de la ciencia y tecnología en el ámbito de su competencia",
+        "El comercio informal fronterizo no regulado",
+        "La especulación financiera en el mercado bancario",
+        "La propaganda política en horarios escolares"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.e, D.S. N° 0813",
+      "explicacion": "El Art. 4.e prescribe la promoción de actividades para el desarrollo de la investigación, ciencia y tecnología."
+    },
+    {
+      "question": "Conforme al Artículo 4.f del D.S. N° 0813, los mecanismos de prevención desarrollados por la DDE deben proteger la dignidad e integridad de:",
+      "options": [
+        "Las y los estudiantes, maestras y maestros, y personal administrativo de las unidades y centros educativos",
+        "Únicamente los directores departamentales contratados bajo libre remoción",
+        "Exclusivamente los proveedores privados de alimentos escolares",
+        "Únicamente los funcionarios de auditoría interna del Ministerio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.f, D.S. N° 0813",
+      "explicacion": "El Art. 4.f protege la dignidad de estudiantes, docentes y personal administrativo de las unidades y centros educativos."
+    },
+    {
+      "question": "De acuerdo con el Artículo 4.g del D.S. N° 0813, la entrega de los Diplomas de Bachiller Gratuitos es una función ejercida bajo el marco de:",
+      "options": [
+        "La Ley N° 3991, de 18 de diciembre de 2008, y las normas reglamentarias vigentes",
+        "El Decreto Ley de Educación de 1973",
+        "La Ley SAFCO N° 1178 de 1990",
+        "El Código Penal Plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.g, D.S. N° 0813",
+      "explicacion": "El Art. 4.g establece la otorgación de Diplomas de Bachiller Gratuitos en el marco de la Ley N° 3991."
+    },
+    {
+      "question": "Según el Artículo 4.h del D.S. N° 0813, la DDE debe velar por el cumplimiento de las funciones de:",
+      "options": [
+        "Las Direcciones Distritales Educativas, Direcciones de Núcleo y Direcciones de Unidades Educativas",
+        "Las Alcaldías y Gobernaciones de todo el país",
+        "Los Consulados e Institutos de Comercio Exterior",
+        "Las Organizaciones No Gubernamentales internacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.h, D.S. N° 0813",
+      "explicacion": "El Art. 4.h establece velar por el cumplimiento de funciones de las Direcciones Distritales, de Núcleo y de Unidades Educativas."
+    },
+    {
+      "question": "Conforme al Artículo 4.i del D.S. N° 0813, la administración y gestión educativa planificada por la DDE debe contar con la participación de:",
+      "options": [
+        "La participación social-comunitaria en el departamento",
+        "Agencias de inteligencia militar extranjeras",
+        "Empresas privadas de seguridad escolar",
+        "Auditores financieros de bancos privados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.i, D.S. N° 0813",
+      "explicacion": "El Art. 4.i exige planificar, organizar, ejecutar y evaluar con participación social-comunitaria en el departamento."
+    },
+    {
+      "question": "De acuerdo con el Artículo 4.j del D.S. N° 0813, la articulación del sistema curricular departamental implica:",
+      "options": [
+        "Implementar el currículo base y coordinar la elaboración y aplicación del currículo regionalizado",
+        "Crear un currículo privado desconectado del Estado Plurinacional",
+        "Eliminar los contenidos en idiomas originarios oficiales",
+        "Imponer currículos extranjeros en escuelas públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.j, D.S. N° 0813",
+      "explicacion": "El Art. 4.j ordena implementar el currículo base y coordinar la elaboración y aplicación del currículo regionalizado."
+    },
+    {
+      "question": "Según el Artículo 4.m del D.S. N° 0813, la DDE debe supervisar y evaluar los procesos educativos y la gestión institucional de:",
+      "options": [
+        "Las unidades o centros educativos fiscales, privados y de convenio",
+        "Únicamente los colegios privados de la capital departamental",
+        "Exclusivamente los centros de educación alternativa del área rural",
+        "Únicamente las academias deportivas municipales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.m, D.S. N° 0813",
+      "explicacion": "El Art. 4.m dispone supervisar y evaluar la gestión institucional de establecimientos fiscales, privados y de convenio."
+    },
+    {
+      "question": "Conforme al Artículo 4.n del D.S. N° 0813, las faltas disciplinarias cometidas en el ámbito educacional se sancionan mediante:",
+      "options": [
+        "El Reglamento de Faltas y Sanciones Disciplinarias del Sistema Educativo Plurinacional emitido por el Ministerio de Educación",
+        "Sanciones verbales sin registro escrito ni procedimiento",
+        "Resoluciones de consejos de ancianos municipales no regulados",
+        "Multas dinerarias cobradas directamente por las juntas de padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.n, D.S. N° 0813",
+      "explicacion": "El Art. 4.n establece la aplicación del Reglamento de Faltas y Sanciones Disciplinarias emitido por el Ministerio de Educación."
+    },
+    {
+      "question": "Según el Artículo 5.I del D.S. N° 0813, ¿cuáles son los tres niveles de organización en la estructura de las DDE's?",
+      "options": [
+        "Nivel Superior, Nivel Ejecutivo y Nivel Operativo",
+        "Nivel Político, Nivel Financiero y Nivel Judicial",
+        "Nivel Primario, Nivel Secundario y Nivel Universitario",
+        "Nivel Comunitario, Nivel Autonómico y Nivel Internacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I, D.S. N° 0813",
+      "explicacion": "El Art. 5.I establece los niveles de organización: Nivel Superior, Nivel Ejecutivo y Nivel Operativo."
+    },
+    {
+      "question": "En la estructura organizativa de la DDE (Art. 5.I), ¿qué instancia integra de forma exclusiva el NIVEL SUPERIOR?",
+      "options": [
+        "La Dirección Ejecutiva",
+        "La Subdirección de Educación Regular",
+        "La Dirección Distrital Educativa",
+        "La Unidad de Auditoría Interna"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I.1, D.S. N° 0813",
+      "explicacion": "El Art. 5.I.1 fija que el Nivel Superior está compuesto por la Dirección Ejecutiva."
+    },
+    {
+      "question": "Según el Artículo 5.I.2 del D.S. N° 0813, el NIVEL EJECUTIVO de la DDE está conformado por:",
+      "options": [
+        "1. Subdirección de Educación Regular; 2. Subdirección de Educación Alternativa y Especial; 3. Subdirección de Educación Superior de Formación Profesional",
+        "1. Viceministerio de Educación; 2. Secretaría de Finanzas; 3. Dirección de Infraestructura",
+        "1. Comandancia Departamental; 2. Defensoría del Pueblo; 3. Junta de Padres",
+        "1. Dirección de Núcleo; 2. Dirección de Unidad Educativa; 3. Consejo de Maestros"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I.2, D.S. N° 0813",
+      "explicacion": "El Art. 5.I.2 señala que el Nivel Ejecutivo está integrado por las 3 Subdirecciones (Regular, Alternativa y Especial, Superior de Formación Profesional)."
+    },
+    {
+      "question": "Conforme al Artículo 5.I.3 del D.S. N° 0813, la jerarquía descendente en el NIVEL OPERATIVO es:",
+      "options": [
+        "Dirección Distrital Educativa -> Dirección de Núcleo -> Dirección de Unidad Educativa",
+        "Dirección de Unidad Educativa -> Dirección Distrital Educativa -> Dirección de Núcleo",
+        "Dirección de Núcleo -> Dirección Ejecutiva -> Subdirección de Educación Regular",
+        "Dirección Ejecutiva -> Dirección Distrital -> Dirección de Núcleo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I.3, D.S. N° 0813",
+      "explicacion": "El Art. 5.I.3 establece la secuencia: 1. Dirección Distrital Educativa -> 1.1. Dirección de Núcleo -> 1.1.1. Dirección de Unidad Educativa."
+    },
+    {
+      "question": "De acuerdo con el Artículo 5.II del D.S. N° 0813, ¿cuántas y cuáles son las unidades que constituyen el NIVEL DE APOYO de la DDE?",
+      "options": [
+        "Tres (3) unidades: una Unidad de Asuntos Administrativos, una Unidad de Asuntos Jurídicos y una Unidad de Auditoría Interna",
+        "Cinco (5) unidades: Infraestructura, Transportes, Alimentación, Sistemas y Estadística",
+        "Dos (2) unidades: Tesorería y Contabilidad",
+        "Cuatro (4) unidades: Seguridad, Limpieza, Mantenimiento y Relaciones Públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.II, D.S. N° 0813",
+      "explicacion": "El Art. 5.II señala que el Nivel de Apoyo consta de una (1) Unidad de Asuntos Administrativos, una (1) Unidad de Asuntos Jurídicos y una (1) Unidad de Auditoría Interna."
+    },
+    {
+      "question": "Según el Artículo 5.II del D.S. N° 0813, las funciones y atribuciones de las Unidades del Nivel de Apoyo son definidas en:",
+      "options": [
+        "El Manual de Organización y Funciones de la Dirección Departamental de Educación",
+        "La Constitución Política del Estado directamente",
+        "El Reglamento del Consejo de la Magistratura",
+        "Resoluciones emanadas por los Gobiernos Municipales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.II, D.S. N° 0813",
+      "explicacion": "El Art. 5.II estipula que las funciones de las unidades de apoyo serán definidas en el Manual de Organización y Funciones de la DDE."
+    },
+    {
+      "question": "Conforme al Artículo 5.III del D.S. N° 0813, ¿quién y mediante qué instrumento puede aprobar la modificación de la estructura de una DDE?",
+      "options": [
+        "El Ministerio de Educación, mediante Resolución Ministerial, a solicitud del Director Departamental y según disponibilidad presupuestaria",
+        "El Gobernador Departamental, mediante Decreto Departamental, sin consulta previa",
+        "El Director Distrital, mediante instructivo interno unilateral",
+        "El Consejo de Maestros de la Unidad Educativa más antigua"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.III, D.S. N° 0813",
+      "explicacion": "El Art. 5.III faculta al Ministerio de Educación a aprobar modificaciones mediante Resolución Ministerial a solicitud del Director Departamental."
+    },
+    {
+      "question": "En el marco del Artículo 6.I del D.S. N° 0813, la INSTANCIA SUPERIOR DE COORDINACIÓN EDUCATIVA está integrada por:",
+      "options": [
+        "La Ministra o Ministro de Educación, las o los Viceministros de Educación (Regular, Alternativa/Especial, Superior) y los nueve (9) Directores Departamentales de Educación",
+        "El Presidente del Estado, el Ministro de Defensa y los 339 Alcaldes Municipales",
+        "Los rectores de las universidades públicas autónomas únicamente",
+        "Los Ejecutivos de las Confederaciones de Maestros únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.I, D.S. N° 0813",
+      "explicacion": "El Art. 6.I indica que la Instancia Superior está integrada por el Ministro de Educación, los Viceministros del área y los 9 Directores Departamentales."
+    },
+    {
+      "question": "De acuerdo con el Artículo 6.II del D.S. N° 0813, ¿cuál es el rol principal de la Instancia Superior de Coordinación Educativa?",
+      "options": [
+        "Definir las políticas y lineamientos institucionales del sector educativo, y evaluar y fiscalizar su cumplimiento",
+        "Contratar al personal de limpieza de las Direcciones Distritales",
+        "Fijar las tarifas de transporte público interprovincial",
+        "Imprimir las libretas de calificaciones de primaria"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.II, D.S. N° 0813",
+      "explicacion": "El Art. 6.II señala que define las políticas y lineamientos institucionales del sector educativo, evaluando y fiscalizando su cumplimiento."
+    },
+    {
+      "question": "Según el Artículo 6.III del D.S. N° 0813, la Instancia Superior de Coordinación Educativa se reunirá a convocatoria de:",
+      "options": [
+        "El Ministro de Educación, con participación total o parcial de los Directores Departamentales según la temática",
+        "El Director Departamental de Educación de mayor antigüedad",
+        "El Contralor General del Estado únicamente en años bisiestos",
+        "El Presidente de la Asamblea Legislativa Plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.III, D.S. N° 0813",
+      "explicacion": "El Art. 6.III establece que se reunirá a convocatoria del Ministro de Educación, según la temática a tratarse."
+    },
+    {
+      "question": "Conforme al Artículo 7 del D.S. N° 0813, ¿quién se constituye en la Máxima Autoridad Ejecutiva (MAE) y representante legal de la DDE?",
+      "options": [
+        "La Directora o Director Departamental de Educación",
+        "El Subdirector de Educación Regular",
+        "El Jefe de la Unidad de Asuntos Jurídicos",
+        "El Director Distrital más cercano a la capital"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 7, D.S. N° 0813",
+      "explicacion": "El Art. 7 norma que las DDE's estarán a cargo de un Director Departamental de Educación, quien es la Máxima Autoridad Ejecutiva y representante legal."
+    },
+    {
+      "question": "Según el Artículo 8.I del D.S. N° 0813, ¿cómo es designada la Directora o Director Departamental de Educación?",
+      "options": [
+        "Designado/a por el Ministerio de Educación mediante Resolución Ministerial, como resultado de concurso de méritos y examen de competencia",
+        "Elegido/a por voto popular directo en elecciones subnacionales",
+        "Nombrado/a por el Gobernador mediante Decreto Departamental de libre nombramiento",
+        "Designado/a por el sindicato de maestros con más afiliados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.I, D.S. N° 0813",
+      "explicacion": "El Art. 8.I establece que el Director Departamental es designado por el Ministerio mediante RM, fruto de concurso de méritos y examen de competencia."
+    },
+    {
+      "question": "De acuerdo con el Artículo 8.II del D.S. N° 0813, el desempeño de la Directora o Director Departamental de Educación será supervisado y evaluado por:",
+      "options": [
+        "El Ministro de Educación",
+        "El Alcalde Municipal de la capital",
+        "El Concejo Municipal del distrito central",
+        "El Tribunal Electoral Departamental"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 8.II, D.S. N° 0813",
+      "explicacion": "El Art. 8.II dispone expresamente que el desempeño del Director Departamental será supervisado y evaluado por el Ministro de Educación."
+    },
+    {
+      "question": "Según el Artículo 9.a del D.S. N° 0813, es atribución del Director Departamental de Educación:",
+      "options": [
+        "Garantizar el cumplimiento de las políticas del Sistema Educativo Plurinacional, planes y lineamientos institucionales establecidos",
+        "Crear tributos departamentales especiales para la educación",
+        "Modificar las fechas de elecciones nacionales de autoridades",
+        "Autorizar el funcionamiento de bancos comerciales privados"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.a, D.S. N° 0813",
+      "explicacion": "El Art. 9.a asigna la atribución de garantizar el cumplimiento de las políticas del Sistema Educativo Plurinacional y lineamientos institucionales."
+    },
+    {
+      "question": "Conforme al Artículo 9.b del D.S. N° 0813, los planes y documentos presupuestarios que aprueba el Director Departamental deben incluir:",
+      "options": [
+        "El Plan Estratégico Institucional, Plan Operativo Anual, presupuesto y estados financieros, incluyendo el nivel distrital",
+        "Únicamente el presupuesto de la capital departamental omitiendo distritos rurales",
+        "Exclusivamente los sueldos del personal del Ministerio de Educación",
+        "Los balances comerciales de las imprentas privadas proveedoras"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.b, D.S. N° 0813",
+      "explicacion": "El Art. 9.b especifica aprobar PEI, POA, presupuesto y estados financieros, los cuales deberán incluir el nivel distrital."
+    },
+    {
+      "question": "Según el Artículo 9.c del D.S. N° 0813, el Director Departamental de Educación tiene la atribución de:",
+      "options": [
+        "Aprobar los reglamentos y manuales de la Dirección Departamental de Educación, de acuerdo a normativa vigente",
+        "Aprobar el reglamento general de las Fuerzas Armadas",
+        "Sancionar leyes departamentales sobre hidrocarburos",
+        "Modificar el Código de Comercio Boliviano"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.c, D.S. N° 0813",
+      "explicacion": "El Art. 9.c estipula aprobar los reglamentos y manuales de la DDE de acuerdo a la normativa vigente."
+    },
+    {
+      "question": "De acuerdo con el Artículo 9.d del D.S. N° 0813, la dirección institucional del Director Departamental abarca actividades:",
+      "options": [
+        "Técnicas, administrativas, financieras y legales",
+        "Únicamente político-partidarias electorales",
+        "Exclusivamente comerciales de venta de insumos",
+        "Únicamente de custodia militar de predios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.d, D.S. N° 0813",
+      "explicacion": "El Art. 9.d señala organizar y dirigir la institución en todas sus actividades técnicas, administrativas, financieras y legales."
+    },
+    {
+      "question": "Conforme al Artículo 9.e del D.S. N° 0813, el Director Departamental ejerce sobre los Directores Distritales la función de:",
+      "options": [
+        "Orientar, supervisar y evaluar su desempeño",
+        "Designarlos de forma directa sin previo concurso de méritos",
+        "Transferirlos al sector privado comercial de forma obligatoria",
+        "Ignorar las denuncias planteadas en su contra"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.e, D.S. N° 0813",
+      "explicacion": "El Art. 9.e asigna la atribución de orientar, supervisar y evaluar el desempeño de los Directores Distritales de Educación."
+    },
+    {
+      "question": "Según el Artículo 9.g del D.S. N° 0813, la convocatoria a reuniones de coordinación con los Directores Distritales la realiza:",
+      "options": [
+        "La Directora o Director Departamental de Educación, cuando así lo requiera",
+        "El Ejecutivo de la Federación de Maestros de forma exclusiva",
+        "El Presidente del Concejo Municipal de la capital",
+        "El Jefe de la Unidad de Auditoría Interna de la DDE"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.g, D.S. N° 0813",
+      "explicacion": "El Art. 9.g le otorga al Director Departamental la atribución de convocar a reuniones de coordinación a los Directores Distritales."
+    },
+    {
+      "question": "De acuerdo con el Artículo 9.h del D.S. N° 0813, la propuesta del calendario escolar departamental debe enviarse al Ministerio:",
+      "options": [
+        "Antes de la conclusión de la gestión escolar precedente, y en casos necesarios proponer la reprogramación",
+        "Seis meses después de iniciado el año escolar sin justificación",
+        "Al finalizar el quinquenio de gestión gubernamental",
+        "Únicamente en caso de paros laborales indefinidos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.h, D.S. N° 0813",
+      "explicacion": "El Art. 9.h indica proponer al Ministerio el calendario escolar antes de la conclusión de la gestión escolar precedente."
+    },
+    {
+      "question": "Según el Artículo 9.i del D.S. N° 0813, la aprobación de la reprogramación del calendario escolar del nivel distrital corresponde a:",
+      "options": [
+        "La Directora o Director Departamental de Educación en casos necesarios y justificados, debiendo informar al Ministerio de Educación",
+        "El Director Distrital de forma autónoma sin informar a nadie",
+        "La Junta Escolar de Padres de Familia mediante voto ponderado",
+        "El Alcalde Municipal del distrito afectado sin informe técnico"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.i, D.S. N° 0813",
+      "explicacion": "El Art. 9.i asigna al Director Departamental la aprobación de la reprogramación del calendario distrital informando al Ministerio."
+    },
+    {
+      "question": "Conforme al Artículo 9.k del D.S. N° 0813, el Director Departamental administra los recursos humanos de los niveles:",
+      "options": [
+        "Nivel Ejecutivo y Nivel de Apoyo de la DDE",
+        "Nivel Central del Ministerio de Educación de forma exclusiva",
+        "Empresas privadas subcontratadas de limpieza",
+        "Unidades militares de frontera únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.k, D.S. N° 0813",
+      "explicacion": "El Art. 9.k señala administrar los recursos humanos de la DDE del Nivel Ejecutivo y Nivel de Apoyo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 9.l del D.S. N° 0813, la designación y posesión de los Directores Distritales de Educación es realizada por:",
+      "options": [
+        "La Directora o Director Departamental de Educación, como resultado de concurso de méritos y examen de competencia",
+        "El Ministro de Educación mediante nombramiento directo y discrecional",
+        "El Gobernador del Departamento a propuesta del Consejo Departamental",
+        "Los Directores de Núcleo en asamblea por mayoría simple"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.l, D.S. N° 0813",
+      "explicacion": "El Art. 9.l confiere al Director Departamental la atribución de designar y posesionar a los Directores Distritales fruto de concurso y examen."
+    },
+    {
+      "question": "Según el Artículo 9.m del D.S. N° 0813, la apertura, modificación y cierre de unidades y centros educativos de Regular y Alt/Esp se realiza mediante:",
+      "options": [
+        "Resoluciones Administrativas emitidas por el Director Departamental de Educación, en el marco de la reglamentación del Ministerio",
+        "Leyes Departamentales aprobadas por la Asamblea Legislativa Departamental",
+        "Ordenanzas Municipales de uso de suelo urbano",
+        "Actas comunitarias de vecinos sin valor legal administrativo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.m, D.S. N° 0813",
+      "explicacion": "El Art. 9.m estipula emitir RA para la apertura, modificación y cierre de UE y CE (Regular y Alt/Esp) fiscales, privados y de convenio."
+    },
+    {
+      "question": "Conforme al Artículo 9.o del D.S. N° 0813, para la apertura, modificación o cierre de INSTITUTOS TÉCNICOS, el Director Departamental debe:",
+      "options": [
+        "Remitir al Ministerio de Educación el Informe Técnico correspondiente para la emisión de la Resolución Ministerial",
+        "Emitir directamente una Resolución Administrativa definitiva sin consultar al Ministerio",
+        "Aprobar la apertura mediante instructivo interno del Subdirector",
+        "Cerrar los institutos sin informe previo ni justificación técnica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.o, D.S. N° 0813",
+      "explicacion": "El Art. 9.o exige remitir al Ministerio el Informe Técnico para que este emita la Resolución Ministerial aplicable a Institutos Técnicos."
+    },
+    {
+      "question": "Según el Artículo 10.I del D.S. N° 0813, las SUBDIRECCIONES DE EDUCACIÓN son definias como:",
+      "options": [
+        "Instancias responsables de dirigir la ejecución de la gestión educativa y administrativa del correspondiente Subsistema en el ámbito de su jurisdicción",
+        "Unidades secretariales encargadas del archivo de correspondencia",
+        "Comisiones temporales de fiscalización financiera municipal",
+        "Tribunales de juzgamiento penal contra delitos de corrupción"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10.I, D.S. N° 0813",
+      "explicacion": "El Art. 10.I define a las Subdirecciones como instancias responsables de dirigir la ejecución de la gestión educativa y administrativa del Subsistema."
+    },
+    {
+      "question": "Conforme al Artículo 10.II del D.S. N° 0813, cada Dirección Departamental de Educación tendrá bajo su dependencia las siguientes Subdirecciones:",
+      "options": [
+        "1. Subdirección de Educación Regular; 2. Subdirección de Educación Superior de Formación Profesional; 3. Subdirección de Educación Alternativa y Especial",
+        "1. Subdirección de Finanzas; 2. Subdirección de Infraestructura; 3. Subdirección de Deporte",
+        "1. Subdirección Urbana; 2. Subdirección Rural; 3. Subdirección Fronteriza",
+        "1. Subdirección Docente; 2. Subdirección Administrativa; 3. Subdirección Estudiantil"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10.II, D.S. N° 0813",
+      "explicacion": "El Art. 10.II enumera taxativamente las tres Subdirecciones dependientes de la DDE (Regular, Superior de Formación Profesional, Alternativa y Especial)."
+    },
+    {
+      "question": "De acuerdo con el Artículo 10.III del D.S. N° 0813, ¿cómo son designadas las Subdirectoras o Subdirectores de Educación?",
+      "options": [
+        "Designados por el Ministerio de Educación mediante Resolución Ministerial, como resultado de concurso de méritos y examen de competencia",
+        "Designados por el Director Departamental mediante memorize interno discrecional",
+        "Elegidos por voto directo de los estudiantes de secundaria",
+        "Nombrados por la Federación Departamental de Maestros"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 10.III, D.S. N° 0813",
+      "explicacion": "El Art. 10.III fija que los Subdirectores son designados por el Ministerio mediante RM resultado de concurso de méritos y examen de competencia."
+    },
+    {
+      "question": "Según el Artículo 11 del D.S. N° 0813, las funciones de las Subdirecciones de Educación se hallan establecidas en:",
+      "options": [
+        "El Manual de Organización y Funciones de la Dirección Departamental de Educación",
+        "El Código Niña, Niño y Adolescente",
+        "El Estatuto del Funcionario Público",
+        "El Reglamento del Senado Nacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 11, D.S. N° 0813",
+      "explicacion": "El Art. 11 remite formalmente el establecimiento de las funciones de las Subdirecciones al Manual de Organización y Funciones de la DDE."
+    },
+    {
+      "question": "Según el Artículo 12 del D.S. N° 0813, ¿qué es la DIRECCIÓN DISTRITAL EDUCATIVA?",
+      "options": [
+        "Es la instancia operativa de la gestión educativa y administración curricular en el ámbito de su jurisdicción, dependiente de la DDE",
+        "Una ONG privada dedicada a la recolección de donaciones alimentarias",
+        "Un tribunal departamental encargado de sancionar faltas tributarias",
+        "Una oficina parlamentaria de enlace de la Asamblea Legislativa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, D.S. N° 0813",
+      "explicacion": "El Art. 12 define a la Dirección Distrital Educativa como la instancia operativa de gestión educativa y administración curricular dependiente de la DDE."
+    },
+    {
+      "question": "Conforme al Artículo 13 del D.S. N° 0813, ¿cómo es designada la Directora o Director Distrital de Educación?",
+      "options": [
+        "Designado/a por la Directora o Director Departamental de Educación mediante Resolución Administrativa, fruto de concurso de méritos y examen de competencia",
+        "Designado/a por el Alcalde Municipal mediante Decreto Edil",
+        "Elegido/a en cabildo abierto por los vecinos del distrito",
+        "Nombrado/a por el Subdirector de Educación Regular"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, D.S. N° 0813",
+      "explicacion": "El Art. 13 establece que el Director Distrital es designado por el Director Departamental mediante RA fruto de concurso y examen."
+    },
+    {
+      "question": "De acuerdo con el Artículo 14.a del D.S. N° 0813, es atribución de la Directora o Director Distrital de Educación:",
+      "options": [
+        "Dirigir, orientar y supervisar la gestión educativa, administrativa e institucional dentro de su jurisdicción",
+        "Modificar el presupuesto general del Ministerio de Educación",
+        "Aprobar leyes municipales de desarrollo urbano",
+        "Fiscalizar a las empresas privadas de minería"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.a, D.S. N° 0813",
+      "explicacion": "El Art. 14.a otorga la atribución de dirigir, orientar y supervisar la gestión educativa, administrativa e institucional en el distrito."
+    },
+    {
+      "question": "Según el Artículo 14.c del D.S. N° 0813, el Director Distrital ejerce la supervisión y evaluación sobre:",
+      "options": [
+        "El desempeño de las Directoras y los Directores de Núcleo",
+        "El desempeño de los Ministros de Estado",
+        "Las comisiones de la Asamblea Legislativa",
+        "Los ejecutivos de los bancos comerciales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.c, D.S. N° 0813",
+      "explicacion": "El Art. 14.c prescribe orientar, supervisar y evaluar el desempeño de los Directores de Núcleo."
+    },
+    {
+      "question": "Conforme al Artículo 14.d del D.S. N° 0813, la supervisión del funcionamiento por la Dirección Distrital abarca a:",
+      "options": [
+        "Las unidades y centros educativos fiscales, privados y de convenio en el ámbito de su jurisdicción",
+        "Únicamente a los centros nocturnos de educación alternativa",
+        "Exclusivamente a los colegios privados internacionales",
+        "Únicamente a los institutos técnicos universitarios"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.d, D.S. N° 0813",
+      "explicacion": "El Art. 14.d indica supervisar el funcionamiento de las unidades y centros educativos fiscales, privados y de convenio en su distrito."
+    },
+    {
+      "question": "De acuerdo con el Artículo 14.g del D.S. N° 0813, en la atención integral de los educandos, el Director Distrital coordina con:",
+      "options": [
+        "Los Gobiernos Autónomos Municipales e Indígena Originario Campesinos del ámbito de su distrito",
+        "Las empresas telefónicas privadas de cobertura nacional",
+        "Los sindicatos de choferes de transporte pesado",
+        "Los consulados de países vecinos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.g, D.S. N° 0813",
+      "explicacion": "El Art. 14.g dispone coordinar la atención integral de educandos con los Gobiernos Autónomos Municipales e Indígena Originario Campesinos."
+    },
+    {
+      "question": "Según el Artículo 14.i del D.S. N° 0813, el Director Distrital ejecuta el calendario escolar y, en caso necesario, propone la reprogramación a:",
+      "options": [
+        "La Directora o Director Departamental de Educación",
+        "El Concejo Municipal de la capital",
+        "El Subdirector de Educación Alternativa",
+        "El Presidente de la Junta de Vecinos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.i, D.S. N° 0813",
+      "explicacion": "El Art. 14.i indica ejecutar el calendario escolar y proponer al Director Departamental la reprogramación correspondiente."
+    },
+    {
+      "question": "Conforme al Artículo 14.j del D.S. N° 0813, el proyecto de presupuesto y POA del Distrito Educativo enviado a la DDE debe incluir:",
+      "options": [
+        "El presupuesto y los Proyectos Educativos de Núcleo",
+        "Únicamente los viáticos del Director Distrital",
+        "Los gastos de representación de los alcaldes",
+        "Las deudas comerciales de empresas privadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.j, D.S. N° 0813",
+      "explicacion": "El Art. 14.j especifica remitir los proyectos de presupuesto y POA del distrito debiendo incluir el presupuesto y Proyectos Educativos de Núcleo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 14.k del D.S. N° 0813, los recursos asignados a la Dirección Distrital Educativa comprenden:",
+      "options": [
+        "Recursos humanos, financieros y materiales",
+        "Únicamente recursos tecnológicos prestados",
+        "Exclusivamente donaciones privadas de papelería",
+        "Recursos del Fondo Monetario Internacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.k, D.S. N° 0813",
+      "explicacion": "El Art. 14.k señala que el Director Distrital administra los recursos humanos, financieros y materiales asignados a la Dirección Distrital."
+    },
+    {
+      "question": "Según el Artículo 14.l del D.S. N° 0813, la designación de Directores de Núcleo, directores, docentes y administrativos de UE por el Director Distrital se realiza:",
+      "options": [
+        "En función a los reglamentos en vigencia, en coordinación con la Dirección Departamental de Educación y el Ministerio de Educación",
+        "Por nombramiento verbal sin respaldos reglamentarios",
+        "A criterio exclusivo de las juntas de padres de familia",
+        "Por sorteo público realizado cada mes"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.l, D.S. N° 0813",
+      "explicacion": "El Art. 14.l mandata designar personal en función de reglamentos en coordinación con la DDE y el Ministerio de Educación."
+    },
+    {
+      "question": "Conforme al Artículo 15 del D.S. N° 0813, ¿qué es la DIRECCIÓN DE NÚCLEO?",
+      "options": [
+        "Es la instancia responsable de la gestión educativa y administración curricular en el ámbito de su Núcleo Educativo, dependiente de la Dirección Distrital",
+        "Una secretaría de actas de la junta escolar",
+        "Un centro de abastecimiento de material deportivo",
+        "Una unidad de investigación policial de delitos menores"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, D.S. N° 0813",
+      "explicacion": "El Art. 15 define a la Dirección de Núcleo como la instancia responsable de la gestión educativa y administración curricular dependiente de la Distrital."
+    },
+    {
+      "question": "De acuerdo con el Artículo 16 del D.S. N° 0813, ¿cómo es designada la Directora o Director de Núcleo?",
+      "options": [
+        "Designado/a por la Directora o Director Distrital de Educación, como resultado de concurso de méritos y examen de competencia",
+        "Elegido/a por votación de los estudiantes del ciclo inicial",
+        "Nombrado/a directamente por el Gobernador del Departamento",
+        "Designado/a por el Alcalde del municipio correspondiente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 16, D.S. N° 0813",
+      "explicacion": "El Art. 16 establece que el Director de Núcleo es designado por el Director Distrital resultado de concurso de méritos y examen de competencia."
+    },
+    {
+      "question": "Según el Artículo 17.a del D.S. N° 0813, es atribución del Director de Núcleo:",
+      "options": [
+        "Orientar, supervisar y evaluar el desempeño de los Directores de los Centros y Unidades Educativas y el funcionamiento de las mismas",
+        "Aprobar estatutos de organizaciones políticas nacionales",
+        "Determinar el salario mínimo nacional de los trabajadores",
+        "Vender bienes inmuebles de las escuelas sin autorización"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.a, D.S. N° 0813",
+      "explicacion": "El Art. 17.a dispone orientar, supervisar y evaluar el desempeño de Directores de UE y el funcionamiento de las unidades educativas."
+    },
+    {
+      "question": "Conforme al Artículo 17.c del D.S. N° 0813, la solicitud de designación de maestras y maestros de los Centros y Unidades Educativas es remitida por el Director de Núcleo a:",
+      "options": [
+        "La Dirección Distrital Educativa",
+        "La Asamblea Legislativa Plurinacional",
+        "El Ministerio de Hacienda",
+        "La Defensoría del Pueblo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.c, D.S. N° 0813",
+      "explicacion": "El Art. 17.c norma que el Director de Núcleo remite a la Dirección Distrital la solicitud de designación de maestras/os del núcleo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 17.d del D.S. N° 0813, ¿qué documentos consolidó y remite el Director de Núcleo a la Dirección Distrital?",
+      "options": [
+        "El Proyecto Educativo y el presupuesto anual consolidado del Núcleo",
+        "El balance contable de la Gobernación del Departamento",
+        "La planilla general de haberes de todos los ministerios",
+        "Las leyes municipales de regulación de transporte público"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.d, D.S. N° 0813",
+      "explicacion": "El Art. 17.d fija la atribución de remitir a la Distrital el Proyecto Educativo y presupuesto anual consolidado del Núcleo."
+    },
+    {
+      "question": "Según el Artículo 18 del D.S. N° 0813, ¿qué es la DIRECCIÓN DE UNIDAD EDUCATIVA?",
+      "options": [
+        "Es la instancia responsable de la gestión educativa y administración curricular del Centro o Unidad Educativa, dependiente de la Dirección de Núcleo",
+        "Un club social de docentes jubilados del distrito",
+        "Una oficina de cobro de tasas por licencias comerciales",
+        "Un comité de coordinación de transporte escolar urbano"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, D.S. N° 0813",
+      "explicacion": "El Art. 18 la define como la instancia responsable de la gestión educativa y administración curricular de la UE/Centro dependiente de la Dirección de Núcleo."
+    },
+    {
+      "question": "Conforme al Artículo 19 del D.S. N° 0813, ¿quién designa a las Directoras o Directores de Unidad Educativa?",
+      "options": [
+        "La Directora o Director Distrital de Educación, como resultado de concurso de méritos y examen de competencia",
+        "El Consejo de Maestros de la Unidad Educativa de forma interna",
+        "El Subdirector de Educación Superior mediante resolución",
+        "El Presidente de la Junta Escolar por sorteo público"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 19, D.S. N° 0813",
+      "explicacion": "El Art. 19 señala que los Directores de UE son designados por el Director Distrital resultado de concurso de méritos y examen de competencia."
+    },
+    {
+      "question": "De acuerdo con el Artículo 20.a y b del D.S. N° 0813, en la Unidad Educativa el Director tiene la atribución de planificar, organizar, dirigir y supervisar o controlar:",
+      "options": [
+        "Los procesos pedagógicos y las actividades administrativas del Centro o Unidad Educativa",
+        "Únicamente los actos festivos comunitarios de los fines de semana",
+        "Exclusivamente las construcciones de nuevas vías terrestres",
+        "Las actividades de las empresas privadas del barrio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.a y b, D.S. N° 0813",
+      "explicacion": "El Art. 20.a y b le otorga planificar, organizar, dirigir y supervisar procesos pedagógicos y controlar actividades administrativas de la UE."
+    },
+    {
+      "question": "Según el Artículo 20.c del D.S. N° 0813, el Director de Unidad Educativa evalúa el desempeño de:",
+      "options": [
+        "Todo el personal a su cargo (docentes y administrativos de la UE)",
+        "Los Directores Distritales de Educación del departamento",
+        "Los ejecutivos del Ministerio de Educación",
+        "Los concejales municipales en ejercicio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.c, D.S. N° 0813",
+      "explicacion": "El Art. 20.c atribuye al Director de UE supervisar y evaluar el desempeño de todo el personal a su cargo."
+    },
+    {
+      "question": "Conforme al Artículo 20.d del D.S. N° 0813, ¿a qué órgano institucional convoca y dirige el Director de Unidad Educativa?",
+      "options": [
+        "Al Consejo de Maestros",
+        "Al Tribunal Supremo Electoral",
+        "Al Consejo de Ministros de Estado",
+        "Al Comité Olímpico Boliviano"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.d, D.S. N° 0813",
+      "explicacion": "El Art. 20.d atribuye al Director de Unidad Educativa dirigir y convocar al Consejo de Maestros."
+    },
+    {
+      "question": "De acuerdo con el Artículo 20.e del D.S. N° 0813, los documentos elaborados por el Consejo de Maestros que el Director eleva al Director de Núcleo son:",
+      "options": [
+        "El Proyecto Educativo de la Unidad Educativa y el presupuesto correspondiente",
+        "El estatuto orgánico de la junta de vecinos",
+        "El pliego petitorio del sindicato de choferes",
+        "La nómina de comerciantes de la feria local"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.e, D.S. N° 0813",
+      "explicacion": "El Art. 20.e señala elevar anualmente al Director de Núcleo el PEI de la UE y el presupuesto elaborados por el Consejo de Maestros."
+    },
+    {
+      "question": "Según el Artículo 20.g del D.S. N° 0813, en el aspecto pedagógico del aula el Director de UE debe supervisar:",
+      "options": [
+        "La adecuada implementación del currículo educativo",
+        "La venta de golosinas en los kioscos externos",
+        "La publicidad comercial en canales de televisión",
+        "Los horarios de atención de las farmacias de turno"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.g, D.S. N° 0813",
+      "explicacion": "El Art. 20.g dispone supervisar la adecuada implementación del currículo educativo en la Unidad Educativa."
+    },
+    {
+      "question": "Conforme al Artículo 20.h del D.S. N° 0813, la aprobación de la programación anual de la Unidad Educativa se realiza en el marco de:",
+      "options": [
+        "El Proyecto Educativo de la Unidad (PEI)",
+        "El Plan de Desarrollo Municipal de Obras Públicas",
+        "El Código de Minería y Metalurgia",
+        "La Ley General del Trabajo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.h, D.S. N° 0813",
+      "explicacion": "El Art. 20.h establece aprobar la programación anual de la Unidad Educativa en el marco del Proyecto Educativo de la Unidad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 20.i del D.S. N° 0813, el Director de Unidad Educativa debe registrar y sistematizar las estadísticas de:",
+      "options": [
+        "Alumnos, personal docente y administrativo",
+        "Vehículos particulares estacionados en la vía pública",
+        "Habitantes de la manzana urbana mayores de 65 años",
+        "Empresas exportadoras de materia prima"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.i, D.S. N° 0813",
+      "explicacion": "El Art. 20.i asigna la tarea de registrar y sistematizar las estadísticas de alumnos, personal docente y administrativo."
+    },
+    {
+      "question": "Según el Artículo 20.j del D.S. N° 0813, la administración del establecimiento a cargo del Director de UE incluye:",
+      "options": [
+        "La infraestructura, equipamiento y materiales del Centro o Unidad Educativa",
+        "Las plazas públicas del barrio y parques infantiles municipales",
+        "Las sedes sindicales de las federaciones de trabajadores",
+        "Las redes de alumbrado público y agua potable de la ciudad"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.j, D.S. N° 0813",
+      "explicacion": "El Art. 20.j establece administrar la infraestructura, equipamiento y materiales del Centro o Unidad Educativa."
+    },
+    {
+      "question": "Según el Artículo 21.I del D.S. N° 0813, las DDE's financiarán sus actividades con las siguientes fuentes, EXCEPTUANDO:",
+      "options": [
+        "Emisión de moneda nacional o créditos del Banco Central no autorizados por ley",
+        "Tesoro General de la Nación – TGN",
+        "Recursos propios",
+        "Transferencias de las entidades territoriales autónomas, donaciones y otras transferencias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.I, D.S. N° 0813",
+      "explicacion": "El Art. 21.I enumera TGN, recursos propios, transferencias de ETAs, donaciones y otras transferencias."
+    },
+    {
+      "question": "Conforme al Artículo 21.II del D.S. N° 0813, la implementación de la nueva estructura organizacional de las DDE's será financiada con:",
+      "options": [
+        "Recursos del TGN, de acuerdo a su disponibilidad financiera",
+        "Aportes obligatorios descontados por planilla a los estudiantes",
+        "Préstamos bancarios privados con garantía hipotecaria de las escuelas",
+        "Venta de patrimonio inmueble de las unidades educativas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.II, D.S. N° 0813",
+      "explicacion": "El Art. 21.II indica que la implementación de la estructura se financiará con recursos del TGN según disponibilidad."
+    },
+    {
+      "question": "De acuerdo con el Artículo 21.III del D.S. N° 0813, en el marco del Art. 89 de la Ley N° 070, las entidades territoriales autónomas deben transferir a las cuentas de las DDE's los recursos destinados a:",
+      "options": [
+        "Financiar remuneraciones de personal docente que eran asignados a los ex Servicios Departamentales de Educación (SEDUCA)",
+        "Pagar viáticos de viaje a ministros de Estado",
+        "Construir sedes privadas para gremios comerciales",
+        "Subvencionar pasajes aéreos a delegaciones deportivas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.III, D.S. N° 0813",
+      "explicacion": "El Art. 21.III norma que las ETAs deben transferir los recursos para remuneraciones de personal docente ex SEDUCA a cuentas de las DDE's."
+    },
+    {
+      "question": "Según el Artículo 21.IV del D.S. N° 0813, la gestión de asignación de recursos ante las ETAs para cubrir remuneraciones docentes la realiza:",
+      "options": [
+        "El Ministerio de Educación en coordinación con las DDE's",
+        "Las juntas escolares de padres de familia de forma aislada",
+        "Los sindicatos docentes mediante paros regionales",
+        "Las empresas privadas de auditoría externa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.IV, D.S. N° 0813",
+      "explicacion": "El Art. 21.IV establece que el Ministerio de Educación en coordinación con las DDE's gestionará la asignación de recursos ante las ETAs."
+    },
+    {
+      "question": "Conforme a la Disposición Transitoria Primera del D.S. N° 0813, se autoriza al Ministerio de Economía y Finanzas Públicas a transferir a las DDE's los saldos presupuestarios de:",
+      "options": [
+        "El Grupo 10000 'Servicios Personales' financiados con recursos TGN y HIPC II, inscritos en los Gobiernos Autónomos Departamentales",
+        "Las partidas de publicidad comercial de los ministerios",
+        "Los fondos de reserva monetaria internacional",
+        "Los presupuestos de construcción de carreteras interdepartamentales"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Primera, D.S. N° 0813",
+      "explicacion": "La Transitoria Primera autoriza transferir saldos del Grupo 10000 'Servicios Personales' (TGN y HIPC II) inscritos en los GADs."
+    },
+    {
+      "question": "De acuerdo con la Disposición Transitoria Segunda.I del D.S. N° 0813, los bienes muebles, inmuebles y demás activos de los ex SEDUCA son transferidos a las DDE's a título:",
+      "options": [
+        "A título gratuito",
+        "A título oneroso mediante venta en subasta pública",
+        "En calidad de alquiler comercial con contrato anual",
+        "En comodato temporal por noventa días renovable"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Segunda.I, D.S. N° 0813",
+      "explicacion": "La Transitoria Segunda.I establece que los bienes muebles, inmuebles y activos de ex SEDUCAs se transfieren a título gratuito a las DDE's."
+    },
+    {
+      "question": "Según la Disposición Transitoria Segunda.II del D.S. N° 0813, los PASIVOS de los ex Servicios Departamentales de Educación (SEDUCA) serán asumidos por:",
+      "options": [
+        "Las Direcciones Departamentales de Educación (DDE's)",
+        "Los docentes a título personal proporcionalmente",
+        "Las empresas privadas de seguros de salud",
+        "Los municipios del área rural exclusivamente"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Segunda.II, D.S. N° 0813",
+      "explicacion": "La Transitoria Segunda.II dispone expresamente que los pasivos de los ex SEDUCA serán asumidos por las Direcciones Departamentales de Educación."
+    },
+    {
+      "question": "Conforme a la Disposición Transitoria Tercera del D.S. N° 0813, en tanto las DDE's no cuenten con el Sistema Integrado de Gestión y Modernización Administrativa (SIGMA), utilizarán:",
+      "options": [
+        "Los sistemas de gestión de información fiscal autorizados por el Ministerio de Economía y Finanzas Públicas",
+        "Libros contables manuales de papel impreso sin respaldo digital",
+        "Sistemas informáticos bancarios privados no certificados",
+        "Hojas de cálculo sencillas sin claves de seguridad"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Tercera, D.S. N° 0813",
+      "explicacion": "La Transitoria Tercera autoriza el uso transitorio de los sistemas de información fiscal autorizados por el MEFP mientras no se cuente con SIGMA."
+    },
+    {
+      "question": "De acuerdo con la Disposición Final Primera del D.S. N° 0813, ante el incumplimiento de transferencia de recursos por las ETAs (Disposición Transitoria Novena de la Ley 070 y Art. 21 DS 0813), el Ministerio de Educación solicitará al MEFP:",
+      "options": [
+        "El débito automático de los recursos que correspondan",
+        "La congelación total de las cuentas bancarias personales del Alcalde o Gobernador",
+        "La clausura inmediata de todos los colegios de la jurisdicción",
+        "La intervención militar de los edificios municipales"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Primera, D.S. N° 0813",
+      "explicacion": "La Final Primera dispone que en caso de incumplimiento de transferencias por las ETAs, se solicitará al MEFP el débito automático."
+    },
+    {
+      "question": "Según la Disposición Final Segunda del D.S. N° 0813, el personal que prestaba servicios en los ex SEDUCA en el marco del inciso a de la Disposición Transitoria Novena de la Ley 070 será:",
+      "options": [
+        "Transferido a las Direcciones Departamentales de Educación (DDE's)",
+        "Liquidado y despedido sin reconocimiento de derechos laborales",
+        "Transferido a la nómina del Ministerio de Gobierno",
+        "Jubilado de forma obligatoria e inmediata sin trámite"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Segunda, D.S. N° 0813",
+      "explicacion": "La Final Segunda estipula que el personal de los ex SEDUCA será transferido a las Direcciones Departamentales de Educación."
+    },
+    {
+      "question": "Conforme a la Disposición Final Tercera del D.S. N° 0813, en cada Dirección Departamental de Educación se conformará:",
+      "options": [
+        "Un Tribunal Disciplinario, cuya composición y funciones estará sujeta a reglamentación específica emitida por el Ministerio de Educación",
+        "Un juzgado penal de primera instancia dependiente del Órgano Judicial",
+        "Una comisión permanente de compras directas sin licitación",
+        "Un consejo militar de disciplina para juzgar civiles"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Tercera, D.S. N° 0813",
+      "explicacion": "La Final Tercera norma la conformación en cada DDE de un Tribunal Disciplinario sujeto a reglamentación del Ministerio de Educación."
+    },
+    {
+      "question": "De acuerdo con la Disposición Final Cuarta del D.S. N° 0813, ¿cuál es el plazo máximo dado al Ministerio de Educación para elaborar los reglamentos necesarios para la implementación del Decreto Supremo?",
+      "options": [
+        "Plazo máximo de noventa (90) días calendario",
+        "Plazo perentorio de diez (10) días hábiles",
+        "Un periodo de cinco (5) años ejecutivos",
+        "Un plazo indefinido sin fecha de vencimiento"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Cuarta, D.S. N° 0813",
+      "explicacion": "La Final Cuarta otorga al Ministerio de Educación un plazo máximo de 90 días calendario para elaborar los reglamentos necesarios."
+    },
+    {
+      "question": "Según la Disposición Abrogatoria Única del D.S. N° 0813, ¿cuál de los siguientes Decretos Supremos es ABROGADO expresamente?",
+      "options": [
+        "Decreto Supremo N° 25232 de 27 de noviembre de 1999, Decreto Supremo N° 26232 de 29 de junio de 2001 y Decreto Supremo N° 29107 de 25 de abril de 2007",
+        "Decreto Supremo N° 21060 de 29 de agosto de 1985 exclusivamente",
+        "Decreto Supremo N° 04688 del Escalafón Nacional de 1957",
+        "Decreto Supremo N° 23318-A del Reglamento SAFCO de 1992"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Abrogatoria Única, D.S. N° 0813",
+      "explicacion": "La Abrogatoria Única abroga expresamente los Decretos Supremos N° 25232, N° 26232 y N° 29107 que regulaban la estructura anterior."
+    },
+    {
+      "question": "De acuerdo con el D.S. N° 0813, ¿cuál de los siguientes actos administrativos de la DDE se aprueba mediante RESOLUCIÓN MINISTERIAL emitida por el Ministerio de Educación?",
+      "options": [
+        "La designación de la Directora o Director Departamental de Educación y de los Subdirectores de Educación",
+        "La designación de la Directora o Director Distrital de Educación",
+        "La apertura, modificación o cierre de una unidad educativa del Subsistema de Educación Regular",
+        "La designación de las Directoras o Directores de Unidad Educativa del área rural"
+      ],
+      "answer": 0,
+      "fuente": "Arts. 8.I y 10.III, D.S. N° 0813",
+      "explicacion": "El Director Departamental (Art. 8.I) y los Subdirectores de Educación (Art. 10.III) son designados por el Ministerio de Educación mediante Resolución Ministerial."
+    },
+    {
+      "question": "Conforme al Artículo 13 del D.S. N° 0813, la designación de la Directora o Director Distrital de Educación se realiza mediante:",
+      "options": [
+        "Resolución Administrativa emitida por la Directora o Director Departamental de Educación",
+        "Resolución Ministerial emitida por el Ministerio de Educación",
+        "Decreto Departamental firmado por el Gobernador",
+        "Ordenanza Municipal emitida por el Concejo Municipal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 13, D.S. N° 0813",
+      "explicacion": "El Art. 13 fija que el Director Distrital es designado por el Director Departamental mediante Resolución Administrativa."
+    },
+    {
+      "question": "Según el Artículo 9.m del D.S. N° 0813, ¿qué instrumento legal emite el Director Departamental para la apertura, modificación y cierre de unidades y centros educativos de Regular y Alt/Esp?",
+      "options": [
+        "Resolución Administrativa en el marco de la reglamentación emitida por el Ministerio de Educación",
+        "Resolución Ministerial expedida por el Despacho del Ministro",
+        "Leyes Autonómicas Municipales aprobadas por el Concejo",
+        "Instructivos de libre redacción del Subdirector"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.m, D.S. N° 0813",
+      "explicacion": "El Art. 9.m indica que la apertura, modificación y cierre de UE y CE (Regular y Alt/Esp) se realiza mediante Resolución Administrativa aprobada por el Director Departamental."
+    },
+    {
+      "question": "En el marco del Artículo 9.o del D.S. N° 0813, ¿cuál es el procedimiento exacto para la apertura, modificación o cierre de INSTITUTOS TÉCNICOS?",
+      "options": [
+        "El Director Departamental emite un Informe Técnico y lo remite al Ministerio de Educación para la emisión de la Resolución Ministerial",
+        "El Director Departamental emite una Resolución Administrativa de clausura sin consultar al Ministerio",
+        "El Subdirector de Educación Superior firma un convenio privado comercial con los propietarios",
+        "El Director Distrital otorga una licencia de funcionamiento municipal temporal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.o, D.S. N° 0813",
+      "explicacion": "El Art. 9.o exige que la apertura, modificación o cierre de Institutos Técnicos requiera la emisión de un Informe Técnico de la DDE para la correspondiente Resolución Ministerial."
+    },
+    {
+      "question": "Según el D.S. N° 0813, ¿quién designa formalmente a las Directoras y Directores de Núcleo y de Unidad Educativa?",
+      "options": [
+        "La Directora o Director Distrital de Educación, como resultado de concurso de méritos y examen de competencia",
+        "La Directora o Director Departamental de Educación de forma directa",
+        "El Subdirector de Educación Alternativa y Especial",
+        "La Junta de Padres de Familia de la unidad educativa"
+      ],
+      "answer": 0,
+      "fuente": "Arts. 16 y 19, D.S. N° 0813",
+      "explicacion": "Los Arts. 16 y 19 disponen que tanto los Directores de Núcleo como los de Unidad Educativa son designados por el Director Distrital resultado de concurso de méritos y examen de competencia."
+    },
+    {
+      "question": "Conforme al Artículo 17.c del D.S. N° 0813, respecto a la designación de maestras y maestros, ¿cuál es la facultad específica del Director de Núcleo?",
+      "options": [
+        "Remitir a la Dirección Distrital Educativa la solicitud de designación de las maestras y maestros de los Centros y Unidades Educativas",
+        "Designar y contratar directamente a los maestros sin intervención del Director Distrital",
+        "Tomar exámenes de ingreso y cobrar aranceles de postulación",
+        "Expulsar a los docentes sin previo proceso disciplinario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.c, D.S. N° 0813",
+      "explicacion": "El Art. 17.c aclara que el Director de Núcleo no designa directamente, sino que remite a la Dirección Distrital la solicitud de designación de maestras y maestros."
+    },
+    {
+      "question": "Según el Artículo 14.l del D.S. N° 0813, la designación de docentes y administrativos de las Unidades Educativas de un distrito la realiza:",
+      "options": [
+        "La Directora o Director Distrital de Educación en función a los reglamentos en vigencia, en coordinación con la DDE y el Ministerio",
+        "El Director de Unidad Educativa en el Consejo de Maestros",
+        "El Alcalde Municipal del distrito correspondientes",
+        "El Subdirector de Educación Superior de Formación Profesional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.l, D.S. N° 0813",
+      "explicacion": "El Art. 14.l atribuye al Director Distrital designar docentes y administrativos de las UE de su distrito en función de reglamentos en coordinación con la DDE y el Ministerio."
+    },
+    {
+      "question": "De acuerdo con el Artículo 9.h e i del D.S. N° 0813, la competencia sobre la REPROGRAMACIÓN del calendario escolar a nivel distrital corresponde a:",
+      "options": [
+        "Aprobar la reprogramación corresponde al Director Departamental de Educación en casos necesarios y justificados, debiendo informar al Ministerio de Educación",
+        "Aprobar la reprogramación corresponde al Alcalde Municipal sin informar al nivel central",
+        "La reprogramación es aprobada de forma autónoma e inapelable por el Director de Unidad Educativa",
+        "La reprogramación está prohibida bajo cualquier circunstancia en el territorio plurinacional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.h e i, D.S. N° 0813",
+      "explicacion": "El Art. 9.i asigna al Director Departamental la aprobación de la reprogramación del calendario distrital, informando posteriormente al Ministerio de Educación."
+    },
+    {
+      "question": "Según el Artículo 14.i del D.S. N° 0813, ante una eventualidad que impida el desarrollo normal de clases en un distrito, el Director Distrital debe:",
+      "options": [
+        "Ejecutar el calendario escolar y, en casos necesarios y justificados, proponer al Director Departamental la reprogramación del mismo",
+        "Cerrar definitivamente el año escolar mediante resolución distrital autónoma",
+        "Aprobar la reprogramación unilateralmente sin consultar a la DDE",
+        "Suspender las actividades escolares por el resto del quinquenio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.i, D.S. N° 0813",
+      "explicacion": "El Art. 14.i señala que el Director Distrital ejecuta el calendario y propone la reprogramación al Director Departamental."
+    },
+    {
+      "question": "En la secuencia de consolidación presupuestaria establecida en el D.S. N° 0813, ¿cuál es el rol del Consejo de Maestros de una Unidad Educativa según el Art. 20.e?",
+      "options": [
+        "Elaborar el Proyecto Educativo de la Unidad Educativa y el presupuesto correspondiente para que el Director de UE los eleve anualmente al Director de Núcleo",
+        "Aprobar el presupuesto general del Ministerio de Educación de forma vinculante",
+        "Cobrar cuotas directas a los padres de familia para el pago de salarios administrativos",
+        "Autorizar transferencias bancarias del Tesoro General de la Nación a empresas privadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.e, D.S. N° 0813",
+      "explicacion": "El Art. 20.e dispone que el Consejo de Maestros elabora el PEI y presupuesto de la UE para que el Director de UE los eleve anualmente al Director de Núcleo."
+    },
+    {
+      "question": "Conforme al Artículo 17.d del D.S. N° 0813, el Director de Núcleo consolida y remite a la Dirección Distrital:",
+      "options": [
+        "El Proyecto Educativo y el presupuesto anual consolidado del Núcleo",
+        "El plan de obras públicas de infraestructura vial del municipio",
+        "El estado de cuentas de los bancos privados locales",
+        "Las actas de juzgamiento ordinario de faltas penales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 17.d, D.S. N° 0813",
+      "explicacion": "El Art. 17.d fija que el Director de Núcleo remite a la Dirección Distrital el Proyecto Educativo y presupuesto anual consolidado del Núcleo."
+    },
+    {
+      "question": "De acuerdo con el Artículo 14.j del D.S. N° 0813, los proyectos de presupuesto y POA que el Director Distrital remite a la DDE deben incorporar obligatoriamente:",
+      "options": [
+        "El presupuesto y los Proyectos Educativos de Núcleo",
+        "Las deudas comerciales de los centros privados nocturnos",
+        "Los presupuestos de las Gobernaciones y Municipios no educativos",
+        "Los costos de mantenimiento de vehículos policiales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.j, D.S. N° 0813",
+      "explicacion": "El Art. 14.j precisa que los proyectos de presupuesto y POA del distrito enviados a la DDE deben incluir el presupuesto y PEI de Núcleo."
+    },
+    {
+      "question": "Según el Artículo 9.b del D.S. N° 0813, la aprobación del Plan Estratégico Institucional, POA, presupuesto y estados financieros de la DDE abarca:",
+      "options": [
+        "El nivel departamental incluyendo obligatoriamente el nivel distrital",
+        "Únicamente los gastos de la oficina central de la capital departamental",
+        "Exclusivamente las partidas de viáticos de las autoridades del Ministerio",
+        "Únicamente los fondos donados por organismos internacionales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.b, D.S. N° 0813",
+      "explicacion": "El Art. 9.b exige aprobar PEI, POA, presupuesto y estados financieros de la DDE debiendo incluir el nivel distrital."
+    },
+    {
+      "question": "En relación al financiamiento de la nueva estructura organizacional de las DDE's, el Artículo 21.II del D.S. N° 0813 establece que será financiada con:",
+      "options": [
+        "Recursos del Tesoro General de la Nación (TGN), de acuerdo a su disponibilidad financiera",
+        "Aportes de matrículas escolares cobrados obligatoriamente a los padres",
+        "Venta de inmuebles de unidades educativas públicas",
+        "Créditos bancarios privados internacionales asumidos por las escuelas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.II, D.S. N° 0813",
+      "explicacion": "El Art. 21.II establece que la implementación de la nueva estructura será financiada con recursos del TGN según disponibilidad."
+    },
+    {
+      "question": "Según el Artículo 21.III del D.S. N° 0813 y el Art. 89 de la Ley N° 070, los recursos de las ETAs destinados a salarios docentes de ex SEDUCAs deben transferirse a:",
+      "options": [
+        "Las cuentas de las Direcciones Departamentales de Educación (DDE's) bajo la misma modalidad",
+        "Las cuentas personales de los ejecutivos del sindicato docente",
+        "Las cuentas bancarias privadas de las empresas de transporte escolar",
+        "Las cuentas de la Contraloría General del Estado para inversión financiera"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.III, D.S. N° 0813",
+      "explicacion": "El Art. 21.III ordena que las ETAs deben transferir los recursos para sueldos de docentes ex SEDUCA a las cuentas de las DDE's."
+    },
+    {
+      "question": "De acuerdo con la Disposición Final Primera del D.S. N° 0813, si una Entidad Territorial Autónoma (ETA) incumple con la transferencia de recursos a la DDE, se aplicará:",
+      "options": [
+        "El débito automático de los recursos que correspondan, ejecutado por el Ministerio de Economía y Finanzas Públicas a solicitud del Ministerio de Educación",
+        "La destitución inmediata de los Directores de Unidad Educativa del municipio",
+        "La suspensión total de las actividades educativas en el departamento por un año",
+        "La incautación de bienes muebles de las unidades educativas de convenio"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Primera, D.S. N° 0813",
+      "explicacion": "La Final Primera prevé que en caso de incumplimiento de transferencias por las ETAs, el MEFP ejecutará el débito automático de los recursos."
+    },
+    {
+      "question": "Conforme a la Disposición Transitoria Primera del D.S. N° 0813, los saldos presupuestarios del Grupo 10000 'Servicios Personales' inscritos en los GADs se autorizan a ser transferidos por:",
+      "options": [
+        "El Ministerio de Economía y Finanzas Públicas a favor de las Direcciones Departamentales de Educación",
+        "Las Alcaldías Municipales a favor de las empresas constructoras",
+        "El Ministerio de Gobierno a favor de la Policía Boliviana",
+        "Las Universidades Públicas a favor de institutos privados"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Primera, D.S. N° 0813",
+      "explicacion": "La Transitoria Primera autoriza al MEFP transferir a las DDE's los saldos del Grupo 10000 inscritos en los Gobiernos Autónomos Departamentales."
+    },
+    {
+      "question": "Según la Disposición Transitoria Segunda del D.S. N° 0813, la transferencia de activos y pasivos de los ex SEDUCA se regula de la siguiente manera:",
+      "options": [
+        "Los bienes muebles e inmuebles se transfieren a título GRATUITO a las DDE's, y los pasivos son ASUMIDOS por las DDE's",
+        "Los bienes muebles se venden en subasta pública y los pasivos son cancelados por los padres de familia",
+        "Los inmuebles pasan a propiedad privada de los directores departamentales salientes",
+        "Los pasivos son condonados por el Fondo Monetario Internacional automáticamente"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Segunda, D.S. N° 0813",
+      "explicacion": "La Transitoria Segunda determina que los bienes y activos se transfieren a título gratuito a las DDE's y los pasivos son asumidos por las DDE's."
+    },
+    {
+      "question": "Conforme a la Disposición Transitoria Tercera del D.S. N° 0813, en tanto las DDE's no cuenten con el sistema SIGMA, utilizarán:",
+      "options": [
+        "Los sistemas de gestión de información fiscal autorizados por el Ministerio de Economía y Finanzas Públicas",
+        "Hojas de contabilidad en papel carbónico de uso manual",
+        "Sistemas computacionales bancarios extranjeros no registrados",
+        "Registros verbales sin respaldo documental ni informático"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Transitoria Tercera, D.S. N° 0813",
+      "explicacion": "La Transitoria Tercera habilita transitoriamente los sistemas de información fiscal autorizados por el MEFP."
+    },
+    {
+      "question": "De acuerdo con la Disposición Final Segunda del D.S. N° 0813, el personal que prestaba servicios en los ex SEDUCA en el marco de la Ley N° 070 es:",
+      "options": [
+        "Transferido a las Direcciones Departamentales de Educación (DDE's)",
+        "Despedido sin goce de beneficios sociales",
+        "Transferido a las planillas de los Gobiernos Municipales",
+        "Reubicado en las Fuerzas Armadas de la Nación"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Segunda, D.S. N° 0813",
+      "explicacion": "La Final Segunda dispone expresamente la transferencia del personal de los ex SEDUCA a las Direcciones Departamentales de Educación."
+    },
+    {
+      "question": "Según la Disposición Final Tercera del D.S. N° 0813, el órgano disciplinario que debe conformarse en cada Dirección Departamental de Educación es:",
+      "options": [
+        "Un Tribunal Disciplinario, cuya composición y funciones estará sujeta a reglamentación específica emitida por el Ministerio de Educación",
+        "Un Juzgado de Sentencia Penal en materia anticorrupción",
+        "Una comisión arbitral de conciliación comercial privada",
+        "Un consejo militar de disciplina de guarnición"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Tercera, D.S. N° 0813",
+      "explicacion": "La Final Tercera norma la conformación de un Tribunal Disciplinario en cada DDE sujeto a reglamentación del Ministerio de Educación."
+    },
+    {
+      "question": "Conforme a la Disposición Final Cuarta del D.S. N° 0813, el plazo máximo otorgado al Ministerio de Educación para elaborar los reglamentos necesarios de implementación es de:",
+      "options": [
+        "Noventa (90) días calendario a partir de la publicación del Decreto Supremo",
+        "Treinta (30) días hábiles administrativos",
+        "Ciento ochenta (180) días ejecutorios",
+        "Un (1) año calendario completo"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Cuarta, D.S. N° 0813",
+      "explicacion": "La Final Cuarta fija noventa (90) días calendario para la elaboración de los reglamentos necesarios."
+    },
+    {
+      "question": "De acuerdo con la Disposición Abrogatoria Única del D.S. N° 0813, los Decretos Supremos abrogados expresamente por la norma son:",
+      "options": [
+        "Decreto Supremo N° 25232 de 27 de noviembre de 1999, Decreto Supremo N° 26232 de 29 de junio de 2001 y Decreto Supremo N° 29107 de 25 de abril de 2007",
+        "Decreto Supremo N° 21060 de 29 de agosto de 1985 exclusivamente",
+        "Decreto Supremo N° 04688 de 18 de julio de 1957",
+        "Decreto Supremo N° 23318-A de 3 de noviembre de 1992"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Abrogatoria Única, D.S. N° 0813",
+      "explicacion": "La Abrogatoria Única abroga expresamente los Decretos Supremos N° 25232, N° 26232 y N° 29107."
+    },
+    {
+      "question": "En el marco del D.S. N° 0813, ¿cuál es la dependencia jerárquica directa de la Dirección Distrital Educativa en la estructura organizativa de la educación departamental?",
+      "options": [
+        "Depende directamente de la Dirección Departamental de Educación (DDE)",
+        "Depende de la Alcaldía Municipal de la capital de departamento",
+        "Depende del Viceministerio de Inversión Pública",
+        "Depende de la Federación Departamental de Maestros Urbanos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, D.S. N° 0813",
+      "explicacion": "El Art. 12 establece que la Dirección Distrital Educativa es la instancia operativa dependiente de la DDE."
+    },
+    {
+      "question": "Conforme al D.S. N° 0813, ¿cuál es la dependencia jerárquica de la Dirección de Núcleo?",
+      "options": [
+        "Depende directamente de la Dirección Distrital Educativa",
+        "Depende del Subdirector de Educación Superior",
+        "Depende del Comité Directivo Municipal",
+        "Depende de la Junta Nacional de Padres de Familia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, D.S. N° 0813",
+      "explicacion": "El Art. 15 indica que la Dirección de Núcleo es la instancia responsable dependiente de la Dirección Distrital Educativa."
+    },
+    {
+      "question": "Según el D.S. N° 0813, ¿cuál es la dependencia jerárquica de la Dirección de Unidad Educativa o Centro?",
+      "options": [
+        "Depende directamente de la Dirección de Núcleo",
+        "Depende del Ministro de Economía y Finanzas Públicas",
+        "Depende del Gobernador Departamental",
+        "Depende del Subdirector de Formación Profesional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, D.S. N° 0813",
+      "explicacion": "El Art. 18 señala que la Dirección de Unidad Educativa es la instancia responsable dependiente de la Dirección de Núcleo."
+    },
+    {
+      "question": "De acuerdo con el D.S. N° 0813, ¿cuál de las siguientes opciones describe la composición del NIVEL DE APOYO en una Dirección Departamental de Educación?",
+      "options": [
+        "Consta de una Unidad de Asuntos Administrativos, una Unidad de Asuntos Jurídicos y una Unidad de Auditoría Interna",
+        "Consta de una Dirección de Obras Públicas y una Dirección de Transportes",
+        "Consta de una Secretaria de Prensa y una Dirección de Deporte",
+        "Consta de tres comisiones de padres de familia y dos consejeros municipales"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.II, D.S. N° 0813",
+      "explicacion": "El Art. 5.II determina que el Nivel de Apoyo está constituido por la Unidad de Asuntos Administrativos, Unidad de Asuntos Jurídicos y Unidad de Auditoría Interna."
+    },
+    {
+      "question": "Conforme al D.S. N° 0813, ¿cuál es el requisito procedimental obligatorio para que el Director Departamental pueda designar y posesionar a los Directores Distritales?",
+      "options": [
+        "Haber realizado previamente un concurso de méritos y examen de competencia en el marco del reglamento del escalafón y normativa del Ministerio",
+        "Contar con la autorización escrita del Sindicato de Maestros",
+        "Obtener la aprobación del Concejo Municipal del distrito",
+        "Emitir una ordenanza departamental suscrita por el Gobernador"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.l, D.S. N° 0813",
+      "explicacion": "El Art. 9.l exige que la designación y posesión sea resultado de concurso de méritos y examen de competencia."
+    },
+    {
+      "question": "Según el D.S. N° 0813, ¿cuál es el requisito procedimental para que el Director Distrital designe a los Directores de Núcleo y de Unidad Educativa?",
+      "options": [
+        "Que sea el resultado de un concurso de méritos y examen de competencia en el marco del reglamento del escalafón y la reglamentación del Ministerio",
+        "Que hayan sido elegidos en votación popular por los vecinos del barrio",
+        "Que tengan un título universitario en economía o contabilidad",
+        "Que sean designados por la junta de padres de familia por aclamación"
+      ],
+      "answer": 0,
+      "fuente": "Arts. 16 y 19, D.S. N° 0813",
+      "explicacion": "Los Arts. 16 y 19 disponen que las designaciones son resultado de concurso de méritos y examen de competencia."
+    },
+    {
+      "question": "De acuerdo con el D.S. N° 0813, ¿quién preside la Instancia Superior de Coordinación Educativa y tiene la facultad exclusiva de convocar a sus reuniones?",
+      "options": [
+        "La Ministra o Ministro de Educación",
+        "El Director Departamental de Educación de La Paz",
+        "El Presidente de la Cámara de Diputados",
+        "El Subdirector de Educación Regular más antiguo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.I y III, D.S. N° 0813",
+      "explicacion": "El Art. 6.III estipula que la Instancia Superior se reunirá a convocatoria del Ministro de Educación."
+    },
+    {
+      "question": "En el D.S. N° 0813, la participación de los Directores Departamentales en las reuniones de la Instancia Superior de Coordinación Educativa puede ser:",
+      "options": [
+        "Con participación total o parcial de los Directores Departamentales, dependiendo de la temática a tratarse",
+        "Obligatoriamente total con los nueve directores en todas las sesiones sin excepción",
+        "Únicamente con la presencia de un solo director en representación de los nueve",
+        "Exclusivamente por vía escrita mediante correo certificado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.III, D.S. N° 0813",
+      "explicacion": "El Art. 6.III prevé la participación total o parcial de los Directores Departamentales dependiendo de la temática."
+    },
+    {
+      "question": "Conforme al D.S. N° 0813, ¿cuál de los siguientes subsistemas NO cuenta con una Subdirección de Educación específica en el Nivel Ejecutivo de la DDE?",
+      "options": [
+        "El Subsistema de Educación Militar y Policial de Seguridad Ciudadana",
+        "El Subsistema de Educación Regular",
+        "El Subsistema de Educación Alternativa y Especial",
+        "El Subsistema de Educación Superior de Formación Profesional"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I.2 y Art. 10.II, D.S. N° 0813",
+      "explicacion": "Las tres Subdirecciones son para Educación Regular, Alternativa y Especial, y Superior de Formación Profesional."
+    },
+    {
+      "question": "Según el D.S. N° 0813, ¿qué atribución tiene el Director de Unidad Educativa respecto a la infraestructura y equipamiento escolar?",
+      "options": [
+        "Administrar la infraestructura, equipamiento y materiales del Centro o Unidad Educativa",
+        "Vender la infraestructura para comprar vehículos particulares",
+        "Alquilar los predios escolares a discotecas los fines de semana",
+        "Donar el equipamiento a empresas privadas sin inventario"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.j, D.S. N° 0813",
+      "explicacion": "El Art. 20.j faculta al Director de UE a administrar la infraestructura, equipamiento y materiales del Centro o Unidad Educativa."
+    },
+    {
+      "question": "De acuerdo con el D.S. N° 0813, ¿cuál es la responsabilidad del Director de Unidad Educativa respecto a las estadísticas escolares?",
+      "options": [
+        "Registrar y sistematizar las estadísticas de alumnos, personal docente y administrativo",
+        "Ocultar los datos estadísticos a la Dirección Distrital",
+        "Modificar las estadísticas para aumentar artificialmente la matrícula",
+        "Cobrar a los padres por la entrega de datos estadísticos al Ministerio"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.i, D.S. N° 0813",
+      "explicacion": "El Art. 20.i estipula registrar y sistematizar las estadísticas de alumnos, personal docente y administrativo."
+    },
+    {
+      "question": "Conforme al D.S. N° 0813, ¿cuál es la atribución del Director Distrital respecto a la información educativa de su jurisdicción?",
+      "options": [
+        "Actualizar permanentemente la información educativa para ser remitida al Ministerio de Educación o a la DDE",
+        "Destruir la información educativa al finalizar la gestión",
+        "Vender la información educativa a agencias publicitarias privadas",
+        "Reservar la información educativa bajo secreto de estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 14.m, D.S. N° 0813",
+      "explicacion": "El Art. 14.m obliga a actualizar permanentemente la información educativa para remitir al Ministerio o a la DDE."
+    },
+    {
+      "question": "Según el D.S. N° 0813, ¿qué atribución tiene el Director Departamental respecto a la información que le sea requerida por el Ministerio o la Instancia Superior?",
+      "options": [
+        "Remitir oportunamente la información que le sea requerida por el Ministerio de Educación y la Instancia de Coordinación Superior",
+        "Negarse a entregar información amparándose en la autonomía de gestión",
+        "Cobrar un arancel administrativo por enviar informes al Ministro",
+        "Delegar la entrega de informes a las juntas escolares de padres"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.p, D.S. N° 0813",
+      "explicacion": "El Art. 9.p obliga al Director Departamental a remitir la información requerida por el Ministerio e Instancia Superior."
+    },
+    {
+      "question": "De acuerdo con el D.S. N° 0813, ¿cuál es la tuición bajo la cual operan las Direcciones Departamentales de Educación (DDE's)?",
+      "options": [
+        "Bajo tuición del Ministerio de Educación",
+        "Bajo tuición del Ministerio de Gobierno",
+        "Bajo tuición de las Fuerzas Armadas",
+        "Bajo tuición del Tribunal Supremo de Justicia"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, D.S. N° 0813",
+      "explicacion": "El Art. 2 aclara expresamente que las DDE's son entidades públicas descentralizadas bajo tuición del Ministerio de Educación."
+    },
+    {
+      "question": "Conforme al D.S. N° 0813, las DDE's se constituyen en personas jurídicas de derecho público con patrimonio propio y autonomía de gestión en los ámbitos:",
+      "options": [
+        "Administrativa, financiera, legal y técnica",
+        "Únicamente comercial e inmobiliaria",
+        "Exclusivamente política y legislativa",
+        "Únicamente militar y de defensa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 2, D.S. N° 0813",
+      "explicacion": "El Art. 2 especifica autonomía de gestión administrativa, financiera, legal y técnica."
+    },
+    {
+      "question": "Según el D.S. N° 0813, la coordinación de las DDE's con los Gobiernos Autónomos Municipales en infraestructura y equipamiento escolar debe alinearse con:",
+      "options": [
+        "Las competencias y atribuciones establecidas por la normativa vigente",
+        "Los acuerdos verbales entre directores y alcaldes sin registro",
+        "Las exigencias privadas de empresas proveedoras",
+        "Las normas de comercio internacional no ratificadas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.b, D.S. N° 0813",
+      "explicacion": "El Art. 4.b norma la coordinación con las ETAs de acuerdo a las competencias y atribuciones establecidas por la normativa vigente."
+    },
+    {
+      "question": "De acuerdo con el D.S. N° 0813, en la estructura jerárquica operativa, la Unidad Educativa depende directamente de:",
+      "options": [
+        "La Dirección de Núcleo",
+        "La Dirección Departamental de Educación",
+        "El Viceministerio de Educación Regular",
+        "El Gobierno Autónomo Municipal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 18, D.S. N° 0813",
+      "explicacion": "El Art. 18 señala que la Unidad Educativa es dependiente de la Dirección de Núcleo."
+    },
+    {
+      "question": "Conforme al D.S. N° 0813, en la estructura jerárquica operativa, la Dirección de Núcleo depende directamente de:",
+      "options": [
+        "La Dirección Distrital Educativa",
+        "La Subdirección de Educación Superior",
+        "El Consejo de Maestros",
+        "La Unidad de Asuntos Jurídicos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 15, D.S. N° 0813",
+      "explicacion": "El Art. 15 determina que la Dirección de Núcleo es dependiente de la Dirección Distrital Educativa."
+    },
+    {
+      "question": "Según el D.S. N° 0813, en la estructura jerárquica operativa, la Dirección Distrital Educativa depende directamente de:",
+      "options": [
+        "La Dirección Departamental de Educación (DDE)",
+        "La Unidad de Auditoría Interna",
+        "La Junta Departamental de Padres",
+        "El Concejo Municipal del distrito"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 12, D.S. N° 0813",
+      "explicacion": "El Art. 12 establece que la Dirección Distrital Educativa es dependiente de la Dirección Departamental de Educación."
+    },
+    {
+      "question": "De acuerdo con el D.S. N° 0813, ¿cuál es el régimen sancionatorio que se aplica para sancionar las faltas disciplinarias cometidas por personal docente y administrativo en el departamento?",
+      "options": [
+        "El Reglamento de Faltas y Sanciones Disciplinarias del Sistema Educativo Plurinacional que emita el Ministerio de Educación",
+        "El Código de Procedimiento Civil ordinario",
+        "Sanciones económicas arbitrarias fijadas por los directores de escuela",
+        "Procedimientos verbales sin derecho a la defensa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.n, D.S. N° 0813",
+      "explicacion": "El Art. 4.n establece la aplicación del Reglamento de Faltas y Sanciones Disciplinarias del SEP emitido por el Ministerio de Educación."
+    },
+    {
+      "question": "Conforme al D.S. N° 0813, ¿cuál de los siguientes NO es una fuente de financiamiento para las DDE's contemplada en el Artículo 21.I?",
+      "options": [
+        "Venta de títulos de bachiller a aranceles comerciales fijados por la DDE",
+        "Tesoro General de la Nación – TGN",
+        "Recursos propios",
+        "Transferencias de las entidades territoriales autónomas, donaciones y otras transferencias"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.I, D.S. N° 0813",
+      "explicacion": "El Art. 21.I fija las fuentes (TGN, recursos propios, transferencias ETA, donaciones). Los títulos de bachiller son gratuitos (Art. 4.g)."
+    },
+    {
+      "question": "Según el D.S. N° 0813, la firma del Decreto Supremo promulgado el 9 de marzo de 2011 estuvo a cargo de:",
+      "options": [
+        "El Presidente Constitucional del Estado Plurinacional Evo Morales Ayma y su Consejo de Ministros",
+        "El Presidente de la Asamblea Legislativa Plurinacional en ejercicio del mando",
+        "Los nueve Gobernadores Departamentales en reunión extraordinaria",
+        "Los Ministros de Educación de la Comunidad Andina"
+      ],
+      "answer": 0,
+      "fuente": "Cierre del D.S. N° 0813",
+      "explicacion": "El Decreto Supremo N° 0813 fue promulgado por el Presidente Evo Morales Ayma en Consejo de Ministros el 9 de marzo de 2011."
+    },
+    {
+      "question": "De acuerdo con el D.S. N° 0813, las Ministras y Ministros de Estado encargados de la ejecución y cumplimiento del Decreto Supremo son:",
+      "options": [
+        "Los Despachos de Educación y de Economía y Finanzas Públicas",
+        "El Despacho de Defensa Nacional exclusivamente",
+        "El Despacho de Relaciones Exteriores únicamente",
+        "El Despacho de Salud y Deportes únicamente"
+      ],
+      "answer": 0,
+      "fuente": "Cierre del D.S. N° 0813",
+      "explicacion": "El Decreto Supremo encarga la ejecución y cumplimiento a los Ministros de Estado en los Despachos de Educación y de Economía y Finanzas Públicas."
+    },
+    {
+      "question": "Conforme al D.S. N° 0813, la garantía del adecuado funcionamiento del Sistema Educativo Plurinacional en la jurisdicción departamental abarca:",
+      "options": [
+        "A las unidades y centros educativos fiscales, privados y de convenio",
+        "Únicamente a las escuelas públicas fiscales",
+        "Exclusivamente a los centros educativos privados de las capitales",
+        "Únicamente a las escuelas de convenio de la Iglesia Católica"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 4.d, D.S. N° 0813",
+      "explicacion": "El Art. 4.d especifica que velar por el funcionamiento del SEP aplica a unidades y centros fiscales, privados y de convenio."
+    },
+    {
+      "question": "En conclusión, según el Decreto Supremo N° 0813 de 9 de marzo de 2011, la estructura de las Direcciones Departamentales de Educación busca consolidar:",
+      "options": [
+        "Una administración y gestión transparente, oportuna, descentralizada y desconcentrada de la educación en el nivel departamental en el marco de la Ley N° 070",
+        "Una administración centralizada en la Sede de Gobierno sin autonomía en las regiones",
+        "La privatización gradual de los servicios de enseñanza pública",
+        "La eliminación de la participación social comunitaria en la gestión educativa"
+      ],
+      "answer": 0,
+      "fuente": "Estructura general del D.S. N° 0813",
+      "explicacion": "El DS 0813 establece la estructura, composición y funciones de las DDE's para una gestión descentralizada, eficiente y participativa en el marco de la Ley N° 070."
+    },
+    {
+      "question": "Según el D.S. N° 0813, ¿cuál es el nivel de la estructura organizacional donde se encuentra la Dirección Distrital Educativa?",
+      "options": [
+        "Nivel Operativo",
+        "Nivel Superior",
+        "Nivel Ejecutivo",
+        "Nivel de Apoyo"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I.3, D.S. N° 0813",
+      "explicacion": "El Art. 5.I.3 ubica a la Dirección Distrital Educativa en el Nivel Operativo."
+    },
+    {
+      "question": "Conforme al D.S. N° 0813, ¿cuál es la dependencia de la Dirección de Núcleo en el Nivel Operativo?",
+      "options": [
+        "Es dependiente de la Dirección Distrital Educativa",
+        "Es dependiente de la Subdirección de Educación Regular",
+        "Es dependiente de la Dirección Ejecutiva de la DDE",
+        "Es dependiente del Ministerio de Hacienda"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I.3 y Art. 15, D.S. N° 0813",
+      "explicacion": "El Art. 5.I.3 y Art. 15 señalan que la Dirección de Núcleo depende de la Dirección Distrital Educativa."
+    },
+    {
+      "question": "Según el D.S. N° 0813, ¿cuál es la dependencia de la Dirección de Unidad Educativa en el Nivel Operativo?",
+      "options": [
+        "Es dependiente de la Dirección de Núcleo",
+        "Es dependiente directamente del Ministro de Educación",
+        "Es dependiente de la Junta de Padres de Familia",
+        "Es dependiente del Gobierno Autónomo Municipal"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.I.3 y Art. 18, D.S. N° 0813",
+      "explicacion": "El Art. 5.I.3 y Art. 18 señalan que la Dirección de Unidad Educativa depende de la Dirección de Núcleo."
+    },
+    {
+      "question": "De acuerdo con el D.S. N° 0813, ¿quién preside y convoca al Consejo de Maestros en la Unidad Educativa?",
+      "options": [
+        "La Directora o Director de Centro o Unidad Educativa",
+        "El Director Distrital de Educación",
+        "El Ejecutivo del Sindicato Docente",
+        "El Presidente de la Junta Escolar"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.d, D.S. N° 0813",
+      "explicacion": "El Art. 20.d otorga al Director de UE la atribución de dirigir y convocar al Consejo de Maestros."
+    },
+    {
+      "question": "Conforme al D.S. N° 0813, ¿quién aprueba la programación anual de la Unidad Educativa?",
+      "options": [
+        "La Directora o Director de Centro o Unidad Educativa en el marco del Proyecto Educativo de la Unidad",
+        "El Concejo Municipal del distrito correspondiente",
+        "El Subdirector de Educación Superior",
+        "El Director Departamental mediante Resolución Administrativa"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.h, D.S. N° 0813",
+      "explicacion": "El Art. 20.h estipula que el Director de UE aprueba la programación anual en el marco del PEI."
+    },
+    {
+      "question": "Según el D.S. N° 0813, ¿quién elabora el Proyecto Educativo y el presupuesto correspondiente de la Unidad Educativa que se elevan al Director de Núcleo?",
+      "options": [
+        "El Consejo de Maestros de la Unidad Educativa",
+        "El Comité de Padres de Familia exclusivamente",
+        "La Unidad de Auditoría Interna de la DDE",
+        "El Ministerio de Economía y Finanzas Públicas"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 20.e, D.S. N° 0813",
+      "explicacion": "El Art. 20.e indica que el PEI y presupuesto de la UE son elaborados por el Consejo de Maestros."
+    },
+    {
+      "question": "De acuerdo con el D.S. N° 0813, el informe técnico necesario para la Resolución Ministerial de apertura, modificación o cierre de Institutos Técnicos es elaborado y remitido por:",
+      "options": [
+        "La Directora o Director Departamental de Educación",
+        "El Director de Unidad Educativa privada",
+        "El Presidente de la Cámara de Comercio",
+        "El Alcalde del municipio correspondiente"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.o, D.S. N° 0813",
+      "explicacion": "El Art. 9.o fija la atribución del Director Departamental de remitir el informe técnico al Ministerio de Educación."
+    },
+    {
+      "question": "Conforme al D.S. N° 0813, ¿quién emite las Resoluciones Administrativas para resolver asuntos de competencia de la DDE?",
+      "options": [
+        "La Directora o Director Departamental de Educación",
+        "El Subdirector de Educación Alternativa y Especial",
+        "El Director Distrital de la capital",
+        "El Jefe de la Unidad de Asuntos Administrativos"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.n, D.S. N° 0813",
+      "explicacion": "El Art. 9.n asigna la atribución de emitir Resoluciones Administrativas para resolver asuntos de su competencia al Director Departamental."
+    },
+    {
+      "question": "Según el D.S. N° 0813, la administración de los recursos humanos del Nivel Ejecutivo y Nivel de Apoyo de la DDE corresponde a:",
+      "options": [
+        "La Directora o Director Departamental de Educación",
+        "El Director Distrital de la capital departamental",
+        "El Subdirector de Educación Regular",
+        "El Jefe de Auditoría Interna"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 9.k, D.S. N° 0813",
+      "explicacion": "El Art. 9.k dispone que el Director Departamental administra los recursos humanos del Nivel Ejecutivo y Nivel de Apoyo."
+    },
+    {
+      "question": "De acuerdo con el D.S. N° 0813, la solicitud de modificación de la estructura de una DDE debe ser planteada al Ministerio por:",
+      "options": [
+        "La Directora o Director Departamental de Educación, de acuerdo a disponibilidad presupuestaria",
+        "El Consejo de Maestros del distrito central",
+        "La Junta de Padres de Familia de la capital",
+        "El Ejecutivo de la Federación de Maestros"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 5.III, D.S. N° 0813",
+      "explicacion": "El Art. 5.III exige que la solicitud de modificación sea formulada por el Director Departamental de Educación."
+    },
+    {
+      "question": "Conforme al D.S. N° 0813, ¿cuál es la entidad encargada de fiscalizar y evaluar el cumplimiento de los lineamientos educativos acordados en la Instancia Superior de Coordinación?",
+      "options": [
+        "La propia Instancia Superior de Coordinación Educativa",
+        "El Tribunal Supremo de Justicia",
+        "La Contraloría General del Estado únicamente",
+        "Las Fuerzas Armadas del Estado"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 6.II, D.S. N° 0813",
+      "explicacion": "El Art. 6.II establece que la Instancia Superior evalúa y fiscaliza el cumplimiento de las políticas y lineamientos definidos."
+    },
+    {
+      "question": "Según el D.S. N° 0813, el financiamiento de las actividades de las DDE's contempla la recepción de donaciones y transferencias de:",
+      "options": [
+        "Donaciones y otras transferencias públicas o privadas de acuerdo a ley",
+        "Partidos políticos en campañas electorales",
+        "Cobro de intereses bancarios usureros",
+        "Sanciones de tránsito cobradas por la Policía"
+      ],
+      "answer": 0,
+      "fuente": "Artículo 21.I.d, D.S. N° 0813",
+      "explicacion": "El Art. 21.I.d contempla donaciones y otras transferencias como fuente de financiamiento de las DDE's."
+    },
+    {
+      "question": "De acuerdo con la Disposición Final Cuarta del D.S. N° 0813, la reglamentación necesaria para la implementación del Decreto Supremo debe ser elaborada por:",
+      "options": [
+        "El Ministerio de Educación en un plazo máximo de noventa (90) días calendario",
+        "Las Asambleas Legislativas Departamentales en un año",
+        "Los Concejos Municipales en seis meses",
+        "Los sindicatos de maestros en treinta días"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Final Cuarta, D.S. N° 0813",
+      "explicacion": "La Final Cuarta responsabiliza al Ministerio de Educación de elaborar los reglamentos en un plazo máximo de 90 días calendario."
+    },
+    {
+      "question": "Conforme a la Disposición Abrogatoria Única del D.S. N° 0813, los decretos derogados o abrogados correspondían a las gestiones de los años:",
+      "options": [
+        "1999 (DS 25232), 2001 (DS 26232) y 2007 (DS 29107)",
+        "1952, 1964 y 1982",
+        "1985, 1990 y 1993",
+        "2010, 2012 y 2015"
+      ],
+      "answer": 0,
+      "fuente": "Disposición Abrogatoria Única, D.S. N° 0813",
+      "explicacion": "La Abrogatoria Única abroga expresamente los Decretos Supremos N° 25232 (1999), N° 26232 (2001) y N° 29107 (2007)."
+    },
+    {
+      "question": "En síntesis, el Decreto Supremo N° 0813 del 9 de marzo de 2011 establece una organización institucional que garantiza:",
+      "options": [
+        "La descentralización de la gestión educativa departamental con articulación jerárquica, corresponsabilidad y observancia plena de las políticas del Sistema Educativo Plurinacional",
+        "La autarquía total de los municipios sin vinculación con el Ministerio de Educación",
+        "La privatización generalizada de los servicios de enseñanza escolar",
+        "La eliminación de la carrera docente y del concurso de méritos"
+      ],
+      "answer": 0,
+      "fuente": "Marco General, D.S. N° 0813",
+      "explicacion": "El DS 0813 consolida la descentralización de las DDE's asegurando la articulación técnica y política con el Sistema Educativo Plurinacional."
+    }
+  ]
+}

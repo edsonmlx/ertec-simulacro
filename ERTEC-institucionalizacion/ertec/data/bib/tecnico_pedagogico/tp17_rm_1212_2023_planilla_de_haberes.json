@@ -1,0 +1,25 @@
+{
+  "bibliografia": {
+    "id": "tp17_rm_1212_2023_planilla_de_haberes",
+    "nombre": "R.M. N° 1212/2023 Manual de Procesos para la elaboración de la planilla de haberes del Servicio de Educación Pública",
+    "detalle": "2023",
+    "grupo": "Técnico pedagógico",
+    "rinden": [
+      "Director Administrativo ITT",
+      "Director Administrativo Artístico"
+    ]
+  },
+  "_formato": {
+    "question": "Enunciado de la pregunta",
+    "options": [
+      "Opción A",
+      "Opción B",
+      "Opción C",
+      "Opción D"
+    ],
+    "answer": 1,
+    "fuente": "Artículo, capítulo o página de la bibliografía",
+    "explicacion": "(opcional) Por qué esa es la respuesta correcta"
+  },
+  "preguntas": []
+}
